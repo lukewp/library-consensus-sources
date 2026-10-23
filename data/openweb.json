@@ -6,7 +6,7 @@
   "guide_regions_min": 3,
   "libraries_with_guides": 96,
   "wikipedia_articles": 3989,
-  "top_per_language": 5
+  "top_per_language": 10
  },
  "domains": [
   {
@@ -14,11 +14,23 @@
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 20,
-    "n_articles": 854,
-    "citations": 7754,
+    "n_articles": 1397,
+    "citations": 10192,
     "top_in_languages": [
+     "ar",
+     "de",
+     "es",
      "fa",
-     "hi"
+     "fr",
+     "hi",
+     "id",
+     "ko",
+     "pl",
+     "pt",
+     "ru",
+     "tr",
+     "vi",
+     "zh"
     ]
    },
    "guides": {
@@ -40,6 +52,14 @@
     "n_articles": 1068,
     "citations": 5421,
     "top_in_languages": [
+     "de",
+     "en",
+     "es",
+     "it",
+     "ja",
+     "nl",
+     "ru",
+     "uk",
      "zh"
     ]
    },
@@ -169,7 +189,10 @@
     "citations": 8259,
     "top_in_languages": [
      "ar",
-     "en"
+     "en",
+     "es",
+     "fa",
+     "vi"
     ]
    },
    "guides": {
@@ -232,7 +255,15 @@
      "en",
      "fa",
      "hi",
-     "pl"
+     "id",
+     "ko",
+     "pl",
+     "pt",
+     "ru",
+     "sv",
+     "tr",
+     "vi",
+     "zh"
     ]
    },
    "guides": {
@@ -274,7 +305,9 @@
     "n_languages": 20,
     "n_articles": 273,
     "citations": 2088,
-    "top_in_languages": []
+    "top_in_languages": [
+     "fa"
+    ]
    },
    "guides": {
     "n_libraries": 6,
@@ -451,6 +484,8 @@
     "citations": 6108,
     "top_in_languages": [
      "ar",
+     "en",
+     "es",
      "fa"
     ]
    },
@@ -472,7 +507,9 @@
     "n_languages": 20,
     "n_articles": 640,
     "citations": 3586,
-    "top_in_languages": []
+    "top_in_languages": [
+     "ar"
+    ]
    },
    "guides": {
     "n_libraries": 2,
@@ -570,6 +607,10 @@
      "en",
      "es",
      "fa",
+     "hi",
+     "id",
+     "pt",
+     "ru",
      "tr",
      "uk",
      "vi"
@@ -585,8 +626,10 @@
     "n_articles": 924,
     "citations": 6010,
     "top_in_languages": [
+     "ar",
      "en",
-     "es"
+     "es",
+     "fa"
     ]
    },
    "seed": "news"
@@ -599,7 +642,9 @@
     "n_articles": 664,
     "citations": 4722,
     "top_in_languages": [
-     "ar"
+     "ar",
+     "en",
+     "es"
     ]
    },
    "seed": "news"
@@ -609,8 +654,8 @@
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 20,
-    "n_articles": 509,
-    "citations": 1532,
+    "n_articles": 596,
+    "citations": 1886,
     "top_in_languages": [
      "zh"
     ]
@@ -633,7 +678,9 @@
     "n_languages": 20,
     "n_articles": 461,
     "citations": 1900,
-    "top_in_languages": []
+    "top_in_languages": [
+     "en"
+    ]
    }
   },
   {
@@ -686,7 +733,9 @@
     "n_languages": 20,
     "n_articles": 347,
     "citations": 1341,
-    "top_in_languages": []
+    "top_in_languages": [
+     "en"
+    ]
    },
    "seed": "news"
   },
@@ -1318,7 +1367,9 @@
     "n_languages": 19,
     "n_articles": 122,
     "citations": 411,
-    "top_in_languages": []
+    "top_in_languages": [
+     "hi"
+    ]
    }
   },
   {
@@ -1655,6 +1706,16 @@
    }
   },
   {
+   "domain": "amazon.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 82,
+    "citations": 204,
+    "top_in_languages": []
+   }
+  },
+  {
    "domain": "bleacherreport.com",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -1911,7 +1972,9 @@
     "n_languages": 17,
     "n_articles": 121,
     "citations": 392,
-    "top_in_languages": []
+    "top_in_languages": [
+     "hi"
+    ]
    }
   },
   {
@@ -2317,7 +2380,9 @@
     "n_languages": 16,
     "n_articles": 105,
     "citations": 1296,
-    "top_in_languages": []
+    "top_in_languages": [
+     "it"
+    ]
    }
   },
   {
@@ -2703,16 +2768,6 @@
    }
   },
   {
-   "domain": "google.co.uk",
-   "open_web_tier": "open-web",
-   "wikipedia": {
-    "n_languages": 16,
-    "n_articles": 35,
-    "citations": 96,
-    "top_in_languages": []
-   }
-  },
-  {
    "domain": "gallup.com",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -2893,7 +2948,9 @@
     "n_languages": 15,
     "n_articles": 118,
     "citations": 419,
-    "top_in_languages": []
+    "top_in_languages": [
+     "tr"
+    ]
    }
   },
   {
@@ -2936,7 +2993,9 @@
     "n_languages": 15,
     "n_articles": 84,
     "citations": 568,
-    "top_in_languages": []
+    "top_in_languages": [
+     "ar"
+    ]
    }
   },
   {
@@ -3527,6 +3586,18 @@
    }
   },
   {
+   "domain": "people.com.cn",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 82,
+    "citations": 770,
+    "top_in_languages": [
+     "zh"
+    ]
+   }
+  },
+  {
    "domain": "sky.it",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3563,6 +3634,30 @@
    }
   },
   {
+   "domain": "tagesschau.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 94,
+    "citations": 469,
+    "top_in_languages": [
+     "de"
+    ]
+   }
+  },
+  {
+   "domain": "alarabiya.net",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 88,
+    "citations": 624,
+    "top_in_languages": [
+     "ar"
+    ]
+   }
+  },
+  {
    "domain": "leparisien.fr",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3583,6 +3678,18 @@
     "citations": 898,
     "top_in_languages": [
      "ru"
+    ]
+   }
+  },
+  {
+   "domain": "radiofarda.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 59,
+    "citations": 414,
+    "top_in_languages": [
+     "fa"
     ]
    }
   },
@@ -3636,6 +3743,30 @@
    }
   },
   {
+   "domain": "focus.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 75,
+    "citations": 191,
+    "top_in_languages": [
+     "de"
+    ]
+   }
+  },
+  {
+   "domain": "indiatoday.in",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 73,
+    "citations": 282,
+    "top_in_languages": [
+     "hi"
+    ]
+   }
+  },
+  {
    "domain": "bfmtv.com",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3654,6 +3785,18 @@
     "n_languages": 9,
     "n_articles": 120,
     "citations": 712,
+    "top_in_languages": [
+     "fr"
+    ]
+   }
+  },
+  {
+   "domain": "francetvinfo.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 9,
+    "n_articles": 103,
+    "citations": 492,
     "top_in_languages": [
      "fr"
     ]
@@ -3732,6 +3875,54 @@
    }
   },
   {
+   "domain": "20minutes.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 111,
+    "citations": 332,
+    "top_in_languages": [
+     "fr"
+    ]
+   }
+  },
+  {
+   "domain": "ouest-france.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 107,
+    "citations": 326,
+    "top_in_languages": [
+     "fr"
+    ]
+   }
+  },
+  {
+   "domain": "asahi.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 104,
+    "citations": 520,
+    "top_in_languages": [
+     "ja"
+    ]
+   }
+  },
+  {
+   "domain": "lepoint.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 103,
+    "citations": 443,
+    "top_in_languages": [
+     "fr"
+    ]
+   }
+  },
+  {
    "domain": "ad.nl",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3752,6 +3943,18 @@
     "citations": 315,
     "top_in_languages": [
      "zh"
+    ]
+   }
+  },
+  {
+   "domain": "telegraaf.nl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 63,
+    "citations": 152,
+    "top_in_languages": [
+     "nl"
     ]
    }
   },
@@ -3816,6 +4019,18 @@
    }
   },
   {
+   "domain": "lastampa.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 77,
+    "citations": 192,
+    "top_in_languages": [
+     "it"
+    ]
+   }
+  },
+  {
    "domain": "volkskrant.nl",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3840,6 +4055,30 @@
     ]
    },
    "seed": "news"
+  },
+  {
+   "domain": "donga.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 60,
+    "citations": 213,
+    "top_in_languages": [
+     "ko"
+    ]
+   }
+  },
+  {
+   "domain": "isna.ir",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 52,
+    "citations": 313,
+    "top_in_languages": [
+     "fa"
+    ]
+   }
   },
   {
    "domain": "naver.com",
@@ -3910,6 +4149,18 @@
    }
   },
   {
+   "domain": "rg.ru",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 85,
+    "citations": 396,
+    "top_in_languages": [
+     "ru"
+    ]
+   }
+  },
+  {
    "domain": "wp.pl",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3922,6 +4173,18 @@
    }
   },
   {
+   "domain": "ig.com.br",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 83,
+    "citations": 348,
+    "top_in_languages": [
+     "pt"
+    ]
+   }
+  },
+  {
    "domain": "tempo.co",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -3930,6 +4193,42 @@
     "citations": 392,
     "top_in_languages": [
      "id"
+    ]
+   }
+  },
+  {
+   "domain": "ilpost.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 70,
+    "citations": 172,
+    "top_in_languages": [
+     "it"
+    ]
+   }
+  },
+  {
+   "domain": "wyborcza.pl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 66,
+    "citations": 269,
+    "top_in_languages": [
+     "pl"
+    ]
+   }
+  },
+  {
+   "domain": "rp.pl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 58,
+    "citations": 195,
+    "top_in_languages": [
+     "pl"
     ]
    }
   },
@@ -3982,12 +4281,36 @@
    }
   },
   {
+   "domain": "sverigesradio.se",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 92,
+    "citations": 621,
+    "top_in_languages": [
+     "sv"
+    ]
+   }
+  },
+  {
    "domain": "suspilne.media",
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 4,
     "n_articles": 88,
     "citations": 331,
+    "top_in_languages": [
+     "uk"
+    ]
+   }
+  },
+  {
+   "domain": "tsn.ua",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 77,
+    "citations": 309,
     "top_in_languages": [
      "uk"
     ]
@@ -4006,6 +4329,30 @@
    }
   },
   {
+   "domain": "ilfattoquotidiano.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 63,
+    "citations": 188,
+    "top_in_languages": [
+     "it"
+    ]
+   }
+  },
+  {
+   "domain": "sabah.com.tr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 54,
+    "citations": 250,
+    "top_in_languages": [
+     "tr"
+    ]
+   }
+  },
+  {
    "domain": "daum.net",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -4014,6 +4361,42 @@
     "citations": 184,
     "top_in_languages": [
      "ko"
+    ]
+   }
+  },
+  {
+   "domain": "khan.co.kr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 52,
+    "citations": 175,
+    "top_in_languages": [
+     "ko"
+    ]
+   }
+  },
+  {
+   "domain": "polskieradio.pl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 47,
+    "citations": 73,
+    "top_in_languages": [
+     "pl"
+    ]
+   }
+  },
+  {
+   "domain": "rtl.nl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 37,
+    "citations": 65,
+    "top_in_languages": [
+     "nl"
     ]
    }
   },
@@ -4030,6 +4413,18 @@
    }
   },
   {
+   "domain": "mdpr.jp",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 105,
+    "citations": 936,
+    "top_in_languages": [
+     "ja"
+    ]
+   }
+  },
+  {
    "domain": "expressen.se",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -4038,6 +4433,18 @@
     "citations": 848,
     "top_in_languages": [
      "sv"
+    ]
+   }
+  },
+  {
+   "domain": "estadao.com.br",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 88,
+    "citations": 543,
+    "top_in_languages": [
+     "pt"
     ]
    }
   },
@@ -4066,6 +4473,30 @@
    }
   },
   {
+   "domain": "radiosvoboda.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 82,
+    "citations": 539,
+    "top_in_languages": [
+     "uk"
+    ]
+   }
+  },
+  {
+   "domain": "24tv.ua",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 75,
+    "citations": 227,
+    "top_in_languages": [
+     "uk"
+    ]
+   }
+  },
+  {
    "domain": "interia.pl",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -4078,6 +4509,18 @@
    }
   },
   {
+   "domain": "n-tv.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 71,
+    "citations": 192,
+    "top_in_languages": [
+     "de"
+    ]
+   }
+  },
+  {
    "domain": "tvn24.pl",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -4086,6 +4529,18 @@
     "citations": 320,
     "top_in_languages": [
      "pl"
+    ]
+   }
+  },
+  {
+   "domain": "nv.ua",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 66,
+    "citations": 187,
+    "top_in_languages": [
+     "uk"
     ]
    }
   },
@@ -4138,12 +4593,72 @@
    }
   },
   {
+   "domain": "tribunnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 61,
+    "citations": 210,
+    "top_in_languages": [
+     "id"
+    ]
+   }
+  },
+  {
+   "domain": "antaranews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 55,
+    "citations": 205,
+    "top_in_languages": [
+     "id"
+    ]
+   }
+  },
+  {
+   "domain": "ne.se",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 46,
+    "citations": 159,
+    "top_in_languages": [
+     "sv"
+    ]
+   }
+  },
+  {
+   "domain": "jagran.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 39,
+    "citations": 89,
+    "top_in_languages": [
+     "hi"
+    ]
+   }
+  },
+  {
    "domain": "natalie.mu",
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 2,
     "n_articles": 140,
     "citations": 3413,
+    "top_in_languages": [
+     "ja"
+    ]
+   }
+  },
+  {
+   "domain": "prtimes.jp",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 105,
+    "citations": 1054,
     "top_in_languages": [
      "ja"
     ]
@@ -4158,6 +4673,18 @@
     "citations": 581,
     "top_in_languages": [
      "id"
+    ]
+   }
+  },
+  {
+   "domain": "realsound.jp",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 99,
+    "citations": 441,
+    "top_in_languages": [
+     "ja"
     ]
    }
   },
@@ -4210,6 +4737,18 @@
    }
   },
   {
+   "domain": "sohu.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 57,
+    "citations": 319,
+    "top_in_languages": [
+     "zh"
+    ]
+   }
+  },
+  {
    "domain": "cumhuriyet.com.tr",
    "open_web_tier": "open-web",
    "wikipedia": {
@@ -4218,6 +4757,78 @@
     "citations": 414,
     "top_in_languages": [
      "tr"
+    ]
+   }
+  },
+  {
+   "domain": "ntv.com.tr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 53,
+    "citations": 282,
+    "top_in_languages": [
+     "tr"
+    ]
+   }
+  },
+  {
+   "domain": "ltn.com.tw",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 53,
+    "citations": 373,
+    "top_in_languages": [
+     "zh"
+    ]
+   }
+  },
+  {
+   "domain": "trouw.nl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 48,
+    "citations": 135,
+    "top_in_languages": [
+     "nl"
+    ]
+   }
+  },
+  {
+   "domain": "hankyung.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 48,
+    "citations": 121,
+    "top_in_languages": [
+     "ko"
+    ]
+   }
+  },
+  {
+   "domain": "kb.se",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 39,
+    "citations": 139,
+    "top_in_languages": [
+     "sv"
+    ]
+   }
+  },
+  {
+   "domain": "hln.be",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 30,
+    "citations": 125,
+    "top_in_languages": [
+     "nl"
     ]
    }
   },
@@ -4242,6 +4853,54 @@
     "citations": 361,
     "top_in_languages": [
      "vi"
+    ]
+   }
+  },
+  {
+   "domain": "tienphong.vn",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 60,
+    "citations": 248,
+    "top_in_languages": [
+     "vi"
+    ]
+   }
+  },
+  {
+   "domain": "wprost.pl",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 54,
+    "citations": 124,
+    "top_in_languages": [
+     "pl"
+    ]
+   }
+  },
+  {
+   "domain": "vov.vn",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 49,
+    "citations": 144,
+    "top_in_languages": [
+     "vi"
+    ]
+   }
+  },
+  {
+   "domain": "gp.se",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 45,
+    "citations": 217,
+    "top_in_languages": [
+     "sv"
     ]
    }
   },
@@ -5057,16 +5716,6 @@
    }
   },
   {
-   "domain": "amazon.com",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 14,
-    "n_articles": 43,
-    "citations": 91,
-    "top_in_languages": []
-   }
-  },
-  {
    "domain": "business-standard.com",
    "open_web_tier": null,
    "wikipedia": {
@@ -5505,16 +6154,6 @@
     "n_languages": 13,
     "n_articles": 83,
     "citations": 541,
-    "top_in_languages": []
-   }
-  },
-  {
-   "domain": "people.com.cn",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 13,
-    "n_articles": 82,
-    "citations": 770,
     "top_in_languages": []
    }
   },
@@ -6225,32 +6864,12 @@
    }
   },
   {
-   "domain": "tagesschau.de",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 12,
-    "n_articles": 94,
-    "citations": 469,
-    "top_in_languages": []
-   }
-  },
-  {
    "domain": "rtl.fr",
    "open_web_tier": null,
    "wikipedia": {
     "n_languages": 12,
     "n_articles": 92,
     "citations": 208,
-    "top_in_languages": []
-   }
-  },
-  {
-   "domain": "alarabiya.net",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 12,
-    "n_articles": 88,
-    "citations": 624,
     "top_in_languages": []
    }
   },
@@ -6281,16 +6900,6 @@
     "n_languages": 12,
     "n_articles": 65,
     "citations": 201,
-    "top_in_languages": []
-   }
-  },
-  {
-   "domain": "google.de",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 12,
-    "n_articles": 63,
-    "citations": 248,
     "top_in_languages": []
    }
   },
@@ -7084,16 +7693,6 @@
    }
   },
   {
-   "domain": "radiofarda.com",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 11,
-    "n_articles": 59,
-    "citations": 414,
-    "top_in_languages": []
-   }
-  },
-  {
    "domain": "irna.ir",
    "open_web_tier": null,
    "wikipedia": {
@@ -7774,26 +8373,6 @@
    }
   },
   {
-   "domain": "focus.de",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 10,
-    "n_articles": 75,
-    "citations": 191,
-    "top_in_languages": []
-   }
-  },
-  {
-   "domain": "indiatoday.in",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 10,
-    "n_articles": 73,
-    "citations": 282,
-    "top_in_languages": []
-   }
-  },
-  {
    "domain": "rt.com",
    "open_web_tier": null,
    "wikipedia": {
@@ -8230,16 +8809,6 @@
     "n_languages": 10,
     "n_articles": 20,
     "citations": 43,
-    "top_in_languages": []
-   }
-  },
-  {
-   "domain": "google.ca",
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 10,
-    "n_articles": 20,
-    "citations": 42,
     "top_in_languages": []
    }
   },

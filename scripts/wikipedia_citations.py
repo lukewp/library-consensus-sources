@@ -32,7 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "wikipedia"
 LANGS = ["en", "es", "de", "fr", "ja", "ru", "it", "pt", "zh", "pl", "nl", "ar", "fa", "tr", "ko", "id", "uk", "sv", "vi", "hi"]
 TOP_N = 200
-TOP_PER_LANG = 5   # a language's most-cited domains enter the open-web tier even below the cross-language threshold
+TOP_PER_LANG = 10  # a language's most-cited domains enter the open-web tier even below the cross-language threshold
 MONTHS_END = (2026, 9)
 DELAY = 1.0  # per language worker; 4 workers in parallel
 IDENTIFIERS = {"doi.org", "handle.net", "viaf.org", "isni.org", "orcid.org", "loc.gov/id", "d-nb.info", "worldcat.org", "wikidata.org",
@@ -162,6 +162,7 @@ def summarize():
             r = json.loads(line)
             per_lang[r["lang"]] += 1
             for d, c in r["domains"].items():
+                d = registrable(d)
                 if d in SECOND_LEVEL or d in DROP_REG:
                     continue  # a bare public suffix (collected before the suffix list grew) or an archive/identifier host
                 x = by[d]
@@ -175,6 +176,7 @@ def summarize():
         for line in f.read_text().splitlines():
             r = json.loads(line)
             for d, c in r["domains"].items():
+                d = registrable(d)
                 if d in SECOND_LEVEL or d in DROP_REG:
                     continue
                 per[r["lang"]][d] += 1

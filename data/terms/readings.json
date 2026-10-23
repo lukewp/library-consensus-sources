@@ -1,5 +1,5 @@
 {
- "n": 5213,
+ "n": 5261,
  "readings": [
   {
    "domain": "10kwizard.com",
@@ -75,6 +75,37 @@
    "evidence": {}
   },
   {
+   "domain": "20minutes.fr",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "20 Minutes - Toute l’actualité en direct et les dernières infos en continu",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "20minutos.es",
    "fetch_status": "ok",
    "robots_ai": "blocks_ai_crawlers",
@@ -103,6 +134,20 @@
    "evidence": {
     "ai_tdm": "tdm-reservation meta tag on https://www.20minutos.es/: 1"
    }
+  },
+  {
+   "domain": "24tv.ua",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Новини 24 – останні новини України та світу, події, свіжі репортажі, ТБ ефір каналу – 24 Канал",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
   },
   {
    "domain": "2doc.nl",
@@ -3789,15 +3834,14 @@
     "subscribe"
    ],
    "home_title": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more",
-   "terms_urls": [
-    "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM&ref_=footer_cou"
+   "terms_offsite": [
+    "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM&ref_=footer_cou",
+    "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=TLtMJsPGBmJPpN3hvy&ref_=footer_report_illegal_content"
    ],
-   "automated_access": "prohibited",
-   "ai_tdm": "training_prohibited",
-   "evidence": {
-    "automated_access": "In particular, you may not utilise any data mining, robots, or similar data gathering and extraction tools to extract (whether once or many times) for re-utilisation any substantial parts of the content of any Amazon Service, without our express written consent.",
-    "ai_tdm": "In particular, you may not utilise any data mining, robots, or similar data gathering and extraction tools to extract (whether once or many times) for re-utilisation any substantial parts of the content of any Amazon Service, without our express written consent."
-   }
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
   },
   {
    "domain": "amazon.com",
@@ -4663,6 +4707,22 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "Agenzia ANSA: ultime notizie di cronaca, politica e sport - ANSA",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "antaranews.com",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "claudebot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Berita terkini dan terpercaya Indonesia - ANTARA News",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -14914,6 +14974,20 @@
    "evidence": {}
   },
   {
+   "domain": "ccb.org.co",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Access Denied",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "ccel.org",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "blocks_ai_crawlers",
@@ -15465,6 +15539,22 @@
    "evidence": {}
   },
   {
+   "domain": "cerac.org.co",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [
+    "subscribe"
+   ],
+   "home_title": "CERAC :: Conflict analysis resource center",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "ceramics.org",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -15736,6 +15826,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "cgie.org.ir",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "مرکز دائرةالمعارف بزرگ اسلامی",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -17111,6 +17215,20 @@
    "bot_check": true,
    "paywall_cues": [],
    "home_title": "Just a moment...",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "clacso.org.ar",
+   "fetch_status": "robots disallows the home page for us",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": false,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -23231,6 +23349,20 @@
    "evidence": {}
   },
   {
+   "domain": "diit.edu.ua",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Дніпровський інститут інфраструктури і транспорту │ Український державний університет науки і технологій",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "dil.ie",
    "fetch_status": "unreachable",
    "robots_ai": "unknown",
@@ -29136,6 +29268,39 @@
    "evidence": {}
   },
   {
+   "domain": "estadao.com.br",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Estadão | As Últimas Notícias do Brasil e do Mundo - Estadão",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "estadisticas.pr",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -32795,6 +32960,52 @@
    "evidence": {}
   },
   {
+   "domain": "francetvinfo.fr",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "franceinfo - Actualités en temps réel et info en direct",
+   "terms_offsite": [
+    "https://www.franceinfo.fr/monde/usa/midterms-2018/"
+   ],
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "reserved",
+   "evidence": {
+    "ai_tdm": "TDMRep file: https://francetvinfo.fr/.well-known/tdmrep.json"
+   }
+  },
+  {
    "domain": "francisbaconsociety.co.uk",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -35900,6 +36111,20 @@
    "evidence": {}
   },
   {
+   "domain": "gp.se",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "gpo.gov",
    "fetch_status": "no terms page found",
    "robots_ai": "no_ai_rules",
@@ -36959,6 +37184,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "hankyung.com",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -38616,6 +38855,40 @@
    "evidence": {}
   },
   {
+   "domain": "hln.be",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "DPG Media Privacy Gate",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "hls-dhs-dss.ch",
    "fetch_status": "no terms link on home page",
    "robots_ai": "blocks_ai_crawlers",
@@ -40243,6 +40516,20 @@
    "evidence": {}
   },
   {
+   "domain": "icm.edu.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Strona główna - ICM UW",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "icmagroup.org",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -40929,6 +41216,20 @@
    "evidence": {}
   },
   {
+   "domain": "ig.com.br",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "iG - Últimas notícias, fotos, vídeos, esportes, entretenimento e mais.",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "igi-global.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -41295,6 +41596,22 @@
    "evidence": {}
   },
   {
+   "domain": "ilfattoquotidiano.it",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [
+    "log in"
+   ],
+   "home_title": "News e ultime notizie su politica, cronaca, giustizia, economia | Il Fatto Quotidiano",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "iln.org.uk",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -41324,6 +41641,23 @@
    "terms_offsite": [
     "https://www.flickr.com/photos/ilopictures/albums"
    ],
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "ilpost.it",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "gptbot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Il Post",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -41600,6 +41934,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "OpenAlex: The open catalog to the global research system",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "impan.gov.pl",
+   "fetch_status": "unreachable",
+   "robots_ai": "unknown",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": null,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -44335,6 +44683,20 @@
    "evidence": {}
   },
   {
+   "domain": "isna.ir",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "iso.org",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -45011,6 +45373,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "jagran.com",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Hindi News, हिंदी न्यूज़, Latest News in Hindi, Aaj ki Taaja Khabar, Breaking Hindi News, Hindi Samachar",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -46801,6 +47177,42 @@
    "evidence": {}
   },
   {
+   "domain": "khan.co.kr",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "경향신문",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "ki.se",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -46904,6 +47316,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "Kirjastot.fi – verkkopalveluja ja tietoa kirjastoista | Kirjastot.fi",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "kisti.re.kr",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "한국과학기술정보연구원",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -48344,6 +48770,37 @@
    "evidence": {}
   },
   {
+   "domain": "lastampa.it",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "La Stampa - Ultime notizie di cronaca e news dall'Italia e dal mondo",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "latamcommons.net",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -49593,6 +50050,20 @@
    "evidence": {
     "ai_tdm": "TDMRep file: https://leparisien.fr/.well-known/tdmrep.json"
    }
+  },
+  {
+   "domain": "lepoint.fr",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "lepoint.fr",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
   },
   {
    "domain": "lequipe.fr",
@@ -51377,6 +51848,35 @@
    "evidence": {}
   },
   {
+   "domain": "ltn.com.tw",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "omgilibot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "自由時報電子報",
+   "terms_urls": [
+    "https://service.ltn.com.tw/copyright"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
    "domain": "lu.com",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -52927,6 +53427,20 @@
    "bot_check": true,
    "paywall_cues": [],
    "home_title": "Access Denied",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "mdpr.jp",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Fastly error: unknown domain www.mdpr.jp",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -56040,6 +56554,24 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "N-Lex - Access to National law - choose your language",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "n-tv.de",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "ccbot",
+    "google-extended",
+    "gptbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -60145,6 +60677,29 @@
    "evidence": {}
   },
   {
+   "domain": "ntv.com.tr",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "oai-searchbot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "NTV Haber - Haberler, En Son Güncel Haberler",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "ntv.ru",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -60430,6 +60985,20 @@
    "evidence": {
     "automated_access": "You may not use any robot, spider, other automatic software or device, or manual process to monitor the NCM™ or the Content without the Academy’s prior written permission."
    }
+  },
+  {
+   "domain": "nv.ua",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Just a moment...",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
   },
   {
    "domain": "nvalt.nl",
@@ -64040,6 +64609,47 @@
    "evidence": {}
   },
   {
+   "domain": "ouest-france.fr",
+   "fetch_status": "robots disallows the home page for us",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": false,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "reserved",
+   "evidence": {
+    "ai_tdm": "TDMRep file: https://ouest-france.fr/.well-known/tdmrep.json"
+   }
+  },
+  {
    "domain": "oulu.fi",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -67206,6 +67816,20 @@
    "evidence": {}
   },
   {
+   "domain": "polskieradio.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Polskie Radio online",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "polygon.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "blocks_ai_user_agents",
@@ -68275,6 +68899,20 @@
    "evidence": {}
   },
   {
+   "domain": "prtimes.jp",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "PR TIMES｜プレスリリース・ニュースリリースNo.1配信サービス",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "psdi.ac.uk",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -69246,6 +69884,22 @@
    }
   },
   {
+   "domain": "radiosvoboda.org",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Радіо Свобода Україна – новини, ексклюзиви і перевірені факти",
+   "terms_urls": [
+    "https://www.radiosvoboda.org/copyright"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
    "domain": "radiotimes.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "blocks_ai_crawlers",
@@ -69845,6 +70499,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "realsound.jp",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "リアルサウンド｜音楽、映画・ドラマ、エンタメ×テック、書籍のカルチャーサイト",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -70917,6 +71585,22 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "rg.ru",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "gptbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Российская газета – последние новости и события России и мира сегодня",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -72088,6 +72772,20 @@
    "evidence": {}
   },
   {
+   "domain": "rp.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Rzeczpospolita - Najważniejsze wiadomości z Polski i ze świata - rp.pl",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "rpolitik.com",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -72359,6 +73057,47 @@
    "evidence": {}
   },
   {
+   "domain": "rtl.nl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "DPG Media Privacy Gate",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "rtve.es",
    "fetch_status": "ok",
    "robots_ai": "blocks_ai_crawlers",
@@ -72548,6 +73287,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "sabah.com.tr",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Sabah - Haberler, Son Dakika Haber, Güncel ve Gazete Haberleri",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -76355,6 +77108,44 @@
    "evidence": {}
   },
   {
+   "domain": "sohu.com",
+   "fetch_status": "robots disallows the home page for us",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": false,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "soilandhealth.org",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -79962,6 +80753,42 @@
    "evidence": {}
   },
   {
+   "domain": "telegraaf.nl",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Attention Required! | Cloudflare",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "telegraph.co.uk",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "blocks_ai_user_agents",
@@ -82541,6 +83368,20 @@
    "evidence": {}
   },
   {
+   "domain": "tienphong.vn",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "tiga.org",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -83442,6 +84283,20 @@
    "evidence": {}
   },
   {
+   "domain": "tribunnews.com",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "TribunNews.com - 403",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "trilt.ac.uk",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -83552,6 +84407,43 @@
    "evidence": {}
   },
   {
+   "domain": "trouw.nl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "DPG Media Privacy Gate",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "trove.scot",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -83584,6 +84476,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "tsn.ua",
+   "fetch_status": "robots disallows the home page for us",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": false,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -87591,6 +88497,20 @@
    "evidence": {}
   },
   {
+   "domain": "uw.edu.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "| Uniwersytet Warszawski",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "uwa.edu.au",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -89038,6 +89958,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "VoteWatch",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "vov.vn",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "BÁO ĐIỆN TỬ TIẾNG NÓI VIỆT NAM | VOV.VN",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -91637,6 +92571,20 @@
    "evidence": {}
   },
   {
+   "domain": "wprost.pl",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Just a moment...",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "wright.edu",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -91864,6 +92812,34 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "wyborcza.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "imagesiftbot",
+    "mozilla/5.0 (compatible; imagesiftbot; +imagesift.com)",
+    "mozilla/5.0 (macintosh; intel mac os x 10_10_1) applewebkit/600.2.5 (khtml, like gecko) version/8.0.2 safari/600.2.5 (amazonbot/0.1; +https://developer.amazon.com/support/amazonbot),\"156,975\"",
+    "omgilibot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Wyborcza.pl - Najświeższe wiadomości od Gazety Wyborczej",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",

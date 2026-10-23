@@ -69,7 +69,7 @@ def main():
         c = Counter(p["open_web_tier"] for p in ow)
         top5 = [p for p in ow if p["open_web_tier"] == "open-web" and (p.get("wikipedia") or {}).get("top_in_languages")
                 and (p.get("wikipedia") or {}).get("n_languages", 0) < 15 and not ((p.get("guides") or {}).get("share", 0) >= 0.10)]
-        md += [f"open-web {c.get('open-web', 0)} (of which {len(top5)} enter only as one of a language's top 5), open-web-curated {c.get('open-web-curated', 0)}.", ""]
+        md += [f"open-web {c.get('open-web', 0)} (of which {len(top5)} enter only as one of a language's top 10), open-web-curated {c.get('open-web-curated', 0)}.", ""]
         for k in ("owner_type", "access_model", "robots_ai", "automation_letter", "automation_spirit"):
             cc = Counter(p[k] for p in ow if p["open_web_tier"] == "open-web")
             md += [f"**{k}** (open-web): " + ", ".join(f"{v} {n}" for v, n in cc.most_common()), ""]
@@ -79,7 +79,7 @@ def main():
                        ", ".join((p.get("wikipedia") or {}).get("top_in_languages", [])),
                        (p.get("guides") or {}).get("n_libraries", 0), p["tier"], p["owner_type"], p["access_model"], p["robots_ai"],
                        p["automation_letter"], p["automation_spirit"]) for p in rows],
-                     ["Domain", "Open-web tier", "Wiki languages", "Wiki articles", "Top 5 in", "Guide libraries", "Library tier", "Owner", "Access",
+                     ["Domain", "Open-web tier", "Wiki languages", "Wiki articles", "Top 10 in", "Guide libraries", "Library tier", "Owner", "Access",
                       "robots AI", "Letter", "Spirit"]), ""]
     (ROOT / "RESULTS.md").write_text("\n".join(md) + "\n")
     print("RESULTS.md written:", len(ranked), "ranked platforms")

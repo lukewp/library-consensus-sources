@@ -59,14 +59,23 @@ def norm_title(title):
     return re.sub(r"\s+", " ", t).strip(), vendor_hint
 
 
+# One organization, many country domains: credit them to one entry.
+MERGE_COUNTRY = re.compile(r"^(google|youtube|amazon|yahoo|bing)\.(com?\.)?[a-z]{2,3}$")
+
+
 def registrable(host):
     host = (host or "").lower().split(":")[0].lstrip(".")
     if host.startswith("www."):
         host = host[4:]
     parts = host.split(".")
     if len(parts) >= 3 and ".".join(parts[-2:]) in SECOND_LEVEL:
-        return ".".join(parts[-3:])
-    return ".".join(parts[-2:]) if len(parts) >= 2 else host
+        reg = ".".join(parts[-3:])
+    else:
+        reg = ".".join(parts[-2:]) if len(parts) >= 2 else host
+    m = MERGE_COUNTRY.match(reg)
+    if m and reg != f"{m.group(1)}.com":
+        return f"{m.group(1)}.com"
+    return reg
 
 
 

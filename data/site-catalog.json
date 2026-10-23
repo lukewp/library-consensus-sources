@@ -1,6 +1,6 @@
 {
   "version": "2026-10-24",
-  "about": "Research sites for the built-in web source and the access scan (references/access-scan.md). Entries marked library-consensus come from a union of the public A-Z database lists of 119 university libraries worldwide, kept when named by at least 10% of them in 3+ regions (tier common) or 25% in 5+ regions (tier core); access, owner type and terms readings follow the published heuristic at https://github.com/lukewp/library-consensus-sources. Entries marked open-web are cited in the most-read Wikipedia articles of 15+ of 20 languages, are among the 5 sources most cited in one language, or are linked from the news, free-web, data or government guides of 10%+ of libraries in 3+ regions; open-web-curated are seed-list sources below those thresholds, assessed the same way. Entries marked curated were added by hand. automation is the stricter (spirit) reading of robots.txt and terms; automation_letter is the reading by the letter. Neither is legal advice: the user's own agreements govern, and a profile can override any entry.",
+  "about": "Research sites for the built-in web source and the access scan (references/access-scan.md). Entries marked library-consensus come from a union of the public A-Z database lists of 119 university libraries worldwide, kept when named by at least 10% of them in 3+ regions (tier common) or 25% in 5+ regions (tier core); access, owner type and terms readings follow the published heuristic at https://github.com/lukewp/library-consensus-sources. Entries marked open-web are cited in the most-read Wikipedia articles of 15+ of 20 languages, are among the 10 sources most cited in one language, or are linked from the news, free-web, data or government guides of 10%+ of libraries in 3+ regions; open-web-curated are seed-list sources below those thresholds, assessed the same way. Entries marked curated were added by hand. automation is the stricter (spirit) reading of robots.txt and terms; automation_letter is the reading by the letter. Neither is legal advice: the user's own agreements govern, and a profile can override any entry.",
   "categories": [
     "government",
     "legal",
@@ -6270,6 +6270,36 @@
       "probe": "https://alexa.com/"
     },
     {
+      "id": "amazon-com",
+      "name": "Amazon.com, Inc.",
+      "domain": "amazon.com",
+      "category": "academic",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "Amazon.com; Amazon UK",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 2,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://amazon.com/"
+    },
+    {
       "id": "amnesty-org",
       "name": "Amnesty International",
       "domain": "amnesty.org",
@@ -6687,35 +6717,6 @@
       "source": "open-web"
     },
     {
-      "id": "google-co-uk",
-      "name": "Jet",
-      "domain": "google.co.uk",
-      "category": "academic",
-      "region": "uk",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "Jet",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "local",
-        "max_libraries": 2,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "guinnessworldrecords-com",
       "name": "Guinness World Records Ltd (Jim Pattison Group)",
       "domain": "guinnessworldrecords.com",
@@ -6955,6 +6956,35 @@
       "source": "open-web"
     },
     {
+      "id": "kb-se",
+      "name": "National Library of Sweden",
+      "domain": "kb.se",
+      "category": "academic",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "SwePub; ARBLINE; BULB - Barn- och ungdomslitteraturbibliografin; Digitaliserade dagstidningar / Digitised newspapers; Kungliga Biblioteket Sveriges Nationalbibliotek",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 2,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "lboro-ac-uk",
       "name": "Loughborough University",
       "domain": "lboro.ac.uk",
@@ -7103,6 +7133,36 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "ne-se",
+      "name": "Nationalencyklopedin (NE Nationalencyklopedin AB)",
+      "domain": "ne.se",
+      "category": "academic",
+      "region": "global",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "Nationalencyklopedin - NE; Nationalencyklopedin - NE (ebooks); Norstedts ordböcker (NE)",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 1,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://ne.se/"
     },
     {
       "id": "nobelprize-org",
@@ -8276,6 +8336,64 @@
       "source": "open-web"
     },
     {
+      "id": "20minutes-fr",
+      "name": "20 Minutes (Rossel / SIPA Ouest-France)",
+      "domain": "20minutes.fr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 7,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "24tv-ua",
+      "name": "24 Kanal (TRK Lux)",
+      "domain": "24tv.ua",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "90min-com",
       "name": "Football Whispers / 90min Ltd (Sportflash)",
       "domain": "90min.com",
@@ -8454,6 +8572,35 @@
       "probe": "https://aftonbladet.se/"
     },
     {
+      "id": "alarabiya-net",
+      "name": "Al Arabiya (MBC Group)",
+      "domain": "alarabiya.net",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 12,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "aljazeera-com",
       "name": "Al Jazeera Media Network (Qatar state-funded)",
       "domain": "aljazeera.com",
@@ -8544,6 +8691,35 @@
       "probe": "https://ansa.it/"
     },
     {
+      "id": "antaranews-com",
+      "name": "Antara (Indonesian state news agency)",
+      "domain": "antaranews.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "apnews-com",
       "name": "The Associated Press (cooperative)",
       "domain": "apnews.com",
@@ -8630,6 +8806,38 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "asahi-com",
+      "name": "The Asahi Shimbun Company",
+      "domain": "asahi.com",
+      "category": "news",
+      "region": "global",
+      "access": "institutional",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "Asahi Shimbun Cross-Search; Asahi Shinbun Cross-Search 朝日新聞クロスサーチ; Asahi Shinbun Kurosu Sāchi; Asahi Shimbun Digital; Asahi shinbun: Kikuzo II Visual",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "recognized",
+        "max_libraries": 7,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 7,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": [
+          "https://www.asahi.com/policy/copyright.html?iref=footer"
+        ]
+      },
+      "source": "open-web",
+      "probe": "https://asahi.com/"
     },
     {
       "id": "bbc-co-uk",
@@ -9620,6 +9828,38 @@
       "probe": "https://dn.se/"
     },
     {
+      "id": "donga-com",
+      "name": "Donga Ilbo Archive (1920- )",
+      "domain": "donga.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "Donga Ilbo Archive (1920- )",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 1,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 6,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.donga.com/dongailbo?m=copyright"
+        ]
+      },
+      "source": "open-web",
+      "probe": "https://donga.com/"
+    },
+    {
       "id": "dw-com",
       "name": "Deutsche Welle (German public-service broadcaster)",
       "domain": "dw.com",
@@ -9856,6 +10096,36 @@
       },
       "source": "open-web",
       "probe": "https://esquire.com/"
+    },
+    {
+      "id": "estadao-com-br",
+      "name": "O Estado de S. Paulo (Grupo Estado)",
+      "domain": "estadao.com.br",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://estadao.com.br/"
     },
     {
       "id": "euronews-com",
@@ -10153,6 +10423,35 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "unknown",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "focus-de",
+      "name": "Hubert Burda Media",
+      "domain": "focus.de",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 10,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -10459,6 +10758,35 @@
       "source": "open-web"
     },
     {
+      "id": "francetvinfo-fr",
+      "name": "franceinfo (France Télévisions, public broadcaster)",
+      "domain": "francetvinfo.fr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 9,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "reserved",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "gazzetta-it",
       "name": "RCS MediaGroup (La Gazzetta dello Sport)",
       "domain": "gazzetta.it",
@@ -10637,6 +10965,36 @@
       "source": "open-web"
     },
     {
+      "id": "gp-se",
+      "name": "Göteborgs-Posten (Stampen)",
+      "domain": "gp.se",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 1,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://gp.se/"
+    },
+    {
       "id": "grammy-com",
       "name": "Recording Academy",
       "domain": "grammy.com",
@@ -10788,6 +11146,36 @@
       "source": "open-web"
     },
     {
+      "id": "hankyung-com",
+      "name": "Korea Economic Daily",
+      "domain": "hankyung.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://hankyung.com/"
+    },
+    {
       "id": "hindustantimes-com",
       "name": "HT Media",
       "domain": "hindustantimes.com",
@@ -10845,6 +11233,36 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "hln-be",
+      "name": "Het Laatste Nieuws (DPG Media)",
+      "domain": "hln.be",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://hln.be/"
     },
     {
       "id": "hollywoodreporter-com",
@@ -11026,6 +11444,35 @@
       "source": "open-web"
     },
     {
+      "id": "ig-com-br",
+      "name": "iG (Grupo iG)",
+      "domain": "ig.com.br",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 5,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "ign-com",
       "name": "Ziff Davis",
       "domain": "ign.com",
@@ -11083,6 +11530,66 @@
       },
       "source": "open-web",
       "probe": "https://iht.com/"
+    },
+    {
+      "id": "ilfattoquotidiano-it",
+      "name": "Il Fatto Quotidiano (SEIF)",
+      "domain": "ilfattoquotidiano.it",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://ilfattoquotidiano.it/"
+    },
+    {
+      "id": "ilpost-it",
+      "name": "Il Post",
+      "domain": "ilpost.it",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 5,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://ilpost.it/"
     },
     {
       "id": "independent-co-uk",
@@ -11207,6 +11714,35 @@
       "source": "open-web"
     },
     {
+      "id": "indiatoday-in",
+      "name": "Living Media India (India Today Group)",
+      "domain": "indiatoday.in",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 10,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "infobae-com",
       "name": "Infobae (Grupo Infobae)",
       "domain": "infobae.com",
@@ -11297,6 +11833,64 @@
       "probe": "https://irishtimes.com/"
     },
     {
+      "id": "isna-ir",
+      "name": "Iranian Students' News Agency (state-affiliated)",
+      "domain": "isna.ir",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 6,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "jagran-com",
+      "name": "Dainik Jagran (Jagran Prakashan)",
+      "domain": "jagran.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "jpost-com",
       "name": "The Jerusalem Post Group",
       "domain": "jpost.com",
@@ -11327,6 +11921,35 @@
       },
       "source": "open-web",
       "probe": "https://jpost.com/"
+    },
+    {
+      "id": "khan-co-kr",
+      "name": "Kyunghyang Shinmun",
+      "domain": "khan.co.kr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
     },
     {
       "id": "kommersant-ru",
@@ -11389,6 +12012,36 @@
       },
       "source": "open-web",
       "probe": "https://kompas.com/"
+    },
+    {
+      "id": "lastampa-it",
+      "name": "La Stampa (SAE)",
+      "domain": "lastampa.it",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 6,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://lastampa.it/"
     },
     {
       "id": "latimes-com",
@@ -11540,6 +12193,36 @@
       "probe": "https://leparisien.fr/"
     },
     {
+      "id": "lepoint-fr",
+      "name": "Le Point (Artémis)",
+      "domain": "lepoint.fr",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 7,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://lepoint.fr/"
+    },
+    {
       "id": "lequipe-fr",
       "name": "Groupe Amaury (L'Équipe)",
       "domain": "lequipe.fr",
@@ -11625,6 +12308,37 @@
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
         "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "ltn-com-tw",
+      "name": "Liberty Times",
+      "domain": "ltn.com.tw",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": [
+          "https://service.ltn.com.tw/copyright"
+        ]
       },
       "source": "open-web"
     },
@@ -11773,6 +12487,35 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "mdpr-jp",
+      "name": "Modelpress (Netnewsonline)",
+      "domain": "mdpr.jp",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
         "urls": []
       },
       "source": "open-web"
@@ -12064,6 +12807,35 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "n-tv-de",
+      "name": "n-tv (RTL Deutschland)",
+      "domain": "n-tv.de",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
         "guide_libraries": 0
       },
       "terms": {
@@ -12549,6 +13321,35 @@
       "source": "open-web"
     },
     {
+      "id": "ntv-com-tr",
+      "name": "NTV (Doğuş Media)",
+      "domain": "ntv.com.tr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "nu-nl",
       "name": "NU.nl (DPG Media)",
       "domain": "nu.nl",
@@ -12576,6 +13377,36 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "nv-ua",
+      "name": "Novoye Vremya (NV)",
+      "domain": "nv.ua",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://nv.ua/"
     },
     {
       "id": "nydailynews-com",
@@ -12814,6 +13645,36 @@
       "source": "open-web"
     },
     {
+      "id": "ouest-france-fr",
+      "name": "Ouest-France (SIPA Ouest-France, association-owned)",
+      "domain": "ouest-france.fr",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 7,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "reserved",
+        "robots_ai": "blocks_all_bots",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://ouest-france.fr/"
+    },
+    {
       "id": "palmbeachpost-com",
       "name": "Gannett (USA TODAY Network)",
       "domain": "palmbeachpost.com",
@@ -12904,6 +13765,36 @@
       "source": "open-web"
     },
     {
+      "id": "people-com-cn",
+      "name": "人民日報 = People's Daily (1946 - Present)",
+      "domain": "people.com.cn",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "人民日報 = People's Daily (1946 - Present)",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 2,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 13,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://people.com.cn/"
+    },
+    {
       "id": "pitchfork-com",
       "name": "Condé Nast",
       "domain": "pitchfork.com",
@@ -12965,6 +13856,35 @@
       "source": "open-web"
     },
     {
+      "id": "polskieradio-pl",
+      "name": "Polskie Radio (public broadcaster)",
+      "domain": "polskieradio.pl",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "premierleague-com",
       "name": "The Football Association Premier League Ltd",
       "domain": "premierleague.com",
@@ -12996,6 +13916,35 @@
       "source": "open-web"
     },
     {
+      "id": "prtimes-jp",
+      "name": "PR TIMES (press-release wire)",
+      "domain": "prtimes.jp",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "psg-fr",
       "name": "Paris Saint-Germain (Qatar Sports Investments)",
       "domain": "psg.fr",
@@ -13022,6 +13971,66 @@
         "robots_ai": "no_ai_rules",
         "urls": [
           "https://www.psg.fr/en/legal-notice"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "radiofarda-com",
+      "name": "Radio Free Europe/Radio Liberty (US-government-funded nonprofit)",
+      "domain": "radiofarda.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 11,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "radiosvoboda-org",
+      "name": "Radio Svoboda (RFE/RL, US-government funded)",
+      "domain": "radiosvoboda.org",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "allowed",
+      "automation_letter": "allowed",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.radiosvoboda.org/copyright"
         ]
       },
       "source": "open-web"
@@ -13118,6 +14127,35 @@
       "source": "open-web"
     },
     {
+      "id": "realsound-jp",
+      "name": "Real Sound (blueprint)",
+      "domain": "realsound.jp",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "repubblica-it",
       "name": "GEDI Gruppo Editoriale",
       "domain": "repubblica.it",
@@ -13205,6 +14243,35 @@
         "urls": [
           "https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html"
         ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "rg-ru",
+      "name": "Rossiyskaya Gazeta (Government of Russia)",
+      "domain": "rg.ru",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 5,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
       },
       "source": "open-web"
     },
@@ -13299,6 +14366,36 @@
       "source": "open-web"
     },
     {
+      "id": "rp-pl",
+      "name": "Rzeczpospolita (Gremi Media)",
+      "domain": "rp.pl",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 5,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://rp.pl/"
+    },
+    {
       "id": "rsssf-com",
       "name": "Rec.Sport.Soccer Statistics Foundation",
       "domain": "rsssf.com",
@@ -13317,6 +14414,64 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "rtl-nl",
+      "name": "RTL Nederland (DPG Media)",
+      "domain": "rtl.nl",
+      "category": "news",
+      "region": "nl",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "sabah-com-tr",
+      "name": "Sabah (Turkuvaz Media)",
+      "domain": "sabah.com.tr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
         "guide_libraries": 0
       },
       "terms": {
@@ -13688,6 +14843,35 @@
       "source": "open-web"
     },
     {
+      "id": "sohu-com",
+      "name": "Sohu",
+      "domain": "sohu.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_all_bots",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "spiegel-de",
       "name": "Der SPIEGEL GmbH & Co. KG",
       "domain": "spiegel.de",
@@ -13923,6 +15107,35 @@
       "probe": "https://svd.se/"
     },
     {
+      "id": "sverigesradio-se",
+      "name": "Sveriges Radio (SR)",
+      "domain": "sverigesradio.se",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "Sveriges Radio (SR)",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 1,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "svt-se",
       "name": "Sveriges Television (SVT)",
       "domain": "svt.se",
@@ -13941,6 +15154,35 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 6,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "tagesschau-de",
+      "name": "ARD / NDR (German public-service broadcaster)",
+      "domain": "tagesschau.de",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 12,
         "guide_libraries": 0
       },
       "terms": {
@@ -14010,6 +15252,36 @@
         ]
       },
       "source": "open-web"
+    },
+    {
+      "id": "telegraaf-nl",
+      "name": "De Telegraaf (Mediahuis)",
+      "domain": "telegraaf.nl",
+      "category": "news",
+      "region": "nl",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 7,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://telegraaf.nl/"
     },
     {
       "id": "telegraph-co-uk",
@@ -14643,6 +15915,35 @@
       "probe": "https://thewrap.com/"
     },
     {
+      "id": "tienphong-vn",
+      "name": "Tiền Phong (Ho Chi Minh Communist Youth Union)",
+      "domain": "tienphong.vn",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 1,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "time-com",
       "name": "TIME.com",
       "domain": "time.com",
@@ -14787,6 +16088,94 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "tribunnews-com",
+      "name": "Tribunnews (Kompas Gramedia)",
+      "domain": "tribunnews.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 3,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "trouw-nl",
+      "name": "Trouw (DPG Media)",
+      "domain": "trouw.nl",
+      "category": "news",
+      "region": "nl",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 2,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://trouw.nl/"
+    },
+    {
+      "id": "tsn-ua",
+      "name": "TSN (1+1 Media)",
+      "domain": "tsn.ua",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 4,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_all_bots",
         "urls": []
       },
       "source": "open-web"
@@ -15302,6 +16691,35 @@
       "probe": "https://volkskrant.nl/"
     },
     {
+      "id": "vov-vn",
+      "name": "Voice of Vietnam (state broadcaster)",
+      "domain": "vov.vn",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 1,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "vox-com",
       "name": "Vox Media",
       "domain": "vox.com",
@@ -15601,6 +17019,36 @@
       "source": "open-web"
     },
     {
+      "id": "wprost-pl",
+      "name": "Wprost (PMPG Polskie Media)",
+      "domain": "wprost.pl",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 1,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://wprost.pl/"
+    },
+    {
       "id": "wsj-com",
       "name": "Dow Jones (News Corp)",
       "domain": "wsj.com",
@@ -15629,6 +17077,36 @@
       },
       "source": "open-web",
       "probe": "https://wsj.com/"
+    },
+    {
+      "id": "wyborcza-pl",
+      "name": "Gazeta Wyborcza (Agora SA)",
+      "domain": "wyborcza.pl",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 5,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://wyborcza.pl/"
     },
     {
       "id": "yna-co-kr",

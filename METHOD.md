@@ -120,7 +120,7 @@ A–Z database lists measure what libraries license or curate *as databases*. Wi
 
 | Tier | Rule |
 |---|---|
-| open-web | cited in the most-read articles of ≥ 15 of the 20 languages; or among the 5 domains cited by the most articles in any one language (so each language's own leading sources are represented, not only the shared ones); or linked from the guides of ≥ 10% of the libraries that have such guides, in ≥ 3 regions |
+| open-web | cited in the most-read articles of ≥ 15 of the 20 languages; or among the 10 domains cited by the most articles in any one language (so each language's own leading sources are represented, not only the shared ones); or linked from the guides of ≥ 10% of the libraries that have such guides, in ≥ 3 regions |
 | open-web-curated | on the seed list, below both thresholds |
 
 Open-web platforms go through the same robots.txt, terms and owner checks, and get the same automation ratings, as every other platform. A domain can hold both a library tier and an open-web tier. JSTOR, for example, is core and also widely cited.
@@ -151,5 +151,5 @@ Raw collections (`data/raw/`, `data/terms/raw/`) hold the libraries' own text an
 - **Terms readings** are pattern matches over sentences. They can miss clauses phrased unusually, or terms kept in PDFs and licence agreements that aren't linked from the home page. Licensed platforms' real terms are usually in the institution's licence, which isn't public.
 - **Owner type and access model** are a model's classification from names, with confidence recorded. Low-confidence rows deserve checking.
 - **Ratings are per domain.** A domain that hosts several services gets one rating, and its access model is taken from its best-known title. A university domain that hosts both free and membership resources is the typical case.
-- **Wikipedia citation signal.** It can't measure Wikipedia, Wikidata or the other Wikimedia projects themselves, because links between them are excluded as self-reference. They enter through the seed list. The signal also counts every reference equally, so heavily footnoted articles weigh more. The registrable-domain rule credits a whole site, so `go.com` stands for ABC News.
+- **Wikipedia citation signal.** It can't measure Wikipedia, Wikidata or the other Wikimedia projects themselves, because links between them are excluded as self-reference. They enter through the seed list. The signal also counts every reference equally, so heavily footnoted articles weigh more. The registrable-domain rule credits a whole site, so `go.com` stands for ABC News. Country domains of Google, YouTube, Amazon, Yahoo and Bing are merged into their `.com` entry.
 - **Bot checks.** Many large commercial platforms answer an honest automated request with a bot check, so their terms stay `unknown` and they rate human-pace by default. Reading those terms needs a person, or a fetcher those sites admit.

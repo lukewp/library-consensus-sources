@@ -5310,11 +5310,9 @@
    ],
    "n_countries": 15,
    "domains": {
-    "google.com": 26,
-    "google.ca": 3,
-    "google.com.au": 2,
-    "google.co.uk": 2,
-    "nuigalway.ie": 1
+    "google.com": 34,
+    "nuigalway.ie": 1,
+    "com.pr": 1
    },
    "hosts": {
     "scholar.google.com": 26,
@@ -246872,8 +246870,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "google.com": 1,
-    "google.com.au": 1
+    "google.com": 2
    },
    "hosts": {
     "news.google.com": 1,
@@ -305049,8 +305046,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "google.com": 1,
-    "google.co.uk": 1
+    "google.com": 2
    },
    "hosts": {
     "scholar.google.com": 1,
@@ -311077,7 +311073,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "google.co.uk": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.co.uk": 1
@@ -400735,7 +400731,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -400871,7 +400867,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -417821,7 +417817,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -429737,7 +429733,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "amazon.co.uk": 1
+    "amazon.com": 1
    },
    "hosts": {
     "www.amazon.co.uk": 1
@@ -552594,7 +552590,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -744888,7 +744884,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.co.kr": 1
+    "google.com": 1
    },
    "hosts": {
     "scholar.google.co.kr": 1
@@ -745863,7 +745859,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.au": 1
+    "google.com": 1
    },
    "hosts": {
     "scholar.google.com.au": 1
@@ -805706,7 +805702,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1199415,7 +1199411,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1199451,7 +1199447,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1199487,7 +1199483,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1208911,7 +1208907,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "google.com.gh": 1
+    "google.com": 1
    },
    "hosts": {
     "books.google.com.gh": 1

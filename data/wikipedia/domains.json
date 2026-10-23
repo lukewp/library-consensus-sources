@@ -24,6 +24,50 @@
  "n_articles": 3989,
  "domains": [
   {
+   "domain": "google.com",
+   "n_languages": 20,
+   "languages": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fa",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "pl",
+    "pt",
+    "ru",
+    "sv",
+    "tr",
+    "uk",
+    "vi",
+    "zh"
+   ],
+   "n_articles": 1397,
+   "citations": 10192,
+   "top_in_languages": [
+    "ar",
+    "de",
+    "es",
+    "fa",
+    "fr",
+    "hi",
+    "id",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "tr",
+    "vi",
+    "zh"
+   ]
+  },
+  {
    "domain": "bbc.com",
    "n_languages": 20,
    "languages": [
@@ -55,6 +99,10 @@
     "en",
     "es",
     "fa",
+    "hi",
+    "id",
+    "pt",
+    "ru",
     "tr",
     "uk",
     "vi"
@@ -88,6 +136,14 @@
    "n_articles": 1068,
    "citations": 5421,
    "top_in_languages": [
+    "de",
+    "en",
+    "es",
+    "it",
+    "ja",
+    "nl",
+    "ru",
+    "uk",
     "zh"
    ]
   },
@@ -122,7 +178,15 @@
     "en",
     "fa",
     "hi",
-    "pl"
+    "id",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "sv",
+    "tr",
+    "vi",
+    "zh"
    ]
   },
   {
@@ -153,8 +217,10 @@
    "n_articles": 924,
    "citations": 6010,
    "top_in_languages": [
+    "ar",
     "en",
-    "es"
+    "es",
+    "fa"
    ]
   },
   {
@@ -186,7 +252,10 @@
    "citations": 8259,
    "top_in_languages": [
     "ar",
-    "en"
+    "en",
+    "es",
+    "fa",
+    "vi"
    ]
   },
   {
@@ -218,39 +287,9 @@
    "citations": 6108,
    "top_in_languages": [
     "ar",
-    "fa"
-   ]
-  },
-  {
-   "domain": "google.com",
-   "n_languages": 20,
-   "languages": [
-    "ar",
-    "de",
     "en",
     "es",
-    "fa",
-    "fr",
-    "hi",
-    "id",
-    "it",
-    "ja",
-    "ko",
-    "nl",
-    "pl",
-    "pt",
-    "ru",
-    "sv",
-    "tr",
-    "uk",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 854,
-   "citations": 7754,
-   "top_in_languages": [
-    "fa",
-    "hi"
+    "fa"
    ]
   },
   {
@@ -281,7 +320,9 @@
    "n_articles": 664,
    "citations": 4722,
    "top_in_languages": [
-    "ar"
+    "ar",
+    "en",
+    "es"
    ]
   },
   {
@@ -343,7 +384,9 @@
    ],
    "n_articles": 640,
    "citations": 3586,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ar"
+   ]
   },
   {
    "domain": "yahoo.com",
@@ -370,8 +413,8 @@
     "vi",
     "zh"
    ],
-   "n_articles": 509,
-   "citations": 1532,
+   "n_articles": 596,
+   "citations": 1886,
    "top_in_languages": [
     "zh"
    ]
@@ -432,7 +475,9 @@
    ],
    "n_articles": 461,
    "citations": 1900,
-   "top_in_languages": []
+   "top_in_languages": [
+    "en"
+   ]
   },
   {
    "domain": "washingtonpost.com",
@@ -608,7 +653,9 @@
    ],
    "n_articles": 347,
    "citations": 1341,
-   "top_in_languages": []
+   "top_in_languages": [
+    "en"
+   ]
   },
   {
    "domain": "latimes.com",
@@ -784,7 +831,9 @@
    ],
    "n_articles": 273,
    "citations": 2088,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fa"
+   ]
   },
   {
    "domain": "un.org",
@@ -2618,7 +2667,9 @@
    ],
    "n_articles": 122,
    "citations": 411,
-   "top_in_languages": []
+   "top_in_languages": [
+    "hi"
+   ]
   },
   {
    "domain": "skysports.com",
@@ -3564,6 +3615,33 @@
    "top_in_languages": []
   },
   {
+   "domain": "amazon.com",
+   "n_languages": 18,
+   "languages": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fa",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "pl",
+    "pt",
+    "ru",
+    "sv",
+    "tr",
+    "uk",
+    "vi",
+    "zh"
+   ],
+   "n_articles": 82,
+   "citations": 204,
+   "top_in_languages": []
+  },
+  {
    "domain": "bleacherreport.com",
    "n_languages": 18,
    "languages": [
@@ -4181,7 +4259,9 @@
    ],
    "n_articles": 121,
    "citations": 392,
-   "top_in_languages": []
+   "top_in_languages": [
+    "hi"
+   ]
   },
   {
    "domain": "wired.com",
@@ -5222,7 +5302,9 @@
    ],
    "n_articles": 105,
    "citations": 1296,
-   "top_in_languages": []
+   "top_in_languages": [
+    "it"
+   ]
   },
   {
    "domain": "vulture.com",
@@ -6175,31 +6257,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.co.uk",
-   "n_languages": 16,
-   "languages": [
-    "ar",
-    "de",
-    "en",
-    "es",
-    "fa",
-    "fr",
-    "hi",
-    "id",
-    "it",
-    "ko",
-    "nl",
-    "pt",
-    "ru",
-    "uk",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 35,
-   "citations": 96,
-   "top_in_languages": []
-  },
-  {
    "domain": "gallup.com",
    "n_languages": 16,
    "languages": [
@@ -6473,7 +6530,9 @@
    ],
    "n_articles": 118,
    "citations": 419,
-   "top_in_languages": []
+   "top_in_languages": [
+    "tr"
+   ]
   },
   {
    "domain": "thehindu.com",
@@ -6571,7 +6630,9 @@
    ],
    "n_articles": 84,
    "citations": 568,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ar"
+   ]
   },
   {
    "domain": "mundodeportivo.com",
@@ -8521,29 +8582,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.com",
-   "n_languages": 14,
-   "languages": [
-    "ar",
-    "en",
-    "fa",
-    "hi",
-    "id",
-    "it",
-    "pl",
-    "pt",
-    "ru",
-    "sv",
-    "tr",
-    "uk",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 43,
-   "citations": 91,
-   "top_in_languages": []
-  },
-  {
    "domain": "business-standard.com",
    "n_languages": 14,
    "languages": [
@@ -9411,7 +9449,9 @@
    ],
    "n_articles": 82,
    "citations": 770,
-   "top_in_languages": []
+   "top_in_languages": [
+    "zh"
+   ]
   },
   {
    "domain": "eonline.com",
@@ -11083,7 +11123,9 @@
    ],
    "n_articles": 94,
    "citations": 469,
-   "top_in_languages": []
+   "top_in_languages": [
+    "de"
+   ]
   },
   {
    "domain": "rtl.fr",
@@ -11125,7 +11167,9 @@
    ],
    "n_articles": 88,
    "citations": 624,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ar"
+   ]
   },
   {
    "domain": "abc.es",
@@ -11188,27 +11232,6 @@
    ],
    "n_articles": 65,
    "citations": 201,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.de",
-   "n_languages": 12,
-   "languages": [
-    "ar",
-    "de",
-    "es",
-    "fa",
-    "fr",
-    "it",
-    "ko",
-    "pl",
-    "ru",
-    "sv",
-    "tr",
-    "uk"
-   ],
-   "n_articles": 63,
-   "citations": 248,
    "top_in_languages": []
   },
   {
@@ -13095,7 +13118,9 @@
    ],
    "n_articles": 59,
    "citations": 414,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fa"
+   ]
   },
   {
    "domain": "irna.ir",
@@ -14618,7 +14643,9 @@
    ],
    "n_articles": 75,
    "citations": 191,
-   "top_in_languages": []
+   "top_in_languages": [
+    "de"
+   ]
   },
   {
    "domain": "indiatoday.in",
@@ -14637,7 +14664,9 @@
    ],
    "n_articles": 73,
    "citations": 282,
-   "top_in_languages": []
+   "top_in_languages": [
+    "hi"
+   ]
   },
   {
    "domain": "rt.com",
@@ -15473,25 +15502,6 @@
    ],
    "n_articles": 20,
    "citations": 43,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.ca",
-   "n_languages": 10,
-   "languages": [
-    "ar",
-    "es",
-    "fa",
-    "fr",
-    "nl",
-    "pl",
-    "pt",
-    "ru",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 20,
-   "citations": 42,
    "top_in_languages": []
   },
   {
@@ -16975,7 +16985,9 @@
    ],
    "n_articles": 103,
    "citations": 492,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fr"
+   ]
   },
   {
    "domain": "mediaset.it",
@@ -22548,7 +22560,9 @@
    ],
    "n_articles": 111,
    "citations": 332,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fr"
+   ]
   },
   {
    "domain": "ouest-france.fr",
@@ -22564,7 +22578,9 @@
    ],
    "n_articles": 107,
    "citations": 326,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fr"
+   ]
   },
   {
    "domain": "asahi.com",
@@ -22580,7 +22596,9 @@
    ],
    "n_articles": 104,
    "citations": 520,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ja"
+   ]
   },
   {
    "domain": "lepoint.fr",
@@ -22596,7 +22614,9 @@
    ],
    "n_articles": 103,
    "citations": 443,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fr"
+   ]
   },
   {
    "domain": "ad.nl",
@@ -22728,7 +22748,9 @@
    ],
    "n_articles": 63,
    "citations": 152,
-   "top_in_languages": []
+   "top_in_languages": [
+    "nl"
+   ]
   },
   {
    "domain": "joins.com",
@@ -23496,22 +23518,6 @@
    ],
    "n_articles": 17,
    "citations": 34,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.nl",
-   "n_languages": 7,
-   "languages": [
-    "ar",
-    "es",
-    "fa",
-    "id",
-    "it",
-    "ja",
-    "nl"
-   ],
-   "n_articles": 17,
-   "citations": 33,
    "top_in_languages": []
   },
   {
@@ -24712,22 +24718,6 @@
    ],
    "n_articles": 10,
    "citations": 16,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.com.au",
-   "n_languages": 7,
-   "languages": [
-    "ar",
-    "en",
-    "es",
-    "fa",
-    "it",
-    "pt",
-    "ru"
-   ],
-   "n_articles": 10,
-   "citations": 15,
    "top_in_languages": []
   },
   {
@@ -26107,22 +26097,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.co.uk",
-   "n_languages": 7,
-   "languages": [
-    "es",
-    "fa",
-    "it",
-    "pl",
-    "ru",
-    "tr",
-    "vi"
-   ],
-   "n_articles": 8,
-   "citations": 32,
-   "top_in_languages": []
-  },
-  {
    "domain": "pchi.ir",
    "n_languages": 7,
    "languages": [
@@ -26764,7 +26738,9 @@
    ],
    "n_articles": 77,
    "citations": 192,
-   "top_in_languages": []
+   "top_in_languages": [
+    "it"
+   ]
   },
   {
    "domain": "metropoles.com",
@@ -26831,21 +26807,6 @@
    ]
   },
   {
-   "domain": "google.fr",
-   "n_languages": 6,
-   "languages": [
-    "ar",
-    "de",
-    "fa",
-    "fr",
-    "tr",
-    "zh"
-   ],
-   "n_articles": 64,
-   "citations": 211,
-   "top_in_languages": []
-  },
-  {
    "domain": "donga.com",
    "n_languages": 6,
    "languages": [
@@ -26858,7 +26819,9 @@
    ],
    "n_articles": 60,
    "citations": 213,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ko"
+   ]
   },
   {
    "domain": "isna.ir",
@@ -26873,7 +26836,9 @@
    ],
    "n_articles": 52,
    "citations": 313,
-   "top_in_languages": []
+   "top_in_languages": [
+    "fa"
+   ]
   },
   {
    "domain": "cna.com.tw",
@@ -27413,21 +27378,6 @@
    ],
    "n_articles": 16,
    "citations": 31,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.co.jp",
-   "n_languages": 6,
-   "languages": [
-    "ar",
-    "it",
-    "ja",
-    "tr",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 15,
-   "citations": 45,
    "top_in_languages": []
   },
   {
@@ -31722,7 +31672,9 @@
    ],
    "n_articles": 85,
    "citations": 396,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ru"
+   ]
   },
   {
    "domain": "wp.pl",
@@ -31752,7 +31704,9 @@
    ],
    "n_articles": 83,
    "citations": 348,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pt"
+   ]
   },
   {
    "domain": "tempo.co",
@@ -31796,7 +31750,9 @@
    ],
    "n_articles": 70,
    "citations": 172,
-   "top_in_languages": []
+   "top_in_languages": [
+    "it"
+   ]
   },
   {
    "domain": "wyborcza.pl",
@@ -31810,7 +31766,9 @@
    ],
    "n_articles": 66,
    "citations": 269,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pl"
+   ]
   },
   {
    "domain": "t-online.de",
@@ -31866,7 +31824,9 @@
    ],
    "n_articles": 58,
    "citations": 195,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pl"
+   ]
   },
   {
    "domain": "ilmessaggero.it",
@@ -32582,20 +32542,6 @@
    ],
    "n_articles": 14,
    "citations": 35,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.se",
-   "n_languages": 5,
-   "languages": [
-    "ar",
-    "fa",
-    "id",
-    "sv",
-    "tr"
-   ],
-   "n_articles": 14,
-   "citations": 30,
    "top_in_languages": []
   },
   {
@@ -38589,7 +38535,9 @@
    ],
    "n_articles": 92,
    "citations": 621,
-   "top_in_languages": []
+   "top_in_languages": [
+    "sv"
+   ]
   },
   {
    "domain": "huffingtonpost.fr",
@@ -38643,7 +38591,9 @@
    ],
    "n_articles": 77,
    "citations": 309,
-   "top_in_languages": []
+   "top_in_languages": [
+    "uk"
+   ]
   },
   {
    "domain": "hk01.com",
@@ -38697,7 +38647,9 @@
    ],
    "n_articles": 63,
    "citations": 188,
-   "top_in_languages": []
+   "top_in_languages": [
+    "it"
+   ]
   },
   {
    "domain": "sankei.com",
@@ -38762,7 +38714,9 @@
    ],
    "n_articles": 54,
    "citations": 250,
-   "top_in_languages": []
+   "top_in_languages": [
+    "tr"
+   ]
   },
   {
    "domain": "mediapart.fr",
@@ -38803,7 +38757,9 @@
    ],
    "n_articles": 52,
    "citations": 175,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ko"
+   ]
   },
   {
    "domain": "vedomosti.ru",
@@ -38881,7 +38837,9 @@
    ],
    "n_articles": 47,
    "citations": 73,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pl"
+   ]
   },
   {
    "domain": "newsru.com",
@@ -38985,7 +38943,9 @@
    ],
    "n_articles": 37,
    "citations": 65,
-   "top_in_languages": []
+   "top_in_languages": [
+    "nl"
+   ]
   },
   {
    "domain": "t.me",
@@ -39154,19 +39114,6 @@
    ],
    "n_articles": 31,
    "citations": 95,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.es",
-   "n_languages": 4,
-   "languages": [
-    "ar",
-    "es",
-    "nl",
-    "pt"
-   ],
-   "n_articles": 30,
-   "citations": 267,
    "top_in_languages": []
   },
   {
@@ -39687,19 +39634,6 @@
    ],
    "n_articles": 16,
    "citations": 18,
-   "top_in_languages": []
-  },
-  {
-   "domain": "amazon.co.jp",
-   "n_languages": 4,
-   "languages": [
-    "fa",
-    "ja",
-    "vi",
-    "zh"
-   ],
-   "n_articles": 16,
-   "citations": 47,
    "top_in_languages": []
   },
   {
@@ -41533,19 +41467,6 @@
    ],
    "n_articles": 7,
    "citations": 10,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.be",
-   "n_languages": 4,
-   "languages": [
-    "es",
-    "fr",
-    "nl",
-    "pl"
-   ],
-   "n_articles": 7,
-   "citations": 13,
    "top_in_languages": []
   },
   {
@@ -49580,7 +49501,9 @@
    ],
    "n_articles": 105,
    "citations": 936,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ja"
+   ]
   },
   {
    "domain": "expressen.se",
@@ -49606,7 +49529,9 @@
    ],
    "n_articles": 88,
    "citations": 543,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pt"
+   ]
   },
   {
    "domain": "unian.ua",
@@ -49621,18 +49546,6 @@
    "top_in_languages": [
     "uk"
    ]
-  },
-  {
-   "domain": "yahoo.co.jp",
-   "n_languages": 3,
-   "languages": [
-    "ja",
-    "ko",
-    "zh"
-   ],
-   "n_articles": 84,
-   "citations": 350,
-   "top_in_languages": []
   },
   {
    "domain": "ukrinform.ua",
@@ -49658,7 +49571,9 @@
    ],
    "n_articles": 82,
    "citations": 539,
-   "top_in_languages": []
+   "top_in_languages": [
+    "uk"
+   ]
   },
   {
    "domain": "24tv.ua",
@@ -49670,7 +49585,9 @@
    ],
    "n_articles": 75,
    "citations": 227,
-   "top_in_languages": []
+   "top_in_languages": [
+    "uk"
+   ]
   },
   {
    "domain": "cinematoday.jp",
@@ -49708,7 +49625,9 @@
    ],
    "n_articles": 71,
    "citations": 192,
-   "top_in_languages": []
+   "top_in_languages": [
+    "de"
+   ]
   },
   {
    "domain": "tvn24.pl",
@@ -49734,7 +49653,9 @@
    ],
    "n_articles": 66,
    "citations": 187,
-   "top_in_languages": []
+   "top_in_languages": [
+    "uk"
+   ]
   },
   {
    "domain": "sina.com.cn",
@@ -49802,7 +49723,9 @@
    ],
    "n_articles": 61,
    "citations": 210,
-   "top_in_languages": []
+   "top_in_languages": [
+    "id"
+   ]
   },
   {
    "domain": "eiga.com",
@@ -49850,7 +49773,9 @@
    ],
    "n_articles": 55,
    "citations": 205,
-   "top_in_languages": []
+   "top_in_languages": [
+    "id"
+   ]
   },
   {
    "domain": "mk.ru",
@@ -49970,7 +49895,9 @@
    ],
    "n_articles": 46,
    "citations": 159,
-   "top_in_languages": []
+   "top_in_languages": [
+    "sv"
+   ]
   },
   {
    "domain": "tf1info.fr",
@@ -49982,18 +49909,6 @@
    ],
    "n_articles": 45,
    "citations": 110,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.ru",
-   "n_languages": 3,
-   "languages": [
-    "ru",
-    "uk",
-    "zh"
-   ],
-   "n_articles": 45,
-   "citations": 175,
    "top_in_languages": []
   },
   {
@@ -50090,7 +50005,9 @@
    ],
    "n_articles": 39,
    "citations": 89,
-   "top_in_languages": []
+   "top_in_languages": [
+    "hi"
+   ]
   },
   {
    "domain": "billboard-japan.com",
@@ -50102,18 +50019,6 @@
    ],
    "n_articles": 39,
    "citations": 347,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.com.tr",
-   "n_languages": 3,
-   "languages": [
-    "ar",
-    "nl",
-    "tr"
-   ],
-   "n_articles": 36,
-   "citations": 418,
    "top_in_languages": []
   },
   {
@@ -50390,18 +50295,6 @@
    ],
    "n_articles": 30,
    "citations": 60,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.com.br",
-   "n_languages": 3,
-   "languages": [
-    "fr",
-    "pt",
-    "zh"
-   ],
-   "n_articles": 30,
-   "citations": 111,
    "top_in_languages": []
   },
   {
@@ -54689,6 +54582,18 @@
    "top_in_languages": []
   },
   {
+   "domain": "sg",
+   "n_languages": 3,
+   "languages": [
+    "id",
+    "ko",
+    "sv"
+   ],
+   "n_articles": 5,
+   "citations": 14,
+   "top_in_languages": []
+  },
+  {
    "domain": "gov.mt",
    "n_languages": 3,
    "languages": [
@@ -55598,18 +55503,6 @@
    ],
    "n_articles": 4,
    "citations": 6,
-   "top_in_languages": []
-  },
-  {
-   "domain": "amazon.de",
-   "n_languages": 3,
-   "languages": [
-    "de",
-    "ru",
-    "uk"
-   ],
-   "n_articles": 4,
-   "citations": 7,
    "top_in_languages": []
   },
   {
@@ -62873,18 +62766,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.org",
-   "n_languages": 3,
-   "languages": [
-    "en",
-    "ja",
-    "pt"
-   ],
-   "n_articles": 3,
-   "citations": 5,
-   "top_in_languages": []
-  },
-  {
    "domain": "techworld.com",
    "n_languages": 3,
    "languages": [
@@ -66929,18 +66810,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "sg",
-   "n_languages": 3,
-   "languages": [
-    "id",
-    "ko",
-    "sv"
-   ],
-   "n_articles": 3,
-   "citations": 10,
-   "top_in_languages": []
-  },
-  {
    "domain": "mojang.com",
    "n_languages": 3,
    "languages": [
@@ -67334,18 +67203,6 @@
    ],
    "n_articles": 3,
    "citations": 8,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.co.kr",
-   "n_languages": 3,
-   "languages": [
-    "ko",
-    "pt",
-    "zh"
-   ],
-   "n_articles": 3,
-   "citations": 6,
    "top_in_languages": []
   },
   {
@@ -67850,7 +67707,9 @@
    ],
    "n_articles": 105,
    "citations": 1054,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ja"
+   ]
   },
   {
    "domain": "kompas.com",
@@ -67874,7 +67733,9 @@
    ],
    "n_articles": 99,
    "citations": 441,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ja"
+   ]
   },
   {
    "domain": "svd.se",
@@ -68036,7 +67897,9 @@
    ],
    "n_articles": 57,
    "citations": 319,
-   "top_in_languages": []
+   "top_in_languages": [
+    "zh"
+   ]
   },
   {
    "domain": "r7.com",
@@ -68093,7 +67956,9 @@
    ],
    "n_articles": 53,
    "citations": 282,
-   "top_in_languages": []
+   "top_in_languages": [
+    "tr"
+   ]
   },
   {
    "domain": "ltn.com.tw",
@@ -68104,7 +67969,9 @@
    ],
    "n_articles": 53,
    "citations": 373,
-   "top_in_languages": []
+   "top_in_languages": [
+    "zh"
+   ]
   },
   {
    "domain": "chunichi.co.jp",
@@ -68170,7 +68037,9 @@
    ],
    "n_articles": 48,
    "citations": 135,
-   "top_in_languages": []
+   "top_in_languages": [
+    "nl"
+   ]
   },
   {
    "domain": "hankyung.com",
@@ -68181,7 +68050,9 @@
    ],
    "n_articles": 48,
    "citations": 121,
-   "top_in_languages": []
+   "top_in_languages": [
+    "ko"
+   ]
   },
   {
    "domain": "ameblo.jp",
@@ -68291,7 +68162,9 @@
    ],
    "n_articles": 39,
    "citations": 139,
-   "top_in_languages": []
+   "top_in_languages": [
+    "sv"
+   ]
   },
   {
    "domain": "vanityfair.it",
@@ -68324,17 +68197,6 @@
    ],
    "n_articles": 38,
    "citations": 122,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.co.in",
-   "n_languages": 2,
-   "languages": [
-    "fa",
-    "hi"
-   ],
-   "n_articles": 37,
-   "citations": 119,
    "top_in_languages": []
   },
   {
@@ -68632,7 +68494,9 @@
    ],
    "n_articles": 30,
    "citations": 125,
-   "top_in_languages": []
+   "top_in_languages": [
+    "nl"
+   ]
   },
   {
    "domain": "sbs.co.kr",
@@ -68698,17 +68562,6 @@
    ],
    "n_articles": 27,
    "citations": 73,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.it",
-   "n_languages": 2,
-   "languages": [
-    "de",
-    "it"
-   ],
-   "n_articles": 27,
-   "citations": 117,
    "top_in_languages": []
   },
   {
@@ -70516,17 +70369,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.com.tw",
-   "n_languages": 2,
-   "languages": [
-    "vi",
-    "zh"
-   ],
-   "n_articles": 13,
-   "citations": 273,
-   "top_in_languages": []
-  },
-  {
    "domain": "kanald.com.tr",
    "n_languages": 2,
    "languages": [
@@ -71547,17 +71389,6 @@
    ],
    "n_articles": 10,
    "citations": 24,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.com.hk",
-   "n_languages": 2,
-   "languages": [
-    "vi",
-    "zh"
-   ],
-   "n_articles": 10,
-   "citations": 32,
    "top_in_languages": []
   },
   {
@@ -75906,17 +75737,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.ae",
-   "n_languages": 2,
-   "languages": [
-    "ar",
-    "hi"
-   ],
-   "n_articles": 4,
-   "citations": 11,
-   "top_in_languages": []
-  },
-  {
    "domain": "hs.fi",
    "n_languages": 2,
    "languages": [
@@ -78051,17 +77871,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.iq",
-   "n_languages": 2,
-   "languages": [
-    "ar",
-    "fa"
-   ],
-   "n_articles": 3,
-   "citations": 6,
-   "top_in_languages": []
-  },
-  {
    "domain": "washington-report.org",
    "n_languages": 2,
    "languages": [
@@ -78488,17 +78297,6 @@
    ],
    "n_articles": 3,
    "citations": 3,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.at",
-   "n_languages": 2,
-   "languages": [
-    "de",
-    "fa"
-   ],
-   "n_articles": 3,
-   "citations": 4,
    "top_in_languages": []
   },
   {
@@ -83966,17 +83764,6 @@
    ],
    "n_articles": 2,
    "citations": 4,
-   "top_in_languages": []
-  },
-  {
-   "domain": "amazon.fr",
-   "n_languages": 2,
-   "languages": [
-    "ar",
-    "fr"
-   ],
-   "n_articles": 2,
-   "citations": 3,
    "top_in_languages": []
   },
   {
@@ -101679,17 +101466,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.ee",
-   "n_languages": 2,
-   "languages": [
-    "fa",
-    "fr"
-   ],
-   "n_articles": 2,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "messivsronaldo.app",
    "n_languages": 2,
    "languages": [
@@ -103681,17 +103457,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.ch",
-   "n_languages": 2,
-   "languages": [
-    "fr",
-    "ru"
-   ],
-   "n_articles": 2,
-   "citations": 3,
-   "top_in_languages": []
-  },
-  {
    "domain": "withgoogle.com",
    "n_languages": 2,
    "languages": [
@@ -104914,17 +104679,6 @@
   },
   {
    "domain": "leeds.ac.uk",
-   "n_languages": 2,
-   "languages": [
-    "id",
-    "ko"
-   ],
-   "n_articles": 2,
-   "citations": 4,
-   "top_in_languages": []
-  },
-  {
-   "domain": "www.sg",
    "n_languages": 2,
    "languages": [
     "id",
@@ -110116,17 +109870,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.cz",
-   "n_languages": 2,
-   "languages": [
-    "ru",
-    "vi"
-   ],
-   "n_articles": 2,
-   "citations": 3,
-   "top_in_languages": []
-  },
-  {
    "domain": "pohlyad.com",
    "n_languages": 2,
    "languages": [
@@ -111346,7 +111089,9 @@
    ],
    "n_articles": 60,
    "citations": 248,
-   "top_in_languages": []
+   "top_in_languages": [
+    "vi"
+   ]
   },
   {
    "domain": "wprost.pl",
@@ -111356,7 +111101,9 @@
    ],
    "n_articles": 54,
    "citations": 124,
-   "top_in_languages": []
+   "top_in_languages": [
+    "pl"
+   ]
   },
   {
    "domain": "vov.vn",
@@ -111366,7 +111113,9 @@
    ],
    "n_articles": 49,
    "citations": 144,
-   "top_in_languages": []
+   "top_in_languages": [
+    "vi"
+   ]
   },
   {
    "domain": "correiobraziliense.com.br",
@@ -111386,7 +111135,9 @@
    ],
    "n_articles": 45,
    "citations": 217,
-   "top_in_languages": []
+   "top_in_languages": [
+    "sv"
+   ]
   },
   {
    "domain": "chinhphu.vn",
@@ -112196,16 +111947,6 @@
    ],
    "n_articles": 21,
    "citations": 45,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.pl",
-   "n_languages": 1,
-   "languages": [
-    "pl"
-   ],
-   "n_articles": 21,
-   "citations": 85,
    "top_in_languages": []
   },
   {
@@ -119856,16 +119597,6 @@
    ],
    "n_articles": 5,
    "citations": 12,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.jo",
-   "n_languages": 1,
-   "languages": [
-    "ar"
-   ],
-   "n_articles": 5,
-   "citations": 18,
    "top_in_languages": []
   },
   {
@@ -130179,16 +129910,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.it",
-   "n_languages": 1,
-   "languages": [
-    "it"
-   ],
-   "n_articles": 3,
-   "citations": 11,
-   "top_in_languages": []
-  },
-  {
    "domain": "sportal.it",
    "n_languages": 1,
    "languages": [
@@ -135669,16 +135390,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "yahoo.com.tw",
-   "n_languages": 1,
-   "languages": [
-    "zh"
-   ],
-   "n_articles": 3,
-   "citations": 4,
-   "top_in_languages": []
-  },
-  {
    "domain": "chinayes.com",
    "n_languages": 1,
    "languages": [
@@ -137606,16 +137317,6 @@
    ],
    "n_articles": 2,
    "citations": 4,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.dz",
-   "n_languages": 1,
-   "languages": [
-    "ar"
-   ],
-   "n_articles": 2,
-   "citations": 8,
    "top_in_languages": []
   },
   {
@@ -141846,16 +141547,6 @@
    ],
    "n_articles": 2,
    "citations": 2,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.cl",
-   "n_languages": 1,
-   "languages": [
-    "es"
-   ],
-   "n_articles": 2,
-   "citations": 5,
    "top_in_languages": []
   },
   {
@@ -152689,16 +152380,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.dk",
-   "n_languages": 1,
-   "languages": [
-    "pl"
-   ],
-   "n_articles": 2,
-   "citations": 6,
-   "top_in_languages": []
-  },
-  {
    "domain": "nbp.pl",
    "n_languages": 1,
    "languages": [
@@ -153649,16 +153330,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.com.br",
-   "n_languages": 1,
-   "languages": [
-    "pt"
-   ],
-   "n_articles": 2,
-   "citations": 6,
-   "top_in_languages": []
-  },
-  {
    "domain": "b3.com.br",
    "n_languages": 1,
    "languages": [
@@ -154156,16 +153827,6 @@
    ],
    "n_articles": 2,
    "citations": 3,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.pt",
-   "n_languages": 1,
-   "languages": [
-    "pt"
-   ],
-   "n_articles": 2,
-   "citations": 8,
    "top_in_languages": []
   },
   {
@@ -167579,16 +167240,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.ae",
-   "n_languages": 1,
-   "languages": [
-    "ar"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "khabrabyad.com",
    "n_languages": 1,
    "languages": [
@@ -169450,16 +169101,6 @@
   },
   {
    "domain": "valerieyule.com.au",
-   "n_languages": 1,
-   "languages": [
-    "ar"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.mk",
    "n_languages": 1,
    "languages": [
     "ar"
@@ -174900,16 +174541,6 @@
   },
   {
    "domain": "m-w.com",
-   "n_languages": 1,
-   "languages": [
-    "ar"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.ps",
    "n_languages": 1,
    "languages": [
     "ar"
@@ -208199,16 +207830,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.com.au",
-   "n_languages": 1,
-   "languages": [
-    "en"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "goldhouse.org",
    "n_languages": 1,
    "languages": [
@@ -209006,16 +208627,6 @@
    ],
    "n_articles": 1,
    "citations": 1,
-   "top_in_languages": []
-  },
-  {
-   "domain": "amazon.ca",
-   "n_languages": 1,
-   "languages": [
-    "en"
-   ],
-   "n_articles": 1,
-   "citations": 2,
    "top_in_languages": []
   },
   {
@@ -225239,16 +224850,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.co.nz",
-   "n_languages": 1,
-   "languages": [
-    "es"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
    "domain": "actasanitaria.com",
    "n_languages": 1,
    "languages": [
@@ -226560,16 +226161,6 @@
   },
   {
    "domain": "embavenez.co.uk",
-   "n_languages": 1,
-   "languages": [
-    "es"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.ie",
    "n_languages": 1,
    "languages": [
     "es"
@@ -243099,16 +242690,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.no",
-   "n_languages": 1,
-   "languages": [
-    "fa"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "55online.news",
    "n_languages": 1,
    "languages": [
@@ -245960,16 +245541,6 @@
   },
   {
    "domain": "hamvatansalam.com",
-   "n_languages": 1,
-   "languages": [
-    "fa"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.al",
    "n_languages": 1,
    "languages": [
     "fa"
@@ -344159,16 +343730,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "amazon.pl",
-   "n_languages": 1,
-   "languages": [
-    "pl"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
    "domain": "madeleinemilburn.co.uk",
    "n_languages": 1,
    "languages": [
@@ -364309,16 +363870,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.bg",
-   "n_languages": 1,
-   "languages": [
-    "ru"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
    "domain": "nakanune.ru",
    "n_languages": 1,
    "languages": [
@@ -368549,16 +368100,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.kz",
-   "n_languages": 1,
-   "languages": [
-    "ru"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "lenoblmus.ru",
    "n_languages": 1,
    "languages": [
@@ -369109,16 +368650,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.kg",
-   "n_languages": 1,
-   "languages": [
-    "ru"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
    "domain": "alashainasy.kz",
    "n_languages": 1,
    "languages": [
@@ -369416,16 +368947,6 @@
    ],
    "n_articles": 1,
    "citations": 8,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.by",
-   "n_languages": 1,
-   "languages": [
-    "ru"
-   ],
-   "n_articles": 1,
-   "citations": 1,
    "top_in_languages": []
   },
   {
@@ -384909,16 +384430,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.md",
-   "n_languages": 1,
-   "languages": [
-    "ru"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
    "domain": "mormonnewsroom.org",
    "n_languages": 1,
    "languages": [
@@ -396969,16 +396480,6 @@
    "top_in_languages": []
   },
   {
-   "domain": "google.je",
-   "n_languages": 1,
-   "languages": [
-    "tr"
-   ],
-   "n_articles": 1,
-   "citations": 1,
-   "top_in_languages": []
-  },
-  {
    "domain": "karagoz.net",
    "n_languages": 1,
    "languages": [
@@ -397196,16 +396697,6 @@
    ],
    "n_articles": 1,
    "citations": 2,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.me",
-   "n_languages": 1,
-   "languages": [
-    "tr"
-   ],
-   "n_articles": 1,
-   "citations": 4,
    "top_in_languages": []
   },
   {
@@ -426050,16 +425541,6 @@
   },
   {
    "domain": "ltsoj.com",
-   "n_languages": 1,
-   "languages": [
-    "zh"
-   ],
-   "n_articles": 1,
-   "citations": 2,
-   "top_in_languages": []
-  },
-  {
-   "domain": "google.com.sg",
    "n_languages": 1,
    "languages": [
     "zh"

@@ -1,6 +1,6 @@
 # Results
 
-Collected 2026-10-23. 119 libraries in 37 countries; 31,338 distinct titles; 5,184 platform domains.
+Collected 2026-10-23. 119 libraries in 37 countries; 31,338 distinct titles; 5,216 platform domains.
 
 ## Sample
 
@@ -30,7 +30,7 @@ robots.txt of the libraries' own list sites: 119 of 119 name at least one AI age
 | core | 121 | 69 |
 | common | 635 | 168 |
 | recognized | 3936 | 825 |
-| local | 26646 | 3523 |
+| local | 26646 | 3518 |
 
 ### The 40 most widely listed titles
 
@@ -353,33 +353,33 @@ Bot check answered an honest request: 85 of 237.
 
 Signals: references in the 3,989 most-read articles of 20 Wikipedia language editions, and the news, free-web, data and government guides of 96 libraries.
 
-open-web 360 (of which 62 enter only as one of a language's top 5), open-web-curated 56.
+open-web 410 (of which 112 enter only as one of a language's top 10), open-web-curated 56.
 
-**owner_type** (open-web): commercial 252, nonprofit 48, government 34, intergovernmental 12, educational 11, unknown 2, individual 1
+**owner_type** (open-web): commercial 289, nonprofit 52, government 43, intergovernmental 12, educational 11, unknown 2, individual 1
 
-**access_model** (open-web): free 214, freemium 109, subscription 14, mixed 11, free_with_account 6, institutional 5, unknown 1
+**access_model** (open-web): free 244, freemium 121, subscription 20, mixed 12, institutional 6, free_with_account 6, unknown 1
 
-**robots_ai** (open-web): no_ai_rules 171, blocks_ai_user_agents 120, blocks_ai_crawlers 45, blocks_all_bots 14, unknown 10
+**robots_ai** (open-web): no_ai_rules 197, blocks_ai_user_agents 133, blocks_ai_crawlers 53, blocks_all_bots 17, unknown 10
 
-**automation_letter** (open-web): human-pace 290, manual-only 40, allowed 30
+**automation_letter** (open-web): human-pace 336, manual-only 43, allowed 31
 
-**automation_spirit** (open-web): human-pace 180, manual-only 150, allowed 30
+**automation_spirit** (open-web): human-pace 213, manual-only 166, allowed 31
 
-| Domain | Open-web tier | Wiki languages | Wiki articles | Top 5 in | Guide libraries | Library tier | Owner | Access | robots AI | Letter | Spirit |
+| Domain | Open-web tier | Wiki languages | Wiki articles | Top 10 in | Guide libraries | Library tier | Owner | Access | robots AI | Letter | Spirit |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| google.com | open-web | 20 | 854 | fa, hi | 19 | core | commercial | free | no_ai_rules | human-pace | human-pace |
-| youtube.com | open-web | 20 | 1068 | zh | 18 | local | commercial | free | no_ai_rules | human-pace | human-pace |
+| google.com | open-web | 20 | 1397 | ar, de, es, fa, fr, hi, id, ko, pl, pt, ru, tr, vi, zh | 19 | core | commercial | free | no_ai_rules | human-pace | human-pace |
+| youtube.com | open-web | 20 | 1068 | de, en, es, it, ja, nl, ru, uk, zh | 18 | local | commercial | free | no_ai_rules | human-pace | human-pace |
 | loc.gov | open-web | 20 | 131 |  | 12 | common | government | free | no_ai_rules | human-pace | human-pace |
 | census.gov | open-web | 20 | 40 |  | 12 | recognized | government | free | no_ai_rules | human-pace | human-pace |
 | un.org | open-web | 20 | 258 |  | 11 | common | intergovernmental | free | no_ai_rules | human-pace | human-pace |
 | facebook.com | open-web | 20 | 216 |  | 11 | local | commercial | free_with_account | blocks_all_bots | manual-only | manual-only |
 | who.int | open-web | 20 | 103 |  | 10 | recognized | intergovernmental | free | blocks_ai_crawlers | human-pace | human-pace |
-| nytimes.com | open-web | 20 | 920 | ar, en | 9 | core | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
+| nytimes.com | open-web | 20 | 920 | ar, en, es, fa, vi | 9 | core | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
 | worldbank.org | open-web | 20 | 169 |  | 9 | common | intergovernmental | free | no_ai_rules | human-pace | human-pace |
 | twitter.com | open-web | 20 | 301 |  | 8 | none | commercial | free_with_account | blocks_all_bots | manual-only | manual-only |
-| worldcat.org | open-web | 20 | 1024 | en, fa, hi, pl | 7 | core | nonprofit | mixed | blocks_ai_user_agents | human-pace | manual-only |
+| worldcat.org | open-web | 20 | 1024 | en, fa, hi, id, ko, pl, pt, ru, sv, tr, vi, zh | 7 | core | nonprofit | mixed | blocks_ai_user_agents | human-pace | manual-only |
 | instagram.com | open-web | 20 | 241 |  | 7 | none | commercial | free_with_account | blocks_all_bots | manual-only | manual-only |
-| nih.gov | open-web | 20 | 273 |  | 6 | core | government | free | no_ai_rules | human-pace | human-pace |
+| nih.gov | open-web | 20 | 273 | fa | 6 | core | government | free | no_ai_rules | human-pace | human-pace |
 | ft.com | open-web | 20 | 198 |  | 6 | common | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
 | archive.org | open-web | 20 | 659 | ar, fa | 5 | common | nonprofit | free | no_ai_rules | human-pace | human-pace |
 | unesco.org | open-web | 20 | 152 |  | 4 | common | intergovernmental | free | blocks_ai_crawlers | human-pace | human-pace |
@@ -391,8 +391,8 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | jstor.org | open-web | 20 | 218 |  | 2 | core | nonprofit | mixed | blocks_ai_crawlers | human-pace | human-pace |
 | imf.org | open-web | 20 | 240 |  | 2 | common | intergovernmental | free | no_ai_rules | human-pace | human-pace |
 | economist.com | open-web | 20 | 213 |  | 2 | common | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
-| bbc.co.uk | open-web | 20 | 855 | ar, fa | 2 | recognized | government | mixed | blocks_ai_user_agents | human-pace | manual-only |
-| reuters.com | open-web | 20 | 640 |  | 2 | local | commercial | freemium | blocks_all_bots | manual-only | manual-only |
+| bbc.co.uk | open-web | 20 | 855 | ar, en, es, fa | 2 | recognized | government | mixed | blocks_ai_user_agents | human-pace | manual-only |
+| reuters.com | open-web | 20 | 640 | ar | 2 | local | commercial | freemium | blocks_all_bots | manual-only | manual-only |
 | state.gov | open-web | 20 | 154 |  | 2 | local | government | free | no_ai_rules | human-pace | human-pace |
 | britannica.com | open-web | 20 | 359 |  | 0 | recognized | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | foreignpolicy.com | open-web | 20 | 75 |  | 0 | recognized | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
@@ -400,19 +400,19 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | theatlantic.com | open-web | 20 | 165 |  | 0 | recognized | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | bloomberg.com | open-web | 20 | 286 |  | 0 | recognized | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | variety.com | open-web | 20 | 385 | en | 0 | local | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
-| bbc.com | open-web | 20 | 1105 | ar, en, es, fa, tr, uk, vi | 0 | local | government | free | blocks_ai_user_agents | human-pace | manual-only |
+| bbc.com | open-web | 20 | 1105 | ar, en, es, fa, hi, id, pt, ru, tr, uk, vi | 0 | local | government | free | blocks_ai_user_agents | human-pace | manual-only |
 | pbs.org | open-web | 20 | 156 |  | 0 | local | nonprofit | free | blocks_ai_crawlers | human-pace | human-pace |
 | smh.com.au | open-web | 20 | 105 |  | 0 | local | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | time.com | open-web | 20 | 481 |  | 0 | local | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | wordpress.com | open-web | 20 | 163 |  | 0 | local | commercial | free | no_ai_rules | allowed | allowed |
-| yahoo.com | open-web | 20 | 509 | zh | 0 | local | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| yahoo.com | open-web | 20 | 596 | zh | 0 | local | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | aljazeera.com | open-web | 20 | 224 |  | 0 | none | government | free | blocks_ai_user_agents | manual-only | manual-only |
 | businessinsider.com | open-web | 20 | 237 |  | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | cbsnews.com | open-web | 20 | 245 |  | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
 | cnbc.com | open-web | 20 | 178 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
-| cnn.com | open-web | 20 | 664 | ar | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| cnn.com | open-web | 20 | 664 | ar, en, es | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | forbes.com | open-web | 20 | 442 |  | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
-| independent.co.uk | open-web | 20 | 461 |  | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| independent.co.uk | open-web | 20 | 461 | en | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | jpost.com | open-web | 20 | 126 |  | 0 | none | commercial | freemium | no_ai_rules | manual-only | manual-only |
 | latimes.com | open-web | 20 | 336 |  | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | miamiherald.com | open-web | 20 | 64 |  | 0 | none | commercial | freemium | unknown | human-pace | human-pace |
@@ -423,9 +423,9 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | rsf.org | open-web | 20 | 80 |  | 0 | none | nonprofit | free | no_ai_rules | allowed | allowed |
 | telegraph.co.uk | open-web | 20 | 444 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | thedailybeast.com | open-web | 20 | 105 |  | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
-| theguardian.com | open-web | 20 | 924 | en, es | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| theguardian.com | open-web | 20 | 924 | ar, en, es, fa | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | timesonline.co.uk | open-web | 20 | 105 |  | 0 | none | commercial | subscription | unknown | human-pace | human-pace |
-| usatoday.com | open-web | 20 | 347 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| usatoday.com | open-web | 20 | 347 | en | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | vox.com | open-web | 20 | 106 |  | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | x.com | open-web | 20 | 318 | ja | 0 | none | commercial | free_with_account | blocks_all_bots | manual-only | manual-only |
 | whitehouse.gov | open-web | 19 | 61 |  | 3 | none | government | free | no_ai_rules | human-pace | human-pace |
@@ -456,7 +456,7 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | go.com | open-web | 19 | 295 |  | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
 | goal.com | open-web | 19 | 232 |  | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | haaretz.com | open-web | 19 | 89 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
-| hindustantimes.com | open-web | 19 | 122 |  | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
+| hindustantimes.com | open-web | 19 | 122 | hi | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | hollywoodreporter.com | open-web | 19 | 293 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | house.gov | open-web | 19 | 38 |  | 0 | none | government | free | no_ai_rules | allowed | allowed |
 | huffingtonpost.com | open-web | 19 | 130 |  | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
@@ -484,6 +484,7 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | cambridge.org | open-web | 18 | 56 |  | 0 | core | educational | mixed | blocks_ai_user_agents | human-pace | manual-only |
 | springer.com | open-web | 18 | 55 |  | 0 | core | commercial | mixed | no_ai_rules | human-pace | human-pace |
 | nature.com | open-web | 18 | 70 |  | 0 | common | commercial | mixed | blocks_ai_user_agents | human-pace | manual-only |
+| amazon.com | open-web | 18 | 82 |  | 0 | local | commercial | mixed | blocks_ai_user_agents | human-pace | manual-only |
 | nationalgeographic.com | open-web | 18 | 65 |  | 0 | local | commercial | free | no_ai_rules | human-pace | human-pace |
 | rferl.org | open-web | 18 | 68 |  | 0 | local | government | free | no_ai_rules | human-pace | human-pace |
 | theage.com.au | open-web | 18 | 45 |  | 0 | local | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
@@ -532,7 +533,7 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | iht.com | open-web | 17 | 42 |  | 0 | none | commercial | freemium | unknown | human-pace | human-pace |
 | mirror.co.uk | open-web | 17 | 107 |  | 0 | none | commercial | free | blocks_ai_user_agents | manual-only | manual-only |
 | mlssoccer.com | open-web | 17 | 30 |  | 0 | none | commercial | free | no_ai_rules | manual-only | manual-only |
-| ndtv.com | open-web | 17 | 121 |  | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| ndtv.com | open-web | 17 | 121 | hi | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | netflix.com | open-web | 17 | 71 |  | 0 | none | commercial | subscription | blocks_all_bots | manual-only | manual-only |
 | nps.gov | open-web | 17 | 29 |  | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
 | olympic.org | open-web | 17 | 32 |  | 0 | none | nonprofit | free | unknown | human-pace | human-pace |
@@ -554,7 +555,6 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | gallup.com | open-web | 16 | 32 |  | 0 | common | commercial | mixed | no_ai_rules | human-pace | human-pace |
 | bfi.org.uk | open-web | 16 | 38 |  | 0 | recognized | nonprofit | mixed | no_ai_rules | human-pace | human-pace |
 | iranicaonline.org | open-web | 16 | 31 |  | 0 | recognized | nonprofit | free | no_ai_rules | human-pace | human-pace |
-| google.co.uk | open-web | 16 | 35 |  | 0 | local | commercial | free | no_ai_rules | human-pace | human-pace |
 | ohchr.org | open-web | 16 | 42 |  | 0 | local | intergovernmental | free | unknown | human-pace | human-pace |
 | olympics.com | open-web | 16 | 66 |  | 0 | local | nonprofit | free | unknown | human-pace | human-pace |
 | carnegieendowment.org | open-web | 16 | 40 |  | 0 | local | nonprofit | free | no_ai_rules | human-pace | human-pace |
@@ -570,7 +570,7 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | esquire.com | open-web | 16 | 71 |  | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | faz.net | open-web | 16 | 133 | de | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | foxbusiness.com | open-web | 16 | 27 |  | 0 | none | commercial | free | no_ai_rules | manual-only | manual-only |
-| gazzetta.it | open-web | 16 | 105 |  | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
+| gazzetta.it | open-web | 16 | 105 | it | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | givemesport.com | open-web | 16 | 38 |  | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
 | gizmodo.com | open-web | 16 | 57 |  | 0 | none | commercial | free | blocks_ai_crawlers | manual-only | manual-only |
 | globo.com | open-web | 16 | 235 | pt | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
@@ -613,9 +613,9 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | nrk.no | open-web | 15 | 29 |  | 0 | local | government | free | blocks_ai_user_agents | human-pace | manual-only |
 | scribd.com | open-web | 15 | 46 |  | 0 | local | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | transparency.org | open-web | 15 | 47 |  | 0 | local | nonprofit | free | no_ai_rules | allowed | allowed |
-| aa.com.tr | open-web | 15 | 118 |  | 0 | none | government | freemium | no_ai_rules | human-pace | human-pace |
+| aa.com.tr | open-web | 15 | 118 | tr | 0 | none | government | freemium | no_ai_rules | human-pace | human-pace |
 | abcnews.com | open-web | 15 | 54 |  | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
-| aljazeera.net | open-web | 15 | 84 |  | 0 | none | government | free | blocks_ai_user_agents | human-pace | manual-only |
+| aljazeera.net | open-web | 15 | 84 | ar | 0 | none | government | free | blocks_ai_user_agents | human-pace | manual-only |
 | arstechnica.com | open-web | 15 | 68 |  | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | beinsports.com | open-web | 15 | 64 |  | 0 | none | commercial | subscription | no_ai_rules | human-pace | human-pace |
 | blog.youtube | open-web | 15 | 17 |  | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
@@ -667,28 +667,43 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | lefigaro.fr | open-web | 14 | 183 | fr | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | sueddeutsche.de | open-web | 14 | 116 | de | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | proquest.com | open-web | 13 | 23 |  | 10 | core | commercial | institutional | blocks_ai_user_agents | human-pace | manual-only |
+| people.com.cn | open-web | 13 | 82 | zh | 0 | local | government | subscription | no_ai_rules | human-pace | human-pace |
 | welt.de | open-web | 13 | 125 | de | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | chosun.com | open-web | 12 | 105 | ko | 0 | local | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
+| alarabiya.net | open-web | 12 | 88 | ar | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | sky.it | open-web | 12 | 142 | it | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| tagesschau.de | open-web | 12 | 94 | de | 0 | none | nonprofit | free | blocks_ai_crawlers | human-pace | human-pace |
 | zeit.de | open-web | 12 | 114 | de | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | leparisien.fr | open-web | 11 | 147 | fr | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
+| radiofarda.com | open-web | 11 | 59 | fa | 0 | none | nonprofit | free | no_ai_rules | human-pace | human-pace |
 | ria.ru | open-web | 11 | 116 | ru | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
 | ansa.it | open-web | 10 | 125 | it | 0 | none | nonprofit | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| focus.de | open-web | 10 | 75 | de | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
+| indiatoday.in | open-web | 10 | 73 | hi | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | nos.nl | open-web | 10 | 122 | nl | 0 | none | nonprofit | free | blocks_ai_user_agents | human-pace | manual-only |
 | rbc.ru | open-web | 10 | 108 | ru | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | uol.com.br | open-web | 10 | 183 | pt | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | bfmtv.com | open-web | 9 | 132 | fr | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| francetvinfo.fr | open-web | 9 | 103 | fr | 0 | none | nonprofit | free | blocks_ai_user_agents | human-pace | manual-only |
 | liberation.fr | open-web | 9 | 120 | fr | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | mediaset.it | open-web | 9 | 95 | it | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | kommersant.ru | open-web | 8 | 109 | ru | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | nu.nl | open-web | 8 | 81 | nl | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | terra.com.br | open-web | 8 | 110 | pt | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| asahi.com | open-web | 7 | 104 | ja | 0 | recognized | commercial | institutional | blocks_ai_user_agents | human-pace | manual-only |
+| 20minutes.fr | open-web | 7 | 111 | fr | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | abril.com.br | open-web | 7 | 112 | pt | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | ad.nl | open-web | 7 | 85 | nl | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| lepoint.fr | open-web | 7 | 103 | fr | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | oricon.co.jp | open-web | 7 | 171 | ja | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| ouest-france.fr | open-web | 7 | 107 | fr | 0 | none | commercial | freemium | blocks_all_bots | manual-only | manual-only |
+| telegraaf.nl | open-web | 7 | 63 | nl | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | udn.com | open-web | 7 | 66 | zh | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | aftonbladet.se | open-web | 6 | 118 | sv | 0 | local | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| donga.com | open-web | 6 | 60 | ko | 0 | local | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | svt.se | open-web | 6 | 126 | sv | 0 | local | government | free | blocks_ai_crawlers | human-pace | human-pace |
+| isna.ir | open-web | 6 | 52 | fa | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
+| lastampa.it | open-web | 6 | 77 | it | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | nrc.nl | open-web | 6 | 66 | nl | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | onet.pl | open-web | 6 | 93 | pl | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | tass.ru | open-web | 6 | 91 | ru | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
@@ -699,34 +714,69 @@ open-web 360 (of which 62 enter only as one of a language's top 5), open-web-cur
 | cnnbrasil.com.br | open-web | 5 | 101 | pt | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | hani.co.kr | open-web | 5 | 49 | ko | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | hurriyet.com.tr | open-web | 5 | 98 | tr | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| ig.com.br | open-web | 5 | 83 | pt | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| ilpost.it | open-web | 5 | 70 | it | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | lenta.ru | open-web | 5 | 109 | ru | 0 | none | commercial | free | unknown | human-pace | human-pace |
+| rg.ru | open-web | 5 | 85 | ru | 0 | none | government | free | blocks_ai_crawlers | human-pace | human-pace |
+| rp.pl | open-web | 5 | 58 | pl | 0 | none | commercial | subscription | no_ai_rules | human-pace | human-pace |
 | tempo.co | open-web | 5 | 81 | id | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | wp.pl | open-web | 5 | 84 | pl | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
+| wyborcza.pl | open-web | 5 | 66 | pl | 0 | none | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
+| sverigesradio.se | open-web | 4 | 92 | sv | 0 | local | government | free | blocks_ai_user_agents | human-pace | manual-only |
 | daum.net | open-web | 4 | 52 | ko | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | hk01.com | open-web | 4 | 76 | zh | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| ilfattoquotidiano.it | open-web | 4 | 63 | it | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
+| khan.co.kr | open-web | 4 | 52 | ko | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
 | nikkansports.com | open-web | 4 | 129 | ja | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| polskieradio.pl | open-web | 4 | 47 | pl | 0 | none | nonprofit | free | no_ai_rules | human-pace | human-pace |
 | rbc.ua | open-web | 4 | 99 | uk | 0 | none | commercial | free | no_ai_rules | allowed | allowed |
+| rtl.nl | open-web | 4 | 37 | nl | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| sabah.com.tr | open-web | 4 | 54 | tr | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | suspilne.media | open-web | 4 | 88 | uk | 0 | none | nonprofit | free | no_ai_rules | human-pace | human-pace |
+| tsn.ua | open-web | 4 | 77 | uk | 0 | none | commercial | free | blocks_all_bots | manual-only | manual-only |
 | vnexpress.net | open-web | 4 | 96 | vi | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
+| ne.se | open-web | 3 | 46 | sv | 0 | local | commercial | subscription | no_ai_rules | human-pace | human-pace |
+| 24tv.ua | open-web | 3 | 75 | uk | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| antaranews.com | open-web | 3 | 55 | id | 0 | none | government | free | blocks_ai_crawlers | human-pace | human-pace |
 | cnnindonesia.com | open-web | 3 | 63 | id | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| estadao.com.br | open-web | 3 | 88 | pt | 0 | none | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
 | expressen.se | open-web | 3 | 100 | sv | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | haberturk.com | open-web | 3 | 61 | tr | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | interia.pl | open-web | 3 | 72 | pl | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| jagran.com | open-web | 3 | 39 | hi | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | liputan6.com | open-web | 3 | 62 | id | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| mdpr.jp | open-web | 3 | 105 | ja | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| n-tv.de | open-web | 3 | 71 | de | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
+| nv.ua | open-web | 3 | 66 | uk | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
+| radiosvoboda.org | open-web | 3 | 82 | uk | 0 | none | government | free | no_ai_rules | allowed | allowed |
 | sina.com.cn | open-web | 3 | 64 | zh | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | sponichi.co.jp | open-web | 3 | 129 | ja | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| tribunnews.com | open-web | 3 | 61 | id | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
 | tvn24.pl | open-web | 3 | 68 | pl | 0 | none | commercial | freemium | blocks_ai_crawlers | human-pace | human-pace |
 | ukrinform.ua | open-web | 3 | 84 | uk | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
 | unian.ua | open-web | 3 | 87 | uk | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| kb.se | open-web | 2 | 39 | sv | 0 | local | government | free | no_ai_rules | human-pace | human-pace |
 | cumhuriyet.com.tr | open-web | 2 | 55 | tr | 0 | local | nonprofit | subscription | blocks_ai_crawlers | human-pace | human-pace |
 | svd.se | open-web | 2 | 93 | sv | 0 | local | commercial | subscription | blocks_ai_user_agents | human-pace | manual-only |
 | detik.com | open-web | 2 | 87 | id | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| hankyung.com | open-web | 2 | 48 | ko | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
+| hln.be | open-web | 2 | 30 | nl | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | kompas.com | open-web | 2 | 100 | id | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
+| ltn.com.tw | open-web | 2 | 53 | zh | 0 | none | commercial | free | blocks_ai_crawlers | human-pace | human-pace |
 | milliyet.com.tr | open-web | 2 | 85 | tr | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
 | natalie.mu | open-web | 2 | 140 | ja | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| ntv.com.tr | open-web | 2 | 53 | tr | 0 | none | commercial | free | blocks_ai_user_agents | human-pace | manual-only |
+| prtimes.jp | open-web | 2 | 105 | ja | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| realsound.jp | open-web | 2 | 99 | ja | 0 | none | commercial | free | no_ai_rules | human-pace | human-pace |
+| sohu.com | open-web | 2 | 57 | zh | 0 | none | commercial | free | blocks_all_bots | manual-only | manual-only |
+| trouw.nl | open-web | 2 | 48 | nl | 0 | none | commercial | freemium | blocks_ai_user_agents | human-pace | manual-only |
 | vietnamnet.vn | open-web | 2 | 67 | vi | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
+| gp.se | open-web | 1 | 45 | sv | 0 | none | commercial | subscription | no_ai_rules | human-pace | human-pace |
 | thanhnien.vn | open-web | 1 | 67 | vi | 0 | none | government | free | no_ai_rules | allowed | allowed |
+| tienphong.vn | open-web | 1 | 60 | vi | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
 | tuoitre.vn | open-web | 1 | 89 | vi | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
+| vov.vn | open-web | 1 | 49 | vi | 0 | none | government | free | no_ai_rules | human-pace | human-pace |
+| wprost.pl | open-web | 1 | 54 | pl | 0 | none | commercial | freemium | no_ai_rules | human-pace | human-pace |
 | gutenberg.org | open-web-curated | 14 | 22 |  | 0 | common | nonprofit | free | no_ai_rules | human-pace | human-pace |
 | semanticscholar.org | open-web-curated | 14 | 152 |  | 0 | recognized | nonprofit | free | no_ai_rules | human-pace | human-pace |
 | europarl.europa.eu | open-web-curated | 14 | 49 |  | 0 | local | intergovernmental | free | no_ai_rules | human-pace | human-pace |

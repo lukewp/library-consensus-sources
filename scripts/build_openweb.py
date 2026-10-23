@@ -9,7 +9,7 @@ Signals per registrable domain:
   seed:      the hand seed group, if any (data/openweb_seed.json)
 Open-web tier rule (published in METHOD.md):
   open-web          cited in the most-read articles of >= 15 of 20 languages,
-                    or among the 5 domains most cited by one language's most-read articles,
+                    or among the 10 domains most cited by one language's most-read articles,
                     or linked from the guides of >= 10% of the libraries that have such guides, in >= 3 regions
   open-web-curated  on the seed list but below both thresholds
 """
@@ -54,7 +54,7 @@ def main():
                              -r.get("guides", {}).get("n_libraries", 0)))
     out = {"rule": {"wikipedia_languages_min": WIKI_LANG_MIN, "of_languages": 20, "guide_share_min": GUIDE_SHARE_MIN,
                     "guide_regions_min": GUIDE_REGION_MIN, "libraries_with_guides": n_g,
-                    "wikipedia_articles": wiki["n_articles"], "top_per_language": 5}, "domains": rows}
+                    "wikipedia_articles": wiki["n_articles"], "top_per_language": 10}, "domains": rows}
     (ROOT / "data" / "openweb.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (ROOT / "data" / "openweb_domains.json").write_text(json.dumps({"domains": [{"domain": r["domain"], "max_libraries": 99,
         "titles": [], "vendors": []} for r in rows]}, indent=1))

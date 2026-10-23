@@ -1,5 +1,5 @@
 {
- "n_domains": 4580,
+ "n_domains": 4574,
  "domains": [
   {
    "domain": "proquest.com",
@@ -1019,6 +1019,25 @@
    ]
   },
   {
+   "domain": "google.com",
+   "entries": 54,
+   "max_libraries": 58,
+   "library_mentions": 142,
+   "titles": [
+    "Google Scholar",
+    "Google Books",
+    "Google News Archive",
+    "Google Arts & Culture",
+    "Google Dataset Search",
+    "Google Images",
+    "Google News",
+    "Google Scholar Citations"
+   ],
+   "vendors": [
+    "Google"
+   ]
+  },
+  {
    "domain": "thomsonreuters.com",
    "entries": 33,
    "max_libraries": 32,
@@ -1115,25 +1134,6 @@
     "American Chemical Society",
     "CAS",
     "American Chemical Society (ACS)"
-   ]
-  },
-  {
-   "domain": "google.com",
-   "entries": 42,
-   "max_libraries": 58,
-   "library_mentions": 129,
-   "titles": [
-    "Google Scholar",
-    "Google Books",
-    "Google News Archive",
-    "Google Arts & Culture",
-    "Google Dataset Search",
-    "Google Images",
-    "Google News",
-    "Google Scholar Citations"
-   ],
-   "vendors": [
-    "Google"
    ]
   },
   {
@@ -2154,19 +2154,6 @@
    ]
   },
   {
-   "domain": "google.co.uk",
-   "entries": 2,
-   "max_libraries": 58,
-   "library_mentions": 60,
-   "titles": [
-    "Google Scholar",
-    "Jet"
-   ],
-   "vendors": [
-    "Google"
-   ]
-  },
-  {
    "domain": "hathitrust.org",
    "entries": 13,
    "max_libraries": 30,
@@ -2203,19 +2190,6 @@
    ],
    "vendors": [
     "Pharmaceutical Press"
-   ]
-  },
-  {
-   "domain": "google.com.au",
-   "entries": 2,
-   "max_libraries": 58,
-   "library_mentions": 59,
-   "titles": [
-    "Google Scholar",
-    "Google Scholar @UOW"
-   ],
-   "vendors": [
-    "Google"
    ]
   },
   {
@@ -2313,18 +2287,6 @@
    ],
    "vendors": [
     "OAPEN Foundation"
-   ]
-  },
-  {
-   "domain": "google.ca",
-   "entries": 1,
-   "max_libraries": 58,
-   "library_mentions": 58,
-   "titles": [
-    "Google Scholar"
-   ],
-   "vendors": [
-    "Google"
    ]
   },
   {
@@ -10115,23 +10077,6 @@
    ]
   },
   {
-   "domain": "google.com.gh",
-   "entries": 9,
-   "max_libraries": 1,
-   "library_mentions": 9,
-   "titles": [
-    "A Grain of Wheat",
-    "A Handbook of Methodologies of African Studies",
-    "African Short Stories",
-    "Chaka",
-    "Institute of African Studies University of Ghana, Legon",
-    "West African Studies",
-    "West African Studies Conflict over Resources and Terrorism Two Facets of ..",
-    "West African Studies Settlement, Market and Food Security"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "infolinker.com.tw",
    "entries": 8,
    "max_libraries": 2,
@@ -17383,6 +17328,17 @@
    "vendors": []
   },
   {
+   "domain": "amazon.com",
+   "entries": 2,
+   "max_libraries": 2,
+   "library_mentions": 3,
+   "titles": [
+    "Amazon.com",
+    "Amazon UK"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "americasbarometer.org",
    "entries": 2,
    "max_libraries": 2,
@@ -20629,16 +20585,6 @@
    "titles": [
     "Alpha Vantage Open-Access Stock API",
     "Alpha Vantage Stock API (Financial Database)"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "amazon.com",
-   "entries": 1,
-   "max_libraries": 2,
-   "library_mentions": 2,
-   "titles": [
-    "Amazon.com"
    ],
    "vendors": []
   },
@@ -28140,16 +28086,6 @@
    "library_mentions": 1,
    "titles": [
     "AMAP"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "amazon.co.uk",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "Amazon UK"
    ],
    "vendors": []
   },
@@ -36590,16 +36526,6 @@
    "library_mentions": 1,
    "titles": [
     "Noma Award"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "google.co.kr",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "Google 학술검색"
    ],
    "vendors": []
   },

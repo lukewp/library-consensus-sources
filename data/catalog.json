@@ -1,7 +1,7 @@
 {
  "n_libraries": 119,
  "n_entries": 31338,
- "n_platforms": 5184,
+ "n_platforms": 5216,
  "platforms": [
   {
    "domain": "jstor.org",
@@ -391,7 +391,9 @@
     "n_languages": 20,
     "n_articles": 273,
     "citations": 2088,
-    "top_in_languages": []
+    "top_in_languages": [
+     "fa"
+    ]
    },
    "guides": {
     "n_libraries": 6,
@@ -1305,7 +1307,7 @@
    "max_libraries": 58,
    "max_share": 0.4874,
    "regions_of_top": 9,
-   "n_entries": 42,
+   "n_entries": 54,
    "owner": "Google",
    "owner_type": "commercial",
    "access_model": "free",
@@ -1331,11 +1333,13 @@
    ],
    "disciplines": [
     "arts_humanities",
+    "business_economics",
     "data_statistics",
     "engineering_technology",
     "health_medicine",
     "law",
-    "news_media"
+    "news_media",
+    "reference"
    ],
    "titles": [
     "Google Scholar",
@@ -1348,11 +1352,23 @@
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 20,
-    "n_articles": 854,
-    "citations": 7754,
+    "n_articles": 1397,
+    "citations": 10192,
     "top_in_languages": [
+     "ar",
+     "de",
+     "es",
      "fa",
-     "hi"
+     "fr",
+     "hi",
+     "id",
+     "ko",
+     "pl",
+     "pt",
+     "ru",
+     "tr",
+     "vi",
+     "zh"
     ]
    },
    "guides": {
@@ -1887,7 +1903,15 @@
      "en",
      "fa",
      "hi",
-     "pl"
+     "id",
+     "ko",
+     "pl",
+     "pt",
+     "ru",
+     "sv",
+     "tr",
+     "vi",
+     "zh"
     ]
    },
    "guides": {
@@ -4147,7 +4171,10 @@
     "citations": 8259,
     "top_in_languages": [
      "ar",
-     "en"
+     "en",
+     "es",
+     "fa",
+     "vi"
     ]
    },
    "guides": {
@@ -22566,7 +22593,17 @@
     "Asahi shinbun: Kikuzo II Visual",
     "Kikuzo II visual for libraries"
    ],
-   "open_web_tier": null
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 104,
+    "citations": 520,
+    "top_in_languages": [
+     "ja"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "asia-studies.com",
@@ -43057,6 +43094,8 @@
     "citations": 6108,
     "top_in_languages": [
      "ar",
+     "en",
+     "es",
      "fa"
     ]
    },
@@ -54822,7 +54861,7 @@
    "max_libraries": 2,
    "max_share": 0.0168,
    "regions_of_top": 2,
-   "n_entries": 1,
+   "n_entries": 2,
    "owner": "Amazon.com, Inc.",
    "owner_type": "commercial",
    "access_model": "mixed",
@@ -54873,13 +54912,14 @@
    ],
    "disciplines": [],
    "titles": [
-    "Amazon.com"
+    "Amazon.com",
+    "Amazon UK"
    ],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
-    "n_languages": 14,
-    "n_articles": 43,
-    "citations": 91,
+    "n_languages": 18,
+    "n_articles": 82,
+    "citations": 204,
     "top_in_languages": []
    },
    "guides": null,
@@ -63598,51 +63638,6 @@
    "open_web_tier": null
   },
   {
-   "domain": "google.co.uk",
-   "tier": "local",
-   "top_title": "Jet",
-   "max_libraries": 2,
-   "max_share": 0.0168,
-   "regions_of_top": 2,
-   "n_entries": 1,
-   "owner": "Google",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [],
-   "titles": [
-    "Jet"
-   ],
-   "open_web_tier": "open-web",
-   "wikipedia": {
-    "n_languages": 16,
-    "n_articles": 35,
-    "citations": 96,
-    "top_in_languages": []
-   },
-   "guides": null,
-   "seed_group": null
-  },
-  {
    "domain": "govscape.net",
    "tier": "local",
    "top_title": "Govscape",
@@ -65138,28 +65133,32 @@
    "max_share": 0.0168,
    "regions_of_top": 2,
    "n_entries": 2,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "Institute of Mathematics, Polish Academy of Sciences",
+   "owner_type": "government",
+   "access_model": "mixed",
+   "category": "publisher_platform",
+   "owner_confidence": "medium",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
    "robots_ai": "unknown",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "robots.txt could not be read",
+    "access: mixed"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "robots.txt could not be read",
+    "access: mixed"
    ],
    "disciplines": [
     "physical_sciences_math"
@@ -66775,7 +66774,17 @@
     "Kungliga Biblioteket Sveriges Nationalbibliotek",
     "KVINNSAM - kvinno-, mans- och genusforskning (1970-)"
    ],
-   "open_web_tier": null
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 39,
+    "citations": 139,
+    "top_in_languages": [
+     "sv"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "kelime.com",
@@ -71691,12 +71700,14 @@
    "titles": [
     "人民日報 = People's Daily (1946 - Present)"
    ],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 13,
     "n_articles": 82,
     "citations": 770,
-    "top_in_languages": []
+    "top_in_languages": [
+     "zh"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -83018,76 +83029,6 @@
    "open_web_tier": null
   },
   {
-   "domain": "amazon.co.uk",
-   "tier": "local",
-   "top_title": "Amazon UK",
-   "max_libraries": 1,
-   "max_share": 0.0084,
-   "regions_of_top": 1,
-   "n_entries": 1,
-   "owner": "Amazon",
-   "owner_type": "commercial",
-   "access_model": "pay_per_use",
-   "category": "other",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "prohibited",
-   "ai_tdm": "training_prohibited",
-   "robots_ai": "blocks_ai_user_agents",
-   "robots_ai_agents": [
-    "bytespider",
-    "ccbot",
-    "chatgpt-user",
-    "claude-searchbot",
-    "claude-user",
-    "claude-web",
-    "claudebot",
-    "cohere-ai",
-    "diffbot",
-    "duckassistbot",
-    "gemini-deep-research",
-    "google-extended",
-    "gptbot",
-    "imagesiftbot",
-    "meta-externalagent",
-    "mistralai-user",
-    "oai-searchbot",
-    "perplexity-user",
-    "perplexitybot",
-    "timpibot",
-    "youbot"
-   ],
-   "bot_check": false,
-   "paywall_cues": [
-    "sign in",
-    "subscribe"
-   ],
-   "terms_urls": [
-    "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM&ref_=footer_cou"
-   ],
-   "evidence": {
-    "automated_access": "In particular, you may not utilise any data mining, robots, or similar data gathering and extraction tools to extract (whether once or many times) for re-utilisation any substantial parts of the content of any Amazon Service, without our express written consent.",
-    "ai_tdm": "In particular, you may not utilise any data mining, robots, or similar data gathering and extraction tools to extract (whether once or many times) for re-utilisation any substantial parts of the content of any Amazon Service, without our express written consent."
-   },
-   "automation_letter": "manual-only",
-   "automation_letter_reasons": [
-    "terms prohibit automated access",
-    "charges per use"
-   ],
-   "automation_spirit": "manual-only",
-   "automation_spirit_reasons": [
-    "terms prohibit automated access",
-    "charges per use",
-    "robots.txt blocks AI agents acting for users"
-   ],
-   "disciplines": [],
-   "titles": [
-    "Amazon UK"
-   ],
-   "open_web_tier": null
-  },
-  {
    "domain": "amazonaws.com",
    "tier": "local",
    "top_title": "Literature Review",
@@ -90376,6 +90317,10 @@
      "en",
      "es",
      "fa",
+     "hi",
+     "id",
+     "pt",
+     "ru",
      "tr",
      "uk",
      "vi"
@@ -97873,28 +97818,30 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 3,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "Cámara de Comercio de Bogotá",
+   "owner_type": "nonprofit",
+   "access_model": "free",
+   "category": "data_statistics",
+   "owner_confidence": "medium",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": true,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "bot check answered an honest request",
+    "terms could not be read"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "bot check answered an honest request",
+    "terms could not be read"
    ],
    "disciplines": [
     "data_statistics"
@@ -98695,28 +98642,30 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 1,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "CERAC (Conflict Analysis Resource Center)",
+   "owner_type": "nonprofit",
+   "access_model": "free",
+   "category": "data_statistics",
+   "owner_confidence": "medium",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
-   "paywall_cues": [],
+   "bot_check": false,
+   "paywall_cues": [
+    "subscribe"
+   ],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "disciplines": [],
    "titles": [
@@ -99229,19 +99178,19 @@
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "disciplines": [],
    "titles": [
@@ -101170,28 +101119,28 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 2,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "CLACSO (Latin American Council of Social Sciences)",
+   "owner_type": "nonprofit",
+   "access_model": "free",
+   "category": "open_repository",
+   "owner_confidence": "high",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "blocks_all_bots",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
-   "automation_letter": "human-pace",
+   "automation_letter": "manual-only",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "robots.txt blocks all bots"
    ],
-   "automation_spirit": "human-pace",
+   "automation_spirit": "manual-only",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "robots.txt blocks all bots"
    ],
    "disciplines": [],
    "titles": [
@@ -109061,28 +109010,28 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 1,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "Dnipro National University of Railway Transport",
+   "owner_type": "educational",
+   "access_model": "free",
+   "category": "open_repository",
+   "owner_confidence": "low",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "disciplines": [
     "arts_humanities",
@@ -110167,7 +110116,17 @@
    "titles": [
     "Donga Ilbo Archive (1920- )"
    ],
-   "open_web_tier": null
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 60,
+    "citations": 213,
+    "top_in_languages": [
+     "ko"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "doody.com",
@@ -125509,125 +125468,6 @@
    "open_web_tier": null
   },
   {
-   "domain": "google.co.kr",
-   "tier": "local",
-   "top_title": "Google 학술검색",
-   "max_libraries": 1,
-   "max_share": 0.0084,
-   "regions_of_top": 1,
-   "n_entries": 1,
-   "owner": "Google",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [],
-   "titles": [
-    "Google 학술검색"
-   ],
-   "open_web_tier": null
-  },
-  {
-   "domain": "google.com.au",
-   "tier": "local",
-   "top_title": "Google Scholar @UOW",
-   "max_libraries": 1,
-   "max_share": 0.0084,
-   "regions_of_top": 1,
-   "n_entries": 1,
-   "owner": "Google",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [],
-   "titles": [
-    "Google Scholar @UOW"
-   ],
-   "open_web_tier": null
-  },
-  {
-   "domain": "google.com.gh",
-   "tier": "local",
-   "top_title": "A Grain of Wheat",
-   "max_libraries": 1,
-   "max_share": 0.0084,
-   "regions_of_top": 1,
-   "n_entries": 9,
-   "owner": "Google (Google Books)",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "medium",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [
-    "business_economics",
-    "reference"
-   ],
-   "titles": [
-    "A Grain of Wheat",
-    "A Handbook of Methodologies of African Studies",
-    "African Short Stories",
-    "Chaka",
-    "Institute of African Studies University of Ghana, Legon",
-    "West African Studies"
-   ],
-   "open_web_tier": null
-  },
-  {
    "domain": "googleartproject.com",
    "tier": "local",
    "top_title": "Art Project (Google)",
@@ -132444,28 +132284,28 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 1,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "ICM, University of Warsaw",
+   "owner_type": "educational",
+   "access_model": "free",
+   "category": "open_repository",
+   "owner_confidence": "medium",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read"
    ],
    "disciplines": [
     "physical_sciences_math"
@@ -142162,28 +142002,30 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 1,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "Korea Institute of Science and Technology Information",
+   "owner_type": "government",
+   "access_model": "mixed",
+   "category": "index_abstract",
+   "owner_confidence": "high",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "access: mixed"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "access: mixed"
    ],
    "disciplines": [],
    "titles": [
@@ -156997,7 +156839,17 @@
     "Nationalencyklopedin - NE (ebooks)",
     "Norstedts ordböcker (NE)"
    ],
-   "open_web_tier": null
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 46,
+    "citations": 159,
+    "top_in_languages": [
+     "sv"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "nebraska.gov",
@@ -174263,7 +174115,9 @@
     "n_languages": 20,
     "n_articles": 640,
     "citations": 3586,
-    "top_in_languages": []
+    "top_in_languages": [
+     "ar"
+    ]
    },
    "guides": {
     "n_libraries": 2,
@@ -185392,7 +185246,17 @@
    "titles": [
     "Sveriges Radio (SR)"
    ],
-   "open_web_tier": null
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 92,
+    "citations": 621,
+    "top_in_languages": [
+     "sv"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "svhy.org",
@@ -197583,28 +197447,30 @@
    "max_share": 0.0084,
    "regions_of_top": 1,
    "n_entries": 1,
-   "owner": null,
-   "owner_type": "unknown",
-   "access_model": "unknown",
-   "category": null,
-   "owner_confidence": null,
+   "owner": "University of Warsaw",
+   "owner_type": "educational",
+   "access_model": "mixed",
+   "category": "open_repository",
+   "owner_confidence": "medium",
    "libraries_flag_free": 0,
    "corrected_on_review": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
-   "robots_ai": "unknown",
+   "robots_ai": "no_ai_rules",
    "robots_ai_agents": [],
-   "bot_check": null,
+   "bot_check": false,
    "paywall_cues": [],
    "terms_urls": [],
    "evidence": {},
    "automation_letter": "human-pace",
    "automation_letter_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "access: mixed"
    ],
    "automation_spirit": "human-pace",
    "automation_spirit_reasons": [
-    "terms not fetched"
+    "terms could not be read",
+    "access: mixed"
    ],
    "disciplines": [
     "arts_humanities"
@@ -203106,8 +202972,8 @@
    "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 20,
-    "n_articles": 509,
-    "citations": 1532,
+    "n_articles": 596,
+    "citations": 1886,
     "top_in_languages": [
      "zh"
     ]
@@ -203549,6 +203415,14 @@
     "n_articles": 1068,
     "citations": 5421,
     "top_in_languages": [
+     "de",
+     "en",
+     "es",
+     "it",
+     "ja",
+     "nl",
+     "ru",
+     "uk",
      "zh"
     ]
    },
@@ -204110,6 +203984,69 @@
    "open_web_tier": null
   },
   {
+   "domain": "20minutes.fr",
+   "tier": "none",
+   "top_title": "20 Minutes (Rossel / SIPA Ouest-France)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "20 Minutes (Rossel / SIPA Ouest-France)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 111,
+    "citations": 332,
+    "top_in_languages": [
+     "fr"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "20minutos.es",
    "tier": "none",
    "top_title": "Henneo (20minutos Editora)",
@@ -204168,6 +204105,51 @@
     "n_articles": 54,
     "citations": 136,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "24tv.ua",
+   "tier": "none",
+   "top_title": "24 Kanal (TRK Lux)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "24 Kanal (TRK Lux)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 75,
+    "citations": 227,
+    "top_in_languages": [
+     "uk"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -204257,7 +204239,9 @@
     "n_languages": 15,
     "n_articles": 118,
     "citations": 419,
-    "top_in_languages": []
+    "top_in_languages": [
+     "tr"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -204952,12 +204936,14 @@
    ],
    "disciplines": [],
    "titles": [],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 12,
     "n_articles": 88,
     "citations": 624,
-    "top_in_languages": []
+    "top_in_languages": [
+     "ar"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -205113,7 +205099,9 @@
     "n_languages": 15,
     "n_articles": 84,
     "citations": 568,
-    "top_in_languages": []
+    "top_in_languages": [
+     "ar"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -205273,6 +205261,55 @@
     "citations": 360,
     "top_in_languages": [
      "it"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "antaranews.com",
+   "tier": "none",
+   "top_title": "Antara (Indonesian state news agency)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Antara (Indonesian state news agency)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "claudebot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 55,
+    "citations": 205,
+    "top_in_languages": [
+     "id"
     ]
    },
    "guides": null,
@@ -208555,7 +208592,9 @@
     "n_articles": 664,
     "citations": 4722,
     "top_in_languages": [
-     "ar"
+     "ar",
+     "en",
+     "es"
     ]
    },
    "guides": null,
@@ -211434,6 +211473,72 @@
    "seed_group": null
   },
   {
+   "domain": "estadao.com.br",
+   "tier": "none",
+   "top_title": "O Estado de S. Paulo (Grupo Estado)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "O Estado de S. Paulo (Grupo Estado)",
+   "owner_type": "commercial",
+   "access_model": "subscription",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 88,
+    "citations": 543,
+    "top_in_languages": [
+     "pt"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "etonline.com",
    "tier": "none",
    "top_title": "Paramount Skydance (Entertainment Tonight)",
@@ -212992,12 +213097,14 @@
    ],
    "disciplines": [],
    "titles": [],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 10,
     "n_articles": 75,
     "citations": 191,
-    "top_in_languages": []
+    "top_in_languages": [
+     "de"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -213751,6 +213858,82 @@
    "seed_group": null
   },
   {
+   "domain": "francetvinfo.fr",
+   "tier": "none",
+   "top_title": "franceinfo (France Télévisions, public broadcaster)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "franceinfo (France Télévisions, public broadcaster)",
+   "owner_type": "nonprofit",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "reserved",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {
+    "ai_tdm": "TDMRep file: https://francetvinfo.fr/.well-known/tdmrep.json"
+   },
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "TDM rights reserved",
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 9,
+    "n_articles": 103,
+    "citations": 492,
+    "top_in_languages": [
+     "fr"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "freedomhouse.org",
    "tier": "none",
    "top_title": "Freedom House",
@@ -214129,7 +214312,9 @@
     "n_languages": 16,
     "n_articles": 105,
     "citations": 1296,
-    "top_in_languages": []
+    "top_in_languages": [
+     "it"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -214810,92 +214995,6 @@
    "seed_group": null
   },
   {
-   "domain": "google.ca",
-   "tier": "none",
-   "top_title": "Google",
-   "max_libraries": 0,
-   "max_share": 0,
-   "regions_of_top": 0,
-   "n_entries": 0,
-   "owner": "Google",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [],
-   "titles": [],
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 10,
-    "n_articles": 20,
-    "citations": 42,
-    "top_in_languages": []
-   },
-   "guides": null,
-   "seed_group": null
-  },
-  {
-   "domain": "google.de",
-   "tier": "none",
-   "top_title": "Google LLC",
-   "max_libraries": 0,
-   "max_share": 0,
-   "regions_of_top": 0,
-   "n_entries": 0,
-   "owner": "Google LLC",
-   "owner_type": "commercial",
-   "access_model": "free",
-   "category": "search_engine",
-   "owner_confidence": "high",
-   "libraries_flag_free": 0,
-   "corrected_on_review": [],
-   "automated_access": "unknown",
-   "ai_tdm": "unknown",
-   "robots_ai": "no_ai_rules",
-   "robots_ai_agents": [],
-   "bot_check": false,
-   "paywall_cues": [],
-   "terms_urls": [],
-   "evidence": {},
-   "automation_letter": "human-pace",
-   "automation_letter_reasons": [
-    "terms could not be read"
-   ],
-   "automation_spirit": "human-pace",
-   "automation_spirit_reasons": [
-    "terms could not be read"
-   ],
-   "disciplines": [],
-   "titles": [],
-   "open_web_tier": null,
-   "wikipedia": {
-    "n_languages": 12,
-    "n_articles": 63,
-    "citations": 248,
-    "top_in_languages": []
-   },
-   "guides": null,
-   "seed_group": null
-  },
-  {
    "domain": "googleblog.com",
    "tier": "none",
    "top_title": "Google LLC",
@@ -214977,6 +215076,53 @@
     "n_articles": 18,
     "citations": 25,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "gp.se",
+   "tier": "none",
+   "top_title": "Göteborgs-Posten (Stampen)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Göteborgs-Posten (Stampen)",
+   "owner_type": "commercial",
+   "access_model": "subscription",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 45,
+    "citations": 217,
+    "top_in_languages": [
+     "sv"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -215662,6 +215808,53 @@
    "seed_group": null
   },
   {
+   "domain": "hankyung.com",
+   "tier": "none",
+   "top_title": "Korea Economic Daily",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Korea Economic Daily",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 48,
+    "citations": 121,
+    "top_in_languages": [
+     "ko"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "harpersbazaar.com",
    "tier": "none",
    "top_title": "Hearst Magazines",
@@ -216176,7 +216369,9 @@
     "n_languages": 19,
     "n_articles": 122,
     "citations": 411,
-    "top_in_languages": []
+    "top_in_languages": [
+     "hi"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -216264,6 +216459,73 @@
     "citations": 563,
     "top_in_languages": [
      "zh"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "hln.be",
+   "tier": "none",
+   "top_title": "Het Laatste Nieuws (DPG Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Het Laatste Nieuws (DPG Media)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 30,
+    "citations": 125,
+    "top_in_languages": [
+     "nl"
     ]
    },
    "guides": null,
@@ -217025,6 +217287,51 @@
    "seed_group": null
   },
   {
+   "domain": "ig.com.br",
+   "tier": "none",
+   "top_title": "iG (Grupo iG)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "iG (Grupo iG)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 83,
+    "citations": 348,
+    "top_in_languages": [
+     "pt"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "ign.com",
    "tier": "none",
    "top_title": "Ziff Davis",
@@ -217142,6 +217449,107 @@
    "seed_group": null
   },
   {
+   "domain": "ilfattoquotidiano.it",
+   "tier": "none",
+   "top_title": "Il Fatto Quotidiano (SEIF)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Il Fatto Quotidiano (SEIF)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [
+    "log in"
+   ],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 63,
+    "citations": 188,
+    "top_in_languages": [
+     "it"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "ilpost.it",
+   "tier": "none",
+   "top_title": "Il Post",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Il Post",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "gptbot",
+    "perplexitybot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 70,
+    "citations": 172,
+    "top_in_languages": [
+     "it"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "inc.com",
    "tier": "none",
    "top_title": "Mansueto Ventures",
@@ -217254,7 +217662,9 @@
     "n_languages": 20,
     "n_articles": 461,
     "citations": 1900,
-    "top_in_languages": []
+    "top_in_languages": [
+     "en"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -217527,12 +217937,14 @@
    ],
    "disciplines": [],
    "titles": [],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 10,
     "n_articles": 73,
     "citations": 282,
-    "top_in_languages": []
+    "top_in_languages": [
+     "hi"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -218421,6 +218833,51 @@
    "seed_group": null
   },
   {
+   "domain": "isna.ir",
+   "tier": "none",
+   "top_title": "Iranian Students' News Agency (state-affiliated)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Iranian Students' News Agency (state-affiliated)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 52,
+    "citations": 313,
+    "top_in_languages": [
+     "fa"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "israelnationalnews.com",
    "tier": "none",
    "top_title": "Arutz Sheva (Israel National News)",
@@ -218461,6 +218918,51 @@
     "n_articles": 17,
     "citations": 40,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "jagran.com",
+   "tier": "none",
+   "top_title": "Dainik Jagran (Jagran Prakashan)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Dainik Jagran (Jagran Prakashan)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 39,
+    "citations": 89,
+    "top_in_languages": [
+     "hi"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -218856,6 +219358,75 @@
    "seed_group": null
   },
   {
+   "domain": "khan.co.kr",
+   "tier": "none",
+   "top_title": "Kyunghyang Shinmun",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Kyunghyang Shinmun",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 52,
+    "citations": 175,
+    "top_in_languages": [
+     "ko"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "kicker.de",
    "tier": "none",
    "top_title": "Olympia-Verlag (kicker-sportmagazin)",
@@ -219125,6 +219696,70 @@
     "n_articles": 25,
     "citations": 68,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "lastampa.it",
+   "tier": "none",
+   "top_title": "La Stampa (SAE)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "La Stampa (SAE)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 77,
+    "citations": 192,
+    "top_in_languages": [
+     "it"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -219602,6 +220237,55 @@
    "seed_group": null
   },
   {
+   "domain": "lepoint.fr",
+   "tier": "none",
+   "top_title": "Le Point (Artémis)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Le Point (Artémis)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 103,
+    "citations": 443,
+    "top_in_languages": [
+     "fr"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "lequipe.fr",
    "tier": "none",
    "top_title": "Groupe Amaury (L'Équipe)",
@@ -219978,6 +220662,66 @@
    "seed_group": null
   },
   {
+   "domain": "ltn.com.tw",
+   "tier": "none",
+   "top_title": "Liberty Times",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Liberty Times",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "omgilibot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [
+    "https://service.ltn.com.tw/copyright"
+   ],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 53,
+    "citations": 373,
+    "top_in_languages": [
+     "zh"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "manchestereveningnews.co.uk",
    "tier": "none",
    "top_title": "Reach plc",
@@ -220342,6 +221086,51 @@
     "n_articles": 11,
     "citations": 21,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "mdpr.jp",
+   "tier": "none",
+   "top_title": "Modelpress (Netnewsonline)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Modelpress (Netnewsonline)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "entertainment",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 105,
+    "citations": 936,
+    "top_in_languages": [
+     "ja"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -221330,6 +222119,57 @@
    "seed_group": null
   },
   {
+   "domain": "n-tv.de",
+   "tier": "none",
+   "top_title": "n-tv (RTL Deutschland)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "n-tv (RTL Deutschland)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "ccbot",
+    "google-extended",
+    "gptbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 71,
+    "citations": 192,
+    "top_in_languages": [
+     "de"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "natalie.mu",
    "tier": "none",
    "top_title": "Natalie (Natasha, Inc.)",
@@ -221879,7 +222719,9 @@
     "n_languages": 17,
     "n_articles": 121,
     "citations": 392,
-    "top_in_languages": []
+    "top_in_languages": [
+     "hi"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -222825,6 +223667,61 @@
    "seed_group": "news"
   },
   {
+   "domain": "ntv.com.tr",
+   "tier": "none",
+   "top_title": "NTV (Doğuş Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "NTV (Doğuş Media)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "oai-searchbot",
+    "perplexitybot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 53,
+    "citations": 282,
+    "top_in_languages": [
+     "tr"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "nu.nl",
    "tier": "none",
    "top_title": "NU.nl (DPG Media)",
@@ -222890,6 +223787,55 @@
     "citations": 272,
     "top_in_languages": [
      "nl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "nv.ua",
+   "tier": "none",
+   "top_title": "Novoye Vremya (NV)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Novoye Vremya (NV)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 66,
+    "citations": 187,
+    "top_in_languages": [
+     "uk"
     ]
    },
    "guides": null,
@@ -223803,6 +224749,78 @@
    "seed_group": null
   },
   {
+   "domain": "ouest-france.fr",
+   "tier": "none",
+   "top_title": "Ouest-France (SIPA Ouest-France, association-owned)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Ouest-France (SIPA Ouest-France, association-owned)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "reserved",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {
+    "ai_tdm": "TDMRep file: https://ouest-france.fr/.well-known/tdmrep.json"
+   },
+   "automation_letter": "manual-only",
+   "automation_letter_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 107,
+    "citations": 326,
+    "top_in_languages": [
+     "fr"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "oyez.org",
    "tier": "none",
    "top_title": "Oyez Project (Cornell LII, Justia, Chicago-Kent College of Law)",
@@ -224666,6 +225684,51 @@
    "seed_group": "fact_check"
   },
   {
+   "domain": "polskieradio.pl",
+   "tier": "none",
+   "top_title": "Polskie Radio (public broadcaster)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Polskie Radio (public broadcaster)",
+   "owner_type": "nonprofit",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 47,
+    "citations": 73,
+    "top_in_languages": [
+     "pl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "polygon.com",
    "tier": "none",
    "top_title": "Vox Media",
@@ -224821,6 +225884,51 @@
     "n_articles": 36,
     "citations": 65,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "prtimes.jp",
+   "tier": "none",
+   "top_title": "PR TIMES (press-release wire)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "PR TIMES (press-release wire)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 105,
+    "citations": 1054,
+    "top_in_languages": [
+     "ja"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -225201,12 +226309,61 @@
    ],
    "disciplines": [],
    "titles": [],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 11,
     "n_articles": 59,
     "citations": 414,
-    "top_in_languages": []
+    "top_in_languages": [
+     "fa"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "radiosvoboda.org",
+   "tier": "none",
+   "top_title": "Radio Svoboda (RFE/RL, US-government funded)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Radio Svoboda (RFE/RL, US-government funded)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [
+    "https://www.radiosvoboda.org/copyright"
+   ],
+   "evidence": {},
+   "automation_letter": "allowed",
+   "automation_letter_reasons": [
+    "terms read: permit or silent; no AI blocks"
+   ],
+   "automation_spirit": "allowed",
+   "automation_spirit_reasons": [
+    "terms read: permit or silent; no AI blocks"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 82,
+    "citations": 539,
+    "top_in_languages": [
+     "uk"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -225451,6 +226608,53 @@
     "n_articles": 68,
     "citations": 1079,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "realsound.jp",
+   "tier": "none",
+   "top_title": "Real Sound (blueprint)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Real Sound (blueprint)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "entertainment",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 99,
+    "citations": 441,
+    "top_in_languages": [
+     "ja"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -225932,6 +227136,55 @@
    "seed_group": null
   },
   {
+   "domain": "rg.ru",
+   "tier": "none",
+   "top_title": "Rossiyskaya Gazeta (Government of Russia)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Rossiyskaya Gazeta (Government of Russia)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "gptbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 85,
+    "citations": 396,
+    "top_in_languages": [
+     "ru"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "ria.ru",
    "tier": "none",
    "top_title": "Rossiya Segodnya (Russian state media)",
@@ -226305,6 +227558,53 @@
    "seed_group": null
   },
   {
+   "domain": "rp.pl",
+   "tier": "none",
+   "top_title": "Rzeczpospolita (Gremi Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Rzeczpospolita (Gremi Media)",
+   "owner_type": "commercial",
+   "access_model": "subscription",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 58,
+    "citations": 195,
+    "top_in_languages": [
+     "pl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "rsf.org",
    "tier": "none",
    "top_title": "Reporters Without Borders",
@@ -226578,6 +227878,124 @@
     "n_articles": 92,
     "citations": 208,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "rtl.nl",
+   "tier": "none",
+   "top_title": "RTL Nederland (DPG Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "RTL Nederland (DPG Media)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 37,
+    "citations": 65,
+    "top_in_languages": [
+     "nl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "sabah.com.tr",
+   "tier": "none",
+   "top_title": "Sabah (Turkuvaz Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Sabah (Turkuvaz Media)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 54,
+    "citations": 250,
+    "top_in_languages": [
+     "tr"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -228067,6 +229485,75 @@
    "seed_group": null
   },
   {
+   "domain": "sohu.com",
+   "tier": "none",
+   "top_title": "Sohu",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Sohu",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "manual-only",
+   "automation_letter_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 57,
+    "citations": 319,
+    "top_in_languages": [
+     "zh"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "spiegel.de",
    "tier": "none",
    "top_title": "Der SPIEGEL GmbH & Co. KG",
@@ -229306,12 +230793,14 @@
    ],
    "disciplines": [],
    "titles": [],
-   "open_web_tier": null,
+   "open_web_tier": "open-web",
    "wikipedia": {
     "n_languages": 12,
     "n_articles": 94,
     "citations": 469,
-    "top_in_languages": []
+    "top_in_languages": [
+     "de"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -229756,6 +231245,76 @@
     "n_articles": 23,
     "citations": 78,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "telegraaf.nl",
+   "tier": "none",
+   "top_title": "De Telegraaf (Mediahuis)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "De Telegraaf (Mediahuis)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "youbot"
+   ],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 63,
+    "citations": 152,
+    "top_in_languages": [
+     "nl"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -230459,8 +232018,10 @@
     "n_articles": 924,
     "citations": 6010,
     "top_in_languages": [
+     "ar",
      "en",
-     "es"
+     "es",
+     "fa"
     ]
    },
    "guides": null,
@@ -231513,6 +233074,51 @@
    "seed_group": null
   },
   {
+   "domain": "tienphong.vn",
+   "tier": "none",
+   "top_title": "Tiền Phong (Ho Chi Minh Communist Youth Union)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Tiền Phong (Ho Chi Minh Communist Youth Union)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 60,
+    "citations": 248,
+    "top_in_languages": [
+     "vi"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "tiktok.com",
    "tier": "none",
    "top_title": "ByteDance (TikTok)",
@@ -232223,6 +233829,53 @@
    "seed_group": null
   },
   {
+   "domain": "tribunnews.com",
+   "tier": "none",
+   "top_title": "Tribunnews (Kompas Gramedia)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Tribunnews (Kompas Gramedia)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 3,
+    "n_articles": 61,
+    "citations": 210,
+    "top_in_languages": [
+     "id"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "tripod.com",
    "tier": "none",
    "top_title": "Lycos Inc. (Tripod)",
@@ -232265,6 +233918,121 @@
     "n_articles": 24,
     "citations": 40,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "trouw.nl",
+   "tier": "none",
+   "top_title": "Trouw (DPG Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Trouw (DPG Media)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 48,
+    "citations": 135,
+    "top_in_languages": [
+     "nl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "tsn.ua",
+   "tier": "none",
+   "top_title": "TSN (1+1 Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "TSN (1+1 Media)",
+   "owner_type": "commercial",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_all_bots",
+   "robots_ai_agents": [],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "manual-only",
+   "automation_letter_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks all bots"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 77,
+    "citations": 309,
+    "top_in_languages": [
+     "uk"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -233396,7 +235164,9 @@
     "n_languages": 20,
     "n_articles": 347,
     "citations": 1341,
-    "top_in_languages": []
+    "top_in_languages": [
+     "en"
+    ]
    },
    "guides": null,
    "seed_group": "news"
@@ -234384,6 +236154,53 @@
    },
    "guides": null,
    "seed_group": "news"
+  },
+  {
+   "domain": "vov.vn",
+   "tier": "none",
+   "top_title": "Voice of Vietnam (state broadcaster)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Voice of Vietnam (state broadcaster)",
+   "owner_type": "government",
+   "access_model": "free",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 49,
+    "citations": 144,
+    "top_in_languages": [
+     "vi"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
   },
   {
    "domain": "vox.com",
@@ -235542,6 +237359,55 @@
    "seed_group": null
   },
   {
+   "domain": "wprost.pl",
+   "tier": "none",
+   "top_title": "Wprost (PMPG Polskie Media)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Wprost (PMPG Polskie Media)",
+   "owner_type": "commercial",
+   "access_model": "freemium",
+   "category": "news",
+   "owner_confidence": "medium",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "bot_check": true,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "automation_spirit": "human-pace",
+   "automation_spirit_reasons": [
+    "bot check answered an honest request",
+    "terms could not be read",
+    "access: freemium"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 1,
+    "n_articles": 54,
+    "citations": 124,
+    "top_in_languages": [
+     "pl"
+    ]
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
    "domain": "wwe.com",
    "tier": "none",
    "top_title": "TKO Group Holdings (WWE)",
@@ -235582,6 +237448,67 @@
     "n_articles": 20,
     "citations": 81,
     "top_in_languages": []
+   },
+   "guides": null,
+   "seed_group": null
+  },
+  {
+   "domain": "wyborcza.pl",
+   "tier": "none",
+   "top_title": "Gazeta Wyborcza (Agora SA)",
+   "max_libraries": 0,
+   "max_share": 0,
+   "regions_of_top": 0,
+   "n_entries": 0,
+   "owner": "Gazeta Wyborcza (Agora SA)",
+   "owner_type": "commercial",
+   "access_model": "subscription",
+   "category": "news",
+   "owner_confidence": "high",
+   "libraries_flag_free": 0,
+   "corrected_on_review": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "imagesiftbot",
+    "mozilla/5.0 (compatible; imagesiftbot; +imagesift.com)",
+    "mozilla/5.0 (macintosh; intel mac os x 10_10_1) applewebkit/600.2.5 (khtml, like gecko) version/8.0.2 safari/600.2.5 (amazonbot/0.1; +https://developer.amazon.com/support/amazonbot),\"156,975\"",
+    "omgilibot",
+    "perplexitybot"
+   ],
+   "bot_check": false,
+   "paywall_cues": [],
+   "terms_urls": [],
+   "evidence": {},
+   "automation_letter": "human-pace",
+   "automation_letter_reasons": [
+    "robots.txt blocks named AI agents",
+    "terms could not be read",
+    "access: subscription"
+   ],
+   "automation_spirit": "manual-only",
+   "automation_spirit_reasons": [
+    "robots.txt blocks AI agents acting for users"
+   ],
+   "disciplines": [],
+   "titles": [],
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 66,
+    "citations": 269,
+    "top_in_languages": [
+     "pl"
+    ]
    },
    "guides": null,
    "seed_group": null
@@ -337259,7 +339186,7 @@
    "share": 0.0168,
    "n_regions": 2,
    "n_countries": 2,
-   "domain": "google.co.uk",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -377593,7 +379520,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -377661,7 +379588,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "reference"
    ],
@@ -386095,7 +388022,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -392016,7 +393943,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "amazon.co.uk",
+   "domain": "amazon.com",
    "disciplines": [
     "unclassified"
    ],
@@ -452779,7 +454706,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -547937,7 +549864,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.co.kr",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -548414,7 +550341,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.au",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -578174,7 +580101,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -772682,7 +774609,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -772699,7 +774626,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],
@@ -772716,7 +774643,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "business_economics"
    ],
@@ -777410,7 +779337,7 @@
    "share": 0.0084,
    "n_regions": 1,
    "n_countries": 1,
-   "domain": "google.com.gh",
+   "domain": "google.com",
    "disciplines": [
     "unclassified"
    ],

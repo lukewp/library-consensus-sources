@@ -1,0 +1,47 @@
+{"domain": "francetvinfo.fr", "owner": "franceinfo (France Télévisions, public broadcaster)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "20minutes.fr", "owner": "20 Minutes (Rossel / SIPA Ouest-France)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "ouest-france.fr", "owner": "Ouest-France (SIPA Ouest-France, association-owned)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "lepoint.fr", "owner": "Le Point (Artémis)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "telegraaf.nl", "owner": "De Telegraaf (Mediahuis)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "lastampa.it", "owner": "La Stampa (SAE)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "isna.ir", "owner": "Iranian Students' News Agency (state-affiliated)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "rg.ru", "owner": "Rossiyskaya Gazeta (Government of Russia)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "ig.com.br", "owner": "iG (Grupo iG)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "ilpost.it", "owner": "Il Post", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "wyborcza.pl", "owner": "Gazeta Wyborcza (Agora SA)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "rp.pl", "owner": "Rzeczpospolita (Gremi Media)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "tsn.ua", "owner": "TSN (1+1 Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "ilfattoquotidiano.it", "owner": "Il Fatto Quotidiano (SEIF)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "sabah.com.tr", "owner": "Sabah (Turkuvaz Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "khan.co.kr", "owner": "Kyunghyang Shinmun", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "polskieradio.pl", "owner": "Polskie Radio (public broadcaster)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "rtl.nl", "owner": "RTL Nederland (DPG Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mdpr.jp", "owner": "Modelpress (Netnewsonline)", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "medium"}
+{"domain": "estadao.com.br", "owner": "O Estado de S. Paulo (Grupo Estado)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "radiosvoboda.org", "owner": "Radio Svoboda (RFE/RL, US-government funded)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "24tv.ua", "owner": "24 Kanal (TRK Lux)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "n-tv.de", "owner": "n-tv (RTL Deutschland)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nv.ua", "owner": "Novoye Vremya (NV)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "tribunnews.com", "owner": "Tribunnews (Kompas Gramedia)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "antaranews.com", "owner": "Antara (Indonesian state news agency)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "jagran.com", "owner": "Dainik Jagran (Jagran Prakashan)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "prtimes.jp", "owner": "PR TIMES (press-release wire)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "realsound.jp", "owner": "Real Sound (blueprint)", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "medium"}
+{"domain": "sohu.com", "owner": "Sohu", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "ntv.com.tr", "owner": "NTV (Doğuş Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "ltn.com.tw", "owner": "Liberty Times", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "trouw.nl", "owner": "Trouw (DPG Media)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "hankyung.com", "owner": "Korea Economic Daily", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "hln.be", "owner": "Het Laatste Nieuws (DPG Media)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "tienphong.vn", "owner": "Tiền Phong (Ho Chi Minh Communist Youth Union)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "wprost.pl", "owner": "Wprost (PMPG Polskie Media)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "vov.vn", "owner": "Voice of Vietnam (state broadcaster)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "gp.se", "owner": "Göteborgs-Posten (Stampen)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "impan.gov.pl", "owner": "Institute of Mathematics, Polish Academy of Sciences", "owner_type": "government", "access_model": "mixed", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "ccb.org.co", "owner": "Cámara de Comercio de Bogotá", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "clacso.org.ar", "owner": "CLACSO (Latin American Council of Social Sciences)", "owner_type": "nonprofit", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "cerac.org.co", "owner": "CERAC (Conflict Analysis Resource Center)", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "diit.edu.ua", "owner": "Dnipro National University of Railway Transport", "owner_type": "educational", "access_model": "free", "category": "open_repository", "confidence": "low"}
+{"domain": "icm.edu.pl", "owner": "ICM, University of Warsaw", "owner_type": "educational", "access_model": "free", "category": "open_repository", "confidence": "medium"}
+{"domain": "kisti.re.kr", "owner": "Korea Institute of Science and Technology Information", "owner_type": "government", "access_model": "mixed", "category": "index_abstract", "confidence": "high"}
+{"domain": "uw.edu.pl", "owner": "University of Warsaw", "owner_type": "educational", "access_model": "mixed", "category": "open_repository", "confidence": "medium"}
