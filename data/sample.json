@@ -1,0 +1,1045 @@
+{
+ "about": "Candidate sample: university libraries with a public Springshare LibGuides A-Z database list, found by web search (2026-10-23). discovery: seen = the A-Z URL appeared in search results; inferred = another page on the host did; dns = the host was guessed from the university's domain and resolved; alternate = found while searching and held in reserve. The collector validates each one.",
+ "libraries": [
+  {
+   "id": "guides.libraries.psu.edu",
+   "university": "Pennsylvania State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.psu.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.rutgers.edu",
+   "university": "Rutgers University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.rutgers.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "tamu",
+   "university": "Texas A&M University",
+   "country": "US",
+   "region": "north_america",
+   "host": "tamu.libguides.com",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.northwestern.edu",
+   "university": "Northwestern University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.northwestern.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "guides.libraries.indiana.edu",
+   "university": "Indiana University Bloomington",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.indiana.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "guides.lib.utexas.edu",
+   "university": "University of Texas at Austin",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.utexas.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "guides.libraries.uc.edu",
+   "university": "University of Cincinnati",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.uc.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "guides.lib.ku.edu",
+   "university": "University of Kansas",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.ku.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "osu",
+   "university": "Ohio State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "osu.libguides.com",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.library.arizona.edu",
+   "university": "University of Arizona",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.library.arizona.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.uky.edu",
+   "university": "University of Kentucky",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.uky.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.uflib.ufl.edu",
+   "university": "University of Florida",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.uflib.ufl.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.purdue.edu",
+   "university": "Purdue University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.purdue.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.colorado.edu",
+   "university": "University of Colorado Boulder",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.colorado.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.temple.edu",
+   "university": "Temple University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.temple.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "unl",
+   "university": "University of Nebraska-Lincoln",
+   "country": "US",
+   "region": "north_america",
+   "host": "unl.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "researchguides.library.vanderbilt.edu",
+   "university": "Vanderbilt University",
+   "country": "US",
+   "region": "north_america",
+   "host": "researchguides.library.vanderbilt.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.libraries.emory.edu",
+   "university": "Emory University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.emory.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "campusguides.lib.utah.edu",
+   "university": "University of Utah",
+   "country": "US",
+   "region": "north_america",
+   "host": "campusguides.lib.utah.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "infoguides.gmu.edu",
+   "university": "George Mason University",
+   "country": "US",
+   "region": "north_america",
+   "host": "infoguides.gmu.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.ua.edu",
+   "university": "University of Alabama",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.ua.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.library.kent.edu",
+   "university": "Kent State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.library.kent.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.wayne.edu",
+   "university": "Wayne State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.wayne.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "researchguides.uoregon.edu",
+   "university": "University of Oregon",
+   "country": "US",
+   "region": "north_america",
+   "host": "researchguides.uoregon.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.mit.edu",
+   "university": "Massachusetts Institute of Technology",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.mit.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.usask.ca",
+   "university": "University of Saskatchewan",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.usask.ca",
+   "discovery": "seen"
+  },
+  {
+   "id": "subjectguides.uwaterloo.ca",
+   "university": "University of Waterloo",
+   "country": "CA",
+   "region": "north_america",
+   "host": "subjectguides.uwaterloo.ca",
+   "discovery": "seen"
+  },
+  {
+   "id": "libraryguides.mcgill.ca",
+   "university": "McGill University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libraryguides.mcgill.ca",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ucalgary.ca",
+   "university": "University of Calgary",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.ucalgary.ca",
+   "discovery": "inferred"
+  },
+  {
+   "id": "dal",
+   "university": "Dalhousie University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "dal.ca.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.lib.umanitoba.ca",
+   "university": "University of Manitoba",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.lib.umanitoba.ca",
+   "discovery": "inferred"
+  },
+  {
+   "id": "researchguides.library.yorku.ca",
+   "university": "York University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "researchguides.library.yorku.ca",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.library.ualberta.ca",
+   "university": "University of Alberta",
+   "country": "CA",
+   "region": "north_america",
+   "host": "guides.library.ualberta.ca",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.uwo.ca",
+   "university": "Western University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "guides.lib.uwo.ca",
+   "discovery": "alternate"
+  },
+  {
+   "id": "libguides.cam.ac.uk",
+   "university": "University of Cambridge",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.cam.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.bodleian.ox.ac.uk",
+   "university": "University of Oxford",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.bodleian.ox.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.kcl.ac.uk",
+   "university": "King's College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.kcl.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "library-guides.ucl.ac.uk",
+   "university": "University College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library-guides.ucl.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "library-guides.imperial.ac.uk",
+   "university": "Imperial College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library-guides.imperial.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "subjects.library.manchester.ac.uk",
+   "university": "University of Manchester",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "subjects.library.manchester.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.bham.ac.uk",
+   "university": "University of Birmingham",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.bham.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "bristol",
+   "university": "University of Bristol",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "bristol.libguides.com",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.exeter.ac.uk",
+   "university": "University of Exeter",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.exeter.ac.uk",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.durham.ac.uk",
+   "university": "Durham University",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.durham.ac.uk",
+   "discovery": "seen"
+  },
+  {
+   "id": "subjectguides.york.ac.uk",
+   "university": "University of York",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "subjectguides.york.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ncl.ac.uk",
+   "university": "Newcastle University",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.ncl.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "library.soton.ac.uk",
+   "university": "University of Southampton",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library.soton.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.st-andrews.ac.uk",
+   "university": "University of St Andrews",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.st-andrews.ac.uk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.stir.ac.uk",
+   "university": "University of Stirling",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.stir.ac.uk",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.tcd.ie",
+   "university": "Trinity College Dublin",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.tcd.ie",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ucd.ie",
+   "university": "University College Dublin",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ucd.ie",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ucc.ie",
+   "university": "University College Cork",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ucc.ie",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.library.universityofgalway.ie",
+   "university": "University of Galway",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.library.universityofgalway.ie",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ul.ie",
+   "university": "University of Limerick",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ul.ie",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.library.uu.nl",
+   "university": "Utrecht University",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.library.uu.nl",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.rug.nl",
+   "university": "University of Groningen",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.rug.nl",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.vu.nl",
+   "university": "Vrije Universiteit Amsterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.vu.nl",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.eur.nl",
+   "university": "Erasmus University Rotterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.eur.nl",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ru.nl",
+   "university": "Radboud University",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.ru.nl",
+   "discovery": "inferred"
+  },
+  {
+   "id": "uvanl",
+   "university": "University of Amsterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "uvanl.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "eui",
+   "university": "European University Institute",
+   "country": "IT",
+   "region": "continental_europe",
+   "host": "eui.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.lub.lu.se",
+   "university": "Lund University",
+   "country": "SE",
+   "region": "continental_europe",
+   "host": "libguides.lub.lu.se",
+   "discovery": "dns"
+  },
+  {
+   "id": "libguides.ub.uu.se",
+   "university": "Uppsala University",
+   "country": "SE",
+   "region": "continental_europe",
+   "host": "libguides.ub.uu.se",
+   "discovery": "dns"
+  },
+  {
+   "id": "libguides.aalto.fi",
+   "university": "Aalto University",
+   "country": "FI",
+   "region": "continental_europe",
+   "host": "libguides.aalto.fi",
+   "discovery": "dns"
+  },
+  {
+   "id": "libguides.tuni.fi",
+   "university": "Tampere University",
+   "country": "FI",
+   "region": "continental_europe",
+   "host": "libguides.tuni.fi",
+   "discovery": "dns"
+  },
+  {
+   "id": "ntnu",
+   "university": "Norwegian University of Science and Technology",
+   "country": "NO",
+   "region": "continental_europe",
+   "host": "ntnu.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "sciencespo",
+   "university": "Sciences Po",
+   "country": "FR",
+   "region": "continental_europe",
+   "host": "sciencespo.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "ceu",
+   "university": "Central European University",
+   "country": "AT",
+   "region": "continental_europe",
+   "host": "ceu.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "unibocconi",
+   "university": "Bocconi University",
+   "country": "IT",
+   "region": "continental_europe",
+   "host": "unibocconi.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "au",
+   "university": "Aarhus University",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "au.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "libguides.kb.dk",
+   "university": "Royal Danish Library (University of Copenhagen)",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "libguides.kb.dk",
+   "discovery": "dns"
+  },
+  {
+   "id": "unav",
+   "university": "University of Navarra",
+   "country": "ES",
+   "region": "continental_europe",
+   "host": "unav.libguides.com",
+   "discovery": "dns"
+  },
+  {
+   "id": "libguides.cbs.dk",
+   "university": "Copenhagen Business School",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "libguides.cbs.dk",
+   "discovery": "dns"
+  },
+  {
+   "id": "unimelb",
+   "university": "University of Melbourne",
+   "country": "AU",
+   "region": "oceania",
+   "host": "unimelb.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.anu.edu.au",
+   "university": "Australian National University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.anu.edu.au",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.library.uq.edu.au",
+   "university": "University of Queensland",
+   "country": "AU",
+   "region": "oceania",
+   "host": "guides.library.uq.edu.au",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.monash.edu",
+   "university": "Monash University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "guides.lib.monash.edu",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.adelaide.edu.au",
+   "university": "University of Adelaide",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.adelaide.edu.au",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.newcastle.edu.au",
+   "university": "University of Newcastle (Australia)",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.newcastle.edu.au",
+   "discovery": "inferred"
+  },
+  {
+   "id": "utas",
+   "university": "University of Tasmania",
+   "country": "AU",
+   "region": "oceania",
+   "host": "utas.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "deakin",
+   "university": "Deakin University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "deakin.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libraryguides.griffith.edu.au",
+   "university": "Griffith University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libraryguides.griffith.edu.au",
+   "discovery": "alternate"
+  },
+  {
+   "id": "uow",
+   "university": "University of Wollongong",
+   "country": "AU",
+   "region": "oceania",
+   "host": "uow.libguides.com",
+   "discovery": "alternate"
+  },
+  {
+   "id": "auckland",
+   "university": "University of Auckland",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "auckland.libguides.com",
+   "discovery": "seen"
+  },
+  {
+   "id": "otago",
+   "university": "University of Otago",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "otago.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "canterbury",
+   "university": "University of Canterbury",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "canterbury.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.nus.edu.sg",
+   "university": "National University of Singapore",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "libguides.nus.edu.sg",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.ntu.edu.sg",
+   "university": "Nanyang Technological University",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "libguides.ntu.edu.sg",
+   "discovery": "inferred"
+  },
+  {
+   "id": "researchguides.smu.edu.sg",
+   "university": "Singapore Management University",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "researchguides.smu.edu.sg",
+   "discovery": "alternate"
+  },
+  {
+   "id": "libguides.lib.hku.hk",
+   "university": "University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lib.hku.hk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.lib.cuhk.edu.hk",
+   "university": "Chinese University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lib.cuhk.edu.hk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.hkust.edu.hk",
+   "university": "Hong Kong University of Science and Technology",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.hkust.edu.hk",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.lb.polyu.edu.hk",
+   "university": "Hong Kong Polytechnic University",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lb.polyu.edu.hk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.library.cityu.edu.hk",
+   "university": "City University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.library.cityu.edu.hk",
+   "discovery": "alternate"
+  },
+  {
+   "id": "hkbu",
+   "university": "Hong Kong Baptist University",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "hkbu.libguides.com",
+   "discovery": "alternate"
+  },
+  {
+   "id": "um-mo",
+   "university": "University of Macau",
+   "country": "MO",
+   "region": "east_asia",
+   "host": "um-mo.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "waseda-jp",
+   "university": "Waseda University",
+   "country": "JP",
+   "region": "east_asia",
+   "host": "waseda-jp.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.lib.keio.ac.jp",
+   "university": "Keio University",
+   "country": "JP",
+   "region": "east_asia",
+   "host": "libguides.lib.keio.ac.jp",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.khu.ac.kr",
+   "university": "Kyung Hee University",
+   "country": "KR",
+   "region": "east_asia",
+   "host": "libguides.khu.ac.kr",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.lib.nchu.edu.tw",
+   "university": "National Chung Hsing University",
+   "country": "TW",
+   "region": "east_asia",
+   "host": "guides.lib.nchu.edu.tw",
+   "discovery": "inferred"
+  },
+  {
+   "id": "cuhk-shenzhen",
+   "university": "Chinese University of Hong Kong, Shenzhen",
+   "country": "CN",
+   "region": "east_asia",
+   "host": "cuhk-shenzhen.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "umlibguides.um.edu.my",
+   "university": "Universiti Malaya",
+   "country": "MY",
+   "region": "south_southeast_asia",
+   "host": "umlibguides.um.edu.my",
+   "discovery": "inferred"
+  },
+  {
+   "id": "taylors",
+   "university": "Taylor's University",
+   "country": "MY",
+   "region": "south_southeast_asia",
+   "host": "taylors.my.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.dlsu.edu.ph",
+   "university": "De La Salle University",
+   "country": "PH",
+   "region": "south_southeast_asia",
+   "host": "libguides.dlsu.edu.ph",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.lums.edu.pk",
+   "university": "Lahore University of Management Sciences",
+   "country": "PK",
+   "region": "south_southeast_asia",
+   "host": "libguides.lums.edu.pk",
+   "discovery": "inferred"
+  },
+  {
+   "id": "amityuniversity",
+   "university": "Amity University",
+   "country": "IN",
+   "region": "south_southeast_asia",
+   "host": "amityuniversity.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "vinuni",
+   "university": "VinUniversity",
+   "country": "VN",
+   "region": "south_southeast_asia",
+   "host": "vinuni.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ku.edu.tr",
+   "university": "Koç University",
+   "country": "TR",
+   "region": "mena",
+   "host": "libguides.ku.edu.tr",
+   "discovery": "seen"
+  },
+  {
+   "id": "library.kaust.edu.sa",
+   "university": "King Abdullah University of Science and Technology",
+   "country": "SA",
+   "region": "mena",
+   "host": "library.kaust.edu.sa",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.qu.edu.qa",
+   "university": "Qatar University",
+   "country": "QA",
+   "region": "mena",
+   "host": "libguides.qu.edu.qa",
+   "discovery": "inferred"
+  },
+  {
+   "id": "uaeu",
+   "university": "United Arab Emirates University",
+   "country": "AE",
+   "region": "mena",
+   "host": "uaeu.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "aub",
+   "university": "American University of Beirut",
+   "country": "LB",
+   "region": "mena",
+   "host": "aub.edu.lb.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "aus",
+   "university": "American University of Sharjah",
+   "country": "AE",
+   "region": "mena",
+   "host": "aus.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "library.ku.ac.ae",
+   "university": "Khalifa University",
+   "country": "AE",
+   "region": "mena",
+   "host": "library.ku.ac.ae",
+   "discovery": "inferred"
+  },
+  {
+   "id": "huji-il",
+   "university": "Hebrew University of Jerusalem",
+   "country": "IL",
+   "region": "mena",
+   "host": "huji-il.libguides.com",
+   "discovery": "alternate"
+  },
+  {
+   "id": "ozyegin",
+   "university": "Özyeğin University",
+   "country": "TR",
+   "region": "mena",
+   "host": "ozyegin.libguides.com",
+   "discovery": "alternate"
+  },
+  {
+   "id": "libguides.ukzn.ac.za",
+   "university": "University of KwaZulu-Natal",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.ukzn.ac.za",
+   "discovery": "seen"
+  },
+  {
+   "id": "ub-bw",
+   "university": "University of Botswana",
+   "country": "BW",
+   "region": "sub_saharan_africa",
+   "host": "ub-bw.libguides.com",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.sun.ac.za",
+   "university": "Stellenbosch University",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.sun.ac.za",
+   "discovery": "inferred"
+  },
+  {
+   "id": "uj",
+   "university": "University of Johannesburg",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "uj.ac.za.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.nwu.ac.za",
+   "university": "North-West University",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.nwu.ac.za",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.uwc.ac.za",
+   "university": "University of the Western Cape",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.uwc.ac.za",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ug.edu.gh",
+   "university": "University of Ghana",
+   "country": "GH",
+   "region": "sub_saharan_africa",
+   "host": "libguides.ug.edu.gh",
+   "discovery": "inferred"
+  },
+  {
+   "id": "guides.library.aku.edu",
+   "university": "Aga Khan University",
+   "country": "KE",
+   "region": "sub_saharan_africa",
+   "host": "guides.library.aku.edu",
+   "discovery": "alternate"
+  },
+  {
+   "id": "libguides.uwi.edu",
+   "university": "University of the West Indies",
+   "country": "TT",
+   "region": "latin_america_caribbean",
+   "host": "libguides.uwi.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "libguides.uprm.edu",
+   "university": "University of Puerto Rico at Mayagüez",
+   "country": "PR",
+   "region": "latin_america_caribbean",
+   "host": "libguides.uprm.edu",
+   "discovery": "seen"
+  },
+  {
+   "id": "unisabana",
+   "university": "Universidad de La Sabana",
+   "country": "CO",
+   "region": "latin_america_caribbean",
+   "host": "unisabana.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "libguides.ulima.edu.pe",
+   "university": "Universidad de Lima",
+   "country": "PE",
+   "region": "latin_america_caribbean",
+   "host": "libguides.ulima.edu.pe",
+   "discovery": "inferred"
+  },
+  {
+   "id": "upch",
+   "university": "Universidad Peruana Cayetano Heredia",
+   "country": "PE",
+   "region": "latin_america_caribbean",
+   "host": "upch.libguides.com",
+   "discovery": "inferred"
+  },
+  {
+   "id": "pucpr",
+   "university": "Pontificia Universidad Católica de Puerto Rico",
+   "country": "PR",
+   "region": "latin_america_caribbean",
+   "host": "pucpr.libguides.com",
+   "discovery": "inferred"
+  }
+ ]
+}

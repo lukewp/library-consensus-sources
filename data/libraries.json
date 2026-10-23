@@ -1,0 +1,3840 @@
+{
+ "n_collected": 119,
+ "libraries": [
+  {
+   "id": "amityuniversity",
+   "university": "Amity University",
+   "country": "IN",
+   "region": "south_southeast_asia",
+   "host": "amityuniversity.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 73,
+   "count_reported": 73,
+   "collected_at": "2026-10-23T14:39:20+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Amity University Dubai LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "au",
+   "university": "Aarhus University",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "au.libguides.com",
+   "discovery": "dns",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:35:10+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Adelaide University Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "aub",
+   "university": "American University of Beirut",
+   "country": "LB",
+   "region": "mena",
+   "host": "aub.edu.lb.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 430,
+   "count_reported": 430,
+   "collected_at": "2026-10-23T14:38:51+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "auckland",
+   "university": "University of Auckland",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "auckland.libguides.com",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 295,
+   "count_reported": 295,
+   "collected_at": "2026-10-23T14:36:27+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Te Kahu Tauira | Student and Scholarly Services LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "aus",
+   "university": "American University of Sharjah",
+   "country": "AE",
+   "region": "mena",
+   "host": "aus.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 112,
+   "count_reported": 112,
+   "collected_at": "2026-10-23T14:32:58+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "American University of Sharjah LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "bristol",
+   "university": "University of Bristol",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "bristol.libguides.com",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 889,
+   "count_reported": 889,
+   "collected_at": "2026-10-23T14:28:16+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Bristol Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "campusguides.lib.utah.edu",
+   "university": "University of Utah",
+   "country": "US",
+   "region": "north_america",
+   "host": "campusguides.lib.utah.edu",
+   "discovery": "inferred",
+   "status": "partial: 914 of 915",
+   "items": 914,
+   "count_reported": 915,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Utah ULibraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "canterbury",
+   "university": "University of Canterbury",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "canterbury.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 272 of 276",
+   "items": 272,
+   "count_reported": 276,
+   "collected_at": "2026-10-23T14:29:46+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library Subject Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "ceu",
+   "university": "Central European University",
+   "country": "AT",
+   "region": "continental_europe",
+   "host": "ceu.libguides.com",
+   "discovery": "dns",
+   "status": "collected",
+   "items": 215,
+   "count_reported": 215,
+   "collected_at": "2026-10-23T14:31:22+00:00",
+   "site_identity": {
+    "title": "Databases A-Z",
+    "og_site_name": null,
+    "breadcrumb": "Central European University Library LibGuides Databases A-Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "cuhk-shenzhen",
+   "university": "Chinese University of Hong Kong, Shenzhen",
+   "country": "CN",
+   "region": "east_asia",
+   "host": "cuhk-shenzhen.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 239,
+   "count_reported": 239,
+   "collected_at": "2026-10-23T14:31:04+00:00",
+   "site_identity": {
+    "title": "E-resource List",
+    "og_site_name": null,
+    "breadcrumb": "Library of the Chinese University of Hong Kong, Shenzhen LibGuides E-resource List"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "dal",
+   "university": "Dalhousie University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "dal.ca.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 363 of 364",
+   "items": 363,
+   "count_reported": 364,
+   "collected_at": "2026-10-23T14:28:38+00:00",
+   "site_identity": {
+    "title": "Library Databases A-Z.",
+    "og_site_name": null,
+    "breadcrumb": "Dalhousie University Libraries LibGuides Library Databases A-Z."
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "deakin",
+   "university": "Deakin University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "deakin.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 812 of 815",
+   "items": 812,
+   "count_reported": 815,
+   "collected_at": "2026-10-23T14:35:11+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Deakin Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "eui",
+   "university": "European University Institute",
+   "country": "IT",
+   "region": "continental_europe",
+   "host": "eui.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 284,
+   "count_reported": 284,
+   "collected_at": "2026-10-23T14:30:18+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "EUI Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.ku.edu",
+   "university": "University of Kansas",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.ku.edu",
+   "discovery": "seen",
+   "status": "partial: 669 of 670",
+   "items": 669,
+   "count_reported": 670,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "KU Libraries Subject & Course Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.monash.edu",
+   "university": "Monash University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "guides.lib.monash.edu",
+   "discovery": "inferred",
+   "status": "partial: 1535 of 1536",
+   "items": 1535,
+   "count_reported": 1536,
+   "collected_at": "2026-10-23T14:35:42+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": null
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.nchu.edu.tw",
+   "university": "National Chung Hsing University",
+   "country": "TW",
+   "region": "east_asia",
+   "host": "guides.lib.nchu.edu.tw",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1,
+   "count_reported": 1,
+   "collected_at": "2026-10-23T14:36:50+00:00",
+   "site_identity": {
+    "title": "A - Z 資料庫列表",
+    "og_site_name": null,
+    "breadcrumb": "圖書館 資源情報站 A - Z 資料庫列表"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.purdue.edu",
+   "university": "Purdue University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.purdue.edu",
+   "discovery": "inferred",
+   "status": "partial: 832 of 833",
+   "items": 832,
+   "count_reported": 833,
+   "collected_at": "2026-10-23T14:27:53+00:00",
+   "site_identity": {
+    "title": "A-Z List of Databases",
+    "og_site_name": null,
+    "breadcrumb": "Purdue Libraries Research Guides A-Z List of Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.ua.edu",
+   "university": "University of Alabama",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.ua.edu",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 723,
+   "count_reported": 723,
+   "collected_at": "2026-10-23T14:28:27+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Alabama Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.utexas.edu",
+   "university": "University of Texas at Austin",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.utexas.edu",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 974,
+   "count_reported": 974,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "Find research databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Texas Libraries LibGuides Find research databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.uwo.ca",
+   "university": "Western University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "guides.lib.uwo.ca",
+   "discovery": "alternate",
+   "status": "partial: 860 of 861",
+   "items": 860,
+   "count_reported": 861,
+   "collected_at": "2026-10-23T14:29:00+00:00",
+   "site_identity": {
+    "title": "Databases",
+    "og_site_name": null,
+    "breadcrumb": "Western Libraries Research Guides Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.lib.wayne.edu",
+   "university": "Wayne State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.lib.wayne.edu",
+   "discovery": "inferred",
+   "status": "partial: 556 of 557",
+   "items": 556,
+   "count_reported": 557,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "Databases",
+    "og_site_name": null,
+    "breadcrumb": "Libraries Research Guides Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.libraries.emory.edu",
+   "university": "Emory University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.emory.edu",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1241,
+   "count_reported": 1241,
+   "collected_at": "2026-10-23T14:28:02+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Emory Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.libraries.indiana.edu",
+   "university": "Indiana University Bloomington",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.indiana.edu",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 1731,
+   "count_reported": 1731,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "IU Libraries Library Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.libraries.psu.edu",
+   "university": "Pennsylvania State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.psu.edu",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 1043,
+   "count_reported": 1043,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Penn State University Libraries Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.libraries.uc.edu",
+   "university": "University of Cincinnati",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.libraries.uc.edu",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 678,
+   "count_reported": 678,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Library Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Cincinnati Research Guides A-Z Library Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.library.aku.edu",
+   "university": "Aga Khan University",
+   "country": "KE",
+   "region": "sub_saharan_africa",
+   "host": "guides.library.aku.edu",
+   "discovery": "alternate",
+   "status": "partial: 24 of 26",
+   "items": 24,
+   "count_reported": 26,
+   "collected_at": "2026-10-23T14:38:25+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Aga Khan University LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.library.ualberta.ca",
+   "university": "University of Alberta",
+   "country": "CA",
+   "region": "north_america",
+   "host": "guides.library.ualberta.ca",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1457,
+   "count_reported": 1457,
+   "collected_at": "2026-10-23T14:28:49+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Alberta Library Home Subject Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.library.uq.edu.au",
+   "university": "University of Queensland",
+   "country": "AU",
+   "region": "oceania",
+   "host": "guides.library.uq.edu.au",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 332,
+   "count_reported": 332,
+   "collected_at": "2026-10-23T14:37:49+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.temple.edu",
+   "university": "Temple University",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.temple.edu",
+   "discovery": "inferred",
+   "status": "partial: 969 of 970",
+   "items": 969,
+   "count_reported": 970,
+   "collected_at": "2026-10-23T14:28:08+00:00",
+   "site_identity": {
+    "title": "Find a Database",
+    "og_site_name": null,
+    "breadcrumb": "Libraries Research Guides Find a Database"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "guides.uflib.ufl.edu",
+   "university": "University of Florida",
+   "country": "US",
+   "region": "north_america",
+   "host": "guides.uflib.ufl.edu",
+   "discovery": "inferred",
+   "status": "partial: 1201 of 1203",
+   "items": 1201,
+   "count_reported": 1203,
+   "collected_at": "2026-10-23T14:35:11+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UF Libraries Guides @ UF A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "hkbu",
+   "university": "Hong Kong Baptist University",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "hkbu.libguides.com",
+   "discovery": "alternate",
+   "status": "partial: 429 of 430",
+   "items": 429,
+   "count_reported": 430,
+   "collected_at": "2026-10-23T14:32:44+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Hong Kong Baptist University Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "huji-il",
+   "university": "Hebrew University of Jerusalem",
+   "country": "IL",
+   "region": "mena",
+   "host": "huji-il.libguides.com",
+   "discovery": "alternate",
+   "status": "collected",
+   "items": 24,
+   "count_reported": 24,
+   "collected_at": "2026-10-23T14:33:50+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "ספריות האוניברסיטה העברית - Hebrew University Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "infoguides.gmu.edu",
+   "university": "George Mason University",
+   "country": "US",
+   "region": "north_america",
+   "host": "infoguides.gmu.edu",
+   "discovery": "inferred",
+   "status": "partial: 1036 of 1044",
+   "items": 1036,
+   "count_reported": 1044,
+   "collected_at": "2026-10-23T14:27:42+00:00",
+   "site_identity": {
+    "title": "Find Databases",
+    "og_site_name": null,
+    "breadcrumb": "University Libraries InfoGuides Find Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.aalto.fi",
+   "university": "Aalto University",
+   "country": "FI",
+   "region": "continental_europe",
+   "host": "libguides.aalto.fi",
+   "discovery": "dns",
+   "status": "partial: 406 of 407",
+   "items": 406,
+   "count_reported": 407,
+   "collected_at": "2026-10-23T14:35:46+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Learning Centre LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.adelaide.edu.au",
+   "university": "University of Adelaide",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.adelaide.edu.au",
+   "discovery": "inferred",
+   "status": "failed: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'libguides.adelaide.edu.au'. (_ssl.c:1129)>",
+   "items": 0,
+   "count_reported": null,
+   "collected_at": "2026-10-23T14:40:11+00:00",
+   "site_identity": null,
+   "robots_ai_agents_named": [],
+   "robots_crawl_delay": null
+  },
+  {
+   "id": "libguides.anu.edu.au",
+   "university": "Australian National University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.anu.edu.au",
+   "discovery": "inferred",
+   "status": "partial: 594 of 596",
+   "items": 594,
+   "count_reported": 596,
+   "collected_at": "2026-10-23T14:31:01+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "ANU Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.bham.ac.uk",
+   "university": "University of Birmingham",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.bham.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 496,
+   "count_reported": 496,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library Services LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.bodleian.ox.ac.uk",
+   "university": "University of Oxford",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.bodleian.ox.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1910,
+   "count_reported": 1910,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "Databases A-Z",
+    "og_site_name": null,
+    "breadcrumb": "Bodleian Libraries Oxford LibGuides Databases A-Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.cam.ac.uk",
+   "university": "University of Cambridge",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.cam.ac.uk",
+   "discovery": "inferred",
+   "status": "partial: 1770 of 1774",
+   "items": 1770,
+   "count_reported": 1774,
+   "collected_at": "2026-10-23T14:28:52+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Cambridge Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.cbs.dk",
+   "university": "Copenhagen Business School",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "libguides.cbs.dk",
+   "discovery": "dns",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:35:34+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "CBS Library & Academic Services Libguides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.colorado.edu",
+   "university": "University of Colorado Boulder",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.colorado.edu",
+   "discovery": "inferred",
+   "status": "partial: 1486 of 1492",
+   "items": 1486,
+   "count_reported": 1492,
+   "collected_at": "2026-10-23T14:27:19+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Colorado Boulder Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.dlsu.edu.ph",
+   "university": "De La Salle University",
+   "country": "PH",
+   "region": "south_southeast_asia",
+   "host": "libguides.dlsu.edu.ph",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 95,
+   "count_reported": 95,
+   "collected_at": "2026-10-23T14:32:06+00:00",
+   "site_identity": {
+    "title": "DLSU Libraries | A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "De La Salle University LibGuides DLSU Libraries | A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.durham.ac.uk",
+   "university": "Durham University",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.durham.ac.uk",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 781,
+   "count_reported": 781,
+   "collected_at": "2026-10-23T14:29:45+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University Library and Collections Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.eur.nl",
+   "university": "Erasmus University Rotterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.eur.nl",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 270,
+   "count_reported": 270,
+   "collected_at": "2026-10-23T14:31:00+00:00",
+   "site_identity": {
+    "title": "Alphabetical List of Databases",
+    "og_site_name": null,
+    "breadcrumb": "Erasmus University Library LibGuides Alphabetical List of Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.exeter.ac.uk",
+   "university": "University of Exeter",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.exeter.ac.uk",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 1548,
+   "count_reported": 1548,
+   "collected_at": "2026-10-23T14:29:36+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Exeter LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.hkust.edu.hk",
+   "university": "Hong Kong University of Science and Technology",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.hkust.edu.hk",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 2,
+   "count_reported": 2,
+   "collected_at": "2026-10-23T14:38:15+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "HKUST Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.kb.dk",
+   "university": "Royal Danish Library (University of Copenhagen)",
+   "country": "DK",
+   "region": "continental_europe",
+   "host": "libguides.kb.dk",
+   "discovery": "dns",
+   "status": "failed: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'libguides.kb.dk'. (_ssl.c:1129)>",
+   "items": 0,
+   "count_reported": null,
+   "collected_at": "2026-10-23T14:40:11+00:00",
+   "site_identity": null,
+   "robots_ai_agents_named": [],
+   "robots_crawl_delay": null
+  },
+  {
+   "id": "libguides.kcl.ac.uk",
+   "university": "King's College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.kcl.ac.uk",
+   "discovery": "inferred",
+   "status": "partial: 1038 of 1044",
+   "items": 1038,
+   "count_reported": 1044,
+   "collected_at": "2026-10-23T14:28:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Libraries & Collections LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.khu.ac.kr",
+   "university": "Kyung Hee University",
+   "country": "KR",
+   "region": "east_asia",
+   "host": "libguides.khu.ac.kr",
+   "discovery": "inferred",
+   "status": "partial: 122 of 123",
+   "items": 122,
+   "count_reported": 123,
+   "collected_at": "2026-10-23T14:30:44+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Kyung Hee University Library KHU Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ku.edu.tr",
+   "university": "Koç University",
+   "country": "TR",
+   "region": "mena",
+   "host": "libguides.ku.edu.tr",
+   "discovery": "seen",
+   "status": "partial: 214 of 217",
+   "items": 214,
+   "count_reported": 217,
+   "collected_at": "2026-10-23T14:35:15+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Koç University LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lb.polyu.edu.hk",
+   "university": "Hong Kong Polytechnic University",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lb.polyu.edu.hk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:36:05+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "The Hong Kong Polytechnic University Guides & Tutorials A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lib.cuhk.edu.hk",
+   "university": "Chinese University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lib.cuhk.edu.hk",
+   "discovery": "inferred",
+   "status": "partial: 1435 of 1436",
+   "items": 1435,
+   "count_reported": 1436,
+   "collected_at": "2026-10-23T14:36:14+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "The Chinese University of Hong Kong Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lib.hku.hk",
+   "university": "University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.lib.hku.hk",
+   "discovery": "inferred",
+   "status": "partial: 914 of 915",
+   "items": 914,
+   "count_reported": 915,
+   "collected_at": "2026-10-23T14:35:46+00:00",
+   "site_identity": {
+    "title": "Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library LibGuides Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lib.keio.ac.jp",
+   "university": "Keio University",
+   "country": "JP",
+   "region": "east_asia",
+   "host": "libguides.lib.keio.ac.jp",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 2,
+   "count_reported": 2,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "データベース A to Z",
+    "og_site_name": null,
+    "breadcrumb": "Keio University Libraries Research NAVI データベース A to Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lib.umanitoba.ca",
+   "university": "University of Manitoba",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.lib.umanitoba.ca",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 697,
+   "count_reported": 697,
+   "collected_at": "2026-10-23T14:29:01+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.library.arizona.edu",
+   "university": "University of Arizona",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.library.arizona.edu",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 882,
+   "count_reported": 882,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library home LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.library.cityu.edu.hk",
+   "university": "City University of Hong Kong",
+   "country": "HK",
+   "region": "east_asia",
+   "host": "libguides.library.cityu.edu.hk",
+   "discovery": "alternate",
+   "status": "collected",
+   "items": 154,
+   "count_reported": 154,
+   "collected_at": "2026-10-23T14:37:05+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": null
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.library.kent.edu",
+   "university": "Kent State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.library.kent.edu",
+   "discovery": "inferred",
+   "status": "partial: 437 of 444",
+   "items": 437,
+   "count_reported": 444,
+   "collected_at": "2026-10-23T14:36:18+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Kent State University Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.library.universityofgalway.ie",
+   "university": "University of Galway",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.library.universityofgalway.ie",
+   "discovery": "inferred",
+   "status": "partial: 528 of 529",
+   "items": 528,
+   "count_reported": 529,
+   "collected_at": "2026-10-23T14:30:29+00:00",
+   "site_identity": {
+    "title": "A-Z Library Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Galway LibGuides A-Z Library Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.library.uu.nl",
+   "university": "Utrecht University",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.library.uu.nl",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Universiteitsbibliotheek LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lub.lu.se",
+   "university": "Lund University",
+   "country": "SE",
+   "region": "continental_europe",
+   "host": "libguides.lub.lu.se",
+   "discovery": "dns",
+   "status": "partial: 584 of 589",
+   "items": 584,
+   "count_reported": 589,
+   "collected_at": "2026-10-23T14:37:03+00:00",
+   "site_identity": {
+    "title": "Databaser A-Ö",
+    "og_site_name": null,
+    "breadcrumb": "LUB LibGuides Databaser A-Ö"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.lums.edu.pk",
+   "university": "Lahore University of Management Sciences",
+   "country": "PK",
+   "region": "south_southeast_asia",
+   "host": "libguides.lums.edu.pk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 53,
+   "count_reported": 53,
+   "collected_at": "2026-10-23T14:35:10+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Lahore University of Management Sciences LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "mit",
+   "university": "Massachusetts Institute of Technology",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.mit.edu",
+   "status": "collected",
+   "items": 935,
+   "count_reported": 935,
+   "collected_at": "2026-10-23T14:24:15+00:00",
+   "site_identity": null,
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ncl.ac.uk",
+   "university": "Newcastle University",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.ncl.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 270,
+   "count_reported": 270,
+   "collected_at": "2026-10-23T14:35:44+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Newcastle University LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.newcastle.edu.au",
+   "university": "University of Newcastle (Australia)",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libguides.newcastle.edu.au",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 447,
+   "count_reported": 447,
+   "collected_at": "2026-10-23T14:36:48+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Newcastle Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.northwestern.edu",
+   "university": "Northwestern University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.northwestern.edu",
+   "discovery": "seen",
+   "status": "partial: 1242 of 1243",
+   "items": 1242,
+   "count_reported": 1243,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Northwestern University Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ntu.edu.sg",
+   "university": "Nanyang Technological University",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "libguides.ntu.edu.sg",
+   "discovery": "inferred",
+   "status": "partial: 363 of 381",
+   "items": 363,
+   "count_reported": 381,
+   "collected_at": "2026-10-23T14:31:44+00:00",
+   "site_identity": {
+    "title": "Databases A-Z List",
+    "og_site_name": null,
+    "breadcrumb": "NTU Library LibGuides Databases A-Z List"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.nus.edu.sg",
+   "university": "National University of Singapore",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "libguides.nus.edu.sg",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 219,
+   "count_reported": 219,
+   "collected_at": "2026-10-23T14:31:10+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "NUS Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.nwu.ac.za",
+   "university": "North-West University",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.nwu.ac.za",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 407,
+   "count_reported": 407,
+   "collected_at": "2026-10-23T14:31:54+00:00",
+   "site_identity": {
+    "title": "A-Z Resources",
+    "og_site_name": null,
+    "breadcrumb": "Library Home LibGuides A-Z Resources"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.qu.edu.qa",
+   "university": "Qatar University",
+   "country": "QA",
+   "region": "mena",
+   "host": "libguides.qu.edu.qa",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 253,
+   "count_reported": 253,
+   "collected_at": "2026-10-23T14:37:25+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Qatar University Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ru.nl",
+   "university": "Radboud University",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.ru.nl",
+   "discovery": "inferred",
+   "status": "partial: 317 of 319",
+   "items": 317,
+   "count_reported": 319,
+   "collected_at": "2026-10-23T14:36:06+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.rug.nl",
+   "university": "University of Groningen",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.rug.nl",
+   "discovery": "seen",
+   "status": "partial: 1864 of 1877",
+   "items": 1864,
+   "count_reported": 1877,
+   "collected_at": "2026-10-23T14:36:15+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": null
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.rutgers.edu",
+   "university": "Rutgers University",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.rutgers.edu",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Rutgers University Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.st-andrews.ac.uk",
+   "university": "University of St Andrews",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.st-andrews.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 435,
+   "count_reported": 435,
+   "collected_at": "2026-10-23T14:30:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library Subject Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.stir.ac.uk",
+   "university": "University of Stirling",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "libguides.stir.ac.uk",
+   "discovery": "seen",
+   "status": "partial: 408 of 419",
+   "items": 408,
+   "count_reported": 419,
+   "collected_at": "2026-10-23T14:28:48+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Stirling LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.sun.ac.za",
+   "university": "Stellenbosch University",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.sun.ac.za",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 299,
+   "count_reported": 299,
+   "collected_at": "2026-10-23T14:31:34+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "SU Library and Information Service Library guides / Biblioteekgidse A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.tcd.ie",
+   "university": "Trinity College Dublin",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.tcd.ie",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1022,
+   "count_reported": 1022,
+   "collected_at": "2026-10-23T14:29:54+00:00",
+   "site_identity": {
+    "title": "Databases A-Z",
+    "og_site_name": null,
+    "breadcrumb": "The Library of Trinity College Dublin Library Guides Databases A-Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.tuni.fi",
+   "university": "Tampere University",
+   "country": "FI",
+   "region": "continental_europe",
+   "host": "libguides.tuni.fi",
+   "discovery": "dns",
+   "status": "partial: 340 of 346",
+   "items": 340,
+   "count_reported": 346,
+   "collected_at": "2026-10-23T14:30:29+00:00",
+   "site_identity": {
+    "title": "Tietokannat A-Z | A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Tampere University Library Oppaat | Guides Tietokannat A-Z | A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ub.uu.se",
+   "university": "Uppsala University",
+   "country": "SE",
+   "region": "continental_europe",
+   "host": "libguides.ub.uu.se",
+   "discovery": "dns",
+   "status": "partial: 248 of 249",
+   "items": 248,
+   "count_reported": 249,
+   "collected_at": "2026-10-23T14:31:11+00:00",
+   "site_identity": {
+    "title": "Databaser A–Ö",
+    "og_site_name": null,
+    "breadcrumb": "Uppsala University Library Bibliotekets guider Databaser A–Ö"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ucalgary.ca",
+   "university": "University of Calgary",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.ucalgary.ca",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 918,
+   "count_reported": 918,
+   "collected_at": "2026-10-23T14:28:03+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Calgary Library A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ucc.ie",
+   "university": "University College Cork",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ucc.ie",
+   "discovery": "inferred",
+   "status": "partial: 339 of 344",
+   "items": 339,
+   "count_reported": 344,
+   "collected_at": "2026-10-23T14:28:48+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UCC Library UCC Library A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ucd.ie",
+   "university": "University College Dublin",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ucd.ie",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 946,
+   "count_reported": 946,
+   "collected_at": "2026-10-23T14:29:46+00:00",
+   "site_identity": {
+    "title": "A-Z Databases (E-Resources)",
+    "og_site_name": null,
+    "breadcrumb": "Library LibGuides A-Z Databases (E-Resources)"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ug.edu.gh",
+   "university": "University of Ghana",
+   "country": "GH",
+   "region": "sub_saharan_africa",
+   "host": "libguides.ug.edu.gh",
+   "discovery": "inferred",
+   "status": "partial: 324 of 337",
+   "items": 324,
+   "count_reported": 337,
+   "collected_at": "2026-10-23T14:37:30+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Ghana Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.uky.edu",
+   "university": "University of Kentucky",
+   "country": "US",
+   "region": "north_america",
+   "host": "libguides.uky.edu",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 823,
+   "count_reported": 823,
+   "collected_at": "2026-10-23T14:27:53+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UK Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ukzn.ac.za",
+   "university": "University of KwaZulu-Natal",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.ukzn.ac.za",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 63,
+   "count_reported": 63,
+   "collected_at": "2026-10-23T14:37:59+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of KwaZulu-Natal LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ul.ie",
+   "university": "University of Limerick",
+   "country": "IE",
+   "region": "uk_ireland",
+   "host": "libguides.ul.ie",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 262,
+   "count_reported": 262,
+   "collected_at": "2026-10-23T14:30:17+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Glucksman Library University of Limerick LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.ulima.edu.pe",
+   "university": "Universidad de Lima",
+   "country": "PE",
+   "region": "latin_america_caribbean",
+   "host": "libguides.ulima.edu.pe",
+   "discovery": "inferred",
+   "status": "partial: 156 of 160",
+   "items": 156,
+   "count_reported": 160,
+   "collected_at": "2026-10-23T14:33:01+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Universidad de Lima Guías temáticas A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.uprm.edu",
+   "university": "University of Puerto Rico at Mayagüez",
+   "country": "PR",
+   "region": "latin_america_caribbean",
+   "host": "libguides.uprm.edu",
+   "discovery": "seen",
+   "status": "partial: 458 of 459",
+   "items": 458,
+   "count_reported": 459,
+   "collected_at": "2026-10-23T14:31:20+00:00",
+   "site_identity": {
+    "title": "UPRM AtoZ Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Puerto Rico, Mayaguez Campus LibGuides UPRM UPRM AtoZ Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.usask.ca",
+   "university": "University of Saskatchewan",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libguides.usask.ca",
+   "discovery": "seen",
+   "status": "partial: 497 of 498",
+   "items": 497,
+   "count_reported": 498,
+   "collected_at": "2026-10-23T14:28:16+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University Library Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.uwc.ac.za",
+   "university": "University of the Western Cape",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "libguides.uwc.ac.za",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 125,
+   "count_reported": 125,
+   "collected_at": "2026-10-23T14:30:58+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UWC Library Subject Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.uwi.edu",
+   "university": "University of the West Indies",
+   "country": "TT",
+   "region": "latin_america_caribbean",
+   "host": "libguides.uwi.edu",
+   "discovery": "seen",
+   "status": "partial: 348 of 350",
+   "items": 348,
+   "count_reported": 350,
+   "collected_at": "2026-10-23T14:34:12+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "The University of the West Indies LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libguides.vu.nl",
+   "university": "Vrije Universiteit Amsterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "libguides.vu.nl",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 142,
+   "count_reported": 142,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "e-Resources A Z",
+    "og_site_name": null,
+    "breadcrumb": "VU Amsterdam LibGuides e-Resources A Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "library-guides.imperial.ac.uk",
+   "university": "Imperial College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library-guides.imperial.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 193,
+   "count_reported": 193,
+   "collected_at": "2026-10-23T14:35:35+00:00",
+   "site_identity": {
+    "title": "A-Z list of resources",
+    "og_site_name": null,
+    "breadcrumb": "Imperial College London Library Library Guides A-Z list of resources"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "library-guides.ucl.ac.uk",
+   "university": "University College London",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library-guides.ucl.ac.uk",
+   "discovery": "inferred",
+   "status": "partial: 1203 of 1206",
+   "items": 1203,
+   "count_reported": 1206,
+   "collected_at": "2026-10-23T14:29:46+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UCL Home Library guides and databases A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "library.kaust.edu.sa",
+   "university": "King Abdullah University of Science and Technology",
+   "country": "SA",
+   "region": "mena",
+   "host": "library.kaust.edu.sa",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 231,
+   "count_reported": 231,
+   "collected_at": "2026-10-23T14:37:26+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "KAUST Library Library Website A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "library.ku.ac.ae",
+   "university": "Khalifa University",
+   "country": "AE",
+   "region": "mena",
+   "host": "library.ku.ac.ae",
+   "discovery": "inferred",
+   "status": "partial: 51 of 52",
+   "items": 51,
+   "count_reported": 52,
+   "collected_at": "2026-10-23T14:37:42+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Khalifa University LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "library.soton.ac.uk",
+   "university": "University of Southampton",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "library.soton.ac.uk",
+   "discovery": "inferred",
+   "status": "partial: 1493 of 1503",
+   "items": 1493,
+   "count_reported": 1503,
+   "collected_at": "2026-10-23T14:29:32+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library LibGuides@Southampton A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libraryguides.griffith.edu.au",
+   "university": "Griffith University",
+   "country": "AU",
+   "region": "oceania",
+   "host": "libraryguides.griffith.edu.au",
+   "discovery": "alternate",
+   "status": "collected",
+   "items": 367,
+   "count_reported": 367,
+   "collected_at": "2026-10-23T14:29:41+00:00",
+   "site_identity": {
+    "title": "Databases A to Z",
+    "og_site_name": null,
+    "breadcrumb": "Library Library guides Databases A to Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "libraryguides.mcgill.ca",
+   "university": "McGill University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "libraryguides.mcgill.ca",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1525,
+   "count_reported": 1525,
+   "collected_at": "2026-10-23T14:28:48+00:00",
+   "site_identity": {
+    "title": "Databases A–Z",
+    "og_site_name": null,
+    "breadcrumb": "McGill Libraries Guides Databases A–Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "ntnu",
+   "university": "Norwegian University of Science and Technology",
+   "country": "NO",
+   "region": "continental_europe",
+   "host": "ntnu.libguides.com",
+   "discovery": "dns",
+   "status": "failed: not a LibGuides A-Z page (no site id)",
+   "items": 0,
+   "count_reported": null,
+   "collected_at": "2026-10-23T14:37:29+00:00",
+   "site_identity": null,
+   "robots_ai_agents_named": [],
+   "robots_crawl_delay": null
+  },
+  {
+   "id": "osu",
+   "university": "Ohio State University",
+   "country": "US",
+   "region": "north_america",
+   "host": "osu.libguides.com",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 715,
+   "count_reported": 715,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Ohio State University Regional Campus Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "otago",
+   "university": "University of Otago",
+   "country": "NZ",
+   "region": "oceania",
+   "host": "otago.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 766 of 774",
+   "items": 766,
+   "count_reported": 774,
+   "collected_at": "2026-10-23T14:31:53+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Otago Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "ozyegin",
+   "university": "Özyeğin University",
+   "country": "TR",
+   "region": "mena",
+   "host": "ozyegin.libguides.com",
+   "discovery": "alternate",
+   "status": "partial: 154 of 157",
+   "items": 154,
+   "count_reported": 157,
+   "collected_at": "2026-10-23T14:30:49+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Özyeğin University LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "pucpr",
+   "university": "Pontificia Universidad Católica de Puerto Rico",
+   "country": "PR",
+   "region": "latin_america_caribbean",
+   "host": "pucpr.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 228,
+   "count_reported": 228,
+   "collected_at": "2026-10-23T14:32:55+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Pontifical Catholic University of Puerto Rico LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "researchguides.library.vanderbilt.edu",
+   "university": "Vanderbilt University",
+   "country": "US",
+   "region": "north_america",
+   "host": "researchguides.library.vanderbilt.edu",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 889,
+   "count_reported": 889,
+   "collected_at": "2026-10-23T14:27:42+00:00",
+   "site_identity": {
+    "title": "Databases A-Z",
+    "og_site_name": null,
+    "breadcrumb": "Vanderbilt University Libraries Research Guides Databases A-Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "researchguides.library.yorku.ca",
+   "university": "York University",
+   "country": "CA",
+   "region": "north_america",
+   "host": "researchguides.library.yorku.ca",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 763,
+   "count_reported": 763,
+   "collected_at": "2026-10-23T14:27:41+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Libraries LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "researchguides.smu.edu.sg",
+   "university": "Singapore Management University",
+   "country": "SG",
+   "region": "east_asia",
+   "host": "researchguides.smu.edu.sg",
+   "discovery": "alternate",
+   "status": "partial: 196 of 198",
+   "items": 196,
+   "count_reported": 198,
+   "collected_at": "2026-10-23T14:30:05+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "SMU Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "researchguides.uoregon.edu",
+   "university": "University of Oregon",
+   "country": "US",
+   "region": "north_america",
+   "host": "researchguides.uoregon.edu",
+   "discovery": "inferred",
+   "status": "partial: 640 of 641",
+   "items": 640,
+   "count_reported": 641,
+   "collected_at": "2026-10-23T14:28:15+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Oregon Libraries Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "sciencespo",
+   "university": "Sciences Po",
+   "country": "FR",
+   "region": "continental_europe",
+   "host": "sciencespo.libguides.com",
+   "discovery": "dns",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:35:11+00:00",
+   "site_identity": {
+    "title": "Bases de données de A à Z",
+    "og_site_name": null,
+    "breadcrumb": "SciencesPo Guides thématiques Bases de données de A à Z"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "subjectguides.uwaterloo.ca",
+   "university": "University of Waterloo",
+   "country": "CA",
+   "region": "north_america",
+   "host": "subjectguides.uwaterloo.ca",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 447,
+   "count_reported": 447,
+   "collected_at": "2026-10-23T14:28:16+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library Research guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "subjectguides.york.ac.uk",
+   "university": "University of York",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "subjectguides.york.ac.uk",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 433,
+   "count_reported": 433,
+   "collected_at": "2026-10-23T14:29:57+00:00",
+   "site_identity": {
+    "title": "eResources Guide",
+    "og_site_name": null,
+    "breadcrumb": "Library Subject Guides eResources Guide"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "subjects.library.manchester.ac.uk",
+   "university": "University of Manchester",
+   "country": "GB",
+   "region": "uk_ireland",
+   "host": "subjects.library.manchester.ac.uk",
+   "discovery": "inferred",
+   "status": "partial: 650 of 653",
+   "items": 650,
+   "count_reported": 653,
+   "collected_at": "2026-10-23T14:29:12+00:00",
+   "site_identity": {
+    "title": "Databases Directory",
+    "og_site_name": null,
+    "breadcrumb": "Library Subject guides Databases Directory"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "tamu",
+   "university": "Texas A&M University",
+   "country": "US",
+   "region": "north_america",
+   "host": "tamu.libguides.com",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 1330,
+   "count_reported": 1330,
+   "collected_at": "2026-10-23T14:27:07+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Texas A&M University Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "taylors",
+   "university": "Taylor's University",
+   "country": "MY",
+   "region": "south_southeast_asia",
+   "host": "taylors.my.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 107 of 108",
+   "items": 107,
+   "count_reported": 108,
+   "collected_at": "2026-10-23T14:36:40+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Taylor's Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "uaeu",
+   "university": "United Arab Emirates University",
+   "country": "AE",
+   "region": "mena",
+   "host": "uaeu.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 136,
+   "count_reported": 136,
+   "collected_at": "2026-10-23T14:31:31+00:00",
+   "site_identity": {
+    "title": "A-Z Databases List",
+    "og_site_name": null,
+    "breadcrumb": "United Arab Emirates University LibGuides A-Z Databases List"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "ub-bw",
+   "university": "University of Botswana",
+   "country": "BW",
+   "region": "sub_saharan_africa",
+   "host": "ub-bw.libguides.com",
+   "discovery": "seen",
+   "status": "collected",
+   "items": 83,
+   "count_reported": 83,
+   "collected_at": "2026-10-23T14:35:57+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Botswana University of Botswana Library A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "uj",
+   "university": "University of Johannesburg",
+   "country": "ZA",
+   "region": "sub_saharan_africa",
+   "host": "uj.ac.za.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 263 of 270",
+   "items": 263,
+   "count_reported": 270,
+   "collected_at": "2026-10-23T14:32:21+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Johannesburg Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "um-mo",
+   "university": "University of Macau",
+   "country": "MO",
+   "region": "east_asia",
+   "host": "um-mo.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 369 of 370",
+   "items": 369,
+   "count_reported": 370,
+   "collected_at": "2026-10-23T14:38:27+00:00",
+   "site_identity": {
+    "title": "UM Patents 澳大專利庫 Patentes da UM",
+    "og_site_name": null,
+    "breadcrumb": "University of Macau Library Library Guides UM Patents 澳大專利庫 Patentes da UM"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "umlibguides.um.edu.my",
+   "university": "Universiti Malaya",
+   "country": "MY",
+   "region": "south_southeast_asia",
+   "host": "umlibguides.um.edu.my",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 98,
+   "count_reported": 98,
+   "collected_at": "2026-10-23T14:30:21+00:00",
+   "site_identity": {
+    "title": "A-Z Online Databases",
+    "og_site_name": null,
+    "breadcrumb": "Universiti Malaya Library Library Guide A-Z Online Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "unav",
+   "university": "University of Navarra",
+   "country": "ES",
+   "region": "continental_europe",
+   "host": "unav.libguides.com",
+   "discovery": "dns",
+   "status": "failed: not a LibGuides A-Z page (no site id)",
+   "items": 0,
+   "count_reported": null,
+   "collected_at": "2026-10-23T14:37:55+00:00",
+   "site_identity": null,
+   "robots_ai_agents_named": [],
+   "robots_crawl_delay": null
+  },
+  {
+   "id": "unibocconi",
+   "university": "Bocconi University",
+   "country": "IT",
+   "region": "continental_europe",
+   "host": "unibocconi.libguides.com",
+   "discovery": "dns",
+   "status": "collected",
+   "items": 124,
+   "count_reported": 124,
+   "collected_at": "2026-10-23T14:29:31+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Library & Archives LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "unimelb",
+   "university": "University of Melbourne",
+   "country": "AU",
+   "region": "oceania",
+   "host": "unimelb.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 1048,
+   "count_reported": 1048,
+   "collected_at": "2026-10-23T14:30:48+00:00",
+   "site_identity": {
+    "title": "Database finder",
+    "og_site_name": null,
+    "breadcrumb": "Library Guides Library Guides Database finder"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "unisabana",
+   "university": "Universidad de La Sabana",
+   "country": "CO",
+   "region": "latin_america_caribbean",
+   "host": "unisabana.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 446 of 447",
+   "items": 446,
+   "count_reported": 447,
+   "collected_at": "2026-10-23T14:32:40+00:00",
+   "site_identity": {
+    "title": "Recursos Electrónicos",
+    "og_site_name": null,
+    "breadcrumb": "Universidad de La Sabana Biblioteca Octavio Arizmendi Posada Guías y contenidos adicionales Recursos Electrónicos"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "unl",
+   "university": "University of Nebraska-Lincoln",
+   "country": "US",
+   "region": "north_america",
+   "host": "unl.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 514,
+   "count_reported": 514,
+   "collected_at": "2026-10-23T14:27:42+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UNL Libraries Subject and Course Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "uow",
+   "university": "University of Wollongong",
+   "country": "AU",
+   "region": "oceania",
+   "host": "uow.libguides.com",
+   "discovery": "alternate",
+   "status": "partial: 259 of 261",
+   "items": 259,
+   "count_reported": 261,
+   "collected_at": "2026-10-23T14:31:53+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "UOW Library Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "upch",
+   "university": "Universidad Peruana Cayetano Heredia",
+   "country": "PE",
+   "region": "latin_america_caribbean",
+   "host": "upch.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 47,
+   "count_reported": 47,
+   "collected_at": "2026-10-23T14:31:57+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "Universidad Peruana Cayetano Heredia LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "utas",
+   "university": "University of Tasmania",
+   "country": "AU",
+   "region": "oceania",
+   "host": "utas.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 299 of 300",
+   "items": 299,
+   "count_reported": 300,
+   "collected_at": "2026-10-23T14:31:00+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Tasmania - Library Subject Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "uvanl",
+   "university": "University of Amsterdam",
+   "country": "NL",
+   "region": "netherlands",
+   "host": "uvanl.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 0,
+   "count_reported": 0,
+   "collected_at": "2026-10-23T14:34:39+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "University of Amsterdam Research Guides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "vinuni",
+   "university": "VinUniversity",
+   "country": "VN",
+   "region": "south_southeast_asia",
+   "host": "vinuni.libguides.com",
+   "discovery": "inferred",
+   "status": "partial: 38 of 39",
+   "items": 38,
+   "count_reported": 39,
+   "collected_at": "2026-10-23T14:37:10+00:00",
+   "site_identity": {
+    "title": "A-Z Databases",
+    "og_site_name": null,
+    "breadcrumb": "VinUniversity Library LibGuides A-Z Databases"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  },
+  {
+   "id": "waseda-jp",
+   "university": "Waseda University",
+   "country": "JP",
+   "region": "east_asia",
+   "host": "waseda-jp.libguides.com",
+   "discovery": "inferred",
+   "status": "collected",
+   "items": 600,
+   "count_reported": 600,
+   "collected_at": "2026-10-23T14:31:36+00:00",
+   "site_identity": {
+    "title": "学術情報検索 Waseda E-Resource Portal",
+    "og_site_name": null,
+    "breadcrumb": "早稲田大学図書館 Waseda University Library LibGuides 学術情報検索 Waseda E-Resource Portal"
+   },
+   "robots_ai_agents_named": [
+    "amazonbot",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "youbot"
+   ],
+   "robots_crawl_delay": 10.0
+  }
+ ]
+}

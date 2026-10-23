@@ -1,0 +1,250 @@
+{"domain": "uwa.edu.au", "owner": "University of Western Australia", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "uwm.edu", "owner": "University of Wisconsin-Milwaukee (American Geographical Society Library)", "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "vatlib.it", "owner": "Vatican Apostolic Library", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "vault.com", "owner": "Vault.com", "owner_type": "commercial", "access_model": "freemium", "category": "other", "confidence": "high"}
+{"domain": "vd17.de", "owner": "Gemeinsamer Bibliotheksverbund (GBV)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "vdb.org", "owner": "Video Data Bank (School of the Art Institute of Chicago)", "owner_type": "educational", "access_model": "institutional", "category": "media_streaming", "confidence": "high"}
+{"domain": "verterbukh.org", "owner": "Raphael Finkel (University of Kentucky)", "owner_type": "individual", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "vimeo.com", "owner": "Vimeo Inc.", "owner_type": "commercial", "access_model": "freemium", "category": "media_streaming", "confidence": "high"}
+{"domain": "visionofbritain.org.uk", "owner": "University of Portsmouth (Great Britain Historical GIS)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "vitis-vea.de", "owner": "Julius Kühn-Institut (JKI)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "vivvix.com", "owner": "MediaRadar", "owner_type": "commercial", "access_model": "subscription", "category": "data_statistics", "confidence": "high"}
+{"domain": "vlib.org", "owner": "WWW Virtual Library", "owner_type": "nonprofit", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "vt.edu", "owner": "Virginia Tech", "owner_type": "educational", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "waikato.ac.nz", "owner": "University of Waikato", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "web.app", "owner": "Google (Firebase Hosting)", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "webauthor.com", "owner": null, "owner_type": "unknown", "access_model": "unknown", "category": "reference", "confidence": "low"}
+{"domain": "webdoxx.com", "owner": "Australian College of Perioperative Nurses (ACORN)", "owner_type": "nonprofit", "access_model": "subscription", "category": "reference", "confidence": "low"}
+{"domain": "wesleyan.edu", "owner": "Wesleyan University Press", "owner_type": "educational", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "westlawchina.com", "owner": "Thomson Reuters (Westlaw China)", "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "wkasiapacific.com", "owner": "Wolters Kluwer (Asia Pacific)", "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "wolterskluwer.it", "owner": "Wolters Kluwer Italia", "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "woodheadpublishingonline.com", "owner": "Elsevier (Woodhead Publishing)", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "worldpop.org", "owner": "WorldPop (University of Southampton)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "yahoo.com", "owner": "Yahoo Inc.", "owner_type": "commercial", "access_model": "free", "category": "search_engine", "confidence": "medium"}
+{"domain": "yiddishbookcenter.org", "owner": "National Yiddish Book Center", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "yle.fi", "owner": "Yle (Finnish Broadcasting Company)", "owner_type": "government", "access_model": "free", "category": "media_streaming", "confidence": "high"}
+{"domain": "zenodo.org", "owner": "CERN", "owner_type": "intergovernmental", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "10kwizard.com", "owner": "Morningstar (Document Research)", "owner_type": "commercial", "access_model": "subscription", "category": "data_statistics", "confidence": "high"}
+{"domain": "123library.org", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "aggregator", "confidence": "low"}
+{"domain": "1890s.ca", "owner": "Yellow Nineties Online (Toronto Metropolitan University)", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "1tv.ru", "owner": "Channel One Russia", "owner_type": "commercial", "access_model": "free", "category": "media_streaming", "confidence": "high"}
+{"domain": "2doc.nl", "owner": "NPO (Dutch public broadcaster)", "owner_type": "government", "access_model": "free", "category": "media_streaming", "confidence": "medium"}
+{"domain": "3ieimpact.org", "owner": "International Initiative for Impact Evaluation (3ie)", "owner_type": "nonprofit", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "4canoesportal.org", "owner": null, "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "4tu.nl", "owner": "4TU.ResearchData (4TU Federation)", "owner_type": "educational", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "58.94", "owner": null, "owner_type": "unknown", "access_model": "unknown", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "84000.co", "owner": "84000: Translating the Words of the Buddha", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "aaajournals.org", "owner": "American Anthropological Association", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aaas.org", "owner": "American Association for the Advancement of Science", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "aace.com", "owner": "American Association of Clinical Endocrinology", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "aasb.gov.au", "owner": "Australian Accounting Standards Board", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "aasd.com.au", "owner": "Australian and New Zealand Art Sales Digest", "owner_type": "commercial", "access_model": "subscription", "category": "data_statistics", "confidence": "high"}
+{"domain": "aau.at", "owner": "Alpen-Adria-Universität Klagenfurt", "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "abair.ie", "owner": "Trinity College Dublin (ABAIR)", "owner_type": "educational", "access_model": "free", "category": "tool", "confidence": "high"}
+{"domain": "abbeytheatremusic.ie", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "abebooks.co.uk", "owner": "AbeBooks (Amazon)", "owner_type": "commercial", "access_model": "pay_per_use", "category": "other", "confidence": "high"}
+{"domain": "ac.cy", "owner": null, "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "aca-europe.eu", "owner": "ACA-Europe (Association of the Councils of State and Supreme Administrative Jurisdictions of the EU)", "owner_type": "nonprofit", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "academic-journals.eu", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "academieroyale.be", "owner": "Royal Academy of Belgium", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "acaweb.org", "owner": "Appalachian College Association", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "accaglobal.com", "owner": "ACCA (Association of Chartered Certified Accountants)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "accessceramics.org", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "accessible-archives.com", "owner": "Accessible Archives Inc.", "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "accessmedicine.com", "owner": "McGraw Hill", "owner_type": "commercial", "access_model": "subscription", "category": "reference", "confidence": "high"}
+{"domain": "accessmedicinenetwork.com", "owner": "McGraw Hill", "owner_type": "commercial", "access_model": "freemium", "category": "reference", "confidence": "high"}
+{"domain": "accessnyt.com", "owner": "The New York Times Company", "owner_type": "commercial", "access_model": "institutional", "category": "news", "confidence": "high"}
+{"domain": "accessscience.com", "owner": "McGraw Hill", "owner_type": "commercial", "access_model": "subscription", "category": "reference", "confidence": "high"}
+{"domain": "accesstoinsight.org", "owner": "Access to Insight", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "accountingresearchmanager.com", "owner": "Wolters Kluwer", "owner_type": "commercial", "access_model": "subscription", "category": "reference", "confidence": "high"}
+{"domain": "aceprensa.com", "owner": "Aceprensa", "owner_type": "nonprofit", "access_model": "subscription", "category": "news", "confidence": "medium"}
+{"domain": "aces-society.org", "owner": "Applied Computational Electromagnetics Society", "owner_type": "nonprofit", "access_model": "free", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "aclandanatomy.com", "owner": "Wolters Kluwer (Lippincott)", "owner_type": "commercial", "access_model": "subscription", "category": "media_streaming", "confidence": "high"}
+{"domain": "acrah.org", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "actahort.org", "owner": "International Society for Horticultural Science (ISHS)", "owner_type": "nonprofit", "access_model": "freemium", "category": "publisher_platform", "confidence": "high"}
+{"domain": "acuris.com", "owner": "Acuris (ION Group)", "owner_type": "commercial", "access_model": "subscription", "category": "data_statistics", "confidence": "high"}
+{"domain": "ada.edu.au", "owner": "Australian Data Archive (Australian National University)", "owner_type": "educational", "access_model": "free_with_account", "category": "open_repository", "confidence": "high"}
+{"domain": "adb.org", "owner": "Asian Development Bank", "owner_type": "intergovernmental", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "ademnes.de", "owner": "University of Tübingen (ADEMNES)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "adl.dk", "owner": "Society for Danish Language and Literature", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "adlibhosting.com", "owner": "Axiell (Adlib)", "owner_type": "commercial", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "adsoftheworld.com", "owner": null, "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "advertisingarchives.co.uk", "owner": "The Advertising Archives", "owner_type": "commercial", "access_model": "pay_per_use", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "advisorycouncilinternationalaffairs.nl", "owner": "Advisory Council on International Affairs (AIV)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "aec.at", "owner": "Ars Electronica", "owner_type": "government", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "aere-egke.be", "owner": "Association Égyptologique Reine Élisabeth", "owner_type": "nonprofit", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "aerodynamics4students.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "aerosociety.com", "owner": "Royal Aeronautical Society", "owner_type": "nonprofit", "access_model": "freemium", "category": "other", "confidence": "high"}
+{"domain": "aerospace.org", "owner": "The Aerospace Corporation", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "africa-confidential.com", "owner": "Miramoor Publications (Africa Confidential)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "africaintelligence.com", "owner": "Indigo Publications (Africa Intelligence)", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "high"}
+{"domain": "africaknowledgeproject.org", "owner": null, "owner_type": "nonprofit", "access_model": "free", "category": "aggregator", "confidence": "low"}
+{"domain": "african-court.org", "owner": "African Court on Human and Peoples' Rights (African Union)", "owner_type": "intergovernmental", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "africanmusiclibrary.org", "owner": "International Library of African Music (Rhodes University)", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "africaportal.org", "owner": "Centre for International Governance Innovation (CIGI)", "owner_type": "nonprofit", "access_model": "free", "category": "aggregator", "confidence": "high"}
+{"domain": "afsjournals.org", "owner": "American Fisheries Society", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aftenposten.no", "owner": "Aftenposten (Schibsted)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "aftonbladet.se", "owner": "Aftonbladet (Schibsted)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "afuk.nl", "owner": "Afûk", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "agnessearch.nl", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "agricbank.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "agweb.com", "owner": "Farm Journal (AgWeb)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "ahds.ac.uk", "owner": null, "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "ahlfeldt.se", "owner": "Johan Åhlfeldt", "owner_type": "individual", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "aiche.org", "owner": "American Institute of Chemical Engineers", "owner_type": "nonprofit", "access_model": "freemium", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aif.ru", "owner": "Argumenty i Fakty", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "aiga.org", "owner": "AIGA", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "aila.org", "owner": "American Immigration Lawyers Association", "owner_type": "nonprofit", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "aim25.com", "owner": "AIM25 (University of London)", "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "aimbe.org", "owner": "American Institute for Medical and Biological Engineering", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "ainm.ie", "owner": "Dublin City University (Ainm.ie)", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "aironline.in", "owner": "All India Reporter Ltd", "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "aistear.ie", "owner": "National Council for Curriculum and Assessment (Ireland)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "aixiv.science", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "open_repository", "confidence": "low"}
+{"domain": "ajr.org.uk", "owner": "Association of Jewish Refugees", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "ajronline.org", "owner": "American Roentgen Ray Society", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "akademiai.com", "owner": "Akadémiai Kiadó", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "akjournals.com", "owner": "Akadémiai Kiadó", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "alacra.com", "owner": "Alacra", "owner_type": "commercial", "access_model": "pay_per_use", "category": "aggregator", "confidence": "medium"}
+{"domain": "alalettre.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "alberteinstein.info", "owner": "Hebrew University of Jerusalem (Albert Einstein Archives)", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "aletta.nu", "owner": "Aletta Institute for Women's History", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "algaebase.org", "owner": "AlgaeBase (University of Galway)", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "allacademic.com", "owner": "Allacademic", "owner_type": "commercial", "access_model": "free", "category": "open_repository", "confidence": "medium"}
+{"domain": "allmusic.com", "owner": "Netaktion LLC (AllMusic)", "owner_type": "commercial", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "alltheworldsprimates.org", "owner": "Primate Conservation Inc.", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "almeezan.qa", "owner": "Ministry of Justice (Qatar)", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "alphaeditorialcloud.com", "owner": "Alpha Editorial", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "alpheios.net", "owner": "Alpheios Project", "owner_type": "nonprofit", "access_model": "free", "category": "tool", "confidence": "medium"}
+{"domain": "alpsp.org", "owner": "Association of Learned and Professional Society Publishers (ALPSP)", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "altissia.org", "owner": "Altissia International", "owner_type": "commercial", "access_model": "institutional", "category": "tool", "confidence": "high"}
+{"domain": "alvin-portal.org", "owner": "Alvin (Uppsala University Library)", "owner_type": "educational", "access_model": "free", "category": "aggregator", "confidence": "medium"}
+{"domain": "ama.org", "owner": "American Marketing Association", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "amalivre.fr", "owner": "Amalivre", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "amamanualofstyle.com", "owner": "American Medical Association (Oxford University Press)", "owner_type": "nonprofit", "access_model": "subscription", "category": "reference", "confidence": "high"}
+{"domain": "amap.no", "owner": "Arctic Monitoring and Assessment Programme (Arctic Council)", "owner_type": "intergovernmental", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "amazon.co.uk", "owner": "Amazon", "owner_type": "commercial", "access_model": "pay_per_use", "category": "other", "confidence": "high"}
+{"domain": "amelica.org", "owner": "AmeliCA", "owner_type": "nonprofit", "access_model": "free", "category": "aggregator", "confidence": "medium"}
+{"domain": "americas.org", "owner": "NACLA (North American Congress on Latin America)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "americasbarometer.org", "owner": "LAPOP Lab (Vanderbilt University)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "americaspublicbible.org", "owner": null, "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "low"}
+{"domain": "amjbot.org", "owner": "Botanical Society of America", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "amlegal.com", "owner": "American Legal Publishing Corporation", "owner_type": "commercial", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "amnesty.org", "owner": "Amnesty International", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "amosanderson.fi", "owner": "Amos Anderson Art Museum", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "amstar.ca", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "tool", "confidence": "low"}
+{"domain": "amsus.org", "owner": "AMSUS (Society of Federal Health Professionals)", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "anc.org", "owner": "American National Corpus", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "ancestry.com", "owner": "Ancestry.com Operations Inc.", "owner_type": "commercial", "access_model": "freemium", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "ancestryinstitution.co.uk", "owner": "Ancestry.com Operations Inc.", "owner_type": "commercial", "access_model": "institutional", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "ancientnarrative.com", "owner": null, "owner_type": "educational", "access_model": "free", "category": "publisher_platform", "confidence": "low"}
+{"domain": "andeal.org", "owner": "Academy of Nutrition and Dietetics", "owner_type": "nonprofit", "access_model": "subscription", "category": "reference", "confidence": "high"}
+{"domain": "ands.org.au", "owner": "Australian Research Data Commons", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "anesthesiologie.nl", "owner": "Nederlandse Vereniging voor Anesthesiologie (NVA)", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "anglia.ac.uk", "owner": "Anglia Ruskin University", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "anglo-norman.net", "owner": "Aberystwyth University (Anglo-Norman Dictionary)", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "annee-philologique.com", "owner": "Société internationale de bibliographie classique", "owner_type": "nonprofit", "access_model": "subscription", "category": "index_abstract", "confidence": "high"}
+{"domain": "annualreports.com", "owner": null, "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "low"}
+{"domain": "anthrobase.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "anthropology.org.uk", "owner": "Royal Anthropological Institute", "owner_type": "nonprofit", "access_model": "subscription", "category": "index_abstract", "confidence": "high"}
+{"domain": "anticolonialresearchlibrary.org", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "anystyle.io", "owner": "Sylvester Keil (AnyStyle)", "owner_type": "individual", "access_model": "free", "category": "tool", "confidence": "high"}
+{"domain": "aoe.fi", "owner": "Finnish National Agency for Education (Opetushallitus)", "owner_type": "government", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "aosis.co.za", "owner": "AOSIS", "owner_type": "commercial", "access_model": "freemium", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aotcpress.com", "owner": "AOTC Press", "owner_type": "unknown", "access_model": "free", "category": "publisher_platform", "confidence": "low"}
+{"domain": "apaonline.org", "owner": "American Philosophical Association", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "apec.info", "owner": "Asia-Pacific Economic Cooperation (APEC)", "owner_type": "intergovernmental", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "aperture.org", "owner": "Aperture Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "apha.ie", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "aphapublications.org", "owner": "American Public Health Association", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "apics-online.info", "owner": "Max Planck Institute for Evolutionary Anthropology", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "apple.com", "owner": "Apple Inc.", "owner_type": "commercial", "access_model": "free", "category": "tool", "confidence": "high"}
+{"domain": "appstate.edu", "owner": "Appalachian State University", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "apr.org.uk", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "ar-updates.nl", "owner": null, "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "low"}
+{"domain": "arabccd.org", "owner": "Arab Council for Childhood and Development", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "arbitrationlaw.com", "owner": "Juris Publishing", "owner_type": "commercial", "access_model": "subscription", "category": "legal", "confidence": "high"}
+{"domain": "arcasearch.com", "owner": null, "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "arch.be", "owner": "State Archives of Belgium", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "archdaily.com", "owner": "ArchDaily (Plataforma Networks)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "archi.pe", "owner": "Museo de Arte de Lima (MALI)", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "archibab.fr", "owner": "CNRS (ArchiBab)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "archieven.nl", "owner": "Archieven.nl (Dutch regional archives)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "archiletras.com", "owner": "Archiletras", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "architecturefoundation.org.uk", "owner": "Architecture Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "archiv-histo.com", "owner": "Archiv-Histo Inc.", "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "archives.org.uk", "owner": "Archives and Records Association (UK & Ireland)", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "archivescanada.ca", "owner": "Canadian Council of Archives", "owner_type": "nonprofit", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "archivioluce.com", "owner": "Istituto Luce Cinecittà", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "archivists.org", "owner": "Society of American Archivists", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "archivomagon.net", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "arcspace.com", "owner": "Arcspace", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "arctic-council.org", "owner": "Arctic Council", "owner_type": "intergovernmental", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "arctichealth.org", "owner": null, "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "arcticportal.org", "owner": "Arctic Portal", "owner_type": "nonprofit", "access_model": "free", "category": "aggregator", "confidence": "high"}
+{"domain": "arcticstat.org", "owner": "ArcticStat", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "arctictoday.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "news", "confidence": "low"}
+{"domain": "arhiv.rs", "owner": "Ebart Media Documentation", "owner_type": "commercial", "access_model": "subscription", "category": "news", "confidence": "medium"}
+{"domain": "aria-database.com", "owner": "The Aria Database", "owner_type": "individual", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "ariadne.ac.uk", "owner": null, "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "ark.ac.uk", "owner": "ARK (Queen's University Belfast and Ulster University)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "arkitektur.se", "owner": null, "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "low"}
+{"domain": "arkitekturbilleder.dk", "owner": null, "owner_type": "commercial", "access_model": "freemium", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "arkive.org", "owner": "Wildscreen (ARKive)", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "arlis.net", "owner": "ARLIS/UK & Ireland", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "arma.org", "owner": "ARMA International", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "armand-colin.com", "owner": "Armand Colin", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "arolsen-archives.org", "owner": "Arolsen Archives", "owner_type": "intergovernmental", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "arquivos.pt", "owner": "Fundação para a Ciência e a Tecnologia (Arquivo.pt)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "arsaequi.nl", "owner": "Ars Aequi", "owner_type": "commercial", "access_model": "subscription", "category": "publisher_platform", "confidence": "medium"}
+{"domain": "artexte.ca", "owner": "Artexte", "owner_type": "nonprofit", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "arthistorians.info", "owner": "Duke University (Dictionary of Art Historians)", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "arthistoricum.net", "owner": "SLUB Dresden and Heidelberg University Library", "owner_type": "educational", "access_model": "free", "category": "aggregator", "confidence": "high"}
+{"domain": "article13.com", "owner": "Article 13", "owner_type": "commercial", "access_model": "subscription", "category": "other", "confidence": "medium"}
+{"domain": "artistprofile.com.au", "owner": "Artist Profile (Art & Australia)", "owner_type": "commercial", "access_model": "subscription", "category": "other", "confidence": "medium"}
+{"domain": "artists.fi", "owner": "Artists' Association of Finland", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "artistsincanada.com", "owner": "Canadian Heritage Information Network", "owner_type": "government", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "artlib.cn", "owner": null, "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "artlibraries.net", "owner": "Karlsruhe Institute of Technology (Virtual Catalog Art History)", "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "artnet.com", "owner": "Artnet AG", "owner_type": "commercial", "access_model": "freemium", "category": "data_statistics", "confidence": "high"}
+{"domain": "artonfile.com", "owner": "Art on File", "owner_type": "commercial", "access_model": "subscription", "category": "other", "confidence": "medium"}
+{"domain": "artres.com", "owner": "Art Resource Inc.", "owner_type": "commercial", "access_model": "pay_per_use", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "artron.net", "owner": "Artron", "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "arts.ac.uk", "owner": "University of the Arts London", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "artsjournal.com", "owner": "ArtsJournal", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "artsmia.org", "owner": "Minneapolis Institute of Art", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "artsongcentral.com", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "artsprofessional.co.uk", "owner": "Arts Professional", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "artsy.net", "owner": "Artsy Inc.", "owner_type": "commercial", "access_model": "freemium", "category": "other", "confidence": "high"}
+{"domain": "arupconsult.com", "owner": "ARUP Laboratories (University of Utah)", "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "arvasarchive.org", "owner": null, "owner_type": "educational", "access_model": "free", "category": "index_abstract", "confidence": "low"}
+{"domain": "arvojournals.org", "owner": "Association for Research in Vision and Ophthalmology (ARVO)", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "asadl.org", "owner": "Acoustical Society of America", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "asbmb.org", "owner": "American Society for Biochemistry and Molecular Biology", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "ascorpus.ac.uk", "owner": "Durham University (Corpus of Anglo-Saxon Stone Sculpture)", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "ascpt.org", "owner": "American Society for Clinical Pharmacology and Therapeutics", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "ash.org.uk", "owner": "Action on Smoking and Health (ASH)", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "asha.org", "owner": "American Speech-Language-Hearing Association", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "ashs.org", "owner": "American Society for Horticultural Science", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "asiaportal.info", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "aggregator", "confidence": "low"}
+{"domain": "asines.org", "owner": "Universitat Autònoma de Barcelona (ASinEs)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "asmscience.org", "owner": "American Society for Microbiology", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aspbooks.org", "owner": "Astronomical Society of the Pacific", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aspet.org", "owner": "American Society for Pharmacology and Experimental Therapeutics", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "aspetjournals.org", "owner": "American Society for Pharmacology and Experimental Therapeutics", "owner_type": "nonprofit", "access_model": "subscription", "category": "publisher_platform", "confidence": "high"}
+{"domain": "asrcreviews.org", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "assetbank.app", "owner": "Bright Interactive (Asset Bank)", "owner_type": "commercial", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "asso.fr", "owner": null, "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "low"}
+{"domain": "astron.nl", "owner": "ASTRON (Netherlands Institute for Radio Astronomy)", "owner_type": "government", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "astronomie.nl", "owner": "NOVA (Netherlands Research School for Astronomy)", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "asturias.es", "owner": "Government of the Principality of Asturias", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "asylumlawdatabase.eu", "owner": "European Council on Refugees and Exiles (ECRE)", "owner_type": "nonprofit", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "atlantelinguistico.it", "owner": "Università di Torino (Atlante Linguistico Italiano)", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "atlasgeneticsoncology.org", "owner": null, "owner_type": "educational", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "atlasofmutualheritage.nl", "owner": "Nationaal Archief (Netherlands)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "atozmapsonline.com", "owner": "AtoZ Maps Online", "owner_type": "commercial", "access_model": "subscription", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "atria.nl", "owner": "Atria Institute on gender equality and women's history", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "atticinscriptions.com", "owner": "Attic Inscriptions Online", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "august-wilhelm-schlegel.de", "owner": "Technische Universität Dresden (Schlegel correspondence edition)", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "aupress.ca", "owner": "Athabasca University Press", "owner_type": "educational", "access_model": "free", "category": "publisher_platform", "confidence": "high"}

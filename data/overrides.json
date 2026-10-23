@@ -1,0 +1,145 @@
+{
+ "about": "Corrections made on independent review of the core and common tiers. Each one replaces a model classification or a pattern reading, and carries its reason. Re-running scripts/rate.py applies them.",
+ "owner": {
+  "covidence.org": {
+   "owner_type": {
+    "to": "nonprofit",
+    "reason": "Covidence (Veritas Health Innovation Ltd) is a not-for-profit company"
+   }
+  },
+  "biomedcentral.com": {
+   "access_model": {
+    "to": "free",
+    "reason": "All BioMed Central journals are fully open access (CC BY)"
+   }
+  },
+  "cornell.edu": {
+   "access_model": {
+    "to": "mixed",
+    "reason": "Top title Roper iPoll needs membership or institutional subscription; the domain also hosts free resources"
+   }
+  },
+  "browzine.com": {
+   "access_model": {
+    "to": "institutional",
+    "reason": "BrowZine is licensed to libraries; no free consumer tier"
+   }
+  },
+  "therai.org.uk": {
+   "access_model": {
+    "to": "free",
+    "reason": "Anthropological Index Online is free of charge"
+   }
+  },
+  "ukdataservice.ac.uk": {
+   "access_model": {
+    "to": "mixed",
+    "reason": "Most collections need registration under an End User Licence; some are special-licence or Secure Lab"
+   }
+  },
+  "trismegistos.org": {
+   "access_model": {
+    "to": "freemium",
+    "reason": "Subscription model since about 2020; basic records free"
+   }
+  },
+  "buddhism-dict.net": {
+   "access_model": {
+    "to": "freemium",
+    "reason": "Guests get a capped number of searches; full access needs a contribution"
+   }
+  },
+  "oxforddictionaries.com": {
+   "access_model": {
+    "to": "institutional",
+    "reason": "The free site moved to Lexico (closed 2022); what remains is institutional"
+   }
+  },
+  "aviaryplatform.com": {
+   "owner_type": {
+    "to": "commercial",
+    "reason": "Aviary is a hosting platform run by AVP, a commercial firm"
+   },
+   "owner": {
+    "to": "AVP",
+    "reason": "platform operator"
+   }
+  },
+  "philpapers.org": {
+   "owner": {
+    "to": "PhilPapers Foundation",
+    "reason": "PhilPapers is run by the PhilPapers Foundation"
+   }
+  },
+  "worldshakesbib.org": {
+   "owner": {
+    "to": "Folger Shakespeare Library / Johns Hopkins University Press",
+    "reason": "Produced for the Folger; published by JHU Press"
+   }
+  },
+  "marketline.com": {
+   "owner": {
+    "to": "MarketLine (GlobalData plc)",
+    "reason": "Progressive Digital Media Group took the GlobalData name in 2016"
+   }
+  }
+ },
+ "readings": {
+  "springer.com": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "The clause is from Springer Nature's AI-assistant service terms and limits systematic extraction at scale; not a ban on reading"
+   }
+  },
+  "nature.com": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "Same Springer Nature AI-assistant clause: limits bulk extraction, not reading"
+   }
+  },
+  "unesco.org": {
+   "automated_access": {
+    "to": "silent",
+    "reason": "The clause only prohibits access 'contrary to the Terms of Use'; it bans nothing automated in itself"
+   }
+  },
+  "visualdx.com": {
+   "ai_tdm": {
+    "to": "silent",
+    "reason": "The deciding sentence is a generic copying ban that does not mention AI or mining"
+   }
+  },
+  "altmetric.com": {
+   "automated_access": {
+    "to": "prohibited",
+    "reason": "Terms prohibit manual or automated software to crawl or spider any content (missed by the pattern)"
+   },
+   "ai_tdm": {
+    "to": "training_prohibited",
+    "reason": "TDM rights reserved, and use as input to machine learning prohibited"
+   }
+  },
+  "dimensions.ai": {
+   "automated_access": {
+    "to": "prohibited",
+    "reason": "Terms prohibit manual or automated means, including robots, scripts or spiders (missed by the pattern)"
+   },
+   "ai_tdm": {
+    "to": "training_prohibited",
+    "reason": "Same Digital Science clause as altmetric.com: TDM reserved, no use as machine-learning input"
+   }
+  },
+  "birdsoftheworld.org": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "Bars mechanically downloading or retaining substantial portions: a scope limit, not a ban on access"
+   }
+  },
+  "arxiv.org": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "arXiv directs automated clients to its API, export.arxiv.org and bulk data"
+   }
+  }
+ }
+}
