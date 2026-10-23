@@ -109,7 +109,7 @@ def main():
                      f"{cat['n_libraries']} university libraries worldwide, kept when named by at least 10% of them in "
                      "3+ regions (tier common) or 25% in 5+ regions (tier core); access, owner type and terms readings "
                      "follow the published heuristic at https://github.com/lukewp/library-consensus-sources. "
-                     "Entries marked open-web are cited in the most-read Wikipedia articles of 15+ of 20 languages, are among the 10 sources most cited in one language, or are linked from the news, free-web, data or government guides of 10%+ of libraries in 3+ regions; open-web-curated are seed-list sources below those thresholds, assessed the same way. Entries marked curated were added by hand. automation is the stricter (spirit) reading of "
+                     "Entries marked open-web are cited in the most-read Wikipedia articles of 15+ of 20 languages, are among the 10 sources most cited in one language, or are linked from the news, free-web, data or government guides of 10%+ of libraries in 3+ regions; open-web-curated are seed-list sources below those thresholds, assessed the same way. Entries marked curated were added by hand. negative_evidence: true marks a source complete and searchable enough that a miss counts as evidence of absence; anywhere else a miss is only 'not found'. automation is the stricter (spirit) reading of "
                      "robots.txt and terms; automation_letter is the reading by the letter. Neither is legal advice: "
                      "the user's own agreements govern, and a profile can override any entry."),
            "categories": ["government", "legal", "policy", "news", "academic", "data", "markets", "social"],

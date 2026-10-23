@@ -93,7 +93,9 @@
       "access": "free",
       "automation": "allowed",
       "useful_for": "Federal lobbying registrations and quarterly reports",
-      "notes": "Public API"
+      "notes": "Public API. For citation, prefer a filing's human-readable print view (lda.gov) over /api/ output.",
+      "negative_evidence": true,
+      "negative_evidence_note": "The federal LDA register is complete for registered lobbying. Search name variants and both registrant and client fields before concluding a firm or client is absent."
     },
     {
       "id": "usaspending",
@@ -687,6 +689,56 @@
       "probe": "https://virlo.ai/",
       "covered_by": "virlo",
       "notes": "Use the virlo source skill (API key, not browser)"
+    },
+    {
+      "id": "lda-gov",
+      "name": "Lobbying Disclosure (lda.gov)",
+      "domain": "lda.gov",
+      "category": "government",
+      "region": "us",
+      "access": "free",
+      "automation": "allowed",
+      "useful_for": "Federal lobbying registrations and quarterly reports; filing print views",
+      "notes": "Cite filing print pages; /api/ URLs return machine output that is not useful as a cited page.",
+      "negative_evidence": true,
+      "negative_evidence_note": "Complete for registered federal lobbying; search name variants before concluding absence."
+    },
+    {
+      "id": "uk-register-consultant-lobbyists",
+      "name": "UK Register of Consultant Lobbyists",
+      "domain": "registerofconsultantlobbyists.org.uk",
+      "category": "government",
+      "region": "uk",
+      "access": "free",
+      "automation": "manual-only",
+      "useful_for": "Statutory register of UK consultant lobbyists and their clients",
+      "notes": "Agent fetches were refused under robots.txt (2026-10-23) and entry pages are not search-indexed. Plan a manual search, or use the Registrar's data download."
+    },
+    {
+      "id": "eu-transparency-register",
+      "name": "EU Transparency Register",
+      "domain": "transparency-register.europa.eu",
+      "category": "government",
+      "region": "eu",
+      "access": "free",
+      "automation": "human-pace",
+      "useful_for": "EU interest representatives, their clients, spending and meetings",
+      "notes": "Search results render with JavaScript; individual datacards read well when found through web search.",
+      "negative_evidence": false,
+      "negative_evidence_note": "A name lookup cannot prove a firm is unregistered: record 'not found', never 'absent'."
+    },
+    {
+      "id": "lobbyfacts",
+      "name": "LobbyFacts",
+      "domain": "lobbyfacts.eu",
+      "category": "policy",
+      "region": "eu",
+      "access": "free",
+      "automation": "human-pace",
+      "useful_for": "Historical EU Transparency Register data, client lists and trends",
+      "notes": "The URL name filter is ignored; reach datacards and client pages through web search.",
+      "negative_evidence": false,
+      "negative_evidence_note": "A miss is 'not found', never 'absent'."
     }
   ]
 }
