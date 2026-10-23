@@ -9,6 +9,7 @@ Signals per registrable domain:
   seed:      the hand seed group, if any (data/openweb_seed.json)
 Open-web tier rule (published in METHOD.md):
   open-web          cited in the most-read articles of >= 15 of 20 languages,
+                    or among the 5 domains most cited by one language's most-read articles,
                     or linked from the guides of >= 10% of the libraries that have such guides, in >= 3 regions
   open-web-curated  on the seed list but below both thresholds
 """
@@ -29,7 +30,11 @@ def main():
     sig = {}
     for r in wiki["domains"]:
         if r["n_languages"] >= 2:
-            sig.setdefault(r["domain"], {})["wikipedia"] = {"n_languages": r["n_languages"], "n_articles": r["n_articles"], "citations": r["citations"]}
+            sig.setdefault(r["domain"], {})["wikipedia"] = {"n_languages": r["n_languages"], "n_articles": r["n_articles"], "citations": r["citations"],
+                                                         "top_in_languages": r.get("top_in_languages", [])}
+        elif r.get("top_in_languages"):
+            sig.setdefault(r["domain"], {})["wikipedia"] = {"n_languages": r["n_languages"], "n_articles": r["n_articles"], "citations": r["citations"],
+                                                         "top_in_languages": r["top_in_languages"]}
     for r in guides["domains"]:
         if r["n_libraries"] >= 2:
             sig.setdefault(r["domain"], {})["guides"] = {"n_libraries": r["n_libraries"], "share": round(r["n_libraries"] / n_g, 4),
@@ -39,7 +44,8 @@ def main():
     rows = []
     for d, s in sig.items():
         w, g = s.get("wikipedia", {}), s.get("guides", {})
-        consensus = w.get("n_languages", 0) >= WIKI_LANG_MIN or (g.get("share", 0) >= GUIDE_SHARE_MIN and g.get("n_regions", 0) >= GUIDE_REGION_MIN)
+        consensus = (w.get("n_languages", 0) >= WIKI_LANG_MIN or bool(w.get("top_in_languages"))
+                     or (g.get("share", 0) >= GUIDE_SHARE_MIN and g.get("n_regions", 0) >= GUIDE_REGION_MIN))
         tier = "open-web" if consensus else ("open-web-curated" if "seed" in s else None)
         candidate = tier or w.get("n_languages", 0) >= CANDIDATE_WIKI_MIN or g.get("n_libraries", 0) >= CANDIDATE_GUIDE_MIN
         if candidate:
@@ -48,7 +54,7 @@ def main():
                              -r.get("guides", {}).get("n_libraries", 0)))
     out = {"rule": {"wikipedia_languages_min": WIKI_LANG_MIN, "of_languages": 20, "guide_share_min": GUIDE_SHARE_MIN,
                     "guide_regions_min": GUIDE_REGION_MIN, "libraries_with_guides": n_g,
-                    "wikipedia_articles": wiki["n_articles"]}, "domains": rows}
+                    "wikipedia_articles": wiki["n_articles"], "top_per_language": 5}, "domains": rows}
     (ROOT / "data" / "openweb.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (ROOT / "data" / "openweb_domains.json").write_text(json.dumps({"domains": [{"domain": r["domain"], "max_libraries": 99,
         "titles": [], "vendors": []} for r in rows]}, indent=1))

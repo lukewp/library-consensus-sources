@@ -1,5 +1,5 @@
 {
- "n_domains": 4578,
+ "n_domains": 4580,
  "domains": [
   {
    "domain": "proquest.com",
@@ -15776,17 +15776,6 @@
    "vendors": []
   },
   {
-   "domain": "gov.pl",
-   "entries": 2,
-   "max_libraries": 2,
-   "library_mentions": 4,
-   "titles": [
-    "Institute of Mathematics Polish Academy of Sciences",
-    "Institute of Mathematics (Polish Academy of Sciences) Publications"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "grantconnect.ca",
    "entries": 1,
    "max_libraries": 4,
@@ -15931,6 +15920,17 @@
     "ViVa: A Bibliography of Women's History in Historical and Women's Studies Journals",
     "Internationaal Instituut voor Sociale Geschiedenis (IISG)",
     "ViVa - Women's History Homepage"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "impan.gov.pl",
+   "entries": 2,
+   "max_libraries": 2,
+   "library_mentions": 4,
+   "titles": [
+    "Institute of Mathematics Polish Academy of Sciences",
+    "Institute of Mathematics (Polish Academy of Sciences) Publications"
    ],
    "vendors": []
   },
@@ -16492,19 +16492,6 @@
    "titles": [
     "OregonPDF in Health & Performance",
     "Oregon PDF"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.co",
-   "entries": 4,
-   "max_libraries": 1,
-   "library_mentions": 4,
-   "titles": [
-    "Biblioteca digital Cámara de Comercio de Bogotá Este enlace se abre en una nueva ventana",
-    "Centro de Recursos para el Análisis de Conflictos (CERAC)",
-    "Observatorio de la Región Bogotá - Cundinamarca Este enlace se abre en una nueva ventana",
-    "Open Data Bogotá Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -17738,6 +17725,18 @@
    "library_mentions": 3,
    "titles": [
     "CB Insights"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "ccb.org.co",
+   "entries": 3,
+   "max_libraries": 1,
+   "library_mentions": 3,
+   "titles": [
+    "Biblioteca digital Cámara de Comercio de Bogotá Este enlace se abre en una nueva ventana",
+    "Observatorio de la Región Bogotá - Cundinamarca Este enlace se abre en una nueva ventana",
+    "Open Data Bogotá Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -21586,6 +21585,17 @@
    "vendors": []
   },
   {
+   "domain": "clacso.org.ar",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Biblioteca Ayacucho Digital (CLACSO)",
+    "Librería Latinoamericana y Caribeña de Ciencias Sociales"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "clarin.eu",
    "entries": 2,
    "max_libraries": 1,
@@ -22192,17 +22202,6 @@
    "library_mentions": 2,
    "titles": [
     "American Society for Engineering Education Publications"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "edu.pl",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "Database of Medieval Nubian Texts (DBMNT)",
-    "Polish Virtual Library of Science Mathematical Collection"
    ],
    "vendors": []
   },
@@ -25083,17 +25082,6 @@
    "titles": [
     "Optical Society of America (OSA) Journals",
     "Optics InfoBase (Optical Society of America)"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.ar",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "Biblioteca Ayacucho Digital (CLACSO)",
-    "Librería Latinoamericana y Caribeña de Ciencias Sociales"
    ],
    "vendors": []
   },
@@ -31290,6 +31278,16 @@
    "vendors": []
   },
   {
+   "domain": "cerac.org.co",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Centro de Recursos para el Análisis de Conflictos (CERAC)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "cerealsgrains.org",
    "entries": 1,
    "max_libraries": 1,
@@ -33326,6 +33324,16 @@
    "vendors": []
   },
   {
+   "domain": "diit.edu.ua",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Anthropological Measurements of Philosophical Research Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "disabledpeoplesarchive.com",
    "entries": 1,
    "max_libraries": 1,
@@ -34182,16 +34190,6 @@
    "library_mentions": 1,
    "titles": [
     "FLACSO Andes Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "edu.ua",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "Anthropological Measurements of Philosophical Research Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -37862,6 +37860,16 @@
    "vendors": []
   },
   {
+   "domain": "icm.edu.pl",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Polish Virtual Library of Science Mathematical Collection"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "icmagroup.org",
    "entries": 1,
    "max_libraries": 1,
@@ -39672,6 +39680,16 @@
    "library_mentions": 1,
    "titles": [
     "MOT-sanakirjat"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "kisti.re.kr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "KISTI 과학기술학회마을"
    ],
    "vendors": []
   },
@@ -45777,16 +45795,6 @@
    "vendors": []
   },
   {
-   "domain": "re.kr",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "KISTI 과학기술학회마을"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "redib.org",
    "entries": 1,
    "max_libraries": 1,
@@ -50395,6 +50403,16 @@
    "library_mentions": 1,
    "titles": [
     "Journal of Business Inquiry"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "uw.edu.pl",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Database of Medieval Nubian Texts (DBMNT)"
    ],
    "vendors": []
   },

@@ -120,7 +120,7 @@ A–Z database lists measure what libraries license or curate *as databases*. Wi
 
 | Tier | Rule |
 |---|---|
-| open-web | cited in the most-read articles of ≥ 15 of the 20 languages, or linked from the guides of ≥ 10% of the libraries that have such guides, in ≥ 3 regions |
+| open-web | cited in the most-read articles of ≥ 15 of the 20 languages; or among the 5 domains cited by the most articles in any one language (so each language's own leading sources are represented, not only the shared ones); or linked from the guides of ≥ 10% of the libraries that have such guides, in ≥ 3 regions |
 | open-web-curated | on the seed list, below both thresholds |
 
 Open-web platforms go through the same robots.txt, terms and owner checks, and get the same automation ratings, as every other platform. A domain can hold both a library tier and an open-web tier. JSTOR, for example, is core and also widely cited.

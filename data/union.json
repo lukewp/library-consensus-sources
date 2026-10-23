@@ -308871,7 +308871,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "gov.pl": 1
+    "impan.gov.pl": 1
    },
    "hosts": {
     "journals.impan.gov.pl": 1
@@ -368720,7 +368720,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "gov.pl": 1,
+    "impan.gov.pl": 1,
     "impan.pl": 1
    },
    "hosts": {
@@ -449331,7 +449331,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.ua": 1
+    "diit.edu.ua": 1
    },
    "hosts": {
     "ampr.diit.edu.ua": 1
@@ -498026,7 +498026,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.ar": 1
+    "clacso.org.ar": 1
    },
    "hosts": {
     "www.clacso.org.ar": 1
@@ -498314,7 +498314,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.co": 1
+    "ccb.org.co": 1
    },
    "hosts": {
     "bibliotecadigital.ccb.org.co": 1
@@ -551265,7 +551265,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.co": 1
+    "cerac.org.co": 1
    },
    "hosts": {
     "www.cerac.org.co": 1
@@ -613597,7 +613597,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.pl": 1
+    "uw.edu.pl": 1
    },
    "hosts": {
     "www.dbmnt.uw.edu.pl": 1
@@ -857055,7 +857055,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "re.kr": 1
+    "kisti.re.kr": 1
    },
    "hosts": {
     "society.kisti.re.kr": 1
@@ -881581,7 +881581,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.ar": 1
+    "clacso.org.ar": 1
    },
    "hosts": {
     "www.clacso.org.ar": 1
@@ -968028,7 +968028,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.co": 1
+    "ccb.org.co": 1
    },
    "hosts": {
     "www.ccb.org.co": 1
@@ -976195,7 +976195,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.co": 1
+    "ccb.org.co": 1
    },
    "hosts": {
     "opendatabogota.ccb.org.co": 1
@@ -1016293,7 +1016293,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.pl": 1
+    "icm.edu.pl": 1
    },
    "hosts": {
     "matwbn.icm.edu.pl": 1

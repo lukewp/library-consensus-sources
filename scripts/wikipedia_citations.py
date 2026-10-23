@@ -32,6 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "wikipedia"
 LANGS = ["en", "es", "de", "fr", "ja", "ru", "it", "pt", "zh", "pl", "nl", "ar", "fa", "tr", "ko", "id", "uk", "sv", "vi", "hi"]
 TOP_N = 200
+TOP_PER_LANG = 5   # a language's most-cited domains enter the open-web tier even below the cross-language threshold
 MONTHS_END = (2026, 9)
 DELAY = 1.0  # per language worker; 4 workers in parallel
 IDENTIFIERS = {"doi.org", "handle.net", "viaf.org", "isni.org", "orcid.org", "loc.gov/id", "d-nb.info", "worldcat.org", "wikidata.org",
@@ -41,7 +42,7 @@ IDENTIFIERS = {"doi.org", "handle.net", "viaf.org", "isni.org", "orcid.org", "lo
                "archive.is", "web.archive.org"}
 DROP_REG = {"doi.org", "handle.net", "viaf.org", "isni.org", "orcid.org", "wikidata.org", "wikipedia.org", "wikimedia.org", "wikisource.org",
             "wiktionary.org", "mediawiki.org", "toolforge.org", "wmflabs.org", "identifiers.org", "idref.fr", "d-nb.info", "archive.ph",
-            "archive.today", "archive.is", "webcitation.org", "archive-it.org", "ghostarchive.org"}
+            "archive.today", "archive.is", "webcitation.org", "archive-it.org", "ghostarchive.org", "issn.org", "zdb-katalog.de", "sudoc.fr", "sudoc.abes.fr", "ndl.go.jp", "nla.gov.au/anbd", "bnf.fr/ark"}
 
 
 def get(url, tries=3):
@@ -167,8 +168,24 @@ def summarize():
                 x["languages"].add(r["lang"])
                 x["articles"] += 1
                 x["citations"] += c
+    # Per language: the TOP_PER_LANG domains cited by the most articles (ties broken by total citations).
+    per = defaultdict(Counter)
+    cites = defaultdict(Counter)
+    for f in sorted((OUT / "raw").glob("*.jsonl")):
+        for line in f.read_text().splitlines():
+            r = json.loads(line)
+            for d, c in r["domains"].items():
+                if d in SECOND_LEVEL or d in DROP_REG:
+                    continue
+                per[r["lang"]][d] += 1
+                cites[r["lang"]][d] += c
+    top_in = defaultdict(list)
+    for lang, ctr in per.items():
+        for d, _ in sorted(ctr.items(), key=lambda kv: (-kv[1], -cites[lang][kv[0]], kv[0]))[:TOP_PER_LANG]:
+            top_in[d].append(lang)
     rows = sorted(({"domain": d, "n_languages": len(x["languages"]), "languages": sorted(x["languages"]), "n_articles": x["articles"],
-                    "citations": x["citations"]} for d, x in by.items()), key=lambda r: (-r["n_languages"], -r["n_articles"]))
+                    "citations": x["citations"], "top_in_languages": sorted(top_in.get(d, []))} for d, x in by.items()),
+                  key=lambda r: (-r["n_languages"], -r["n_articles"]))
     (OUT / "domains.json").write_text(json.dumps({"articles_per_language": dict(per_lang), "n_articles": sum(per_lang.values()),
                                                   "domains": rows}, ensure_ascii=False, indent=1))
     print(sum(per_lang.values()), "articles;", len(rows), "domains;", sum(1 for r in rows if r["n_languages"] >= 10), "cited in 10+ languages")

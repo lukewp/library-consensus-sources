@@ -1,0 +1,42 @@
+{"domain": "bfmtv.com", "owner": "BFM TV (CMA Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "liberation.fr", "owner": "Libération", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "mediaset.it", "owner": "Mediaset (MFE-MediaForEurope)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "terra.com.br", "owner": "Terra Networks Brasil", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "kommersant.ru", "owner": "Kommersant (USM Holdings)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "nu.nl", "owner": "NU.nl (DPG Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "oricon.co.jp", "owner": "Oricon Inc.", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "abril.com.br", "owner": "Grupo Abril", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "ad.nl", "owner": "Algemeen Dagblad (DPG Media)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "udn.com", "owner": "United Daily News Group", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "onet.pl", "owner": "Onet (Ringier Axel Springer Polska)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "tass.ru", "owner": "TASS (Russian state news agency)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "yna.co.kr", "owner": "Yonhap News Agency (publicly funded)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "lenta.ru", "owner": "Lenta.ru (Rambler&Co)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "cnnbrasil.com.br", "owner": "CNN Brasil (Novus Mídia, CNN licence)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "hurriyet.com.tr", "owner": "Hürriyet (Demirören Holding)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "wp.pl", "owner": "Wirtualna Polska", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "tempo.co", "owner": "Tempo Media Group", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "hani.co.kr", "owner": "The Hankyoreh", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nikkansports.com", "owner": "Nikkan Sports (Asahi Shimbun group)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "rbc.ua", "owner": "RBC-Ukraine", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "vnexpress.net", "owner": "VnExpress (FPT Corporation)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "suspilne.media", "owner": "Suspilne (Public Broadcasting Company of Ukraine)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "hk01.com", "owner": "HK01", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "daum.net", "owner": "Daum (Kakao)", "owner_type": "commercial", "access_model": "free", "category": "search_engine", "confidence": "high"}
+{"domain": "sponichi.co.jp", "owner": "Sports Nippon (Mainichi group)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "expressen.se", "owner": "Expressen (Bonnier)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "unian.ua", "owner": "UNIAN (1+1 Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "ukrinform.ua", "owner": "Ukrinform (state news agency of Ukraine)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "interia.pl", "owner": "Interia (Grupa Polsat Plus)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "tvn24.pl", "owner": "TVN24 (Warner Bros. Discovery)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "sina.com.cn", "owner": "Sina Corporation", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "cnnindonesia.com", "owner": "CNN Indonesia (Trans Media, CNN licence)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "liputan6.com", "owner": "Liputan6 (Emtek)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "haberturk.com", "owner": "Habertürk (Ciner Group)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "natalie.mu", "owner": "Natalie (Natasha, Inc.)", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "kompas.com", "owner": "Kompas Gramedia", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "detik.com", "owner": "detikcom (CT Corp)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "milliyet.com.tr", "owner": "Milliyet (Demirören Holding)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "vietnamnet.vn", "owner": "VietNamNet (Ministry of Information and Communications)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "tuoitre.vn", "owner": "Tuổi Trẻ (Ho Chi Minh Communist Youth Union)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "thanhnien.vn", "owner": "Thanh Niên (Vietnam Youth Federation)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "medium"}

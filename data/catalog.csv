@@ -966,7 +966,7 @@ mrisimmons.com,recognized,,MRI-Simmons Catalyst,3,4,MRI-Simmons (GfK / Kantar),c
 munzinger.de,recognized,,Datenbank-Paket Duden,3,3,Munzinger-Archiv,commercial,subscription,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 music.org,recognized,,Directory of Music Faculties,3,2,College Music Society,nonprofit,subscription,reference,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 mwdl.org,recognized,,Mountain West Digital Library,3,1,Mountain West Digital Library (Utah Academic Library Consortium),nonprofit,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-naver.com,recognized,,Naver News Library,3,3,Naver Corporation,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+naver.com,recognized,open-web,Naver News Library,3,3,Naver Corporation,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 naxosworks.com,recognized,,Naxos Works Database,3,1,Naxos Digital Services,commercial,subscription,media_streaming,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 ncse.ac.uk,recognized,,Nineteenth Century Serials Edition,3,4,Nineteenth-Century Serials Edition (Birkbeck / King's College London),educational,free,primary_sources_archive,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
 ncsu.edu,recognized,,Piers Plowman Electronic Archive,3,1,North Carolina State University,educational,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -1289,7 +1289,6 @@ globalarbitrationreview.com,local,,Global Arbitration Review (GAR),2,1,Law Busin
 globalcompetitionreview.com,local,,Global Competition Review,2,2,Law Business Research (GlobalLegalGroup),commercial,subscription,legal,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 glowm.com,local,,Global library of women's medicine,2,2,Foundation for the Global Library of Women's Medicine,nonprofit,freemium,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 google.co.uk,local,open-web,Jet,2,1,Google,commercial,free,search_engine,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-gov.pl,local,,Institute of Mathematics Polish Academy of Sciences,2,2,Government of Poland,government,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 govscape.net,local,,Govscape,2,1,Govscape (Stanford/Univ. of Georgia-affiliated project),educational,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 grantforward.com,local,,Grant Forward,2,1,Grant Forward (Elsevier/Research Square),commercial,institutional,index_abstract,prohibited,silent,no_ai_rules,False,manual-only,manual-only
 guilfordjournals.com,local,,Guilford Periodicals Online,2,2,Guilford Press,commercial,mixed,publisher_platform,unknown,reserved,blocks_ai_crawlers,True,human-pace,human-pace
@@ -1324,6 +1323,7 @@ imaios.com,local,,vet-Anatomy,2,4,IMAIOS,commercial,freemium,reference,silent,si
 imeche.org,local,,IMechE Archive,2,2,Institution of Mechanical Engineers,nonprofit,mixed,publisher_platform,prohibited,training_prohibited,no_ai_rules,False,manual-only,manual-only
 imfmedia.ie,local,,Irish Medicines Formulary,2,1,Irish Medicines Formulary,commercial,subscription,reference,prohibited,silent,no_ai_rules,False,manual-only,manual-only
 imj.org.il,local,,Digital Dead Sea Scrolls,2,2,"The Israel Museum, Jerusalem",nonprofit,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+impan.gov.pl,local,,Institute of Mathematics Polish Academy of Sciences,2,2,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 importgenius.com,local,,ImportGenius,2,1,Import Genius Inc.,commercial,subscription,data_statistics,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 in.gov,local,,Hoosier State Chronicles,2,2,State of Indiana (Indiana State Library),government,free,primary_sources_archive,unknown,unknown,unknown,False,human-pace,human-pace
 inahta.org,local,,International HTA Database,2,2,International Network of Agencies for Health Technology Assessment,nonprofit,free,index_abstract,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -1680,7 +1680,7 @@ africanmusiclibrary.org,local,,African Music Library,1,1,International Library o
 africaportal.org,local,,The African Portal,1,1,Centre for International Governance Innovation (CIGI),nonprofit,free,aggregator,unknown,unknown,unknown,False,human-pace,human-pace
 afsjournals.org,local,,Fisheries Infobase,1,1,American Fisheries Society,nonprofit,subscription,publisher_platform,unknown,unknown,unknown,False,human-pace,human-pace
 aftenposten.no,local,,Aftenposten,1,1,Aftenposten (Schibsted),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
-aftonbladet.se,local,,Aftonbladet,1,1,Aftonbladet (Schibsted),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+aftonbladet.se,local,open-web,Aftonbladet,1,1,Aftonbladet (Schibsted),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 afuk.nl,local,,Afûk,1,1,Afûk,nonprofit,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 agnessearch.nl,local,,AGNES,1,1,,unknown,free,index_abstract,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 agricbank.com,local,,Agricultural Development Bank,1,1,,unknown,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -2073,6 +2073,7 @@ catholicresearch.org,local,,Catholic Portal,1,2,Catholic Research Resources Alli
 caval.edu.au,local,,CARM Centre Catalogue,1,1,CAVAL,nonprofit,free,index_abstract,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 cavv-advies.nl,local,,CAVV,1,1,Advisory Committee on Issues of Public International Law (Netherlands),government,free,government_official,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 ccarh.org,local,,Handel Reference Database,1,1,Center for Computer Assisted Research in the Humanities (Stanford),educational,free,reference,unknown,unknown,unknown,False,human-pace,human-pace
+ccb.org.co,local,,Biblioteca digital Cámara de Comercio de Bogotá Este enlace se abre en una nueva ventana,1,3,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 ccel.org,local,,"Christian Classics Ethereal Library, The",1,1,Christian Classics Ethereal Library (Calvin University),educational,free,primary_sources_archive,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 ccmixter.org,local,,ccMixter,1,1,ccMixter,nonprofit,free,media_streaming,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 cdasiaonline.com,local,,CD Asia Classic,1,2,CD Asia,commercial,subscription,legal,prohibited,training_prohibited,no_ai_rules,False,manual-only,manual-only
@@ -2092,6 +2093,7 @@ cepal.org,local,,Cepal Stat Este enlace se abre en una nueva ventana,1,2,UN Econ
 cepii.fr,local,,BACI,1,1,CEPII,government,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 ceps.eu,local,,Centre for European Policy Studies,1,1,Centre for European Policy Studies,nonprofit,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 cer.eu,local,,Centre for European Reform,1,1,Centre for European Reform,nonprofit,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+cerac.org.co,local,,Centro de Recursos para el Análisis de Conflictos (CERAC),1,1,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 cerealsgrains.org,local,,Approved Methods of Analysis (AACC),1,1,Cereals & Grains Association (formerly AACC International),nonprofit,subscription,reference,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 cerf.science,local,,Estuaries Research Federation,1,1,Coastal and Estuarine Research Federation,nonprofit,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 cervantes.es,local,,Portal del Hispanismo,1,1,Instituto Cervantes,government,free,index_abstract,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
@@ -2122,7 +2124,7 @@ childandfamilydataarchive.org,local,,Child & Family Data Archive Este enlace se 
 chinabooktrading.com,local,,中國歷代典籍總目 Historical Book Catalogue of China,1,1,,commercial,subscription,index_abstract,unknown,unknown,unknown,False,human-pace,human-pace
 chinadataonline.org,local,,China Data Online (fka. China Statistical Data),1,1,China Data Center (University of Michigan),educational,subscription,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 chisatotamabayashi.com,local,,Chisato Tamabayashi,1,1,Chisato Tamabayashi,individual,free,other,unknown,unknown,unknown,False,human-pace,human-pace
-chosun.com,local,,Chosun Ilbo Archive (1920- ),1,1,Chosun Ilbo,commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
+chosun.com,local,open-web,Chosun Ilbo Archive (1920- ),1,1,Chosun Ilbo,commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 chronoshub.io,local,,Journal Guide,1,1,,commercial,free,tool,prohibited,silent,no_ai_rules,False,manual-only,manual-only
 ciarahealymusson.ie,local,,Ciara Healy,1,1,Ciara Healy Musson,individual,free,other,unknown,unknown,unknown,False,human-pace,human-pace
 cienciaesaudecoletiva.com.br,local,,Ciência & Saúde Coletiva Este enlace se abre en una nueva ventana,1,1,ABRASCO (Associação Brasileira de Saúde Coletiva),nonprofit,free,publisher_platform,unknown,unknown,unknown,False,human-pace,human-pace
@@ -2149,6 +2151,7 @@ civilwarpetitions.ac.uk,local,,Civil War Petitions,1,1,,educational,free,primary
 ciwem.org,local,,Chartered Institution of Water and Environmental Management,1,1,CIWEM,nonprofit,freemium,other,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 ciwm.co.uk,local,,Chartered Institution of Wastes Management,1,1,CIWM,nonprofit,freemium,other,silent,silent,no_ai_rules,False,human-pace,human-pace
 cjh.org,local,,Center for Jewish History Collections,1,1,Center for Jewish History,nonprofit,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+clacso.org.ar,local,,Biblioteca Ayacucho Digital (CLACSO),1,2,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 claremont.edu,local,,Claremont Coptic encyclopedia,1,1,Claremont Colleges,educational,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 clarin.eu,local,,CLARIN,1,2,CLARIN ERIC,intergovernmental,free,tool,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 clarityenglish.com,local,,Road to IELTS,1,1,Clarity English,commercial,institutional,tool,silent,silent,no_ai_rules,False,human-pace,human-pace
@@ -2253,7 +2256,7 @@ culturecase.org,local,,Culture Case,1,1,,unknown,free,other,unknown,unknown,no_a
 cultureelerfgoed.nl,local,,Cultureel Erfgoed,1,3,Cultural Heritage Agency of the Netherlands,government,free,government_official,silent,silent,no_ai_rules,False,allowed,allowed
 culturegrid.org.uk,local,,Culture Grid,1,1,Collections Trust (Culture Grid),nonprofit,free,aggregator,unknown,unknown,unknown,False,human-pace,human-pace
 culturetheque.com,local,,Culturethèque – The Digital Library of the Institut français,1,1,Institut français,government,institutional,aggregator,silent,silent,no_ai_rules,False,human-pace,human-pace
-cumhuriyet.com.tr,local,,Cumhuriyet Arşivi,1,1,Cumhuriyet Foundation,nonprofit,subscription,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
+cumhuriyet.com.tr,local,open-web,Cumhuriyet Arşivi,1,1,Cumhuriyet Foundation,nonprofit,subscription,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 cuni.cz,local,,Czech National Corpus,1,1,Charles University (Czech National Corpus),educational,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 cuny.edu,local,,Afrique francophone,1,1,City University of New York,educational,free,other,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
 currentcites.org,local,,"Current Cites - an annotated bibliography of selected articles, books, and digital documents on information technology",1,1,Current Cites,individual,free,index_abstract,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -2334,6 +2337,7 @@ digitalpreservationeurope.eu,local,,"Cornucopia (Museums, Libraries, Archives)",
 digitens.org,local,,Digital Encyclopedia of British Sociability in the Long Eighteenth Century (DIGITENS),1,2,,educational,free,reference,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 diglib.org,local,,Registry of digital masters,1,1,Digital Library Federation (CLIR),nonprofit,free,index_abstract,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 diigo.com,local,,History Faculty Library's Diigo bookmarks,1,2,Diigo Inc.,commercial,freemium,tool,silent,silent,no_ai_rules,False,human-pace,human-pace
+diit.edu.ua,local,,Anthropological Measurements of Philosophical Research Este enlace se abre en una nueva ventana,1,1,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 dil.ie,local,,eDIL,1,2,Royal Irish Academy,nonprofit,free,reference,unknown,unknown,unknown,False,human-pace,human-pace
 dippam.ac.uk,local,,"Documenting Ireland: Parliament, People and Migration",1,2,University of Southampton,educational,free,primary_sources_archive,unknown,unknown,unknown,False,human-pace,human-pace
 disabledpeoplesarchive.com,local,,Disabled People's Archive,1,1,Disabled People's Archive,nonprofit,free,primary_sources_archive,silent,silent,no_ai_rules,False,allowed,allowed
@@ -2344,7 +2348,7 @@ dkyobobook.co.kr,local,,Kyobo Ebooks,1,1,Kyobo Book Centre,commercial,institutio
 dlf.org.uk,local,,Disabled Living Foundation Data Online,1,1,Disabled Living Foundation,nonprofit,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 dlibrary.go.kr,local,,"National Digital Library of Korea, The",1,1,National Library of Korea,government,free,primary_sources_archive,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
 dmu.ac.uk,local,,Photographic exhibitions in Britain 1839-1865,1,1,De Montfort University,educational,free,primary_sources_archive,silent,silent,no_ai_rules,False,allowed,allowed
-dn.se,local,,Dagens Nyheter,1,1,Dagens Nyheter (Bonnier),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+dn.se,local,open-web,Dagens Nyheter,1,1,Dagens Nyheter (Bonnier),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 dnl-online.de,local,,Dokumentation Natur und Landschaft,1,1,,government,free,index_abstract,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 dnv.com,local,,DNV Rules and Standards Explorer+,1,1,DNV,commercial,freemium,reference,silent,silent,no_ai_rules,False,human-pace,human-pace
 doaks.org,local,,Bibliography on Gender in Byzantium,1,3,Dumbarton Oaks (Harvard University),educational,free,index_abstract,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
@@ -2434,8 +2438,6 @@ edirepository.org,local,,Environmental Data Initiative,1,1,Environmental Data In
 edition.fi,local,,Edition.fi,1,1,,unknown,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 edr-edr.it,local,,Epigraphic Database Roma (EDR),1,1,Epigraphic Database Roma (EDR),educational,free,data_statistics,unknown,unknown,unknown,False,human-pace,human-pace
 edu.ec,local,,FLACSO Andes Este enlace se abre en una nueva ventana,1,1,,educational,free,other,unknown,unknown,unknown,False,human-pace,human-pace
-edu.pl,local,,Database of Medieval Nubian Texts (DBMNT),1,2,,educational,free,other,unknown,unknown,unknown,False,human-pace,human-pace
-edu.ua,local,,Anthropological Measurements of Philosophical Research Este enlace se abre en una nueva ventana,1,1,,educational,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 educacion.gob.es,local,,Base de datos de tesis doctorales (TESEO),1,3,Ministerio de Educación (Spain),government,free,index_abstract,unknown,unknown,unknown,False,human-pace,human-pace
 education.govt.nz,local,,Tāhūrangi,1,1,"Ministry of Education, New Zealand",government,free,government_official,silent,silent,no_ai_rules,False,allowed,allowed
 educational-audiologists.org.uk,local,,British Association of Educational Audiologists,1,1,British Association of Educational Audiologists,nonprofit,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -2887,6 +2889,7 @@ icelearningcenter.com,local,,ICE Videos,1,1,ICE Learning Center,commercial,subsc
 icgc.cat,local,,Books about the History of Cartography,1,1,Institut Cartogràfic i Geològic de Catalunya,government,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 icio.us,local,,"Links from Department of Education, University of Oxford",1,1,University of Oxford Department of Education,educational,free,other,unknown,unknown,unknown,False,human-pace,human-pace
 icivilengineer.com,local,,iCivilEngineer.com,1,1,iCivilEngineer.com,commercial,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+icm.edu.pl,local,,Polish Virtual Library of Science Mathematical Collection,1,1,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 icmagroup.org,local,,ICMA Primary Market Handbook,1,1,International Capital Market Association,nonprofit,subscription,reference,silent,silent,no_ai_rules,False,human-pace,human-pace
 icmje.org,local,,Uniform Requirements for Manuscripts Submitted to Biomedical Journals: Writing and Editing for Biomedical Publication,1,1,International Committee of Medical Journal Editors,nonprofit,free,reference,silent,silent,no_ai_rules,False,allowed,allowed
 icnl.org,local,,International Center for Not-for-Profit Law Online Library,1,1,International Center for Not-for-Profit Law,nonprofit,free,legal,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -3116,6 +3119,7 @@ kff.org,local,,Kaiser Family Foundation,1,2,Kaiser Family Foundation,nonprofit,f
 kielikone.fi,local,,MOT-sanakirjat,1,1,Kielikone,commercial,subscription,reference,unknown,unknown,unknown,False,human-pace,human-pace
 kingsfund.org.uk,local,,King's Fund Digital Archive,1,2,The King's Fund,nonprofit,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 kirjastot.fi,local,,Public libraries' digital collections,1,2,Finnish public libraries (Kirjastot.fi),government,free,aggregator,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+kisti.re.kr,local,,KISTI 과학기술학회마을,1,1,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 kitapindeksi.net,local,,Almelek Kitap İndeksi,1,1,Almelek Kitap İndeksi,unknown,free,index_abstract,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 klimt02.net,local,,Klimt02 (OpenAthens),1,1,Klimt02,commercial,freemium,other,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 klinischediagnostiek.nl,local,,Klinische Diagnostiek,1,1,Klinische Diagnostiek,commercial,subscription,reference,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -3642,8 +3646,6 @@ ordbokene.no,local,,Ordbøkene (NO),1,1,Språkrådet and University of Bergen,go
 ordnancesurvey.co.uk,local,,OS OpenData,1,1,Ordnance Survey,government,freemium,data_statistics,silent,silent,no_ai_rules,False,human-pace,human-pace
 ordnet.dk,local,,Den Danske Ordbog (DK),1,1,Society for Danish Language and Literature (DSL),nonprofit,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 org.ae,local,,Arab Monetary Fund,1,1,Arab Monetary Fund,intergovernmental,free,data_statistics,unknown,unknown,unknown,False,human-pace,human-pace
-org.ar,local,,Biblioteca Ayacucho Digital (CLACSO),1,2,,nonprofit,free,other,unknown,unknown,unknown,False,human-pace,human-pace
-org.co,local,,Biblioteca digital Cámara de Comercio de Bogotá Este enlace se abre en una nueva ventana,1,4,Unknown (Colombian .org.co domain),unknown,unknown,other,unknown,unknown,unknown,False,human-pace,human-pace
 org.eg,local,,Economic Research Forum (ERF) Working Papers,1,1,Economic Research Forum,nonprofit,free,open_repository,unknown,unknown,unknown,False,human-pace,human-pace
 org.gh,local,,CSIR - Ghana,1,1,CSIR Ghana,government,free,reference,unknown,unknown,unknown,False,human-pace,human-pace
 org.pe,local,,Instituto de Estudios Peruanos - Repositorio institucional Este enlace se abre en una nueva ventana,1,1,Instituto de Estudios Peruanos,nonprofit,free,open_repository,unknown,unknown,unknown,False,human-pace,human-pace
@@ -3852,7 +3854,6 @@ rcpjournal.org,local,,Clinical Medicine,1,1,Royal College of Physicians (London)
 rcplondon.ac.uk,local,,"Munk's Roll of the Royal College of Physicians, 1518-2005",1,1,Royal College of Physicians (London),nonprofit,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 rcsb.org,local,,Protein Data Bank,1,2,RCSB Protein Data Bank (Rutgers / UC San Diego),educational,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 rdklabor.de,local,,RDK Labor,1,1,Zentralinstitut für Kunstgeschichte (RDK Labor),nonprofit,free,reference,unknown,unknown,unknown,False,human-pace,human-pace
-re.kr,local,,KISTI 과학기술학회마을,1,1,KISTI (Korea Institute of Science and Technology Information),government,free,aggregator,unknown,unknown,unknown,False,human-pace,human-pace
 readcube.com,local,,Readcube COVID-19 Content,1,2,Digital Science (Readcube),commercial,freemium,tool,unknown,unknown,unknown,False,human-pace,human-pace
 reading.ac.uk,local,,Location register of 20th century English literary manuscripts,1,2,University of Reading,educational,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 recollect.co.nz,local,,Hocken Digital Collections,1,2,Recollect Ltd,commercial,free,aggregator,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4135,13 +4136,13 @@ supremecourt.uk,local,,UK Supreme Court,1,1,UK Supreme Court,government,free,leg
 surechembl.org,local,,SureChEMBL,1,1,EMBL-EBI,intergovernmental,free,index_abstract,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 sussex.ac.uk,local,,Planning a Search,1,1,University of Sussex,educational,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 sustainableviews.com,local,,Sustainable Views (FT),1,1,Financial Times (Nikkei),commercial,subscription,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
-svd.se,local,,Svenska Dagbladet,1,1,Schibsted (Svenska Dagbladet),commercial,subscription,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+svd.se,local,open-web,Svenska Dagbladet,1,1,Schibsted (Svenska Dagbladet),commercial,subscription,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 svenska.se,local,,Svenska Akademiens ordböcker,1,1,Swedish Academy / Institute for Language and Folklore,nonprofit,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 svenskaakademien.se,local,,Svenska Akademiens klassikerserie (ebooks),1,3,Swedish Academy,nonprofit,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 svenskfilmdatabas.se,local,,Svensk Filmdatabas,1,1,Swedish Film Institute,government,free,index_abstract,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 sverigesradio.se,local,,Sveriges Radio (SR),1,1,Sveriges Radio,government,free,media_streaming,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 svhy.org,local,,Suomen valokuvahistoriallinen yhdistys,1,1,Finnish Photographic History Society,nonprofit,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-svt.se,local,,Sveriges Television (SVT),1,1,Sveriges Television,government,free,media_streaming,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
+svt.se,local,open-web,Sveriges Television (SVT),1,1,Sveriges Television,government,free,media_streaming,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 svtplay.se,local,,SVT (Zweden),1,1,Sveriges Television,government,free,media_streaming,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 swarthmore.edu,local,,Swarthmore College Peace Collection,1,1,Swarthmore College,educational,free,primary_sources_archive,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 swcs.org,local,,Soil and Water Conservation Society Publications,1,1,Soil and Water Conservation Society,nonprofit,free,publisher_platform,silent,silent,no_ai_rules,False,allowed,allowed
@@ -4428,6 +4429,7 @@ uu.se,local,,Heritage of the Printed Book [COTC],1,4,Uppsala University,educatio
 uum.edu.my,local,,Malaysian Academic repository (MALRep),1,1,Universiti Utara Malaysia,educational,free,open_repository,unknown,unknown,unknown,False,human-pace,human-pace
 uva.nl,local,,beelddatabank kaarten en atlassen - UvA,1,2,University of Amsterdam,educational,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 uvu.edu,local,,Journal of Business Inquiry,1,1,Utah Valley University,educational,free,publisher_platform,silent,silent,no_ai_rules,False,allowed,allowed
+uw.edu.pl,local,,Database of Medieval Nubian Texts (DBMNT),1,1,,unknown,unknown,,unknown,unknown,unknown,,human-pace,human-pace
 uwa.edu.au,local,,Africa and Women Authors,1,2,University of Western Australia,educational,free,other,silent,silent,no_ai_rules,False,allowed,allowed
 uwm.edu,local,,Current Geographical Publications,1,2,University of Wisconsin-Milwaukee (American Geographical Society Library),educational,free,index_abstract,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 uwv.nl,local,,UWV Microdata (for researchers only),1,1,UWV (Dutch Employee Insurance Agency),government,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4589,7 +4591,9 @@ abc.es,none,,Vocento (ABC),0,0,Vocento (ABC),commercial,freemium,news,unknown,un
 abc7.com,none,,Disney (ABC Owned Television Stations),0,0,Disney (ABC Owned Television Stations),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 abcnews.com,none,open-web,Disney (ABC News),0,0,Disney (ABC News),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 about.com,none,open-web,Dotdash Meredith (People Inc.) - legacy About.com,0,0,Dotdash Meredith (People Inc.) - legacy About.com,commercial,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+abril.com.br,none,open-web,Grupo Abril,0,0,Grupo Abril,commercial,freemium,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 academia.edu,none,open-web,Academia.edu Inc.,0,0,Academia.edu Inc.,commercial,free_with_account,open_repository,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
+ad.nl,none,open-web,Algemeen Dagblad (DPG Media),0,0,Algemeen Dagblad (DPG Media),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 adage.com,none,,Crain Communications,0,0,Crain Communications,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 adweek.com,none,,Adweek (Beringer Capital),0,0,Adweek (Beringer Capital),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 af.mil,none,,United States Air Force,0,0,United States Air Force,government,free,government_official,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -4601,7 +4605,7 @@ aljazeera.com,none,open-web,Al Jazeera Media Network (Qatar state-funded),0,0,Al
 aljazeera.net,none,open-web,Al Jazeera Media Network (Qatar state-funded),0,0,Al Jazeera Media Network (Qatar state-funded),government,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 allocine.fr,none,,Webedia (Fimalac),0,0,Webedia (Fimalac),commercial,free,entertainment,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 american.edu,none,,American University,0,0,American University,educational,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
-ansa.it,none,,ANSA (cooperative news agency),0,0,ANSA (cooperative news agency),nonprofit,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+ansa.it,none,open-web,ANSA (cooperative news agency),0,0,ANSA (cooperative news agency),nonprofit,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 aol.com,none,,Yahoo (Apollo Global Management),0,0,Yahoo (Apollo Global Management),commercial,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 ap.org,none,,The Associated Press (cooperative),0,0,The Associated Press (cooperative),nonprofit,freemium,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 apnews.com,none,open-web,The Associated Press (cooperative),0,0,The Associated Press (cooperative),nonprofit,free,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
@@ -4620,6 +4624,7 @@ bdfutbol.com,none,,BDFutbol,0,0,BDFutbol,unknown,free,sports,unknown,unknown,no_
 beinsports.com,none,open-web,beIN Media Group,0,0,beIN Media Group,commercial,subscription,sports,silent,silent,no_ai_rules,False,human-pace,human-pace
 belfasttelegraph.co.uk,none,,Mediahuis (Independent News & Media),0,0,Mediahuis (Independent News & Media),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 bet.com,none,,Paramount Skydance (BET Media Group),0,0,Paramount Skydance (BET Media Group),commercial,free,entertainment,prohibited,training_prohibited,no_ai_rules,False,manual-only,manual-only
+bfmtv.com,none,open-web,BFM TV (CMA Media),0,0,BFM TV (CMA Media),commercial,free,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 bild.de,none,,Axel Springer SE,0,0,Axel Springer SE,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 billboard.com,none,open-web,Penske Media Corporation,0,0,Penske Media Corporation,commercial,freemium,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 biography.com,none,open-web,A&E Networks (Disney/Hearst),0,0,A&E Networks (Disney/Hearst),commercial,free,reference,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -4662,6 +4667,8 @@ cmjornal.pt,none,,Medialivre (Cofina),0,0,Medialivre (Cofina),commercial,freemiu
 cnbc.com,none,open-web,NBCUniversal (Comcast/Versant),0,0,NBCUniversal (Comcast/Versant),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 cnet.com,none,open-web,Ziff Davis,0,0,Ziff Davis,commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 cnn.com,none,open-web,Warner Bros. Discovery (CNN),0,0,Warner Bros. Discovery (CNN),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+cnnbrasil.com.br,none,open-web,"CNN Brasil (Novus Mídia, CNN licence)",0,0,"CNN Brasil (Novus Mídia, CNN licence)",commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+cnnindonesia.com,none,open-web,"CNN Indonesia (Trans Media, CNN licence)",0,0,"CNN Indonesia (Trans Media, CNN licence)",commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 collider.com,none,,Valnet Inc.,0,0,Valnet Inc.,commercial,free,entertainment,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 com.ve,none,,com.ve,0,0,,unknown,unknown,other,unknown,unknown,unknown,False,human-pace,human-pace
 complex.com,none,open-web,Complex Networks (NTWRK),0,0,Complex Networks (NTWRK),commercial,free,entertainment,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
@@ -4677,12 +4684,14 @@ ctvnews.ca,none,,Bell Media (BCE),0,0,Bell Media (BCE),commercial,free,news,unkn
 dailydot.com,none,open-web,The Daily Dot Media,0,0,The Daily Dot Media,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 dailymail.co.uk,none,open-web,DMG Media (Daily Mail and General Trust),0,0,DMG Media (Daily Mail and General Trust),commercial,free,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 dailyrecord.co.uk,none,,Reach plc,0,0,Reach plc,commercial,free,news,prohibited,prohibited,blocks_ai_user_agents,False,manual-only,manual-only
+daum.net,none,open-web,Daum (Kakao),0,0,Daum (Kakao),commercial,free,search_engine,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 dawn.com,none,,Pakistan Herald Publications (Dawn Media Group),0,0,Pakistan Herald Publications (Dawn Media Group),commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 dazn.com,none,,DAZN Group,0,0,DAZN Group,commercial,subscription,media_streaming,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 deadline.com,none,open-web,Penske Media Corporation,0,0,Penske Media Corporation,commercial,freemium,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 defense.gov,none,,United States Department of Defense,0,0,United States Department of Defense,government,free,government_official,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 deseret.com,none,,Deseret News (Deseret Management Corporation),0,0,Deseret News (Deseret Management Corporation),commercial,free,news,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
 destatis.de,none,,"Statistisches Bundesamt (Destatis), Germany",0,0,"Statistisches Bundesamt (Destatis), Germany",government,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+detik.com,none,open-web,detikcom (CT Corp),0,0,detikcom (CT Corp),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 devex.com,none,open-web-curated,Devex,0,0,Devex,commercial,freemium,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 dfb.de,none,,Deutscher Fußball-Bund e.V.,0,0,Deutscher Fußball-Bund e.V.,nonprofit,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 digitalspy.com,none,,Hearst UK,0,0,Hearst UK,commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
@@ -4723,6 +4732,7 @@ eurovision.tv,none,,European Broadcasting Union,0,0,European Broadcasting Union,
 eusm.eu,none,,eusm.eu,0,0,,unknown,free,sports,unknown,unknown,unknown,False,human-pace,human-pace
 ew.com,none,open-web,Dotdash Meredith (People Inc.),0,0,Dotdash Meredith (People Inc.),commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 express.co.uk,none,open-web,Reach plc,0,0,Reach plc,commercial,free,news,prohibited,prohibited,blocks_ai_user_agents,False,manual-only,manual-only
+expressen.se,none,open-web,Expressen (Bonnier),0,0,Expressen (Bonnier),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 factcheck.org,none,open-web-curated,"Annenberg Public Policy Center, University of Pennsylvania",0,0,"Annenberg Public Policy Center, University of Pennsylvania",educational,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 fas.org,none,open-web,Federation of American Scientists,0,0,Federation of American Scientists,nonprofit,free,other,silent,silent,no_ai_rules,False,allowed,allowed
 fastcompany.com,none,open-web,Mansueto Ventures,0,0,Mansueto Ventures,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
@@ -4792,6 +4802,8 @@ gulfnews.com,none,,Al Nisr Publishing,0,0,Al Nisr Publishing,commercial,freemium
 gv.at,none,,Republic of Austria (Federal Government),0,0,Republic of Austria (Federal Government),government,free,government_official,unknown,unknown,unknown,False,human-pace,human-pace
 gwu.edu,none,open-web,George Washington University,0,0,George Washington University,educational,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 haaretz.com,none,open-web,Haaretz Group (Schocken family),0,0,Haaretz Group (Schocken family),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+haberturk.com,none,open-web,Habertürk (Ciner Group),0,0,Habertürk (Ciner Group),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+hani.co.kr,none,open-web,The Hankyoreh,0,0,The Hankyoreh,commercial,free,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 harpersbazaar.com,none,,Hearst Magazines,0,0,Hearst Magazines,commercial,free,entertainment,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 harrisinteractive.com,none,,Harris Interactive (The Harris Poll / Stagwell),0,0,Harris Interactive (The Harris Poll / Stagwell),commercial,free,data_statistics,unknown,unknown,unknown,False,human-pace,human-pace
 hawaii.gov,none,,State of Hawaii,0,0,State of Hawaii,government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4803,12 +4815,14 @@ highbeam.com,none,,"HighBeam Research (Cengage, closed 2018)",0,0,"HighBeam Rese
 hindu.com,none,,The Hindu Group (Kasturi & Sons),0,0,The Hindu Group (Kasturi & Sons),commercial,freemium,news,unknown,unknown,unknown,False,human-pace,human-pace
 hindustantimes.com,none,open-web,HT Media,0,0,HT Media,commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 history.com,none,open-web,A&E Networks (Disney/Hearst),0,0,A&E Networks (Disney/Hearst),commercial,free,reference,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+hk01.com,none,open-web,HK01,0,0,HK01,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 hollywoodreporter.com,none,open-web,Penske Media Corporation,0,0,Penske Media Corporation,commercial,freemium,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 hoover.org,none,,"Hoover Institution, Stanford University",0,0,"Hoover Institution, Stanford University",educational,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 house.gov,none,open-web,United States House of Representatives,0,0,United States House of Representatives,government,free,government_official,silent,silent,no_ai_rules,False,allowed,allowed
 huffingtonpost.co.uk,none,,BuzzFeed Inc. (HuffPost),0,0,BuzzFeed Inc. (HuffPost),commercial,free,news,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
 huffingtonpost.com,none,open-web,BuzzFeed Inc. (HuffPost),0,0,BuzzFeed Inc. (HuffPost),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 huffpost.com,none,open-web,BuzzFeed Inc. (HuffPost),0,0,BuzzFeed Inc. (HuffPost),commercial,free,news,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
+hurriyet.com.tr,none,open-web,Hürriyet (Demirören Holding),0,0,Hürriyet (Demirören Holding),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 iata.org,none,,International Air Transport Association,0,0,International Air Transport Association,nonprofit,freemium,other,silent,training_prohibited,no_ai_rules,False,human-pace,human-pace
 ibiblio.org,none,,University of North Carolina at Chapel Hill (ibiblio),0,0,University of North Carolina at Chapel Hill (ibiblio),educational,free,open_repository,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 ibtimes.com,none,open-web,IBT Media (Newsweek Media Group),0,0,IBT Media (Newsweek Media Group),commercial,free,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
@@ -4833,6 +4847,7 @@ inquirer.com,none,,The Philadelphia Inquirer PBC (owned by the Lenfest Institute
 inquirer.net,none,,Philippine Daily Inquirer (Prieto family / Inquirer Group),0,0,Philippine Daily Inquirer (Prieto family / Inquirer Group),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 insider.com,none,,Axel Springer SE (Business Insider),0,0,Axel Springer SE (Business Insider),commercial,freemium,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 instagram.com,none,open-web,Meta Platforms,0,0,Meta Platforms,commercial,free_with_account,social_platform,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
+interia.pl,none,open-web,Interia (Grupa Polsat Plus),0,0,Interia (Grupa Polsat Plus),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 intermiamicf.com,none,,Inter Miami CF,0,0,Inter Miami CF,commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 internetworldstats.com,none,,Miniwatts Marketing Group,0,0,Miniwatts Marketing Group,commercial,free,data_statistics,unknown,unknown,unknown,False,human-pace,human-pace
 iol.co.za,none,,Independent Media (Sekunjalo),0,0,Independent Media (Sekunjalo),commercial,free,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
@@ -4852,6 +4867,8 @@ juventus.com,none,,Juventus Football Club S.p.A.,0,0,Juventus Football Club S.p.
 kaggle.com,none,open-web-curated,Google (Kaggle),0,0,Google (Kaggle),commercial,free_with_account,data_statistics,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 khamenei.ir,none,open-web,Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran),0,0,Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran),government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 kicker.de,none,,Olympia-Verlag (kicker-sportmagazin),0,0,Olympia-Verlag (kicker-sportmagazin),commercial,freemium,sports,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+kommersant.ru,none,open-web,Kommersant (USM Holdings),0,0,Kommersant (USM Holdings),commercial,freemium,news,silent,silent,no_ai_rules,False,human-pace,human-pace
+kompas.com,none,open-web,Kompas Gramedia,0,0,Kompas Gramedia,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 laliga.com,none,,LaLiga (Liga Nacional de Fútbol Profesional),0,0,LaLiga (Liga Nacional de Fútbol Profesional),nonprofit,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 laliga.es,none,,LaLiga (Liga Nacional de Fútbol Profesional),0,0,LaLiga (Liga Nacional de Fútbol Profesional),nonprofit,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 latimes.com,none,open-web,California Times (Nant Capital / Patrick Soon-Shiong),0,0,California Times (Nant Capital / Patrick Soon-Shiong),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
@@ -4860,12 +4877,15 @@ lavanguardia.com,none,,Grupo Godó,0,0,Grupo Godó,commercial,freemium,news,unkn
 lawandcrime.com,none,,Law&Crime Network,0,0,Law&Crime Network,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 lboro.ac.uk,none,open-web,Loughborough University,0,0,Loughborough University,educational,free,other,silent,silent,no_ai_rules,False,allowed,allowed
 leader.ir,none,,Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran),0,0,Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran),government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-lefigaro.fr,none,,Groupe Figaro (Dassault),0,0,Groupe Figaro (Dassault),commercial,freemium,news,unknown,reserved,blocks_ai_user_agents,False,human-pace,manual-only
-leparisien.fr,none,,LVMH (Groupe Les Echos-Le Parisien),0,0,LVMH (Groupe Les Echos-Le Parisien),commercial,freemium,news,unknown,reserved,blocks_ai_crawlers,True,human-pace,human-pace
+lefigaro.fr,none,open-web,Groupe Figaro (Dassault),0,0,Groupe Figaro (Dassault),commercial,freemium,news,unknown,reserved,blocks_ai_user_agents,False,human-pace,manual-only
+lenta.ru,none,open-web,Lenta.ru (Rambler&Co),0,0,Lenta.ru (Rambler&Co),commercial,free,news,unknown,unknown,unknown,False,human-pace,human-pace
+leparisien.fr,none,open-web,LVMH (Groupe Les Echos-Le Parisien),0,0,LVMH (Groupe Les Echos-Le Parisien),commercial,freemium,news,unknown,reserved,blocks_ai_crawlers,True,human-pace,human-pace
 lequipe.fr,none,open-web,Groupe Amaury (L'Équipe),0,0,Groupe Amaury (L'Équipe),commercial,freemium,sports,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 lexpress.fr,none,,Groupe L'Express (Czech Media Invest),0,0,Groupe L'Express (Czech Media Invest),commercial,freemium,news,silent,reserved,blocks_ai_user_agents,False,human-pace,manual-only
 lib.ru,none,,Maksim Moshkov Library,0,0,Maksim Moshkov Library,individual,free,open_repository,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+liberation.fr,none,open-web,Libération,0,0,Libération,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 ligue1.com,none,,Ligue de Football Professionnel (LFP),0,0,Ligue de Football Professionnel (LFP),nonprofit,free,sports,silent,silent,no_ai_rules,False,allowed,allowed
+liputan6.com,none,open-web,Liputan6 (Emtek),0,0,Liputan6 (Emtek),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 livemint.com,none,,HT Media (Mint),0,0,HT Media (Mint),commercial,freemium,news,prohibited,training_prohibited,blocks_ai_crawlers,False,manual-only,manual-only
 manchestereveningnews.co.uk,none,open-web,Reach plc,0,0,Reach plc,commercial,free,news,prohibited,prohibited,blocks_ai_user_agents,False,manual-only,manual-only
 mancity.com,none,open-web,Manchester City FC (City Football Group),0,0,Manchester City FC (City Football Group),commercial,free,sports,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -4875,6 +4895,7 @@ marketwatch.com,none,,Dow Jones & Company (News Corp),0,0,Dow Jones & Company (N
 mashable.com,none,open-web,Ziff Davis,0,0,Ziff Davis,commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 mastercard.com,none,,Mastercard Inc.,0,0,Mastercard Inc.,commercial,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 mediaite.com,none,,Mediaite LLC,0,0,Mediaite LLC,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+mediaset.it,none,open-web,Mediaset (MFE-MediaForEurope),0,0,Mediaset (MFE-MediaForEurope),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 medium.com,none,open-web,A Medium Corporation,0,0,A Medium Corporation,commercial,freemium,social_platform,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 mensjournal.com,none,,The Arena Group,0,0,The Arena Group,commercial,free,entertainment,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 mercurynews.com,none,,MediaNews Group (Alden Global Capital),0,0,MediaNews Group (Alden Global Capital),commercial,freemium,news,unknown,reserved,blocks_ai_user_agents,False,human-pace,manual-only
@@ -4882,6 +4903,7 @@ metro.co.uk,none,open-web,DMG Media (Metro),0,0,DMG Media (Metro),commercial,fre
 miamiherald.com,none,open-web,McClatchy (Chatham Asset Management),0,0,McClatchy (Chatham Asset Management),commercial,freemium,news,unknown,unknown,unknown,False,human-pace,human-pace
 mic.com,none,,Bustle Digital Group,0,0,Bustle Digital Group,commercial,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 middleeasteye.net,none,,Middle East Eye Ltd,0,0,Middle East Eye Ltd,commercial,free,news,silent,silent,no_ai_rules,False,allowed,allowed
+milliyet.com.tr,none,open-web,Milliyet (Demirören Holding),0,0,Milliyet (Demirören Holding),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 mirror.co.uk,none,open-web,Reach plc,0,0,Reach plc,commercial,free,news,prohibited,prohibited,blocks_ai_user_agents,False,manual-only,manual-only
 mlssoccer.com,none,open-web,Major League Soccer,0,0,Major League Soccer,commercial,free,sports,prohibited,silent,no_ai_rules,False,manual-only,manual-only
 moldefk.no,none,open-web,Molde Fotballklubb,0,0,Molde Fotballklubb,commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4890,6 +4912,7 @@ msn.com,none,open-web,Microsoft,0,0,Microsoft,commercial,free,aggregator,unknown
 msnbc.com,none,,NBCUniversal / Versant (MS NOW),0,0,NBCUniversal / Versant (MS NOW),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 mtv.com,none,open-web,Paramount Skydance (MTV),0,0,Paramount Skydance (MTV),commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 mundodeportivo.com,none,open-web,Grupo Godó,0,0,Grupo Godó,commercial,free,sports,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
+natalie.mu,none,open-web,"Natalie (Natasha, Inc.)",0,0,"Natalie (Natasha, Inc.)",commercial,free,entertainment,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 national-football-teams.com,none,,national-football-teams.com,0,0,national-football-teams.com,unknown,free,sports,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 nationalinterest.org,none,,Center for the National Interest,0,0,Center for the National Interest,nonprofit,free,news,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 nationalpost.com,none,,Postmedia Network,0,0,Postmedia Network,commercial,freemium,news,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
@@ -4908,12 +4931,14 @@ newstatesman.com,none,open-web,Progressive Media International,0,0,Progressive M
 newsweek.com,none,open-web,Newsweek Digital LLC,0,0,Newsweek Digital LLC,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 newyorker.com,none,open-web,Condé Nast,0,0,Condé Nast,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 nhk.or.jp,none,open-web-curated,NHK Japan Broadcasting Corporation (public-service broadcaster),0,0,NHK Japan Broadcasting Corporation (public-service broadcaster),nonprofit,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+nikkansports.com,none,open-web,Nikkan Sports (Asahi Shimbun group),0,0,Nikkan Sports (Asahi Shimbun group),commercial,free,sports,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 nme.com,none,open-web,BandLab Technologies (NME),0,0,BandLab Technologies (NME),commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 nobelprize.org,none,open-web,Nobel Prize Outreach / Nobel Foundation,0,0,Nobel Prize Outreach / Nobel Foundation,nonprofit,free,reference,silent,silent,no_ai_rules,False,allowed,allowed
-nos.nl,none,open-web-curated,Nederlandse Omroep Stichting (Dutch public-service broadcaster),0,0,Nederlandse Omroep Stichting (Dutch public-service broadcaster),nonprofit,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+nos.nl,none,open-web,Nederlandse Omroep Stichting (Dutch public-service broadcaster),0,0,Nederlandse Omroep Stichting (Dutch public-service broadcaster),nonprofit,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 npr.org,none,open-web,National Public Radio,0,0,National Public Radio,nonprofit,free,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 nps.gov,none,open-web,United States National Park Service,0,0,United States National Park Service,government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-nrc.nl,none,open-web-curated,NRC Media (Mediahuis),0,0,NRC Media (Mediahuis),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+nrc.nl,none,open-web,NRC Media (Mediahuis),0,0,NRC Media (Mediahuis),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+nu.nl,none,open-web,NU.nl (DPG Media),0,0,NU.nl (DPG Media),commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 nydailynews.com,none,open-web,Tribune Publishing (Alden Global Capital),0,0,Tribune Publishing (Alden Global Capital),commercial,freemium,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 nylon.com,none,,Nylon Holdings (Bustle Digital Group),0,0,Nylon Holdings (Bustle Digital Group),commercial,free,entertainment,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 nymag.com,none,open-web,Vox Media,0,0,Vox Media,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
@@ -4924,10 +4949,12 @@ officialcharts.com,none,,Official Charts Company,0,0,Official Charts Company,com
 oica.net,none,,International Organization of Motor Vehicle Manufacturers (OICA),0,0,International Organization of Motor Vehicle Manufacturers (OICA),nonprofit,free,data_statistics,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 olympic.org,none,open-web,International Olympic Committee,0,0,International Olympic Committee,nonprofit,free,sports,unknown,unknown,unknown,False,human-pace,human-pace
 onefootball.com,none,open-web,OneFootball GmbH,0,0,OneFootball GmbH,commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+onet.pl,none,open-web,Onet (Ringier Axel Springer Polska),0,0,Onet (Ringier Axel Springer Polska),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 onzemondial.com,none,,Onze Mondial,0,0,Onze Mondial,commercial,free,sports,silent,silent,no_ai_rules,False,allowed,allowed
 openai.com,none,,OpenAI,0,0,OpenAI,commercial,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 opensecrets.org,none,,Center for Responsive Politics (OpenSecrets),0,0,Center for Responsive Politics (OpenSecrets),nonprofit,free,data_statistics,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 orf.at,none,,Österreichischer Rundfunk (Austrian public-service broadcaster),0,0,Österreichischer Rundfunk (Austrian public-service broadcaster),nonprofit,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
+oricon.co.jp,none,open-web,Oricon Inc.,0,0,Oricon Inc.,commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 osd.mil,none,,United States Department of Defense,0,0,United States Department of Defense,government,free,government_official,unknown,unknown,unknown,False,human-pace,human-pace
 oyez.org,none,open-web-curated,"Oyez Project (Cornell LII, Justia, Chicago-Kent College of Law)",0,0,"Oyez Project (Cornell LII, Justia, Chicago-Kent College of Law)",educational,free,legal,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 pagesix.com,none,,News Corp (New York Post),0,0,News Corp (New York Post),commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
@@ -4958,7 +4985,8 @@ quora.com,none,open-web-curated,Quora Inc.,0,0,Quora Inc.,commercial,free_with_a
 qz.com,none,,Quartz Media (Redwood Capital),0,0,Quartz Media (Redwood Capital),commercial,freemium,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 radiofarda.com,none,,Radio Free Europe/Radio Liberty (US-government-funded nonprofit),0,0,Radio Free Europe/Radio Liberty (US-government-funded nonprofit),nonprofit,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 radiotimes.com,none,,Immediate Media (Hubert Burda Media),0,0,Immediate Media (Hubert Burda Media),commercial,free,entertainment,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
-rbc.ru,none,,RBC Group,0,0,RBC Group,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+rbc.ru,none,open-web,RBC Group,0,0,RBC Group,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+rbc.ua,none,open-web,RBC-Ukraine,0,0,RBC-Ukraine,commercial,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 realclearpolitics.com,none,,RealClearMedia Group,0,0,RealClearMedia Group,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 realmadrid.com,none,open-web,Real Madrid C.F. (member-owned sports association),0,0,Real Madrid C.F. (member-owned sports association),nonprofit,free,sports,silent,silent,no_ai_rules,False,allowed,allowed
 redbullsalzburg.at,none,,FC Red Bull Salzburg (Red Bull GmbH),0,0,FC Red Bull Salzburg (Red Bull GmbH),commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4970,7 +4998,7 @@ repubblica.it,none,open-web,GEDI Gruppo Editoriale,0,0,GEDI Gruppo Editoriale,co
 reviewjournal.com,none,,Las Vegas Review-Journal (Adelson family),0,0,Las Vegas Review-Journal (Adelson family),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 rfef.es,none,,Real Federación Española de Fútbol,0,0,Real Federación Española de Fútbol,nonprofit,free,sports,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 rfi.fr,none,,France Médias Monde (French public-service broadcaster),0,0,France Médias Monde (French public-service broadcaster),nonprofit,free,news,unknown,reserved,blocks_ai_user_agents,False,human-pace,manual-only
-ria.ru,none,,Rossiya Segodnya (Russian state media),0,0,Rossiya Segodnya (Russian state media),government,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+ria.ru,none,open-web,Rossiya Segodnya (Russian state media),0,0,Rossiya Segodnya (Russian state media),government,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 riaa.com,none,,Recording Industry Association of America,0,0,Recording Industry Association of America,nonprofit,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 rnz.co.nz,none,,Radio New Zealand (Crown-owned public-service broadcaster),0,0,Radio New Zealand (Crown-owned public-service broadcaster),nonprofit,free,news,prohibited,training_prohibited,blocks_ai_user_agents,False,manual-only,manual-only
 rockhall.com,none,,Rock and Roll Hall of Fame Foundation,0,0,Rock and Roll Hall of Fame Foundation,nonprofit,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -4999,8 +5027,9 @@ sfgate.com,none,open-web,Hearst Newspapers,0,0,Hearst Newspapers,commercial,free
 shanghairanking.com,none,,ShanghaiRanking Consultancy,0,0,ShanghaiRanking Consultancy,commercial,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 si.com,none,open-web,Minute Media (Sports Illustrated),0,0,Minute Media (Sports Illustrated),commercial,freemium,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 similarweb.com,none,open-web,Similarweb Ltd,0,0,Similarweb Ltd,commercial,freemium,tool,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+sina.com.cn,none,open-web,Sina Corporation,0,0,Sina Corporation,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 sky.com,none,open-web,Sky Group (Comcast),0,0,Sky Group (Comcast),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-sky.it,none,,Sky Italia (Comcast),0,0,Sky Italia (Comcast),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+sky.it,none,open-web,Sky Italia (Comcast),0,0,Sky Italia (Comcast),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 skysports.com,none,open-web,Sky Group (Comcast),0,0,Sky Group (Comcast),commercial,free,sports,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 slantmagazine.com,none,,Slant Magazine,0,0,Slant Magazine,commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 slashfilm.com,none,,Static Media,0,0,Static Media,commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -5009,6 +5038,7 @@ smithsonianmag.com,none,open-web,Smithsonian Institution,0,0,Smithsonian Institu
 snopes.com,none,open-web-curated,Snopes Media Group,0,0,Snopes Media Group,commercial,free,news,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
 soccerway.com,none,open-web,Perform Group (DAZN),0,0,Perform Group (DAZN),commercial,free,sports,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
 spiegel.de,none,open-web,Der SPIEGEL GmbH & Co. KG,0,0,Der SPIEGEL GmbH & Co. KG,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+sponichi.co.jp,none,open-web,Sports Nippon (Mainichi group),0,0,Sports Nippon (Mainichi group),commercial,free,sports,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 sport.es,none,open-web,Grupo Zeta / Prensa Ibérica,0,0,Grupo Zeta / Prensa Ibérica,commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 sport1.de,none,,Sport1 Medien AG,0,0,Sport1 Medien AG,commercial,free,sports,silent,silent,no_ai_rules,False,allowed,allowed
 sportbible.com,none,,LADbible Group,0,0,LADbible Group,commercial,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -5024,19 +5054,24 @@ standard.co.uk,none,open-web,Evening Standard (Evgeny Lebedev / Daily Mail group
 straightdope.com,none,,The Straight Dope,0,0,The Straight Dope,commercial,free,reference,prohibited,training_prohibited,blocks_ai_user_agents,False,manual-only,manual-only
 straitstimes.com,none,,SPH Media Trust (Singapore),0,0,SPH Media Trust (Singapore),nonprofit,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 substack.com,none,open-web-curated,Substack Inc.,0,0,Substack Inc.,commercial,freemium,social_platform,permitted,training_prohibited,no_ai_rules,False,human-pace,human-pace
-sueddeutsche.de,none,,Süddeutsche Zeitung GmbH (Südwestdeutsche Medienholding),0,0,Süddeutsche Zeitung GmbH (Südwestdeutsche Medienholding),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+sueddeutsche.de,none,open-web,Süddeutsche Zeitung GmbH (Südwestdeutsche Medienholding),0,0,Süddeutsche Zeitung GmbH (Südwestdeutsche Medienholding),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 suntimes.com,none,,Chicago Public Media (WBEZ / Chicago Sun-Times),0,0,Chicago Public Media (WBEZ / Chicago Sun-Times),nonprofit,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 supremecourt.gov,none,open-web-curated,Supreme Court of the United States,0,0,Supreme Court of the United States,government,free,legal,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+suspilne.media,none,open-web,Suspilne (Public Broadcasting Company of Ukraine),0,0,Suspilne (Public Broadcasting Company of Ukraine),nonprofit,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 swissinfo.ch,none,,Swiss Broadcasting Corporation SRG SSR (public-service broadcaster),0,0,Swiss Broadcasting Corporation SRG SSR (public-service broadcaster),nonprofit,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 tagesschau.de,none,,ARD / NDR (German public-service broadcaster),0,0,ARD / NDR (German public-service broadcaster),nonprofit,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 talksport.com,none,,News UK (Wireless Group),0,0,News UK (Wireless Group),commercial,free,sports,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
 tass.com,none,,TASS (Russian state news agency),0,0,TASS (Russian state news agency),government,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+tass.ru,none,open-web,TASS (Russian state news agency),0,0,TASS (Russian state news agency),government,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 techcrunch.com,none,open-web,Yahoo (Apollo Global Management),0,0,Yahoo (Apollo Global Management),commercial,free,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 technologyreview.com,none,,MIT Technology Review (Massachusetts Institute of Technology),0,0,MIT Technology Review (Massachusetts Institute of Technology),educational,freemium,news,prohibited,silent,blocks_ai_user_agents,False,manual-only,manual-only
 techradar.com,none,,Future plc,0,0,Future plc,commercial,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 teenvogue.com,none,,Condé Nast,0,0,Condé Nast,commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 tehrantimes.com,none,,Islamic Culture and Relations Organization (Iranian state),0,0,Islamic Culture and Relations Organization (Iranian state),government,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 telegraph.co.uk,none,open-web,Telegraph Media Group,0,0,Telegraph Media Group,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+tempo.co,none,open-web,Tempo Media Group,0,0,Tempo Media Group,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+terra.com.br,none,open-web,Terra Networks Brasil,0,0,Terra Networks Brasil,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+thanhnien.vn,none,open-web,Thanh Niên (Vietnam Youth Federation),0,0,Thanh Niên (Vietnam Youth Federation),government,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 the-independent.com,none,,Independent Digital News & Media,0,0,Independent Digital News & Media,commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 the-numbers.com,none,,Nash Information Services,0,0,Nash Information Services,commercial,freemium,data_statistics,prohibited,permitted,blocks_ai_crawlers,False,manual-only,manual-only
 theathletic.com,none,open-web,The New York Times Company (The Athletic),0,0,The New York Times Company (The Athletic),commercial,subscription,sports,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
@@ -5081,20 +5116,25 @@ tribuna.com,none,,Tribuna Digital,0,0,Tribuna Digital,commercial,free,sports,unk
 tripod.com,none,,Lycos Inc. (Tripod),0,0,Lycos Inc. (Tripod),commercial,freemium,other,unknown,unknown,unknown,False,human-pace,human-pace
 tubefilter.com,none,,Tubefilter Inc.,0,0,Tubefilter Inc.,commercial,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 tumblr.com,none,,Automattic (Tumblr),0,0,Automattic (Tumblr),commercial,free_with_account,social_platform,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
+tuoitre.vn,none,open-web,Tuổi Trẻ (Ho Chi Minh Communist Youth Union),0,0,Tuổi Trẻ (Ho Chi Minh Communist Youth Union),government,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 tvguide.com,none,,Fandom / TV Guide,0,0,Fandom / TV Guide,commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 tvline.com,none,,Penske Media Corporation,0,0,Penske Media Corporation,commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+tvn24.pl,none,open-web,TVN24 (Warner Bros. Discovery),0,0,TVN24 (Warner Bros. Discovery),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 tweedekamer.nl,none,open-web-curated,House of Representatives of the Netherlands,0,0,House of Representatives of the Netherlands,government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 twitter.com,none,open-web,X Corp.,0,0,X Corp.,commercial,free_with_account,social_platform,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
+udn.com,none,open-web,United Daily News Group,0,0,United Daily News Group,commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 uefa.com,none,open-web,Union of European Football Associations (UEFA),0,0,Union of European Football Associations (UEFA),nonprofit,free,sports,prohibited,training_prohibited,no_ai_rules,False,manual-only,manual-only
 uefa.org,none,,Union of European Football Associations (UEFA),0,0,Union of European Football Associations (UEFA),nonprofit,free,sports,unknown,unknown,no_ai_rules,False,human-pace,human-pace
+ukrinform.ua,none,open-web,Ukrinform (state news agency of Ukraine),0,0,Ukrinform (state news agency of Ukraine),government,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 umaine.edu,none,,University of Maine,0,0,University of Maine,educational,free,other,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 unfp.org,none,,"Union nationale des footballeurs professionnels (UNFP), France",0,0,"Union nationale des footballeurs professionnels (UNFP), France",nonprofit,free,sports,silent,silent,no_ai_rules,False,allowed,allowed
 unfpa.org,none,,United Nations Population Fund,0,0,United Nations Population Fund,intergovernmental,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 unhcr.org,none,,United Nations High Commissioner for Refugees,0,0,United Nations High Commissioner for Refugees,intergovernmental,free,data_statistics,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+unian.ua,none,open-web,UNIAN (1+1 Media),0,0,UNIAN (1+1 Media),commercial,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 unlv.edu,none,,"University of Nevada, Las Vegas",0,0,"University of Nevada, Las Vegas",educational,free,other,silent,silent,no_ai_rules,False,allowed,allowed
 unodc.org,none,,United Nations Office on Drugs and Crime,0,0,United Nations Office on Drugs and Crime,intergovernmental,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 unpaywall.org,none,open-web-curated,OurResearch (Unpaywall),0,0,OurResearch (Unpaywall),nonprofit,free,tool,unknown,unknown,no_ai_rules,False,human-pace,human-pace
-uol.com.br,none,,Grupo Folha (UOL),0,0,Grupo Folha (UOL),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+uol.com.br,none,open-web,Grupo Folha (UOL),0,0,Grupo Folha (UOL),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
 upi.com,none,open-web,United Press International,0,0,United Press International,commercial,free,news,unknown,unknown,no_ai_rules,True,human-pace,human-pace
 usatoday.com,none,open-web,Gannett,0,0,Gannett,commercial,freemium,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 usdoj.gov,none,,United States Department of Justice,0,0,United States Department of Justice,government,free,government_official,unknown,unknown,no_ai_rules,True,human-pace,human-pace
@@ -5108,11 +5148,13 @@ venturebeat.com,none,,VentureBeat,0,0,VentureBeat,commercial,free,news,unknown,u
 vg.no,none,,Verdens Gang (Schibsted),0,0,Verdens Gang (Schibsted),commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 vh1.com,none,,Paramount Skydance (VH1),0,0,Paramount Skydance (VH1),commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 vice.com,none,open-web,Vice Media Group (Savage Ventures),0,0,Vice Media Group (Savage Ventures),commercial,free,news,prohibited,training_prohibited,no_ai_rules,False,manual-only,manual-only
+vietnamnet.vn,none,open-web,VietNamNet (Ministry of Information and Communications),0,0,VietNamNet (Ministry of Information and Communications),government,free,news,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 visionofhumanity.org,none,,Institute for Economics & Peace,0,0,Institute for Economics & Peace,nonprofit,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 visualcapitalist.com,none,,Visual Capitalist,0,0,Visual Capitalist,commercial,free,data_statistics,unknown,unknown,no_ai_rules,True,human-pace,human-pace
+vnexpress.net,none,open-web,VnExpress (FPT Corporation),0,0,VnExpress (FPT Corporation),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 voanews.com,none,open-web,Voice of America (U.S. Agency for Global Media),0,0,Voice of America (U.S. Agency for Global Media),government,free,news,silent,silent,no_ai_rules,False,allowed,allowed
 vogue.com,none,,Condé Nast,0,0,Condé Nast,commercial,freemium,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
-volkskrant.nl,none,open-web-curated,DPG Media,0,0,DPG Media,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+volkskrant.nl,none,open-web,DPG Media,0,0,DPG Media,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 vox.com,none,open-web,Vox Media,0,0,Vox Media,commercial,free,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 vulture.com,none,open-web,Vox Media,0,0,Vox Media,commercial,free,entertainment,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 washingtonexaminer.com,none,open-web,Washington Examiner (Clarity Media Group / Anschutz),0,0,Washington Examiner (Clarity Media Group / Anschutz),commercial,free,news,silent,silent,blocks_ai_crawlers,False,human-pace,human-pace
@@ -5120,7 +5162,7 @@ washingtoninstitute.org,none,,The Washington Institute for Near East Policy,0,0,
 washingtonpost.com,none,open-web,Nash Holdings (Jeff Bezos),0,0,Nash Holdings (Jeff Bezos),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 washingtontimes.com,none,open-web,Operations Holdings (Washington Times),0,0,Operations Holdings (Washington Times),commercial,freemium,news,unknown,unknown,blocks_ai_crawlers,True,human-pace,human-pace
 weforum.org,none,open-web,World Economic Forum,0,0,World Economic Forum,nonprofit,free,other,unknown,unknown,no_ai_rules,True,human-pace,human-pace
-welt.de,none,,Axel Springer SE,0,0,Axel Springer SE,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
+welt.de,none,open-web,Axel Springer SE,0,0,Axel Springer SE,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
 whitehouse.gov,none,open-web,Executive Office of the President of the United States,0,0,Executive Office of the President of the United States,government,free,government_official,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 wikidata.org,none,open-web-curated,Wikimedia Foundation,0,0,Wikimedia Foundation,nonprofit,free,reference,restricted,permitted,no_ai_rules,False,human-pace,human-pace
 wikiwix.com,none,,Wikiwix,0,0,Wikiwix,commercial,free,tool,unknown,unknown,no_ai_rules,False,human-pace,human-pace
@@ -5133,9 +5175,11 @@ worldfootball.net,none,open-web,HEIM:SPIEL Medien GmbH,0,0,HEIM:SPIEL Medien Gmb
 worldometers.info,none,open-web,Dadax Ltd (Worldometer),0,0,Dadax Ltd (Worldometer),commercial,free,data_statistics,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 worldpopulationreview.com,none,open-web,World Population Review,0,0,World Population Review,commercial,free,data_statistics,silent,silent,no_ai_rules,False,allowed,allowed
 worldsoccer.com,none,open-web,World Soccer (Future plc),0,0,World Soccer (Future plc),commercial,freemium,sports,silent,silent,no_ai_rules,False,human-pace,human-pace
+wp.pl,none,open-web,Wirtualna Polska,0,0,Wirtualna Polska,commercial,free,news,unknown,unknown,blocks_ai_crawlers,False,human-pace,human-pace
 wwe.com,none,,TKO Group Holdings (WWE),0,0,TKO Group Holdings (WWE),commercial,free,entertainment,unknown,unknown,no_ai_rules,False,human-pace,human-pace
 x.com,none,open-web,X Corp.,0,0,X Corp.,commercial,free_with_account,social_platform,unknown,unknown,blocks_all_bots,False,manual-only,manual-only
 xinhuanet.com,none,,Xinhua News Agency (Chinese state),0,0,Xinhua News Agency (Chinese state),government,free,news,silent,silent,no_ai_rules,False,allowed,allowed
+yna.co.kr,none,open-web,Yonhap News Agency (publicly funded),0,0,Yonhap News Agency (publicly funded),nonprofit,free,news,silent,silent,blocks_ai_user_agents,False,human-pace,manual-only
 ynetnews.com,none,open-web,Yedioth Ahronoth Group,0,0,Yedioth Ahronoth Group,commercial,free,news,permitted,silent,no_ai_rules,False,allowed,allowed
 zdnet.com,none,,Ziff Davis,0,0,Ziff Davis,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,False,human-pace,manual-only
-zeit.de,none,,Zeit Verlag Gerd Bucerius,0,0,Zeit Verlag Gerd Bucerius,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only
+zeit.de,none,open-web,Zeit Verlag Gerd Bucerius,0,0,Zeit Verlag Gerd Bucerius,commercial,freemium,news,unknown,unknown,blocks_ai_user_agents,True,human-pace,manual-only

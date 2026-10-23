@@ -1783,7 +1783,379 @@
    "vendors": []
   },
   {
+   "domain": "lefigaro.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sueddeutsche.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
    "domain": "proquest.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "welt.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sky.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "zeit.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "chosun.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "leparisien.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ria.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "uol.com.br",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ansa.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nos.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rbc.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bfmtv.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "liberation.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mediaset.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "terra.com.br",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "kommersant.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nu.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oricon.co.jp",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "abril.com.br",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ad.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "udn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "svt.se",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aftonbladet.se",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "onet.pl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tass.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "yna.co.kr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "volkskrant.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nrc.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "naver.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lenta.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dn.se",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cnnbrasil.com.br",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hurriyet.com.tr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wp.pl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tempo.co",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hani.co.kr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nikkansports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rbc.ua",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vnexpress.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "suspilne.media",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hk01.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "daum.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sponichi.co.jp",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "expressen.se",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unian.ua",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ukrinform.ua",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "interia.pl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tvn24.pl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sina.com.cn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cnnindonesia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "liputan6.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "haberturk.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "natalie.mu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "kompas.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "svd.se",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "detik.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "milliyet.com.tr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vietnamnet.vn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cumhuriyet.com.tr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tuoitre.vn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thanhnien.vn",
    "max_libraries": 99,
    "titles": [],
    "vendors": []
@@ -1885,12 +2257,6 @@
    "vendors": []
   },
   {
-   "domain": "nos.nl",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
    "domain": "afp.com",
    "max_libraries": 99,
    "titles": [],
@@ -1952,18 +2318,6 @@
   },
   {
    "domain": "govinfo.gov",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "volkskrant.nl",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "nrc.nl",
    "max_libraries": 99,
    "titles": [],
    "vendors": []
@@ -2149,12 +2503,6 @@
    "vendors": []
   },
   {
-   "domain": "lefigaro.fr",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
    "domain": "metacritic.com",
    "max_libraries": 99,
    "titles": [],
@@ -2162,12 +2510,6 @@
   },
   {
    "domain": "boxofficemojo.com",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "sueddeutsche.de",
    "max_libraries": 99,
    "titles": [],
    "vendors": []
@@ -2498,12 +2840,6 @@
   },
   {
    "domain": "nationalarchives.gov.uk",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "welt.de",
    "max_libraries": 99,
    "titles": [],
    "vendors": []
@@ -2935,25 +3271,7 @@
    "vendors": []
   },
   {
-   "domain": "sky.it",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "zeit.de",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
    "domain": "gouv.fr",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "chosun.com",
    "max_libraries": 99,
    "titles": [],
    "vendors": []
@@ -3439,18 +3757,6 @@
    "vendors": []
   },
   {
-   "domain": "leparisien.fr",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "ria.ru",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
    "domain": "lexpress.fr",
    "max_libraries": 99,
    "titles": [],
@@ -3890,24 +4196,6 @@
   },
   {
    "domain": "ibiblio.org",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "uol.com.br",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "ansa.it",
-   "max_libraries": 99,
-   "titles": [],
-   "vendors": []
-  },
-  {
-   "domain": "rbc.ru",
    "max_libraries": 99,
    "titles": [],
    "vendors": []

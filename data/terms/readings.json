@@ -1,5 +1,5 @@
 {
- "n": 5171,
+ "n": 5213,
  "readings": [
   {
    "domain": "10kwizard.com",
@@ -831,6 +831,20 @@
    "evidence": {}
   },
   {
+   "domain": "abril.com.br",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Assine Abril - Assinar Revista Digital e Impressa",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "abs.gov.au",
    "fetch_status": "no terms page found",
    "robots_ai": "no_ai_rules",
@@ -1576,6 +1590,40 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "ad.nl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "google-extended",
+    "gptbot",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "DPG Media Privacy Gate",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -9493,6 +9541,47 @@
    "home_title": "BFI homepage | BFI",
    "terms_urls": [
     "https://www.bfi.org.uk/terms-use"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "bfmtv.com",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Actualités en continu et info en direct et replay - BFM",
+   "terms_urls": [
+    "https://www.bfmtv.com/mentions-legales/"
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
@@ -18002,6 +18091,38 @@
    "evidence": {}
   },
   {
+   "domain": "cnnbrasil.com.br",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "CNN Brasil | Notícias Ao Vivo do Brasil e do Mundo",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "cnnindonesia.com",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [
+    "google-extended"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [
+    "login"
+   ],
+   "home_title": "CNN Indonesia | Berita Terbaru, Terkini Indonesia, Dunia",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "cnr.it",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -21549,6 +21670,20 @@
    "evidence": {}
   },
   {
+   "domain": "daum.net",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Daum",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "davidfaithfull.co.uk",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -22279,6 +22414,22 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "DETAIL - Internationale Plattform für Architektur & Konstruktion",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "detik.com",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [
+    "google-extended"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "detikcom - Informasi Berita Terkini dan Terbaru Hari Ini",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -30147,6 +30298,44 @@
    }
   },
   {
+   "domain": "expressen.se",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Nyheter - senaste nyheterna i Sverige och världen",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "f1000.com",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -36552,6 +36741,20 @@
    "evidence": {}
   },
   {
+   "domain": "haberturk.com",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Habertürk - Güncel Haberler, Son Dakika Haberleri ve Günün Haberleri",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "hadw-bw.de",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -36716,6 +36919,46 @@
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "hani.co.kr",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "gemini-deep-research",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "omgilibot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "한겨레",
+   "terms_urls": [
+    "https://member.hani.co.kr/help/rules/mypage_help_copyright.hani"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
    "evidence": {}
   },
   {
@@ -38255,6 +38498,20 @@
    "evidence": {}
   },
   {
+   "domain": "hk01.com",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "香港01｜hk01.com 倡議型媒體",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "hkdir.no",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -39079,6 +39336,31 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "RefleshHtml",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "hurriyet.com.tr",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "oai-searchbot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [
+    "login"
+   ],
+   "home_title": "Hürriyet - Haber, Son Dakika Haberler, Güncel Gazete Haberleri",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -42883,6 +43165,20 @@
     "login"
    ],
    "home_title": "TEMPOTOTO - Forum Bandar Toto 4D & Slot Online Terbaru, Years 2026",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "interia.pl",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Interia - Polska i świat: informacje, sport, gwiazdy.",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -47024,6 +47320,68 @@
    "evidence": {}
   },
   {
+   "domain": "kommersant.ru",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Новости России и мира сегодня — последние новости на Коммерсантъ",
+   "terms_urls": [
+    "https://www.kommersant.ru/copyright"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "kompas.com",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "diffbot-user",
+    "duckassistbot",
+    "facebookbot",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [
+    "login"
+   ],
+   "home_title": "Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com",
+   "terms_offsite": [
+    "https://www.kgmedia.id/legal-privacy-id"
+   ],
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "kopernio.com",
    "fetch_status": "unreachable",
    "robots_ai": "unknown",
@@ -49179,6 +49537,20 @@
    "evidence": {}
   },
   {
+   "domain": "lenta.ru",
+   "fetch_status": "unreachable",
+   "robots_ai": "unknown",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": null,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "lenus.ie",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -49664,6 +50036,38 @@
    "evidence": {}
   },
   {
+   "domain": "liberation.fr",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "oai-searchbot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "liberation.fr",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "libguides.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -50141,6 +50545,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "liputan6.com",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Berita Terkini, Kabar Terbaru Hari Ini Indonesia dan Dunia - Liputan6.com",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -52711,6 +53129,20 @@
    "evidence": {}
   },
   {
+   "domain": "mediaset.it",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Mediaset Infinity: Guarda Gratis Programmi, Fiction e Dirette TV",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "medicalletter.org",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -54039,6 +54471,29 @@
     "subscribe"
    ],
    "home_title": "Home | Miller Center",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "milliyet.com.tr",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "gptbot",
+    "oai-searchbot",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Milliyet - Haberler, Son Dakika Haberleri ve Güncel Haber",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -55806,6 +56261,20 @@
     "login"
    ],
    "home_title": "NASSCAL – North American Society for the Study of Christian Apocryphal Literature",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "natalie.mu",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Human Verification",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -58361,6 +58830,31 @@
    "evidence": {}
   },
   {
+   "domain": "nikkansports.com",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "anthropic-ai",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "cohere-ai",
+    "google-extended",
+    "gptbot",
+    "omgilibot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "日刊スポーツ : nikkansports.com",
+   "terms_urls": [
+    "https://www.nikkansports.com/policy/copyright.html"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
    "domain": "nikkei.co.jp",
    "fetch_status": "ok",
    "robots_ai": "blocks_ai_user_agents",
@@ -59659,6 +60153,45 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "НТВ.Ru // Новости, видео, передачи и сериалы НТВ, прямой эфир и телепрограмма",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "nu.nl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "duckassistbot",
+    "gemini-deep-research",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "mistralai-user/1.0",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "DPG Media Privacy Gate",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -61627,6 +62160,30 @@
    "evidence": {}
   },
   {
+   "domain": "onet.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "amazonbot",
+    "bytespider",
+    "cohere-ai",
+    "diffbot",
+    "diffbot-user",
+    "meta-externalagent",
+    "omgilibot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Onet – Jesteś na bieżąco",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "onexamination.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -63073,6 +63630,20 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "Oria",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "oricon.co.jp",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "�I���R���j���[�X�iORICON NEWS�j�b�ŐV���𔭐M���鑍���g�����h���f�B�A",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -68921,6 +69492,22 @@
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "rbc.ua",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Новини - Останні новини України сьогодні | РБК-Україна",
+   "terms_urls": [
+    "https://www.rbc.ua/rus/termsofuse.shtml"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
    "evidence": {}
   },
   {
@@ -74814,6 +75401,20 @@
    "evidence": {}
   },
   {
+   "domain": "sina.com.cn",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "新浪网",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "singaporestandardseshop.sg",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -76136,6 +76737,41 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "Stiftung Preußischer Kulturbesitz (SPK) - Stiftung Preußischer Kulturbesitz",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "sponichi.co.jp",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "スポニチ Sponichi Annex",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -77810,6 +78446,20 @@
    "evidence": {}
   },
   {
+   "domain": "suspilne.media",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Attention Required! | Cloudflare",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "sussex.ac.uk",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -78589,6 +79239,20 @@
    "evidence": {}
   },
   {
+   "domain": "tass.ru",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": null,
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "tate.org.uk",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -79351,6 +80015,44 @@
    "evidence": {}
   },
   {
+   "domain": "tempo.co",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "meta-externalagent",
+    "mistralai-user",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Attention Required! | Cloudflare",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "tenlinks.com",
    "fetch_status": "home page refused or bot check",
    "robots_ai": "no_ai_rules",
@@ -79403,6 +80105,23 @@
    "bot_check": false,
    "paywall_cues": [],
    "home_title": "TEPA-termipankki (erikoisalojen sanastojen ja sanakirjojen kokoelma)",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "terra.com.br",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Terra - Seu Portal de Notícias, Diversão, Esportes e Vida e Estilo",
+   "terms_offsite": [
+    "https://www.fotosparaiphone.com.br/fotos-e-videos-incriveis-com-iphone-1/?utm_source=portal-terra&utm_medium=header&utm_campaign=cap"
+   ],
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -79607,6 +80326,22 @@
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "thanhnien.vn",
+   "fetch_status": "ok",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Tin tức 24h mới nhất, tin nhanh, tin nóng hàng ngày | Báo Thanh Niên",
+   "terms_urls": [
+    "https://thanhnien.vn/tim-kiem.htm?keywords=terms"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
    "evidence": {}
   },
   {
@@ -83046,6 +83781,20 @@
    "evidence": {}
   },
   {
+   "domain": "tuoitre.vn",
+   "fetch_status": "home page refused or bot check",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": true,
+   "paywall_cues": [],
+   "home_title": "Báo Tuổi Trẻ - Tin tức mới nhất, tin nhanh, tin nóng 24h - Tuổi Trẻ Online",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "turcademy.com",
    "fetch_status": "no terms link on home page",
    "robots_ai": "no_ai_rules",
@@ -83166,6 +83915,22 @@
    "terms_offsite": [
     "https://www.static.com/terms"
    ],
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "tvn24.pl",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "gptbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Wiadomości z kraju i ze świata - najnowsze informacje w TVN24 | TVN24",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -83760,6 +84525,24 @@
    "evidence": {}
   },
   {
+   "domain": "udn.com",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "claudebot",
+    "gptbot",
+    "meta-externalagent"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "聯合新聞網：觸動未來新識力",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "udndata.com.tw",
    "fetch_status": "unreachable",
    "robots_ai": "unknown",
@@ -84121,6 +84904,20 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "ukrinform.ua",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Укрінформ - актуальні новини України та світу",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -84986,6 +85783,20 @@
     "log in"
    ],
    "home_title": "Universidad Nacional de Ingeniería - UNI",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "unian.ua",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Новини України - останні новини України сьогодні - УНІАН",
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
@@ -87562,6 +88373,20 @@
    "evidence": {}
   },
   {
+   "domain": "vietnamnet.vn",
+   "fetch_status": "no terms page found",
+   "robots_ai": "no_ai_rules",
+   "robots_ai_agents": [],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Tin tức, tin nhanh 24h Việt Nam và thế giới - Báo VietNamNet",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "viewsforecasting.org",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -88028,6 +88853,32 @@
    ],
    "automated_access": "silent",
    "ai_tdm": "silent",
+   "evidence": {}
+  },
+  {
+   "domain": "vnexpress.net",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "amazonbot",
+    "chatgpt-user",
+    "claude-searchbot",
+    "claude-user",
+    "diffbot",
+    "duckassistbot",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
    "evidence": {}
   },
   {
@@ -90765,6 +91616,27 @@
    "evidence": {}
   },
   {
+   "domain": "wp.pl",
+   "fetch_status": "no terms page found",
+   "robots_ai": "blocks_ai_crawlers",
+   "robots_ai_agents": [
+    "ccbot",
+    "chatgpt-user",
+    "gptbot",
+    "oai-searchbot",
+    "perplexity-user",
+    "perplexitybot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "Wirtualna Polska - Wszystko co ważne - www.wp.pl",
+   "terms_urls": [],
+   "automated_access": "unknown",
+   "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
    "domain": "wright.edu",
    "fetch_status": "ok",
    "robots_ai": "no_ai_rules",
@@ -91271,6 +92143,43 @@
    "terms_urls": [],
    "automated_access": "unknown",
    "ai_tdm": "unknown",
+   "evidence": {}
+  },
+  {
+   "domain": "yna.co.kr",
+   "fetch_status": "ok",
+   "robots_ai": "blocks_ai_user_agents",
+   "robots_ai_agents": [
+    "amazonbot",
+    "anthropic-ai",
+    "applebot-extended",
+    "bytespider",
+    "ccbot",
+    "chatgpt-user",
+    "claude-web",
+    "claudebot",
+    "cohere-ai",
+    "diffbot",
+    "facebookbot",
+    "google-extended",
+    "gptbot",
+    "imagesiftbot",
+    "meta-externalagent",
+    "oai-searchbot",
+    "omgilibot",
+    "perplexitybot",
+    "timpibot",
+    "youbot"
+   ],
+   "robots_root_allowed_for_us": true,
+   "bot_check": false,
+   "paywall_cues": [],
+   "home_title": "연합뉴스",
+   "terms_urls": [
+    "https://www.yna.co.kr/policy/copyright"
+   ],
+   "automated_access": "silent",
+   "ai_tdm": "silent",
    "evidence": {}
   },
   {
