@@ -1,0 +1,220 @@
+{"domain": "foxnews.com", "owner": "Fox Corporation", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "foxsports.com", "owner": "Fox Corporation (Fox Sports)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "foxsportsasia.com", "owner": "Fox Sports Asia (Fox/Disney)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "fpf.pt", "owner": "Federação Portuguesa de Futebol", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "france24.com", "owner": "France Médias Monde (French public-service broadcaster)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "francefootball.fr", "owner": "Groupe Amaury (France Football)", "owner_type": "commercial", "access_model": "freemium", "category": "sports", "confidence": "high"}
+{"domain": "freedomhouse.org", "owner": "Freedom House", "owner_type": "nonprofit", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "fullfact.org", "owner": "Full Fact", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "fundacionleomessi.org", "owner": "Leo Messi Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "gamespot.com", "owner": "Fandom Inc.", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "gamesradar.com", "owner": "Future plc", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "gao.gov", "owner": "U.S. Government Accountability Office", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "gawker.com", "owner": "Bustle Digital Group", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "gazette.govt.nz", "owner": "New Zealand Government (Department of Internal Affairs)", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "gazzetta.it", "owner": "RCS MediaGroup (La Gazzetta dello Sport)", "owner_type": "commercial", "access_model": "freemium", "category": "sports", "confidence": "high"}
+{"domain": "gba.gob.ar", "owner": "Provincia de Buenos Aires (government)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "gcb.com.gh", "owner": "Ghana Commercial Bank Limited", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "geni.com", "owner": "MyHeritage (Francisco Partners)", "owner_type": "commercial", "access_model": "freemium", "category": "reference", "confidence": "high"}
+{"domain": "genius.com", "owner": "Genius Media Group", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "ggdc.net", "owner": "Groningen Growth and Development Centre, University of Groningen", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "ghana.gov.gh", "owner": "Government of Ghana", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "givemesport.com", "owner": "GiveMeSport Ltd (Sports Illustrated Media)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "gizmodo.com", "owner": "Keleops (G/O Media)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "gld.gov.hk", "owner": "Government Logistics Department, Hong Kong", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "globalfirepower.com", "owner": "Global Firepower (GFP)", "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "globalnews.ca", "owner": "Corus Entertainment (Global News)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "globalsecurity.org", "owner": "GlobalSecurity.org (John E. Pike)", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "globesoccer.com", "owner": "Globe Soccer Awards / Dubai Sports Council", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "low"}
+{"domain": "globo.com", "owner": "Grupo Globo", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "go.com", "owner": "The Walt Disney Company", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "medium"}
+{"domain": "goal.com", "owner": "Perform Group / DAZN Group", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "gob.ve", "owner": "Government of Venezuela", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "google.com.gh", "owner": "Google (Google Books)", "owner_type": "commercial", "access_model": "free", "category": "search_engine", "confidence": "medium"}
+{"domain": "google.de", "owner": "Google LLC", "owner_type": "commercial", "access_model": "free", "category": "search_engine", "confidence": "high"}
+{"domain": "googleblog.com", "owner": "Google LLC", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "googleusercontent.com", "owner": "Google LLC", "owner_type": "commercial", "access_model": "free", "category": "tool", "confidence": "high"}
+{"domain": "gq-magazine.co.uk", "owner": "Condé Nast", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "gq.com", "owner": "Condé Nast", "owner_type": "commercial", "access_model": "freemium", "category": "entertainment", "confidence": "high"}
+{"domain": "grammy.com", "owner": "Recording Academy", "owner_type": "nonprofit", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "grantland.com", "owner": "ESPN / Disney (Grantland, closed 2015)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "greekcitytimes.com", "owner": "Greek City Times", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "gse.com.gh", "owner": "Ghana Stock Exchange", "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "guinnessworldrecords.com", "owner": "Guinness World Records Ltd (Jim Pattison Group)", "owner_type": "commercial", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "gulfnews.com", "owner": "Al Nisr Publishing", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "gv.at", "owner": "Republic of Austria (Federal Government)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "medium"}
+{"domain": "gwu.edu", "owner": "George Washington University", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "haaretz.com", "owner": "Haaretz Group (Schocken family)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "haifa.ac.il", "owner": "University of Haifa", "owner_type": "educational", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "harpersbazaar.com", "owner": "Hearst Magazines", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "harrisinteractive.com", "owner": "Harris Interactive (The Harris Poll / Stagwell)", "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "hawaii.gov", "owner": "State of Hawaii", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "hdc.org.nz", "owner": "Health and Disability Commissioner, New Zealand", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "heavy.com", "owner": "Heavy Inc.", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "hebrew-academy.org.il", "owner": "Academy of the Hebrew Language (Israel statutory body)", "owner_type": "government", "access_model": "free", "category": "reference", "confidence": "medium"}
+{"domain": "hellomagazine.com", "owner": "HELLO! Ltd", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "heraldscotland.com", "owner": "Newsquest (Gannett)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "heritage.org", "owner": "The Heritage Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "highbeam.com", "owner": "HighBeam Research (Cengage, closed 2018)", "owner_type": "commercial", "access_model": "subscription", "category": "aggregator", "confidence": "medium"}
+{"domain": "hindu.com", "owner": "The Hindu Group (Kasturi & Sons)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "hindustantimes.com", "owner": "HT Media", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "history.com", "owner": "A&E Networks (Disney/Hearst)", "owner_type": "commercial", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "history.go.kr", "owner": "National Institute of Korean History", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "hklawsoc.org.hk", "owner": "The Law Society of Hong Kong", "owner_type": "nonprofit", "access_model": "free", "category": "legal", "confidence": "medium"}
+{"domain": "hkpl.gov.hk", "owner": "Hong Kong Public Libraries (LCSD)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "hollywoodreporter.com", "owner": "Penske Media Corporation", "owner_type": "commercial", "access_model": "freemium", "category": "entertainment", "confidence": "high"}
+{"domain": "hoover.org", "owner": "Hoover Institution, Stanford University", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "house.gov", "owner": "United States House of Representatives", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "hpdt.org.nz", "owner": "Health Practitioners Disciplinary Tribunal, New Zealand", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "huffingtonpost.co.uk", "owner": "BuzzFeed Inc. (HuffPost)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "huffingtonpost.com", "owner": "BuzzFeed Inc. (HuffPost)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "huffpost.com", "owner": "BuzzFeed Inc. (HuffPost)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "huji.ac.il", "owner": "Hebrew University of Jerusalem", "owner_type": "educational", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "huni.net.au", "owner": "HuNI (consortium of Australian universities and cultural institutions)", "owner_type": "educational", "access_model": "free", "category": "aggregator", "confidence": "medium"}
+{"domain": "iata.org", "owner": "International Air Transport Association", "owner_type": "nonprofit", "access_model": "freemium", "category": "other", "confidence": "medium"}
+{"domain": "ibiblio.org", "owner": "University of North Carolina at Chapel Hill (ibiblio)", "owner_type": "educational", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "ibtimes.com", "owner": "IBT Media (Newsweek Media Group)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "icelandreview.com", "owner": "Atlantica Media", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "icij.org", "owner": "International Consortium of Investigative Journalists (Center for Public Integrity)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "iffhs.com", "owner": "IFFHS (International Federation of Football History & Statistics)", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "iffhs.de", "owner": "IFFHS (International Federation of Football History & Statistics)", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "ign.com", "owner": "Ziff Davis", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "ign.gob.ar", "owner": "Instituto Geográfico Nacional (Argentina)", "owner_type": "government", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "iht.com", "owner": "The New York Times Company (International Herald Tribune)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "imj.org.il", "owner": "The Israel Museum, Jerusalem", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "inc.com", "owner": "Mansueto Ventures", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "independent.co.uk", "owner": "Independent Digital News & Media", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "independent.ie", "owner": "Mediahuis Ireland", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "indexmundi.com", "owner": "Index Mundi", "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "indiana.edu", "owner": "Indiana University", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "indianexpress.com", "owner": "The Indian Express Group", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "indiatimes.com", "owner": "Times Internet (Bennett, Coleman & Co.)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "indiatoday.in", "owner": "Living Media India (India Today Group)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "indiewire.com", "owner": "Penske Media Corporation", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "ine.cv", "owner": "Instituto Nacional de Estatística (Cabo Verde)", "owner_type": "government", "access_model": "free", "category": "data_statistics", "confidence": "medium"}
+{"domain": "inei.gob.pe", "owner": "Instituto Nacional de Estadística e Informática (Peru)", "owner_type": "government", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "infobae.com", "owner": "Infobae (Grupo Infobae)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "infoplease.com", "owner": "Sandbox Networks (Infoplease)", "owner_type": "commercial", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "inpit.go.jp", "owner": "INPIT (National Center for Industrial Property Information and Training), Japan", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "inquirer.com", "owner": "The Philadelphia Inquirer PBC (owned by the Lenfest Institute)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "inquirer.net", "owner": "Philippine Daily Inquirer (Prieto family / Inquirer Group)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "insider.com", "owner": "Axel Springer SE (Business Insider)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "instagram.com", "owner": "Meta Platforms", "owner_type": "commercial", "access_model": "free_with_account", "category": "social_platform", "confidence": "high"}
+{"domain": "intermiamicf.com", "owner": "Inter Miami CF", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "internetworldstats.com", "owner": "Miniwatts Marketing Group", "owner_type": "commercial", "access_model": "free", "category": "data_statistics", "confidence": "high"}
+{"domain": "iol.co.za", "owner": "Independent Media (Sekunjalo)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "iol.pt", "owner": "Media Capital (IOL Portugal)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "iponz.govt.nz", "owner": "Intellectual Property Office of New Zealand", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "iranchamber.com", "owner": "Iran Chamber Society", "owner_type": "unknown", "access_model": "free", "category": "reference", "confidence": "low"}
+{"domain": "iranintl.com", "owner": "Volant Media UK Ltd (Iran International)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "irinnews.org", "owner": "The New Humanitarian (formerly IRIN)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "irishtimes.com", "owner": "The Irish Times DAC", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "irna.ir", "owner": "Islamic Republic News Agency (Iranian state)", "owner_type": "government", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "irr.org.za", "owner": "South African Institute of Race Relations", "owner_type": "nonprofit", "access_model": "institutional", "category": "index_abstract", "confidence": "medium"}
+{"domain": "islamansiklopedisi.org.tr", "owner": "Türkiye Diyanet Foundation (TDV)", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "israelnationalnews.com", "owner": "Arutz Sheva (Israel National News)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "medium"}
+{"domain": "jbl.no", "owner": null, "owner_type": "unknown", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "jewishvirtuallibrary.org", "owner": "American-Israeli Cooperative Enterprise (AICE)", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "jpo.go.jp", "owner": "Japan Patent Office", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "jpost.com", "owner": "The Jerusalem Post Group", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "jst.go.jp", "owner": "Japan Science and Technology Agency (JST)", "owner_type": "government", "access_model": "free", "category": "publisher_platform", "confidence": "high"}
+{"domain": "justia.com", "owner": "Justia Inc.", "owner_type": "commercial", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "justice.gov", "owner": "United States Department of Justice", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "justice.govt.nz", "owner": "Ministry of Justice, New Zealand", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "juventus.com", "owner": "Juventus Football Club S.p.A.", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "kaggle.com", "owner": "Google (Kaggle)", "owner_type": "commercial", "access_model": "free_with_account", "category": "data_statistics", "confidence": "high"}
+{"domain": "kap.org.tr", "owner": "Public Disclosure Platform (KAP), Turkey", "owner_type": "unknown", "access_model": "free", "category": "data_statistics", "confidence": "low"}
+{"domain": "kci.go.kr", "owner": "National Research Foundation of Korea (KCI)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "khamenei.ir", "owner": "Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "kicker.de", "owner": "Olympia-Verlag (kicker-sportmagazin)", "owner_type": "commercial", "access_model": "freemium", "category": "sports", "confidence": "high"}
+{"domain": "koreascience.or.kr", "owner": "Korea Institute of Science and Technology Information (KISTI)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "laganz.org.nz", "owner": "Lesbian and Gay Archives of New Zealand (LAGANZ)", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "laliga.com", "owner": "LaLiga (Liga Nacional de Fútbol Profesional)", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "laliga.es", "owner": "LaLiga (Liga Nacional de Fútbol Profesional)", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "latimes.com", "owner": "California Times (Nant Capital / Patrick Soon-Shiong)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "laureus.com", "owner": "Laureus Sport for Good Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "lavanguardia.com", "owner": "Grupo Godó", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "lawandcrime.com", "owner": "Law&Crime Network", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "lawcom.govt.nz", "owner": "Law Commission (Te Aka Matua o te Ture), New Zealand", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "lawfoundation.net.au", "owner": "Law and Justice Foundation of NSW", "owner_type": "government", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "lawlibrary.org.za", "owner": "LawLibrary (Laws.Africa)", "owner_type": "nonprofit", "access_model": "free", "category": "legal", "confidence": "low"}
+{"domain": "lboro.ac.uk", "owner": "Loughborough University", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "leader.ir", "owner": "Office for Preserving and Publishing the Works of Ayatollah Khamenei (Iran)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "lefigaro.fr", "owner": "Groupe Figaro (Dassault)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "legislation.govt.nz", "owner": "Parliamentary Counsel Office, New Zealand", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "leparisien.fr", "owner": "LVMH (Groupe Les Echos-Le Parisien)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "lequipe.fr", "owner": "Groupe Amaury (L'Équipe)", "owner_type": "commercial", "access_model": "freemium", "category": "sports", "confidence": "high"}
+{"domain": "lexpress.fr", "owner": "Groupe L'Express (Czech Media Invest)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "lib.ru", "owner": "Maksim Moshkov Library", "owner_type": "individual", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "ligue1.com", "owner": "Ligue de Football Professionnel (LFP)", "owner_type": "nonprofit", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "livemint.com", "owner": "HT Media (Mint)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "magpies.net.au", "owner": "Collingwood Football Club", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "manchestereveningnews.co.uk", "owner": "Reach plc", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mancity.com", "owner": "Manchester City FC (City Football Group)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "manutd.com", "owner": "Manchester United plc", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "maorilandcourt.govt.nz", "owner": "Māori Land Court (Ministry of Justice), New Zealand", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "marca.com", "owner": "Unidad Editorial (RCS MediaGroup)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "marketwatch.com", "owner": "Dow Jones & Company (News Corp)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "mashable.com", "owner": "Ziff Davis", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mastercard.com", "owner": "Mastercard Inc.", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "mcu.gob.es", "owner": "Ministerio de Cultura y Deporte (ICAA), Spain", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "mediaite.com", "owner": "Mediaite LLC", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "medium.com", "owner": "A Medium Corporation", "owner_type": "commercial", "access_model": "freemium", "category": "social_platform", "confidence": "high"}
+{"domain": "memoriasdaditadura.org.br", "owner": "Instituto Vladimir Herzog", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "mensjournal.com", "owner": "The Arena Group", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "merchantbank.com.gh", "owner": "Merchant Bank Ghana", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "mercurynews.com", "owner": "MediaNews Group (Alden Global Capital)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "metro.co.uk", "owner": "DMG Media (Metro)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mevzuat.gov.tr", "owner": "Presidency of the Republic of Türkiye", "owner_type": "government", "access_model": "free", "category": "legal", "confidence": "high"}
+{"domain": "miamiherald.com", "owner": "McClatchy (Chatham Asset Management)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "mic.com", "owner": "Bustle Digital Group", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "midagri.gob.pe", "owner": "Ministerio de Desarrollo Agrario y Riego (Peru)", "owner_type": "government", "access_model": "free", "category": "open_repository", "confidence": "high"}
+{"domain": "middleeasteye.net", "owner": "Middle East Eye Ltd", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "minciencias.gov.co", "owner": "Ministerio de Ciencia, Tecnología e Innovación (Colombia)", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "mirror.co.uk", "owner": "Reach plc", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mit.edu", "owner": "Massachusetts Institute of Technology", "owner_type": "educational", "access_model": "free", "category": "other", "confidence": "high"}
+{"domain": "mlssoccer.com", "owner": "Major League Soccer", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "mofa.go.jp", "owner": "Ministry of Foreign Affairs of Japan", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "moldefk.no", "owner": "Molde Fotballklubb", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "medium"}
+{"domain": "motherjones.com", "owner": "Foundation for National Progress (Mother Jones)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mplus.org.hk", "owner": "M+ (West Kowloon Cultural District Authority)", "owner_type": "government", "access_model": "free", "category": "other", "confidence": "medium"}
+{"domain": "mpob.gov.my", "owner": "Malaysian Palm Oil Board", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "high"}
+{"domain": "msn.com", "owner": "Microsoft", "owner_type": "commercial", "access_model": "free", "category": "aggregator", "confidence": "high"}
+{"domain": "msnbc.com", "owner": "NBCUniversal / Versant (MS NOW)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "mtv.com", "owner": "Paramount Skydance (MTV)", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "mundodeportivo.com", "owner": "Grupo Godó", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "national-football-teams.com", "owner": "national-football-teams.com", "owner_type": "unknown", "access_model": "free", "category": "sports", "confidence": "low"}
+{"domain": "nationalinterest.org", "owner": "Center for the National Interest", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nationalpost.com", "owner": "Postmedia Network", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "nationalreview.com", "owner": "National Review Inc.", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "natlib.govt.nz", "owner": "National Library of New Zealand (Te Puna Mātauranga o Aotearoa)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "nbcnews.com", "owner": "NBCUniversal (Comcast)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nbcnewyork.com", "owner": "NBCUniversal (Comcast)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nbcolympics.com", "owner": "NBCUniversal (Comcast)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "nbcsports.com", "owner": "NBCUniversal (Comcast)", "owner_type": "commercial", "access_model": "free", "category": "sports", "confidence": "high"}
+{"domain": "ndl.go.jp", "owner": "National Diet Library, Japan", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "ndtv.com", "owner": "NDTV (Adani Group)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "netflix.com", "owner": "Netflix Inc.", "owner_type": "commercial", "access_model": "subscription", "category": "media_streaming", "confidence": "high"}
+{"domain": "nettavisen.no", "owner": "Nettavisen (Aller Media)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "medium"}
+{"domain": "newrepublic.com", "owner": "The New Republic (Win McCormack)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "news.com.au", "owner": "News Corp Australia", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "news18.com", "owner": "Network18 (Reliance)", "owner_type": "commercial", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "newstatesman.com", "owner": "Progressive Media International", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "newsweek.com", "owner": "Newsweek Digital LLC", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "newyorker.com", "owner": "Condé Nast", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "nhk.or.jp", "owner": "NHK Japan Broadcasting Corporation (public-service broadcaster)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nich.go.jp", "owner": "National Institutes for Cultural Heritage, Japan", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "niscair.res.in", "owner": "CSIR-NISCAIR (India)", "owner_type": "government", "access_model": "free", "category": "index_abstract", "confidence": "medium"}
+{"domain": "nl.go.kr", "owner": "National Library of Korea", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "nlb.gov.sg", "owner": "National Library Board, Singapore", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "high"}
+{"domain": "nli.org.il", "owner": "National Library of Israel", "owner_type": "nonprofit", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "nme.com", "owner": "BandLab Technologies (NME)", "owner_type": "commercial", "access_model": "free", "category": "entertainment", "confidence": "high"}
+{"domain": "nobelprize.org", "owner": "Nobel Prize Outreach / Nobel Foundation", "owner_type": "nonprofit", "access_model": "free", "category": "reference", "confidence": "high"}
+{"domain": "nos.nl", "owner": "Nederlandse Omroep Stichting (Dutch public-service broadcaster)", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "npm.gov.tw", "owner": "National Palace Museum (Taiwan)", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "npr.org", "owner": "National Public Radio", "owner_type": "nonprofit", "access_model": "free", "category": "news", "confidence": "high"}
+{"domain": "nps.gov", "owner": "United States National Park Service", "owner_type": "government", "access_model": "free", "category": "government_official", "confidence": "high"}
+{"domain": "nrc.nl", "owner": "NRC Media (Mediahuis)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}
+{"domain": "ntok.go.kr", "owner": "National Theater of Korea", "owner_type": "government", "access_model": "free", "category": "primary_sources_archive", "confidence": "medium"}
+{"domain": "ntticc.or.jp", "owner": "NTT InterCommunication Center (NTT)", "owner_type": "commercial", "access_model": "free", "category": "other", "confidence": "low"}
+{"domain": "nydailynews.com", "owner": "Tribune Publishing (Alden Global Capital)", "owner_type": "commercial", "access_model": "freemium", "category": "news", "confidence": "high"}

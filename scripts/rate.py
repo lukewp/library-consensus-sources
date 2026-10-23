@@ -145,11 +145,41 @@ def main():
             "disciplines": sorted({d for x in recs for d in x["disciplines"] if d != "unclassified"}),
             "titles": [x["title"] for x in sorted(recs, key=lambda x: -x["n_libraries"])[:6]],
         })
+    # Open-web signals and tier (data/openweb.json, from build_openweb.py)
+    ow_path = ROOT / "data" / "openweb.json"
+    ow = {r["domain"]: r for r in json.loads(ow_path.read_text())["domains"]} if ow_path.exists() else {}
+    have = {p["domain"]: p for p in platforms}
+    for dom, row in ow.items():
+        p = have.get(dom)
+        if p is None:
+            r, o = readings.get(dom), owners.get(dom)
+            letter, why_l = automation(r, o, spirit=False)
+            spirit, why_s = automation(r, o, spirit=True)
+            p = {"domain": dom, "tier": "none", "top_title": (o or {}).get("owner") or dom, "max_libraries": 0, "max_share": 0,
+                 "regions_of_top": 0, "n_entries": 0, "owner": (o or {}).get("owner"), "owner_type": (o or {}).get("owner_type", "unknown"),
+                 "access_model": (o or {}).get("access_model", "unknown"), "category": (o or {}).get("category"),
+                 "owner_confidence": (o or {}).get("confidence"), "libraries_flag_free": 0,
+                 "corrected_on_review": (o or {}).get("corrected", []),
+                 "automated_access": (r or {}).get("automated_access", "unknown"), "ai_tdm": (r or {}).get("ai_tdm", "unknown"),
+                 "robots_ai": (r or {}).get("robots_ai", "unknown"), "robots_ai_agents": (r or {}).get("robots_ai_agents", []),
+                 "bot_check": (r or {}).get("bot_check"), "paywall_cues": (r or {}).get("paywall_cues", []),
+                 "terms_urls": (r or {}).get("terms_urls", []), "evidence": (r or {}).get("evidence", {}),
+                 "automation_letter": letter, "automation_letter_reasons": why_l,
+                 "automation_spirit": spirit, "automation_spirit_reasons": why_s, "disciplines": [], "titles": []}
+            platforms.append(p)
+            have[dom] = p
+        p["open_web_tier"] = row.get("open_web_tier")
+        p["wikipedia"] = row.get("wikipedia")
+        p["guides"] = row.get("guides")
+        p["seed_group"] = row.get("seed")
+    for p in platforms:
+        p.setdefault("open_web_tier", None)
+    ORDER["none"] = 4
     platforms.sort(key=lambda p: (ORDER[p["tier"]], -p["max_libraries"], p["domain"]))
     out = {"n_libraries": total, "n_entries": len(entries_out), "n_platforms": len(platforms),
            "platforms": platforms, "entries": entries_out}
     (ROOT / "data" / "catalog.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
-    cols = ["domain", "tier", "top_title", "max_libraries", "n_entries", "owner", "owner_type", "access_model", "category",
+    cols = ["domain", "tier", "open_web_tier", "top_title", "max_libraries", "n_entries", "owner", "owner_type", "access_model", "category",
             "automated_access", "ai_tdm", "robots_ai", "bot_check", "automation_letter", "automation_spirit"]
     with open(ROOT / "data" / "catalog.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
@@ -158,8 +188,9 @@ def main():
             w.writerow(p)
     from collections import Counter
     print("platforms:", len(platforms), dict(Counter(p["tier"] for p in platforms)))
+    print("open-web:", dict(Counter(p["open_web_tier"] for p in platforms if p["open_web_tier"])))
     for k in ("owner_type", "access_model", "automation_letter", "automation_spirit"):
-        print(k, dict(Counter(p[k] for p in platforms if p["tier"] != "local")))
+        print(k, dict(Counter(p[k] for p in platforms if p["tier"] not in ("local", "none"))))
 
 
 if __name__ == "__main__":

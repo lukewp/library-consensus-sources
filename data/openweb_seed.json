@@ -1,0 +1,481 @@
+{
+ "about": "Hand seed list for the open-web tier: widely used general sources that A-Z database lists rarely include. Every seed goes through the same robots.txt, terms and owner checks as every other platform; the seed only guarantees it is assessed, not its rating.",
+ "seeds": [
+  {
+   "domain": "wikipedia.org",
+   "group": "reference"
+  },
+  {
+   "domain": "wikidata.org",
+   "group": "reference"
+  },
+  {
+   "domain": "britannica.com",
+   "group": "reference"
+  },
+  {
+   "domain": "archive.org",
+   "group": "reference"
+  },
+  {
+   "domain": "openlibrary.org",
+   "group": "reference"
+  },
+  {
+   "domain": "gutenberg.org",
+   "group": "reference"
+  },
+  {
+   "domain": "merriam-webster.com",
+   "group": "reference"
+  },
+  {
+   "domain": "worldcat.org",
+   "group": "reference"
+  },
+  {
+   "domain": "apnews.com",
+   "group": "news_wire"
+  },
+  {
+   "domain": "reuters.com",
+   "group": "news_wire"
+  },
+  {
+   "domain": "afp.com",
+   "group": "news_wire"
+  },
+  {
+   "domain": "bloomberg.com",
+   "group": "news_wire"
+  },
+  {
+   "domain": "bbc.co.uk",
+   "group": "news"
+  },
+  {
+   "domain": "bbc.com",
+   "group": "news"
+  },
+  {
+   "domain": "theguardian.com",
+   "group": "news"
+  },
+  {
+   "domain": "nytimes.com",
+   "group": "news"
+  },
+  {
+   "domain": "washingtonpost.com",
+   "group": "news"
+  },
+  {
+   "domain": "wsj.com",
+   "group": "news"
+  },
+  {
+   "domain": "ft.com",
+   "group": "news"
+  },
+  {
+   "domain": "economist.com",
+   "group": "news"
+  },
+  {
+   "domain": "aljazeera.com",
+   "group": "news"
+  },
+  {
+   "domain": "dw.com",
+   "group": "news"
+  },
+  {
+   "domain": "france24.com",
+   "group": "news"
+  },
+  {
+   "domain": "lemonde.fr",
+   "group": "news"
+  },
+  {
+   "domain": "spiegel.de",
+   "group": "news"
+  },
+  {
+   "domain": "elpais.com",
+   "group": "news"
+  },
+  {
+   "domain": "nhk.or.jp",
+   "group": "news"
+  },
+  {
+   "domain": "scmp.com",
+   "group": "news"
+  },
+  {
+   "domain": "theatlantic.com",
+   "group": "news"
+  },
+  {
+   "domain": "newyorker.com",
+   "group": "news"
+  },
+  {
+   "domain": "npr.org",
+   "group": "news"
+  },
+  {
+   "domain": "pbs.org",
+   "group": "news"
+  },
+  {
+   "domain": "cnn.com",
+   "group": "news"
+  },
+  {
+   "domain": "foxnews.com",
+   "group": "news"
+  },
+  {
+   "domain": "nbcnews.com",
+   "group": "news"
+  },
+  {
+   "domain": "cbsnews.com",
+   "group": "news"
+  },
+  {
+   "domain": "usatoday.com",
+   "group": "news"
+  },
+  {
+   "domain": "latimes.com",
+   "group": "news"
+  },
+  {
+   "domain": "propublica.org",
+   "group": "news"
+  },
+  {
+   "domain": "theconversation.com",
+   "group": "news"
+  },
+  {
+   "domain": "nos.nl",
+   "group": "news"
+  },
+  {
+   "domain": "nrc.nl",
+   "group": "news"
+  },
+  {
+   "domain": "volkskrant.nl",
+   "group": "news"
+  },
+  {
+   "domain": "thehindu.com",
+   "group": "news"
+  },
+  {
+   "domain": "timesofindia.indiatimes.com",
+   "group": "news"
+  },
+  {
+   "domain": "abc.net.au",
+   "group": "news"
+  },
+  {
+   "domain": "cbc.ca",
+   "group": "news"
+  },
+  {
+   "domain": "politico.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "politico.eu",
+   "group": "policy_news"
+  },
+  {
+   "domain": "axios.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "thehill.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "rollcall.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "punchbowl.news",
+   "group": "policy_news"
+  },
+  {
+   "domain": "euractiv.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "euobserver.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "devex.com",
+   "group": "policy_news"
+  },
+  {
+   "domain": "snopes.com",
+   "group": "fact_check"
+  },
+  {
+   "domain": "politifact.com",
+   "group": "fact_check"
+  },
+  {
+   "domain": "factcheck.org",
+   "group": "fact_check"
+  },
+  {
+   "domain": "fullfact.org",
+   "group": "fact_check"
+  },
+  {
+   "domain": "ourworldindata.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "pewresearch.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "gallup.com",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "worldbank.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "imf.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "oecd.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "un.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "who.int",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "census.gov",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "bls.gov",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "stlouisfed.org",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "ons.gov.uk",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "cbs.nl",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "data.gov",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "kaggle.com",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "statista.com",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "congress.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "govinfo.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "federalregister.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "regulations.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "sec.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "fec.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "gov.uk",
+   "group": "government_legal"
+  },
+  {
+   "domain": "legislation.gov.uk",
+   "group": "government_legal"
+  },
+  {
+   "domain": "parliament.uk",
+   "group": "government_legal"
+  },
+  {
+   "domain": "overheid.nl",
+   "group": "government_legal"
+  },
+  {
+   "domain": "tweedekamer.nl",
+   "group": "government_legal"
+  },
+  {
+   "domain": "courtlistener.com",
+   "group": "government_legal"
+  },
+  {
+   "domain": "justia.com",
+   "group": "government_legal"
+  },
+  {
+   "domain": "oyez.org",
+   "group": "government_legal"
+  },
+  {
+   "domain": "supremecourt.gov",
+   "group": "government_legal"
+  },
+  {
+   "domain": "semanticscholar.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "openalex.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "core.ac.uk",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "doaj.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "base-search.net",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "ssrn.com",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "researchgate.net",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "academia.edu",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "arxiv.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "nih.gov",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "plos.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "unpaywall.org",
+   "group": "open_scholarship"
+  },
+  {
+   "domain": "reddit.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "youtube.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "x.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "linkedin.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "substack.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "medium.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "tiktok.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "facebook.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "instagram.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "bsky.app",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "github.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "stackexchange.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "quora.com",
+   "group": "platforms_social"
+  },
+  {
+   "domain": "ec.europa.eu",
+   "group": "data_statistics"
+  },
+  {
+   "domain": "eur-lex.europa.eu",
+   "group": "government_legal"
+  },
+  {
+   "domain": "europarl.europa.eu",
+   "group": "government_legal"
+  }
+ ]
+}

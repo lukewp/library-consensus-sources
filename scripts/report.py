@@ -60,6 +60,24 @@ def main():
            table([(p["domain"], p["top_title"][:48], p["max_libraries"], p["owner_type"], p["access_model"], p["automated_access"], p["ai_tdm"],
                    p["robots_ai"], p["automation_letter"], p["automation_spirit"]) for p in ranked],
                  ["Domain", "Top title", "Libraries", "Owner", "Access", "Automated", "AI/TDM", "robots AI", "Letter", "Spirit"]), ""]
+    ow = [p for p in plats if p.get("open_web_tier")]
+    if ow:
+        owj = json.loads((ROOT / "data" / "openweb.json").read_text())["rule"]
+        md += ["## Open-web tier", "",
+               f"Signals: references in the {owj['wikipedia_articles']:,} most-read articles of 20 Wikipedia language editions, and the news, "
+               f"free-web, data and government guides of {owj['libraries_with_guides']} libraries.", ""]
+        c = Counter(p["open_web_tier"] for p in ow)
+        md += [f"open-web {c.get('open-web', 0)}, open-web-curated {c.get('open-web-curated', 0)}.", ""]
+        for k in ("owner_type", "access_model", "robots_ai", "automation_letter", "automation_spirit"):
+            cc = Counter(p[k] for p in ow if p["open_web_tier"] == "open-web")
+            md += [f"**{k}** (open-web): " + ", ".join(f"{v} {n}" for v, n in cc.most_common()), ""]
+        rows = sorted(ow, key=lambda p: (p["open_web_tier"] != "open-web", -((p.get("wikipedia") or {}).get("n_languages", 0)),
+                                         -((p.get("guides") or {}).get("n_libraries", 0))))
+        md += [table([(p["domain"], p["open_web_tier"], (p.get("wikipedia") or {}).get("n_languages", 0), (p.get("wikipedia") or {}).get("n_articles", 0),
+                       (p.get("guides") or {}).get("n_libraries", 0), p["tier"], p["owner_type"], p["access_model"], p["robots_ai"],
+                       p["automation_letter"], p["automation_spirit"]) for p in rows],
+                     ["Domain", "Open-web tier", "Wiki languages", "Wiki articles", "Guide libraries", "Library tier", "Owner", "Access",
+                      "robots AI", "Letter", "Spirit"]), ""]
     (ROOT / "RESULTS.md").write_text("\n".join(md) + "\n")
     print("RESULTS.md written:", len(ranked), "ranked platforms")
 

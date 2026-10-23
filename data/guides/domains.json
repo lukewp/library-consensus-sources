@@ -1,0 +1,5742 @@
+{
+ "n_libraries_with_guides": 96,
+ "libraries_by_kind": {
+  "news": 84,
+  "free_web": 10,
+  "data": 59,
+  "government": 36
+ },
+ "domains": [
+  {
+   "domain": "google.com",
+   "n_libraries": 19,
+   "n_regions": 6,
+   "kinds": {
+    "news": 13,
+    "data": 8,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "youtube.com",
+   "n_libraries": 18,
+   "n_regions": 6,
+   "kinds": {
+    "free_web": 1,
+    "government": 5,
+    "news": 8,
+    "data": 7
+   }
+  },
+  {
+   "domain": "loc.gov",
+   "n_libraries": 12,
+   "n_regions": 4,
+   "kinds": {
+    "government": 3,
+    "news": 9,
+    "data": 1
+   }
+  },
+  {
+   "domain": "census.gov",
+   "n_libraries": 12,
+   "n_regions": 2,
+   "kinds": {
+    "data": 10,
+    "government": 3,
+    "news": 1
+   }
+  },
+  {
+   "domain": "gpo.gov",
+   "n_libraries": 12,
+   "n_regions": 2,
+   "kinds": {
+    "government": 14
+   }
+  },
+  {
+   "domain": "facebook.com",
+   "n_libraries": 11,
+   "n_regions": 6,
+   "kinds": {
+    "news": 6,
+    "government": 2,
+    "data": 5
+   }
+  },
+  {
+   "domain": "un.org",
+   "n_libraries": 11,
+   "n_regions": 5,
+   "kinds": {
+    "data": 10,
+    "news": 1
+   }
+  },
+  {
+   "domain": "proquest.com",
+   "n_libraries": 10,
+   "n_regions": 5,
+   "kinds": {
+    "news": 9,
+    "data": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "who.int",
+   "n_libraries": 10,
+   "n_regions": 4,
+   "kinds": {
+    "data": 8,
+    "news": 1,
+    "free_web": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "worldbank.org",
+   "n_libraries": 9,
+   "n_regions": 5,
+   "kinds": {
+    "data": 9
+   }
+  },
+  {
+   "domain": "nytimes.com",
+   "n_libraries": 9,
+   "n_regions": 4,
+   "kinds": {
+    "news": 10
+   }
+  },
+  {
+   "domain": "twitter.com",
+   "n_libraries": 8,
+   "n_regions": 5,
+   "kinds": {
+    "news": 4,
+    "data": 2,
+    "government": 2
+   }
+  },
+  {
+   "domain": "fdlp.gov",
+   "n_libraries": 8,
+   "n_regions": 1,
+   "kinds": {
+    "government": 9
+   }
+  },
+  {
+   "domain": "instagram.com",
+   "n_libraries": 7,
+   "n_regions": 5,
+   "kinds": {
+    "news": 3,
+    "government": 1,
+    "data": 5
+   }
+  },
+  {
+   "domain": "worldcat.org",
+   "n_libraries": 7,
+   "n_regions": 4,
+   "kinds": {
+    "news": 7,
+    "data": 2
+   }
+  },
+  {
+   "domain": "cdc.gov",
+   "n_libraries": 7,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2,
+    "data": 6
+   }
+  },
+  {
+   "domain": "data.gov",
+   "n_libraries": 7,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2,
+    "data": 5
+   }
+  },
+  {
+   "domain": "govinfo.gov",
+   "n_libraries": 7,
+   "n_regions": 1,
+   "kinds": {
+    "government": 7
+   }
+  },
+  {
+   "domain": "ebscohost.com",
+   "n_libraries": 6,
+   "n_regions": 5,
+   "kinds": {
+    "news": 5,
+    "data": 2
+   }
+  },
+  {
+   "domain": "pressreader.com",
+   "n_libraries": 6,
+   "n_regions": 5,
+   "kinds": {
+    "news": 6
+   }
+  },
+  {
+   "domain": "ebsco.com",
+   "n_libraries": 6,
+   "n_regions": 5,
+   "kinds": {
+    "news": 4,
+    "data": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "ft.com",
+   "n_libraries": 6,
+   "n_regions": 4,
+   "kinds": {
+    "news": 6
+   }
+  },
+  {
+   "domain": "ec.europa.eu",
+   "n_libraries": 6,
+   "n_regions": 3,
+   "kinds": {
+    "data": 5,
+    "government": 1
+   }
+  },
+  {
+   "domain": "gale.com",
+   "n_libraries": 6,
+   "n_regions": 3,
+   "kinds": {
+    "news": 7
+   }
+  },
+  {
+   "domain": "linkedin.com",
+   "n_libraries": 6,
+   "n_regions": 3,
+   "kinds": {
+    "data": 6,
+    "news": 2
+   }
+  },
+  {
+   "domain": "nih.gov",
+   "n_libraries": 6,
+   "n_regions": 2,
+   "kinds": {
+    "government": 2,
+    "data": 6
+   }
+  },
+  {
+   "domain": "ourworldindata.org",
+   "n_libraries": 5,
+   "n_regions": 3,
+   "kinds": {
+    "data": 5
+   }
+  },
+  {
+   "domain": "archive.org",
+   "n_libraries": 5,
+   "n_regions": 3,
+   "kinds": {
+    "government": 3,
+    "news": 2
+   }
+  },
+  {
+   "domain": "crl.edu",
+   "n_libraries": 5,
+   "n_regions": 2,
+   "kinds": {
+    "news": 5
+   }
+  },
+  {
+   "domain": "ukdataservice.ac.uk",
+   "n_libraries": 5,
+   "n_regions": 2,
+   "kinds": {
+    "data": 5
+   }
+  },
+  {
+   "domain": "lexis.com",
+   "n_libraries": 5,
+   "n_regions": 2,
+   "kinds": {
+    "news": 5
+   }
+  },
+  {
+   "domain": "cornell.edu",
+   "n_libraries": 5,
+   "n_regions": 1,
+   "kinds": {
+    "government": 4,
+    "data": 1
+   }
+  },
+  {
+   "domain": "bls.gov",
+   "n_libraries": 5,
+   "n_regions": 1,
+   "kinds": {
+    "data": 5
+   }
+  },
+  {
+   "domain": "usa.gov",
+   "n_libraries": 5,
+   "n_regions": 1,
+   "kinds": {
+    "government": 5
+   }
+  },
+  {
+   "domain": "unesco.org",
+   "n_libraries": 4,
+   "n_regions": 4,
+   "kinds": {
+    "data": 3,
+    "news": 2
+   }
+  },
+  {
+   "domain": "clarivate.com",
+   "n_libraries": 4,
+   "n_regions": 3,
+   "kinds": {
+    "free_web": 1,
+    "news": 4
+   }
+  },
+  {
+   "domain": "cia.gov",
+   "n_libraries": 4,
+   "n_regions": 3,
+   "kinds": {
+    "government": 2,
+    "data": 3
+   }
+  },
+  {
+   "domain": "oecd.org",
+   "n_libraries": 4,
+   "n_regions": 3,
+   "kinds": {
+    "data": 5
+   }
+  },
+  {
+   "domain": "lexisnexis.com",
+   "n_libraries": 4,
+   "n_regions": 3,
+   "kinds": {
+    "news": 3,
+    "government": 1
+   }
+  },
+  {
+   "domain": "unsplash.com",
+   "n_libraries": 4,
+   "n_regions": 3,
+   "kinds": {
+    "news": 4
+   }
+  },
+  {
+   "domain": "congress.gov",
+   "n_libraries": 4,
+   "n_regions": 2,
+   "kinds": {
+    "government": 4
+   }
+  },
+  {
+   "domain": "re3data.org",
+   "n_libraries": 4,
+   "n_regions": 2,
+   "kinds": {
+    "data": 4
+   }
+  },
+  {
+   "domain": "wikipedia.org",
+   "n_libraries": 4,
+   "n_regions": 2,
+   "kinds": {
+    "data": 1,
+    "free_web": 1,
+    "news": 2
+   }
+  },
+  {
+   "domain": "harvard.edu",
+   "n_libraries": 4,
+   "n_regions": 2,
+   "kinds": {
+    "data": 4
+   }
+  },
+  {
+   "domain": "canada.ca",
+   "n_libraries": 4,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2,
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "gc.ca",
+   "n_libraries": 4,
+   "n_regions": 1,
+   "kinds": {
+    "data": 3,
+    "government": 3
+   }
+  },
+  {
+   "domain": "elsevier.com",
+   "n_libraries": 3,
+   "n_regions": 3,
+   "kinds": {
+    "free_web": 1,
+    "news": 2
+   }
+  },
+  {
+   "domain": "timeshighereducation.com",
+   "n_libraries": 3,
+   "n_regions": 3,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "fao.org",
+   "n_libraries": 3,
+   "n_regions": 3,
+   "kinds": {
+    "data": 3
+   }
+  },
+  {
+   "domain": "arxiv.org",
+   "n_libraries": 3,
+   "n_regions": 3,
+   "kinds": {
+    "data": 2,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "factcheck.org",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "ifla.org",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "ala.org",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "free_web": 1,
+    "government": 2
+   }
+  },
+  {
+   "domain": "washingtonpost.com",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "youtu.be",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2,
+    "data": 1
+   }
+  },
+  {
+   "domain": "onlinenewspapers.com",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 4
+   }
+  },
+  {
+   "domain": "britishnewspaperarchive.co.uk",
+   "n_libraries": 3,
+   "n_regions": 2,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "firstdraftnews.org",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "npr.org",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "umich.edu",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 2
+   }
+  },
+  {
+   "domain": "ams.org",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "data": 3
+   }
+  },
+  {
+   "domain": "wsj.com",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "archives.gov",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "government": 3
+   }
+  },
+  {
+   "domain": "whitehouse.gov",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "government": 3,
+    "data": 1
+   }
+  },
+  {
+   "domain": "abs.gov.au",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "data": 3
+   }
+  },
+  {
+   "domain": "nla.gov.au",
+   "n_libraries": 3,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1,
+    "news": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "wikimedia.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "in.gov",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "free_web": 1,
+    "government": 1,
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "auckland.ac.nz",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 3,
+    "news": 1
+   }
+  },
+  {
+   "domain": "wto.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "imf.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "umd.edu",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "economist.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "lemonde.fr",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "noaa.gov",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "unt.edu",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "pixabay.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "figshare.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "apple.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "ballotpedia.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "dloc.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "newsbank.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "usgs.gov",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "biomedcentral.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "free_web": 2
+   }
+  },
+  {
+   "domain": "bbc.co.uk",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "nationalarchives.gov.uk",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "europeana.eu",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "jstor.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "naver.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "ncse.ac.uk",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "reuters.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "unctad.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "nasa.gov",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "umn.edu",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "nerc.ac.uk",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 1,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "sagepub.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "khanacademy.org",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "data": 3
+   }
+  },
+  {
+   "domain": "japantimes.co.jp",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "abyznewslinks.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "newspapers.com",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "yomiuri.co.jp",
+   "n_libraries": 2,
+   "n_regions": 2,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "parliament.nz",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "readex.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "brill.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "thesocialhistoryarchive.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "thomsonreuters.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "ahrq.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 2
+   }
+  },
+  {
+   "domain": "health.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "cms.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "kff.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "journalism.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 3
+   }
+  },
+  {
+   "domain": "cihi.ca",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "ssc.ca",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "ucsb.edu",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "senate.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "iu.edu",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2,
+    "news": 2
+   }
+  },
+  {
+   "domain": "irs.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "ohio.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "carleton.ca",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "https",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "statista.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "library.wales",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "state.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "supremecourt.gov",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "pewresearch.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "talis.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "ons.gov.uk",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "msu.edu",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "snopes.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "zenodo.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "getbadnews.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "bl.uk",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "doabooks.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "newspapermap.com",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "zbmath.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "data": 2
+   }
+  },
+  {
+   "domain": "nls.uk",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2,
+    "data": 1
+   }
+  },
+  {
+   "domain": "worldlii.org",
+   "n_libraries": 2,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "csuchico.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "easybib.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "prattlibrary.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "skylinecollege.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "alise.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "atla.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "choice360.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "floridalibrarywebinars.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "nasig.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "onlinelearningconsortium.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "springernature.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "vimeo.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "webjunction.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "nist.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "aus.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "gksoft.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "britannica.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "buffalo.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "sipri.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "weforum.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bris.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "economistgroup.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "libbyapp.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "retronews.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "usu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "utah.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "dartmouthatlas.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "osha.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ruralhealthinfo.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "samhsa.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "service-now.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "allsides.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cnn.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "dailyutahchronicle.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "deseret.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "esquire.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "fox13now.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ksl.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kuer.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "marcieyoungcancio.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "pbs.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "slcc.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "sltrib.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "solutionsjournalism.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "theweek.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "utahinvestigative.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "utahspj.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wasatchmag.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "commonsense.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "newseum.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "pewinternet.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "qqml-journal.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "byu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "weber.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "browzine.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ceu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "chronicle.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "eastview.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "eulawlive.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "euobserver.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "exacteditions.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "galegroup.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "jewishreviewofbooks.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lrb.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "merip.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nybooks.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nytimesineducation.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "thelocal.at",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "westlaw.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "fraserinstitute.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "novascotia.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "caims.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dal.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "math.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "eui.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "fi.it",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kansan.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kansasreflector.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lawrencekstimes.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lplks.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "miami.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "openthegovernment.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "richmond.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "sunlightfoundation.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "temple.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "url",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "bia.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "house.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "oklibshare.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ncl.edu.tw",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "eia.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "govscape.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "lbl.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "mi5.gov.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "openfactbook.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "apa.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "52north.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "asq.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "casact.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "africaopendata.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cepal.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datacite.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dataportal.asia",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "fairsharing.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "brynmawr.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cambridge.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "metrostate.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "texas.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ttu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "tx.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "scholarsportal.info",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "pressbooks.pub",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "afpls.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "afplweb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "atlantahistorycenter.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "georgiaarchives.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "georgiaencyclopedia.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "gsu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "uga.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wufoo.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aserl.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "columbia.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "nationalreview.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "padlet.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "projectcora.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "reason.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "theamericanconservative.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "afro.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "iupui.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "marist.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "uh.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "arstechnica.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cnet.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "gizmodo.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "irlpodcast.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "marketplace.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "mashable.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "techcrunch.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "theverge.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "twit.tv",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "zdnet.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "straightdope.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "stlouisfed.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cancer.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "carleton.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "childstats.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "commonwealthfund.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "countyhealthrankings.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datadryad.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datazar.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "encodeproject.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "flybase.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "functionalglycomics.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "hhs.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "hrsa.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "huduser.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "jmu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ncsu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "paho.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "rcsb.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "washington.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cincinnati-oh.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "govtinfo.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 2
+   }
+  },
+  {
+   "domain": "ky.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "politico.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "hapgood.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "archive-it.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "lhcadl.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "caul.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "arc.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ipums.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "oecd-ilibrary.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "unwater.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "pa.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "pa.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "phila.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "phlcouncil.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "salalm.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aaea.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ars-grin.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "doe.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ebi.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "energy.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "fcla.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "fl.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "fl.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "florida-agriculture.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "foodsystemsdashboard.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "gramene.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ibisworld.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ifpri.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "isric.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "marketline.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "myendnoteweb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "try-db.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "usda.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "litwinbooks.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "springer.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "webofscience.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wiley.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aip.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "base-search.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "cof.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "connectedpapers.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "deepdyve.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "highwirepress.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "mednar.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "scopus.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "webofknowledge.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "worldwidescience.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "parl.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "denniskunkel.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "flora-on.pt",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "iastate.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "wcs.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "bizjournals.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "datacommons.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ohio.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "socialexplorer.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "uark.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "usc.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "zendesk.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "birmingham.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "rss.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "afp.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "evene.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "humanite.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "la-croix.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lalibre.be",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lecourrier.vn",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lefigaro.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "magazine-litteraire.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "medias19.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nouvelle-quinzaine-litteraire.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "online.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "rsf.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "europeana-newspapers.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "24chasa.bg",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aif.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "capital.bg",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "com.mk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "duma.bg",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "gazeta-pravda.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "iz.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kommersant.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kp.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lgz.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nashaniva.by",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ng.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "novayagazeta.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "segabg.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "slobodenpecat.mk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "spbvedomosti.ru",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "vecer.mk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "vestnicibg.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "bnf.fr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cm-lisboa.pt",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "dnb.de",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "english-corpora.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "flickr.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "gov.pt",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "parliament.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "uni-frankfurt.de",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "apache.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cdla.dev",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "github.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "gnu.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "go-fair.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "opendatacommons.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "opendatahandbook.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "openrefine.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "opensource.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "w3.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bouldercolorado.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "bouldercounty.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "c-spanvideo.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "co.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "colorado.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "crisisgroup.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "du.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "georgetown.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "govtrack.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "hrw.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "suffolk.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "apnorc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "dulib.blog",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "dur.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "dpgmediagroup.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "economistfoundation.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "surf.nl",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "theguardian.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "gapminder.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "gu.se",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "kaggle.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "nationmaster.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "undp.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "global-change-data-lab.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "iea.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ilo.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "itu.int",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "tradeport.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "polyu.edu.hk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wisersone.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aks.ac.kr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "chosun.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "donga.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "riss.kr",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "acs.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "aplic-abpac.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "mb.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "fileitsolutions.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "london.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "psychicnews.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "survivalresearch.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "amstat.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "borealisdata.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "isi-web.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "orcid.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "mediabiasfactcheck.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "motherjones.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "newslit.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "politifact.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "psychologytoday.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "upenn.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "cogr.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "coherentdigital.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dataindex.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datarescueproject.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "federaldatafieldguide.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "govarchive.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "webrecorder.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "google.com.hk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wn.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "yahoo.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ohiolink.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2
+   }
+  },
+  {
+   "domain": "gov.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "nuigalway.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "oireachtas.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "centralbank.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cso.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "epa.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "esri.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "nesc.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ucd.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "unicef.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "brown.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "csusm.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "admiralty.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "amis-outlook.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bas.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bgs.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bodc.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ceh.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dassh.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "eea.europa.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "force11.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "globalfishingwatch.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "iaea.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ices.dk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "icsu-wds.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ipcc-data.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "marine.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "medin.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "nicd.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "northeastcoastalobservatory.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "nsidc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "obis.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "oceandataportal.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "scar.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "seadatanet.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ukssdc.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "urbanobservatory.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "wmo.int",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "learningonscreen.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "newcastle.gov.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ukpressonline.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "academicearth.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "acma.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aejmc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "aftrs.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "apo.org.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "bfi.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cinematographers.nl",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "clickview.com.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "communications.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "edx.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "elephind.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "hkmdb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "imdb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "merlot.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "naa.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nfsa.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nida.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "sbs.com.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "screenaustralia.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "southasiancinema.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cookcountyclerk.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "cookcountytreasurer.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "iccb.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ilga.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "illinois.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "illinoiscomptroller.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "illinoiscomptroller.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "statelocalgov.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "panopto.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "nusmathsoc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "a-star.edu.sg",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "aseanstats.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datamarket.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "quandl.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "credoreference.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "sconul.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cessda.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "closer.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "datamed.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dimensions.ai",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "fb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "osf.io",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "simmons.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "zanran.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "alexanderstreet.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ijpc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "journalism.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ooir.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "pamco.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "panopto.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "pressgazette.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "sams-sigma.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "fultonhistory.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kyvl.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ucr.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "unidesk.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "wyonewspapers.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nrscotland.gov.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "scotland.gov.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "su.ac.za",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1,
+    "data": 1
+   }
+  },
+  {
+   "domain": "projecteuclid.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "kiwi.fi",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "bsky.app",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "flaticon.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "freepik.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "yourlibraryapp.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "lhlphotoarchive.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nli.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "openaire.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "teachingandlearning.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "ucc.ie",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "pinterest.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "upr.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ourcommons.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "eur-lex.europa.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "overdrive.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "sa.",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "chegg.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "collegenet.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "fastweb.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "petersons.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "unigo.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "usatoday.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "lboro.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "dailyecho.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "independent.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "southampton.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "education.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2,
+    "data": 2
+   }
+  },
+  {
+   "domain": "teqsa.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 2,
+    "data": 2
+   }
+  },
+  {
+   "domain": "withgoogle.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "academicdatascience.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ands.org.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ardc.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ctiq.com.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "github.io",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "pc.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "programminghistorian.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "qld.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "windows.net",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "wordpress.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "aihw.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "rmit.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "cloud.microsoft",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "office365.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "utoledo.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "alberta.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "bc.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "cmec.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "csdm.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ctf-fce.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "gnb.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "nl.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "ns.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "nt.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "nu.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "on.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "princeedwardisland.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "qc.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "news": 1
+   }
+  },
+  {
+   "domain": "saskatchewan.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "yk.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "cotc.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "ohio-state.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "wolfram.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "bjd.com.cn",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "cmu.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "guangming.com.my",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "hathitrust.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "illinois.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "llgc.org.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "mainichi.co.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "news.cn",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nyshistoricnewspapers.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nzdl.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "peopledaily.com.cn",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "scmp.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "thegazette.co.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "waikato.ac.nz",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "figure.nz",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "list-manage.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "mashblock.co.nz",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "tewhata.io",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "tinyurl.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "centerfornewsliteracy.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "doi",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "schooljournalism.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "bbc.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "publicdatalab.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "torontopubliclibrary.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "verificationhandbook.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "wnyc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "google.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "mdc.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "educause.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "insidehighered.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "universityworldnews.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "benefits.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "defazioforcongress.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "gpoaccess.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "lanecounty.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "or.us",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "oregon.gov",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "publications.europa.eu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "un-ilibrary.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "kevinmc@uoregon.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "einpresswire.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nationalethnicpress.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "ourontario.ca",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "x.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "austlii.edu.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "vic.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1,
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "justiceconnect.org.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "victorialawfoundation.org.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "ctan.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1
+   }
+  },
+  {
+   "domain": "unl.edu",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "data": 1,
+    "government": 1
+   }
+  },
+  {
+   "domain": "aec.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "aph.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "asn.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "australia.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "datadiction.com.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "library.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "nsw.gov.au",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "government": 1
+   }
+  },
+  {
+   "domain": "core.ac.uk",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "doaj.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "europepmc.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "plos.org",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "free_web": 1
+   }
+  },
+  {
+   "domain": "asahi.com",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "bunsei.co.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "kinokuniya.co.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "mainichi.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "nikkeimm.co.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "toho-shoten.co.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  },
+  {
+   "domain": "waseda.jp",
+   "n_libraries": 1,
+   "n_regions": 1,
+   "kinds": {
+    "news": 1
+   }
+  }
+ ]
+}

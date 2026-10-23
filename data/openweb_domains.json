@@ -1,0 +1,4666 @@
+{
+ "domains": [
+  {
+   "domain": "google.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "youtube.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "loc.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "census.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "un.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "facebook.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "who.int",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nytimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldbank.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "twitter.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldcat.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "instagram.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nih.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ft.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "archive.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cia.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unesco.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "harvard.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "washingtonpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wsj.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "npr.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bbc.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "reuters.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "imf.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jstor.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "economist.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "state.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bbc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theguardian.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cnn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "yahoo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "time.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "independent.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "telegraph.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "forbes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "variety.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "britannica.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usatoday.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "latimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "x.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bloomberg.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbsnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "businessinsider.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nbcnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "imdb.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aljazeera.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rollingstone.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cnbc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theatlantic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wordpress.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pbs.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newyorker.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "politico.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vox.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thedailybeast.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "smh.com.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "timesonline.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rsf.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foreignpolicy.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "miamiherald.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "whitehouse.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "apple.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "statista.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pewresearch.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sagepub.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "apnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dw.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "deadline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "go.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hollywoodreporter.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fifa.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "spiegel.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "france24.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "people.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indiatimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "uefa.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "elpais.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "goal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "msn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "espn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "guardian.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "undp.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "billboard.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbc.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "marca.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "blogspot.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vanityfair.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foxnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newsweek.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "huffingtonpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nypost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "timesofisrael.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hindustantimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "skysports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thehill.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thetimes.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hrw.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "scmp.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "si.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "academia.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mashable.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nydailynews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "haaretz.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "techcrunch.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "chicagotribune.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "researchgate.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nymag.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bostonglobe.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "salon.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sipri.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "house.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oecd.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "archives.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "euronews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dailymail.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "as.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indianexpress.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "slate.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ign.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theverge.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fortune.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "soccerway.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "espn.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sky.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bleacherreport.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "freedomhouse.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cnet.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "politico.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "news.com.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "espnfc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nature.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "realmadrid.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rferl.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "weforum.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nationalgeographic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "justice.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cambridge.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "springer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fcbarcelona.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "psg.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theage.com.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "khamenei.ir",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ec.europa.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fao.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lemonde.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thewrap.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ndtv.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wired.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thetimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "voanews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mirror.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vice.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theconversation.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iffhs.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "standard.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "netflix.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "amnesty.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fourfourtwo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sport.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "alexa.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foxsports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sportingnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldometers.info",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "stanford.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theathletic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "businessweek.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ynetnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "express.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "chinadaily.com.cn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fas.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oup.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iht.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fastcompany.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "psu.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "upenn.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "politifact.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "olympic.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "palmbeachpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mlssoccer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nps.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usgs.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "globo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rottentomatoes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "repubblica.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "faz.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gazzetta.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vulture.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nme.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "axios.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "huffpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "90min.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "onefootball.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tandfonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "guinnessworldrecords.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "esquire.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "olympics.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sfgate.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "upi.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "complex.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "biography.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gizmodo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "about.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pewforum.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "premierleague.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thesun.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nobelprize.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unicef.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbssports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "washingtontimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wiley.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "countrystudies.us",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ibtimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "manchestereveningnews.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ohchr.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nbcnewyork.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldsoccer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "carnegieendowment.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "medium.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "observer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "washingtonexaminer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "givemesport.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bfi.org.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "smithsonianmag.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "google.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gallup.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dailydot.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iranicaonline.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "manutd.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foxbusiness.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cdc.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ourworldindata.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "arxiv.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nasa.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ew.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "corriere.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "infobae.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "elmundo.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aa.com.tr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thehindu.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lequipe.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rsssf.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aljazeera.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mundodeportivo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mtv.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "arstechnica.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eurosport.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "beinsports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "today.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pitchfork.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "yale.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theglobeandmail.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "csmonitor.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "abcnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "motherjones.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldfootball.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "grammy.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fifa.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thenextweb.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sciencedirect.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "transparency.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "scribd.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "independent.ie",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "metro.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "irishtimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bustle.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newstatesman.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "similarweb.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "globalsecurity.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "history.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theregister.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "buzzfeed.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dw.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "citypopulation.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thecut.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usembassy.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "forward.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldatlas.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "townandcountrymag.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "columbia.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "merriam-webster.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "worldpopulationreview.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "findarticles.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nrk.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iea.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ca.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ethnologue.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iranchamber.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "si.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mancity.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thesmokinggun.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gwu.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lboro.ac.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "blog.youtube",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fpf.pt",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "moldefk.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "proquest.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "semanticscholar.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "europarl.europa.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gutenberg.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bls.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "snopes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "parliament.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "linkedin.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "congress.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ssrn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sec.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "propublica.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "reddit.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tiktok.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "euractiv.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "factcheck.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ons.gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nos.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "afp.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbs.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "github.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "substack.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fec.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "stlouisfed.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "legislation.gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "federalregister.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eur-lex.europa.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "courtlistener.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "govinfo.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "volkskrant.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nrc.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "overheid.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "justia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "quora.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "supremecourt.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "openlibrary.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "euobserver.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "stackexchange.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rollcall.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "plos.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "core.ac.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "doaj.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "data.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wikipedia.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wikidata.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nhk.or.jp",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "timesofindia.indiatimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "abc.net.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "punchbowl.news",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "devex.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fullfact.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "kaggle.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "regulations.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tweedekamer.nl",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oyez.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "openalex.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "base-search.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unpaywall.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bsky.app",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gc.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lefigaro.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "metacritic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "boxofficemojo.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sueddeutsche.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "elle.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "clarin.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "news18.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rogerebert.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iranintl.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "the-independent.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wipo.int",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "discogs.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "straitstimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cosmopolitan.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "qz.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbr.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "brookings.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tvline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "talksport.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "boston.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gulfnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "insider.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "amazon.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "business-standard.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "timesnownews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "national-football-teams.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jhu.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aol.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "coe.int",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "uchicago.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "discovery.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "treasury.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "marketwatch.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nato.int",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cfr.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sportskeeda.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newscientist.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "arquivo.pt",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thecrimson.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unhcr.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ed.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foreignaffairs.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vg.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iol.co.za",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "princeton.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "englandfootballonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "berkeley.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tripod.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "doingbusiness.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dagbladet.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "army.mil",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "googleblog.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "msnbc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "redbullsalzburg.at",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "umich.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newspapers.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "japantimes.co.jp",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ucsb.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nationalarchives.gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "welt.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indiewire.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "collider.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lavanguardia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "xinhuanet.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "people.com.cn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "firstpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "francefootball.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "heritage.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usmagazine.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "kicker.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iffhs.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "venturebeat.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "laliga.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sbs.com.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rte.ie",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tribuna.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sapo.pt",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tmz.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "buzzfeednews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eiu.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "parade.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "techradar.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "prnewswire.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "zdnet.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "radiotimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "suntimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "highbeam.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bundesliga.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jewishvirtuallibrary.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thediplomat.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "atimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "espn.in",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "juventus.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dfb.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mediaite.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "atlanticcouncil.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "globalnews.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "csis.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sportbible.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theweek.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nationalreview.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sportsnet.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "utexas.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gob.ve",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "inc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "inquirer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "defense.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iaea.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hoover.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "payvand.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "infoplease.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "chelseafc.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "uefa.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ap.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rockhall.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wwe.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nationalpost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bvb.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "weebly.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "heavy.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pewglobal.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ieee.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usda.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ine.cv",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "openai.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cornell.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "canada.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "senate.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "noaa.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rfi.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sky.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "zeit.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gouv.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "chosun.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tagesschau.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rtl.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "alarabiya.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "abc.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "empireonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "slashfilm.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "google.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rtve.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "quirinale.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "allmusic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bild.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thenationalnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "middleeasteye.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "engadget.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "polygon.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mercurynews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thestar.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "boe.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "teenvogue.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rediff.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rsssf.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "avclub.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mit.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "officialcharts.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jta.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "seattletimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "scientificamerican.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ctvnews.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "etymonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vaticannews.va",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "barrons.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "admin.ch",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wionews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "adweek.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "espn.com.au",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "laliga.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "foxsportsasia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theregister.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fbi.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ushmm.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "leader.ir",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "psychologytoday.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tehrantimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "heraldscotland.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "scotsman.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bdfutbol.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nbcsports.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unodc.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "encyclopedia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "c-span.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "belfasttelegraph.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "inquirer.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "abc7.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "icrc.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tass.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ligue1.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "irinnews.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cuny.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gawker.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fco.gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sbnation.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nybooks.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unfp.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eurovision.tv",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oica.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thefreedictionary.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "realclearpolitics.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "domaintools.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pitt.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ekathimerini.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oecd-ilibrary.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bts.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "asmonaco.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tumblr.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "palmbeachdailynews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "straightdope.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "harrisinteractive.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fundacionleomessi.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fotball.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wto.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "leparisien.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ria.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lexpress.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "screenrant.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wikiwix.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "the-numbers.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "orf.at",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "radiofarda.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "irna.ir",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "swissinfo.ch",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gq.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vogue.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bnf.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "spotify.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "livemint.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pcmag.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eluniverso.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "themoscowtimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hindu.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gamesradar.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hellomagazine.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eia.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "newrepublic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lib.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fifpro.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "riaa.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "transfermarkt.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "issuu.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pagesix.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sciencemag.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vatican.va",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "huffingtonpost.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wired.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hawaii.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "refinery29.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "christianitytoday.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eu-football.info",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dawn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nzherald.co.nz",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fcbarcelona.cat",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thestar.com.my",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "channel4.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nylon.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unibe.ch",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nettavisen.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "documentcloud.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indexmundi.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "microsoft.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "adage.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "wilsoncenter.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ea.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "af.mil",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "opensecrets.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "findlaw.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nationalinterest.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "planetfootball.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fivethirtyeight.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "timesofmalta.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cbslocal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indiana.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bp.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fb.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tribalfootball.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dailyrecord.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "topuniversities.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bea.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ethz.ch",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "american.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "flightglobal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fcbarcelonanoticias.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gao.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "filmsite.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rnz.co.nz",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ballot-access.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "umaine.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ibiblio.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "uol.com.br",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ansa.it",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rbc.ru",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "focus.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "indiatoday.in",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rt.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ilsole24ore.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "20minutos.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "elespanol.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "allocine.fr",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "digitalspy.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sputniknews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tvguide.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "al-monitor.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "yle.fi",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "harpersbazaar.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "screendaily.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oscars.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "globalfirepower.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "etonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "conmebol.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "onzemondial.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sfchronicle.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thejakartapost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "washingtoninstitute.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thenation.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iol.pt",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sport1.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "channelnewsasia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sportspromedia.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mensjournal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rfef.es",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "globesoccer.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "consilium.europa.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "puck.news",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gq-magazine.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gv.at",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "theplaylist.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gamespot.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "deseret.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dazn.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "technologyreview.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "vh1.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "findagrave.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "webmd.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "slantmagazine.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cafonline.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sandiegouniontribune.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "genius.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "google.ca",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "businesswire.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "destatis.de",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cmjornal.pt",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ruv.is",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "thescore.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "squawka.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eluniversal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "com.ve",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "reviewjournal.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dtic.mil",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "googleusercontent.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "israelnationalnews.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "degruyter.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rand.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "service.gov.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cloudfront.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "cleveland.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "icc-cpi.int",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ccma.cat",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "comscore.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usdoj.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "doe.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "oxfordjournals.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "visualcapitalist.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "squarespace.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fordham.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "artnet.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "football-italia.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eurosport.co.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "icij.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ggdc.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "rutgers.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "aftenposten.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "internetworldstats.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "bet.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ustr.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iso.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "geni.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "grantland.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "peopledaily.com.cn",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nyu.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "osd.mil",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "laureus.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "copaamerica.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "flickr.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tv2.dk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "football-espana.net",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unfpa.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mic.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "nbcolympics.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "sciencenews.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "iata.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "hawaii.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "mastercard.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "eusm.eu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "shanghairanking.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "visionofhumanity.org",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "greekcitytimes.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lawandcrime.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "dol.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "tubefilter.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "icelandreview.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "intermiamicf.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "panapress.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "howstuffworks.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "unlv.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "federalreserve.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "jbl.no",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gpo.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "pressreader.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ebsco.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "gale.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "usa.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ebscohost.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "fdlp.gov",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "crl.edu",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "ukdataservice.ac.uk",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  },
+  {
+   "domain": "lexis.com",
+   "max_libraries": 99,
+   "titles": [],
+   "vendors": []
+  }
+ ]
+}

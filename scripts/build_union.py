@@ -24,9 +24,7 @@ VENDORS = ["proquest", "ebsco", "ebscohost", "gale", "ovid", "elsevier", "scienc
            "newsbank", "eikon", "s p", "capital iq", "wrds", "mergent", "ibisworld", "passport", "euromonitor", "via proquest",
            "via ebsco", "via ovid", "via gale"]
 PROXY_HOST = re.compile(r"(ezproxy|proxy|login\.|\.idm\.oclc\.org|openathens|shibboleth|wayf|libproxy|eres\.|lib-ezproxy)", re.I)
-SECOND_LEVEL = {"co.uk", "ac.uk", "org.uk", "gov.uk", "com.au", "edu.au", "gov.au", "org.au", "co.nz", "ac.nz", "co.jp", "ac.jp",
-                "com.cn", "edu.cn", "com.sg", "edu.sg", "com.hk", "edu.hk", "co.za", "ac.za", "com.br", "gov.br", "co.in", "ac.in",
-                "com.tr", "edu.tr", "ac.kr", "co.kr", "com.tw", "edu.tw", "com.my", "edu.my", "europa.eu"}
+SECOND_LEVEL = {"ac.ae", "ac.bd", "ac.id", "ac.il", "ac.in", "ac.ir", "ac.jp", "ac.ke", "ac.kr", "ac.nz", "ac.th", "ac.uk", "ac.za", "co.ae", "co.id", "co.il", "co.in", "co.ir", "co.jp", "co.ke", "co.kr", "co.nz", "co.th", "co.uk", "co.za", "com.ar", "com.au", "com.bd", "com.br", "com.cn", "com.co", "com.eg", "com.es", "com.gh", "com.hk", "com.mx", "com.my", "com.ng", "com.pe", "com.ph", "com.pk", "com.qa", "com.sa", "com.sg", "com.tr", "com.tw", "com.ua", "com.vn", "edu.ar", "edu.au", "edu.cn", "edu.co", "edu.hk", "edu.mx", "edu.my", "edu.pe", "edu.pk", "edu.sg", "edu.tr", "edu.tw", "europa.eu", "go.id", "go.jp", "go.ke", "go.kr", "go.th", "gob.ar", "gob.es", "gob.mx", "gob.pe", "gov.ae", "gov.au", "gov.bd", "gov.br", "gov.cn", "gov.co", "gov.eg", "gov.gh", "gov.hk", "gov.il", "gov.in", "gov.ir", "gov.lk", "gov.my", "gov.ng", "gov.ph", "gov.pk", "gov.qa", "gov.sa", "gov.sg", "gov.tr", "gov.tw", "gov.ua", "gov.uk", "gov.vn", "gov.za", "govt.nz", "ne.jp", "net.au", "net.br", "net.cn", "net.in", "net.nz", "nic.in", "or.id", "or.jp", "or.kr", "or.th", "org.au", "org.br", "org.cn", "org.es", "org.hk", "org.il", "org.in", "org.ir", "org.nz", "org.sg", "org.tr", "org.tw", "org.uk", "org.za", "res.in"}
 
 
 def strip_accents(s):

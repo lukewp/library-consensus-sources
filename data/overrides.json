@@ -140,6 +140,34 @@
     "to": "restricted",
     "reason": "arXiv directs automated clients to its API, export.arxiv.org and bulk data"
    }
+  },
+  "wikipedia.org": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "Wikimedia Terms of Use (https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use): API users must follow the User-Agent Policy, Robot Policy and API:Etiquette; content is CC BY-SA. Read by hand on 2026-10-23; the automated fetch had been refused under an older user agent."
+   },
+   "ai_tdm": {
+    "to": "permitted",
+    "reason": "Content is licensed CC BY-SA (Wikidata: CC0); reuse permitted with attribution where required."
+   },
+   "bot_check": {
+    "to": false,
+    "reason": "Article and policy pages answer an honest user agent with contact details (checked 2026-10-23)."
+   }
+  },
+  "wikidata.org": {
+   "automated_access": {
+    "to": "restricted",
+    "reason": "Wikimedia Terms of Use (https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use): API users must follow the User-Agent Policy, Robot Policy and API:Etiquette; content is CC BY-SA. Read by hand on 2026-10-23; the automated fetch had been refused under an older user agent."
+   },
+   "ai_tdm": {
+    "to": "permitted",
+    "reason": "Content is licensed CC BY-SA (Wikidata: CC0); reuse permitted with attribution where required."
+   },
+   "bot_check": {
+    "to": false,
+    "reason": "Article and policy pages answer an honest user agent with contact details (checked 2026-10-23)."
+   }
   }
  }
 }

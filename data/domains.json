@@ -1,5 +1,5 @@
 {
- "n_domains": 4463,
+ "n_domains": 4578,
  "domains": [
   {
    "domain": "proquest.com",
@@ -1902,23 +1902,6 @@
    ]
   },
   {
-   "domain": "govt.nz",
-   "entries": 58,
-   "max_libraries": 6,
-   "library_mentions": 72,
-   "titles": [
-    "Papers Past",
-    "Dictionary of New Zealand Biography",
-    "findNZarticles",
-    "Infoshare",
-    "Iwidex",
-    "Te Puna Search",
-    "A - Z list of datasets",
-    "Aotearoa Data Explorer"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "cnki.net",
    "entries": 35,
    "max_libraries": 11,
@@ -3247,26 +3230,6 @@
    ]
   },
   {
-   "domain": "org.il",
-   "entries": 15,
-   "max_libraries": 8,
-   "library_mentions": 40,
-   "titles": [
-    "RAMBI - Index of Articles on Jewish Studies",
-    "Historical Jewish Press",
-    "RAMBI - The Index of Articles on Jewish Studies",
-    "RAMBI",
-    "Digital Dead Sea Scrolls",
-    "Ma'agarim: the Hebrew Language Historical Dictionary Project",
-    "Bibliography of the Hebrew Book 1470-1960",
-    "Digital Dead Sea Scrolls project, The"
-   ],
-   "vendors": [
-    "Tel-Aviv University",
-    "National Library of Israel"
-   ]
-  },
-  {
    "domain": "uptodate.com",
    "entries": 5,
    "max_libraries": 36,
@@ -4394,6 +4357,25 @@
    ]
   },
   {
+   "domain": "nli.org.il",
+   "entries": 7,
+   "max_libraries": 8,
+   "library_mentions": 30,
+   "titles": [
+    "RAMBI - Index of Articles on Jewish Studies",
+    "Historical Jewish Press",
+    "RAMBI - The Index of Articles on Jewish Studies",
+    "RAMBI",
+    "Bibliography of the Hebrew Book 1470-1960",
+    "RAMBI: Index of Articles in Jewish Studies",
+    "RAMBI: Index To Articles On Jewish Studies"
+   ],
+   "vendors": [
+    "Tel-Aviv University",
+    "National Library of Israel"
+   ]
+  },
+  {
    "domain": "northeastern.edu",
    "entries": 7,
    "max_libraries": 24,
@@ -5156,23 +5138,6 @@
    ]
   },
   {
-   "domain": "go.jp",
-   "entries": 15,
-   "max_libraries": 8,
-   "library_mentions": 24,
-   "titles": [
-    "J-STAGE",
-    "Spectral database for organic compounds : SDBS.",
-    "Web Archiving Project",
-    "Daily Debate Archive: Japanese Imperial Diet 1946-1948 (Teikoku gikai kaigiroku kensaku system)",
-    "Daily Debate Archive: Japanese National Diet 1948- (Kokkai kaigiroku kensaku system)",
-    "Diplomatic Blue Book",
-    "e-Museum Japan",
-    "Index to Laws and Regulations in early Meiji Japan (日本法令索引-明治前期編)"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "learningonscreen.ac.uk",
    "entries": 9,
    "max_libraries": 7,
@@ -5186,6 +5151,23 @@
     "Best LGBTQ+ films of all time",
     "BoB",
     "Box of Broadcasts (BoB National)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "natlib.govt.nz",
+   "entries": 16,
+   "max_libraries": 6,
+   "library_mentions": 24,
+   "titles": [
+    "Papers Past",
+    "findNZarticles",
+    "Te Puna Search",
+    "AtoJs Online",
+    "Index New Zealand (INNZ)",
+    "National Library of New Zealand Images Collection",
+    "National Library of New Zealand Search Collections",
+    "New Zealand Electronic Text Collection (NZETC)"
    ],
    "vendors": []
   },
@@ -6230,23 +6212,6 @@
    "vendors": []
   },
   {
-   "domain": "org.nz",
-   "entries": 15,
-   "max_libraries": 3,
-   "library_mentions": 19,
-   "titles": [
-    "eTV",
-    "NZCER Journals Online",
-    "B-QuiCK (BPAC Quick Clinical Knowledge)",
-    "Health & Disability Commissioner",
-    "Health Practitioners Disciplinary Tribunal Decisions",
-    "LAGANZ : Lesbian and Gay Archives of New Zealand.",
-    "New Zealand Formulary for Children (NZFC)",
-    "New Zealand Universal List of Medicines (NZULM)"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "politicopro.com",
    "entries": 7,
    "max_libraries": 3,
@@ -6737,23 +6702,6 @@
    "vendors": [
     "Law Library Microform Consortium"
    ]
-  },
-  {
-   "domain": "net.au",
-   "entries": 10,
-   "max_libraries": 6,
-   "library_mentions": 17,
-   "titles": [
-    "Australian Medicines Handbook",
-    "Source",
-    "AMH Aged Care Companion",
-    "ATNS: Agreements, treaties and negotiated settlements project",
-    "Australian Medicines Handbook Aged Care Drug Choice Companion",
-    "Australian Medicines Handbook Children's Dosing Companion",
-    "Classic Australia",
-    "HuNI"
-   ],
-   "vendors": []
   },
   {
    "domain": "ntis.gov",
@@ -7538,23 +7486,6 @@
    ]
   },
   {
-   "domain": "com.gh",
-   "entries": 14,
-   "max_libraries": 1,
-   "library_mentions": 14,
-   "titles": [
-    "A Grain of Wheat",
-    "A Handbook of Methodologies of African Studies",
-    "African Short Stories",
-    "Chaka",
-    "Ghana Commercial Bank Limited",
-    "Ghana Stock Exchange",
-    "Institute of African Studies University of Ghana, Legon",
-    "Merchart Bank Ghana"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "conference-board.org",
    "entries": 7,
    "max_libraries": 5,
@@ -7651,23 +7582,6 @@
     "BMI",
     "Fitch Connect",
     "Fitch Ratings PRO"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.tr",
-   "entries": 12,
-   "max_libraries": 2,
-   "library_mentions": 14,
-   "titles": [
-    "TR Dizin",
-    "YÖK Tez Merkezi",
-    "Aperta",
-    "Cumhurbaşkanlığı Mevzuat Bilgi Sistemi",
-    "Devlet Arşivleri",
-    "Dijital Verimlilik Kütüphanesi",
-    "HARMAN",
-    "Resmi Gazete"
    ],
    "vendors": []
   },
@@ -8560,23 +8474,6 @@
    "vendors": []
   },
   {
-   "domain": "edu.co",
-   "entries": 12,
-   "max_libraries": 1,
-   "library_mentions": 12,
-   "titles": [
-    "American Journal of Epidemiology Este enlace se abre en una nueva ventana",
-    "Aquichan Este enlace se abre en una nueva ventana",
-    "Díkaion Este enlace se abre en una nueva ventana",
-    "Educación y Educadores Este enlace se abre en una nueva ventana",
-    "Intellectum Este enlace se abre en una nueva ventana",
-    "Journal of Aesthetics and Art Criticism Este enlace se abre en una nueva ventana",
-    "Overdrive Este enlace se abre en una nueva ventana",
-    "Overdrive -Revistas Zinio Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "epa.gov",
    "entries": 10,
    "max_libraries": 2,
@@ -8852,6 +8749,23 @@
    "vendors": [
     "Free Resources"
    ]
+  },
+  {
+   "domain": "unisabana.edu.co",
+   "entries": 12,
+   "max_libraries": 1,
+   "library_mentions": 12,
+   "titles": [
+    "American Journal of Epidemiology Este enlace se abre en una nueva ventana",
+    "Aquichan Este enlace se abre en una nueva ventana",
+    "Díkaion Este enlace se abre en una nueva ventana",
+    "Educación y Educadores Este enlace se abre en una nueva ventana",
+    "Intellectum Este enlace se abre en una nueva ventana",
+    "Journal of Aesthetics and Art Criticism Este enlace se abre en una nueva ventana",
+    "Overdrive Este enlace se abre en una nueva ventana",
+    "Overdrive -Revistas Zinio Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
   },
   {
    "domain": "wenzibase.com",
@@ -9219,18 +9133,6 @@
    ]
   },
   {
-   "domain": "org.br",
-   "entries": 3,
-   "max_libraries": 9,
-   "library_mentions": 11,
-   "titles": [
-    "Bioline International",
-    "BIOLINE INTERNATIONAL (STA)",
-    "Memórias da ditadura"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "oriprobe.com",
    "entries": 9,
    "max_libraries": 2,
@@ -9400,23 +9302,6 @@
    "vendors": []
   },
   {
-   "domain": "ac.il",
-   "entries": 9,
-   "max_libraries": 2,
-   "library_mentions": 10,
-   "titles": [
-    "Kotar",
-    "Ben Gurion Archive, The",
-    "HUfind",
-    "Jewish History Resource Center (Dinur Center for Research in Jewish History)",
-    "Mass Jewish Migration Database (University of Haifa)",
-    "Online treasury of Talmudic manuscripts",
-    "Orion Center for the Study of the Dead Sea Scrolls",
-    "Prayer in Rabbinic Literature Database"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "africabib.org",
    "entries": 2,
    "max_libraries": 6,
@@ -9474,6 +9359,17 @@
     "BBC Programme Index",
     "Global News BBC",
     "World music archive"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "bioline.org.br",
+   "entries": 2,
+   "max_libraries": 9,
+   "library_mentions": 10,
+   "titles": [
+    "Bioline International",
+    "BIOLINE INTERNATIONAL (STA)"
    ],
    "vendors": []
   },
@@ -9634,16 +9530,14 @@
    "vendors": []
   },
   {
-   "domain": "gov.sg",
-   "entries": 5,
-   "max_libraries": 4,
+   "domain": "jst.go.jp",
+   "entries": 3,
+   "max_libraries": 8,
    "library_mentions": 10,
    "titles": [
-    "NewspaperSG",
-    "REALIS",
-    "Singapore Statutes Online",
-    "NewspaperSG: National Library of Singapore",
-    "SingStat Table Builder"
+    "J-STAGE",
+    "J-STAGE (Free Journals)",
+    "JSTAGE (Japan Science and Information Technology Aggregator, Electronic)"
    ],
    "vendors": []
   },
@@ -9976,6 +9870,19 @@
    "vendors": []
   },
   {
+   "domain": "amh.net.au",
+   "entries": 4,
+   "max_libraries": 6,
+   "library_mentions": 9,
+   "titles": [
+    "Australian Medicines Handbook",
+    "AMH Aged Care Companion",
+    "Australian Medicines Handbook Aged Care Drug Choice Companion",
+    "Australian Medicines Handbook Children's Dosing Companion"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "bccampus.ca",
    "entries": 7,
    "max_libraries": 2,
@@ -10052,21 +9959,6 @@
     "Candid",
     "Candid (formerly the Foundation Center) Resources",
     "GuideStar"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "co.il",
-   "entries": 6,
-   "max_libraries": 3,
-   "library_mentions": 9,
-   "titles": [
-    "Responsa Project",
-    "Online responsa project",
-    "Global Jewish Database (The Bar Ilan Responsa)",
-    "Index to Yiddish Periodicals (IYP)",
-    "Responsa Project (Global Jewish Database)",
-    "Talmudic Encyclopedia (Responsa Project)"
    ],
    "vendors": []
   },
@@ -10223,19 +10115,19 @@
    ]
   },
   {
-   "domain": "gob.pe",
-   "entries": 8,
-   "max_libraries": 2,
+   "domain": "google.com.gh",
+   "entries": 9,
+   "max_libraries": 1,
    "library_mentions": 9,
    "titles": [
-    "Biblioteca Pública Digital Este enlace se abre en una nueva ventana",
-    "ALICIA: Acceso libre a investigación científica para la investigación Este enlace se abre en una nueva ventana",
-    "Archivo Digital de la Legislación en el Perú",
-    "Instituto Nacional de Estadística e Informática - INEI Este enlace se abre en una nueva ventana",
-    "Jurisprudencia Nacional Sistematizada Este enlace se abre en una nueva ventana",
-    "Perú. Compendio Estadístico 2025 Este enlace se abre en una nueva ventana",
-    "Plataforma Nacional de Datos Abiertos Este enlace se abre en una nueva ventana",
-    "Repositorio Institucional MIDAGRI Este enlace se abre en una nueva ventana"
+    "A Grain of Wheat",
+    "A Handbook of Methodologies of African Studies",
+    "African Short Stories",
+    "Chaka",
+    "Institute of African Studies University of Ghana, Legon",
+    "West African Studies",
+    "West African Studies Conflict over Resources and Terrorism Two Facets of ..",
+    "West African Studies Settlement, Market and Food Security"
    ],
    "vendors": []
   },
@@ -11232,6 +11124,20 @@
    "vendors": []
   },
   {
+   "domain": "responsa.co.il",
+   "entries": 5,
+   "max_libraries": 3,
+   "library_mentions": 8,
+   "titles": [
+    "Responsa Project",
+    "Online responsa project",
+    "Global Jewish Database (The Bar Ilan Responsa)",
+    "Responsa Project (Global Jewish Database)",
+    "Talmudic Encyclopedia (Responsa Project)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "sams-sigma.com",
    "entries": 8,
    "max_libraries": 1,
@@ -11617,38 +11523,6 @@
    "vendors": []
   },
   {
-   "domain": "go.kr",
-   "entries": 7,
-   "max_libraries": 1,
-   "library_mentions": 7,
-   "titles": [
-    "Annals of the Choson Dynasty, The",
-    "Digital Archive of Performing Arts (공연예술 아카이브)",
-    "KCI (한국학술지인용색인)",
-    "Korea Citation Index (KCI) portal",
-    "Korea Open Access Journals",
-    "National Digital Library of Korea, The",
-    "National Library of Korea Digital Archive"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.hk",
-   "entries": 7,
-   "max_libraries": 1,
-   "library_mentions": 7,
-   "titles": [
-    "Combined DoJ Glossaries of Legal Terms",
-    "Data.gov.hk 資料一線通",
-    "DSD Standard Drawings",
-    "Historic Hong Kong Newspapers, Hong Kong Libraries",
-    "Hong Kong e-Legislation (HKeL)",
-    "Hong Kong Government Gazette",
-    "Old HK Newspapers"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "hindawi.com",
    "entries": 5,
    "max_libraries": 3,
@@ -11889,6 +11763,21 @@
    ]
   },
   {
+   "domain": "ndl.go.jp",
+   "entries": 6,
+   "max_libraries": 2,
+   "library_mentions": 7,
+   "titles": [
+    "Web Archiving Project",
+    "Daily Debate Archive: Japanese Imperial Diet 1946-1948 (Teikoku gikai kaigiroku kensaku system)",
+    "Daily Debate Archive: Japanese National Diet 1948- (Kokkai kaigiroku kensaku system)",
+    "Index to Laws and Regulations in early Meiji Japan (日本法令索引-明治前期編)",
+    "Index to the Japanese Laws and Regulations (日本法令索引)",
+    "NDL (National Diet Library) Search"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nikkei.co.jp",
    "entries": 4,
    "max_libraries": 3,
@@ -12109,6 +11998,20 @@
     "Institutional Repository of the Ibero-Amerikanisches Institut (Berlin)",
     "LawInfoChina (CrossAsia) (Chinese)",
     "LawInfoChina (CrossAsia) (English)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "stats.govt.nz",
+   "entries": 5,
+   "max_libraries": 3,
+   "library_mentions": 7,
+   "titles": [
+    "Infoshare",
+    "A - Z list of datasets",
+    "Aotearoa Data Explorer",
+    "Statistics for universities",
+    "Stats NZ Tatauranga Aotearoa"
    ],
    "vendors": []
   },
@@ -13963,34 +13866,6 @@
    "vendors": []
   },
   {
-   "domain": "gob.es",
-   "entries": 5,
-   "max_libraries": 1,
-   "library_mentions": 5,
-   "titles": [
-    "Base de datos de tesis doctorales (TESEO)",
-    "Catalogo del Cine Espanol",
-    "Portal de Archivos Españoles (PARES)",
-    "Teseo Este enlace se abre en una nueva ventana",
-    "TESEO Sistema de Gestión de Tesis Doctorales Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.gh",
-   "entries": 5,
-   "max_libraries": 1,
-   "library_mentions": 5,
-   "titles": [
-    "Bank of Ghana",
-    "Ghana Statistical Service",
-    "Ministry of Enironment, Science, Technology and Innovations",
-    "Ministry of Environment, Science, Technology and Innovations",
-    "Ministry of Local Government"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "gu.se",
    "entries": 5,
    "max_libraries": 1,
@@ -14018,12 +13893,39 @@
    "vendors": []
   },
   {
+   "domain": "hebrew-academy.org.il",
+   "entries": 4,
+   "max_libraries": 2,
+   "library_mentions": 5,
+   "titles": [
+    "Ma'agarim: the Hebrew Language Historical Dictionary Project",
+    "Ma'agarim",
+    "Ma'agarim: Database of the Historical Dictionary of the Hebrew Language",
+    "Ma'agarim Historical Dictionary Project"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "highwirepress.com",
    "entries": 1,
    "max_libraries": 5,
    "library_mentions": 5,
    "titles": [
     "HighWire Press"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "huji.ac.il",
+   "entries": 5,
+   "max_libraries": 1,
+   "library_mentions": 5,
+   "titles": [
+    "HUfind",
+    "Jewish History Resource Center (Dinur Center for Research in Jewish History)",
+    "Online treasury of Talmudic manuscripts",
+    "Orion Center for the Study of the Dead Sea Scrolls",
+    "Vidal Sassoon International Center for the Study of Antisemitism"
    ],
    "vendors": []
   },
@@ -14354,6 +14256,17 @@
    "vendors": []
   },
   {
+   "domain": "nlb.gov.sg",
+   "entries": 2,
+   "max_libraries": 4,
+   "library_mentions": 5,
+   "titles": [
+    "NewspaperSG",
+    "NewspaperSG: National Library of Singapore"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "numdam.org",
    "entries": 2,
    "max_libraries": 3,
@@ -14636,6 +14549,18 @@
    "vendors": []
   },
   {
+   "domain": "teara.govt.nz",
+   "entries": 3,
+   "max_libraries": 3,
+   "library_mentions": 5,
+   "titles": [
+    "Dictionary of New Zealand Biography",
+    "Te Ara - Encyclopedia of New Zealand",
+    "Te Ara : the encyclopedia of New Zealand."
+   ],
+   "vendors": []
+  },
+  {
    "domain": "thomasnet.com",
    "entries": 1,
    "max_libraries": 5,
@@ -14903,6 +14828,19 @@
    "vendors": []
   },
   {
+   "domain": "archives.govt.nz",
+   "entries": 4,
+   "max_libraries": 1,
+   "library_mentions": 4,
+   "titles": [
+    "Archives New Zealand Collections",
+    "Blue Books: statistical information 1840-1855",
+    "Community archives",
+    "Directory of Community Archives (Archives New Zealand)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "archivesportaleurope.net",
    "entries": 2,
    "max_libraries": 3,
@@ -14931,6 +14869,17 @@
    "library_mentions": 4,
    "titles": [
     "ASTM Standards"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "aucklandlibraries.govt.nz",
+   "entries": 2,
+   "max_libraries": 3,
+   "library_mentions": 4,
+   "titles": [
+    "Iwidex",
+    "Heritage Images Online"
    ],
    "vendors": []
   },
@@ -15217,6 +15166,18 @@
    "vendors": []
   },
   {
+   "domain": "clacso.edu.ar",
+   "entries": 3,
+   "max_libraries": 2,
+   "library_mentions": 4,
+   "titles": [
+    "CLACSO",
+    "CLACSO - Red de Bibliotecas Virtuales de Ciencias Sociales de America Latina y el Caribe",
+    "Repositorio Digital de CLACSO Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "clinmicronow.org",
    "entries": 1,
    "max_libraries": 4,
@@ -15236,17 +15197,6 @@
     "Institut de recherche et d'histoire des textes (IRHT)",
     "Jean-Baptiste Lamarck (1744-1829): works and heritage",
     "Karnak Activity Reports"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "com.ar",
-   "entries": 2,
-   "max_libraries": 3,
-   "library_mentions": 4,
-   "titles": [
-    "Archivo Histórico de Revistas Argentinas",
-    "Archivo Histórico de Radio y Televisión Argentina"
    ],
    "vendors": []
   },
@@ -15559,18 +15509,6 @@
    "vendors": []
   },
   {
-   "domain": "edu.ar",
-   "entries": 3,
-   "max_libraries": 2,
-   "library_mentions": 4,
-   "titles": [
-    "CLACSO",
-    "CLACSO - Red de Bibliotecas Virtuales de Ciencias Sociales de America Latina y el Caribe",
-    "Repositorio Digital de CLACSO Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "educause.edu",
    "entries": 2,
    "max_libraries": 3,
@@ -15845,19 +15783,6 @@
    "titles": [
     "Institute of Mathematics Polish Academy of Sciences",
     "Institute of Mathematics (Polish Academy of Sciences) Publications"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.za",
-   "entries": 4,
-   "max_libraries": 1,
-   "library_mentions": 4,
-   "titles": [
-    "Deparment of Water Affairs",
-    "South African Acts Online",
-    "South African Government website (www.gov.za)",
-    "Statistics South Africa"
    ],
    "vendors": []
   },
@@ -16146,6 +16071,19 @@
    "library_mentions": 4,
    "titles": [
     "JURN"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "justice.govt.nz",
+   "entries": 4,
+   "max_libraries": 1,
+   "library_mentions": 4,
+   "titles": [
+    "Directory of Official Information",
+    "Family Justice",
+    "Judicial Decisions Online (Ministry of Justice)",
+    "New Zealand Courts"
    ],
    "vendors": []
   },
@@ -16567,19 +16505,6 @@
     "Centro de Recursos para el Análisis de Conflictos (CERAC)",
     "Observatorio de la Región Bogotá - Cundinamarca Este enlace se abre en una nueva ventana",
     "Open Data Bogotá Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.tr",
-   "entries": 4,
-   "max_libraries": 1,
-   "library_mentions": 4,
-   "titles": [
-    "DergiPark",
-    "DergiPark (ULAKBİM)",
-    "KAP (Kamuyu Aydınlatma Platformu)",
-    "TDV İslam Ansiklopedisi"
    ],
    "vendors": []
   },
@@ -17397,6 +17322,16 @@
    "vendors": []
   },
   {
+   "domain": "ahira.com.ar",
+   "entries": 1,
+   "max_libraries": 3,
+   "library_mentions": 3,
+   "titles": [
+    "Archivo Histórico de Revistas Argentinas"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "ahrq.gov",
    "entries": 2,
    "max_libraries": 2,
@@ -18179,6 +18114,18 @@
    "vendors": []
   },
   {
+   "domain": "educacion.gob.es",
+   "entries": 3,
+   "max_libraries": 1,
+   "library_mentions": 3,
+   "titles": [
+    "Base de datos de tesis doctorales (TESEO)",
+    "Teseo Este enlace se abre en una nueva ventana",
+    "TESEO Sistema de Gestión de Tesis Doctorales Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "eg.org",
    "entries": 1,
    "max_libraries": 3,
@@ -18260,6 +18207,16 @@
     "ESDU Data",
     "ESDU (Engineering Science Data Unit)",
     "ESDU Validated Engineering Data"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "etv.org.nz",
+   "entries": 1,
+   "max_libraries": 3,
+   "library_mentions": 3,
+   "titles": [
+    "eTV"
    ],
    "vendors": []
   },
@@ -18389,6 +18346,18 @@
    "vendors": []
   },
   {
+   "domain": "ghana.gov.gh",
+   "entries": 3,
+   "max_libraries": 1,
+   "library_mentions": 3,
+   "titles": [
+    "Ministry of Enironment, Science, Technology and Innovations",
+    "Ministry of Environment, Science, Technology and Innovations",
+    "Ministry of Local Government"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "gideononline.com",
    "entries": 1,
    "max_libraries": 3,
@@ -18417,18 +18386,6 @@
    "titles": [
     "Global library of women's medicine",
     "Global Library of Women's Medicine, The"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gob.ar",
-   "entries": 3,
-   "max_libraries": 1,
-   "library_mentions": 3,
-   "titles": [
-    "ANIDA - Atlas Nacional Interactivo de Argentina",
-    "Bafilma: Buenos Aires Audiovisual Archive",
-    "Bienes Culturales, Argentina"
    ],
    "vendors": []
   },
@@ -18695,6 +18652,17 @@
    "vendors": []
   },
   {
+   "domain": "imj.org.il",
+   "entries": 2,
+   "max_libraries": 2,
+   "library_mentions": 3,
+   "titles": [
+    "Digital Dead Sea Scrolls",
+    "Digital Dead Sea Scrolls project, The"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "inahta.org",
    "entries": 2,
    "max_libraries": 2,
@@ -18870,6 +18838,18 @@
     "Gender Diversity and Sexuality Collection",
     "Inclusive Teaching and Learning Collection",
     "Mental Health and Counselling Collection"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "kci.go.kr",
+   "entries": 3,
+   "max_libraries": 1,
+   "library_mentions": 3,
+   "titles": [
+    "KCI (한국학술지인용색인)",
+    "Korea Citation Index (KCI) portal",
+    "Korea Open Access Journals"
    ],
    "vendors": []
   },
@@ -19076,6 +19056,16 @@
     "British Library of Political and Economic Science Catalogue, London School of Economics",
     "Charles Booth's London",
     "Charles Booth’s London: Poverty maps and police notebooks"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "magpies.net.au",
+   "entries": 1,
+   "max_libraries": 3,
+   "library_mentions": 3,
+   "titles": [
+    "Source"
    ],
    "vendors": []
   },
@@ -19299,6 +19289,16 @@
    "vendors": []
   },
   {
+   "domain": "nzcer.org.nz",
+   "entries": 1,
+   "max_libraries": 3,
+   "library_mentions": 3,
+   "titles": [
+    "NZCER Journals Online"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nzetc.org",
    "entries": 1,
    "max_libraries": 3,
@@ -19383,30 +19383,6 @@
    "titles": [
     "ORCID",
     "Orcid Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.hk",
-   "entries": 3,
-   "max_libraries": 1,
-   "library_mentions": 3,
-   "titles": [
-    "Asia Art Archive",
-    "Law List",
-    "M+ Stories"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.za",
-   "entries": 3,
-   "max_libraries": 1,
-   "library_mentions": 3,
-   "titles": [
-    "Constitutional Court of South Africa",
-    "LawLibrary South Africa",
-    "SAIRR (OpenAthens)"
    ],
    "vendors": []
   },
@@ -19696,6 +19672,18 @@
    "library_mentions": 3,
    "titles": [
     "Rousseau Online"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "royalsociety.org.nz",
+   "entries": 3,
+   "max_libraries": 1,
+   "library_mentions": 3,
+   "titles": [
+    "Royal Society of New Zealand",
+    "Royal Society of New Zealand Te Apārangi",
+    "Te Takarangi: Celebrating Māori publications"
    ],
    "vendors": []
   },
@@ -20471,6 +20459,16 @@
    "vendors": []
   },
   {
+   "domain": "agc.gov.sg",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "Singapore Statutes Online"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "aginternetwork.org",
    "entries": 1,
    "max_libraries": 2,
@@ -20570,6 +20568,16 @@
    "library_mentions": 2,
    "titles": [
     "ACI學術引用文獻資料庫"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "aist.go.jp",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "Spectral database for organic compounds : SDBS."
    ],
    "vendors": []
   },
@@ -21110,6 +21118,17 @@
    ]
   },
   {
+   "domain": "bgu.ac.il",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Ben Gurion Archive, The",
+    "Prayer in Rabbinic Literature Database"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "bibleodyssey.org",
    "entries": 1,
    "max_libraries": 2,
@@ -21244,6 +21263,16 @@
    "library_mentions": 2,
    "titles": [
     "ARCA : Arxiu de Revistes Catalanes Antigues"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "bnp.gob.pe",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "Biblioteca Pública Digital Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -21461,6 +21490,16 @@
    "vendors": [
     "American Ceramic Society"
    ]
+  },
+  {
+   "domain": "cet.ac.il",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "Kotar"
+   ],
+   "vendors": []
   },
   {
    "domain": "chaoxing.com",
@@ -21756,6 +21795,17 @@
    "vendors": []
   },
   {
+   "domain": "courtsofnz.govt.nz",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Judicial Decisions of Public Interest (Courts of New Zealand)",
+    "Supreme Court (Courts of New Zealand)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "covid-evidence.org",
    "entries": 1,
    "max_libraries": 2,
@@ -21899,6 +21949,17 @@
    "library_mentions": 2,
    "titles": [
     "Dental Trauma Guide"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dergipark.org.tr",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "DergiPark",
+    "DergiPark (ULAKBİM)"
    ],
    "vendors": []
   },
@@ -22131,17 +22192,6 @@
    "library_mentions": 2,
    "titles": [
     "American Society for Engineering Education Publications"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "edu.pe",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "Archivo Fotográfico TAFOS/PUCP",
-    "Sistema de Bibliotecas de la UNMSM"
    ],
    "vendors": []
   },
@@ -22821,39 +22871,6 @@
    "vendors": []
   },
   {
-   "domain": "gov.ae",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "Dubai Statistics Center",
-    "UAE Federal Competitiveness and Statistics Authority"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.co",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "CVLAC Este enlace se abre en una nueva ventana",
-    "Dirección Nacional de Derechos de Autor Colombia Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.my",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "eResources@Perpustakaan Negara Malaysia (PNM)",
-    "Palmoilis (Palm Oil Information Online Service)"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "gov.pt",
    "entries": 2,
    "max_libraries": 1,
@@ -22861,17 +22878,6 @@
    "titles": [
     "Biblioteca Nacional de Portugal",
     "Biblioteca Nacional Digital"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "gov.tw",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "Academia Historica",
-    "中華民國外交部保存之前清及民國時期條約協定檢索系統 = Chi'ng dynasty and ROC treaties and agreements preserved by the Ministry of Foreign Affairs of the Republic of China (Taiwan)"
    ],
    "vendors": []
   },
@@ -23053,6 +23059,17 @@
    "library_mentions": 2,
    "titles": [
     "HKLII (Hong Kong Legal Information Institute)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "hkpl.gov.hk",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Historic Hong Kong Newspapers, Hong Kong Libraries",
+    "Old HK Newspapers"
    ],
    "vendors": []
   },
@@ -23797,6 +23814,17 @@
    "vendors": []
   },
   {
+   "domain": "koreascience.or.kr",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "KOREA SCIENCE",
+    "KoreaScience"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "kuva.fi",
    "entries": 2,
    "max_libraries": 1,
@@ -23952,6 +23980,17 @@
    "library_mentions": 2,
    "titles": [
     "LegalBank"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "legislation.govt.nz",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Legislation.govt.nz",
+    "New Zealand Legislation"
    ],
    "vendors": []
   },
@@ -24223,6 +24262,17 @@
    "library_mentions": 2,
    "titles": [
     "Malaysiakini"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "maorilandcourt.govt.nz",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Maori Land Court",
+    "Maori Land Online | Pātaka Whenua"
    ],
    "vendors": []
   },
@@ -25037,17 +25087,6 @@
    "vendors": []
   },
   {
-   "domain": "or.kr",
-   "entries": 2,
-   "max_libraries": 1,
-   "library_mentions": 2,
-   "titles": [
-    "KOREA SCIENCE",
-    "KoreaScience"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "org.ar",
    "entries": 2,
    "max_libraries": 1,
@@ -25566,6 +25605,17 @@
    "vendors": [
     "Free Resources"
    ]
+  },
+  {
+   "domain": "resmigazete.gov.tr",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Resmi Gazete",
+    "T.C. Resmi Gazete"
+   ],
+   "vendors": []
   },
   {
    "domain": "rhizome.org",
@@ -26198,6 +26248,17 @@
    "vendors": []
   },
   {
+   "domain": "tepapa.govt.nz",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Museum of New Zealand ♥",
+    "Te Papa Collections Online"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "tesisenred.net",
    "entries": 2,
    "max_libraries": 1,
@@ -26352,6 +26413,16 @@
    "library_mentions": 2,
    "titles": [
     "Transplant Library"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "trdizin.gov.tr",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "TR Dizin"
    ],
    "vendors": []
   },
@@ -26539,6 +26610,17 @@
    "vendors": []
   },
   {
+   "domain": "ulakbim.gov.tr",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Aperta",
+    "HARMAN"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "ulaval.ca",
    "entries": 2,
    "max_libraries": 1,
@@ -26637,6 +26719,17 @@
    "vendors": []
   },
   {
+   "domain": "unmsm.edu.pe",
+   "entries": 2,
+   "max_libraries": 1,
+   "library_mentions": 2,
+   "titles": [
+    "Repositorio UNMSM Este enlace se abre en una nueva ventana",
+    "Sistema de Bibliotecas de la UNMSM"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "unr.edu",
    "entries": 1,
    "max_libraries": 2,
@@ -26676,6 +26769,16 @@
    "titles": [
     "Elektronische Zeitschriftenbibliothek - Frei zugngliche E-Journals",
     "Oesterreichische Nationalbibliothek"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "ura.gov.sg",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "REALIS"
    ],
    "vendors": []
   },
@@ -27030,6 +27133,16 @@
    "vendors": []
   },
   {
+   "domain": "yok.gov.tr",
+   "entries": 1,
+   "max_libraries": 2,
+   "library_mentions": 2,
+   "titles": [
+    "YÖK Tez Merkezi"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "zenodo.org",
    "entries": 2,
    "max_libraries": 1,
@@ -27141,6 +27254,16 @@
    "vendors": []
   },
   {
+   "domain": "aaa.org.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Asia Art Archive"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "aaajournals.org",
    "entries": 1,
    "max_libraries": 1,
@@ -27217,6 +27340,16 @@
    "library_mentions": 1,
    "titles": [
     "Music at the Abbey Theatre"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "abc.net.au",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Classic Australia"
    ],
    "vendors": []
   },
@@ -27557,6 +27690,16 @@
    "library_mentions": 1,
    "titles": [
     "The Aerospace Corporation"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "affrc.go.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "National Agriculture and Food Research Organization (Japan)"
    ],
    "vendors": []
   },
@@ -28223,6 +28366,16 @@
    "vendors": []
   },
   {
+   "domain": "anri.go.id",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "General Resolutions of Batavia Castle 1613-1810"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "anthrobase.com",
    "entries": 1,
    "max_libraries": 1,
@@ -28551,6 +28704,16 @@
    "library_mentions": 1,
    "titles": [
     "Archivo electronico Ricardo Flores Magon"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "archivorta.com.ar",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Archivo Histórico de Radio y Televisión Argentina"
    ],
    "vendors": []
   },
@@ -29177,6 +29340,16 @@
    "vendors": []
   },
   {
+   "domain": "atns.net.au",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "ATNS: Agreements, treaties and negotiated settlements project"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "atozmapsonline.com",
    "entries": 1,
    "max_libraries": 1,
@@ -29701,6 +29874,16 @@
    "vendors": []
   },
   {
+   "domain": "bibliotechnia.com.mx",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Bibliotechnia Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "bibliotek.dk",
    "entries": 1,
    "max_libraries": 1,
@@ -30053,6 +30236,16 @@
    "vendors": []
   },
   {
+   "domain": "bog.gov.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Bank of Ghana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "boijmans.nl",
    "entries": 1,
    "max_libraries": 1,
@@ -30199,6 +30392,16 @@
    "library_mentions": 1,
    "titles": [
     "British Philosophical Association, The"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "bpac.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "B-QuiCK (BPAC Quick Clinical Knowledge)"
    ],
    "vendors": []
   },
@@ -31037,6 +31240,16 @@
    "vendors": []
   },
   {
+   "domain": "central.com.ph",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "eSCRA (The Supreme Court Reports Annotated Online)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "ceolas.org",
    "entries": 1,
    "max_libraries": 1,
@@ -31183,6 +31396,16 @@
    "library_mentions": 1,
    "titles": [
     "Consultative Group on International Agricultural Research (CGIAR)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "cgie.org.ir",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Dāʼirat al-maʿārif-i buzurg-i Islāmī"
    ],
    "vendors": []
   },
@@ -31621,6 +31844,16 @@
    ]
   },
   {
+   "domain": "classificationoffice.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Te Mana Whakaatu - Classification Office"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "classificationweb.net",
    "entries": 1,
    "max_libraries": 1,
@@ -31873,22 +32106,12 @@
    "vendors": []
   },
   {
-   "domain": "com.mx",
+   "domain": "comcom.govt.nz",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
-    "Bibliotechnia Este enlace se abre en una nueva ventana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "com.ph",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "eSCRA (The Supreme Court Reports Annotated Online)"
+    "Commerce Commission of New Zealand"
    ],
    "vendors": []
   },
@@ -31963,12 +32186,32 @@
    "vendors": []
   },
   {
+   "domain": "concourt.org.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Constitutional Court of South Africa"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "concrete.org",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
     "AMERICAN CONCRETE INSTITUTE COLLECTION ONLINE (AMERICAN CONCRETE INSTITUTE) (STA)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "concytec.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "ALICIA: Acceso libre a investigación científica para la investigación Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -31989,6 +32232,16 @@
    "library_mentions": 1,
    "titles": [
     "Saint Patrick's Confessio"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "congreso.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Archivo Digital de la Legislación en el Perú"
    ],
    "vendors": []
   },
@@ -32383,6 +32636,26 @@
    "vendors": []
   },
   {
+   "domain": "cultura.gob.ar",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Bienes Culturales, Argentina"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "culturaydeporte.gob.es",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Portal de Archivos Españoles (PARES)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "culturecase.org",
    "entries": 1,
    "max_libraries": 1,
@@ -32573,6 +32846,16 @@
    "vendors": []
   },
   {
+   "domain": "data.gov.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Data.gov.hk 資料一線通"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "data.gov.uk",
    "entries": 1,
    "max_libraries": 1,
@@ -32633,6 +32916,16 @@
    "vendors": []
   },
   {
+   "domain": "datosabiertos.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Plataforma Nacional de Datos Abiertos Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "davidfaithfull.co.uk",
    "entries": 1,
    "max_libraries": 1,
@@ -32669,6 +32962,16 @@
    "library_mentions": 1,
    "titles": [
     "Data Documentation Initiative"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "deadseascrolls.org.il",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Leon Levy Dead Sea Scrolls Digital Library"
    ],
    "vendors": []
   },
@@ -32743,6 +33046,16 @@
    "vendors": []
   },
   {
+   "domain": "derechodeautor.gov.co",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Dirección Nacional de Derechos de Autor Colombia Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "dermatlas.net",
    "entries": 1,
    "max_libraries": 1,
@@ -32813,6 +33126,16 @@
    "vendors": []
   },
   {
+   "domain": "devletarsivleri.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Devlet Arşivleri"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "dewey.org",
    "entries": 1,
    "max_libraries": 1,
@@ -32859,6 +33182,16 @@
    "library_mentions": 1,
    "titles": [
     "Demographic and Health Surveys"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dia.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Birth, Death and Marriage Historical Records"
    ],
    "vendors": []
   },
@@ -33053,6 +33386,16 @@
    "vendors": []
   },
   {
+   "domain": "dlibrary.go.kr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "National Digital Library of Korea, The"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "dmu.ac.uk",
    "entries": 1,
    "max_libraries": 1,
@@ -33173,6 +33516,16 @@
    "vendors": []
   },
   {
+   "domain": "doj.gov.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Combined DoJ Glossaries of Legal Terms"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "donga.com",
    "entries": 1,
    "max_libraries": 1,
@@ -33253,6 +33606,16 @@
    "vendors": []
   },
   {
+   "domain": "drnh.gov.tw",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Academia Historica"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "drugsandalcohol.ie",
    "entries": 1,
    "max_libraries": 1,
@@ -33269,6 +33632,26 @@
    "library_mentions": 1,
    "titles": [
     "BELIT (bioethics literature database)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dsc.gov.ae",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Dubai Statistics Center"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dsd.gov.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "DSD Standard Drawings"
    ],
    "vendors": []
   },
@@ -33333,6 +33716,26 @@
    "vendors": []
   },
   {
+   "domain": "dunedin.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Dunedin City Council - Council Documents"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dunedinlibraries.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "McNab New Zealand Collection"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "dur.ac.uk",
    "entries": 1,
    "max_libraries": 1,
@@ -33349,6 +33752,16 @@
    "library_mentions": 1,
    "titles": [
     "Digitales Wörterbuch der deutschen Sprache"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "dws.gov.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Deparment of Water Affairs"
    ],
    "vendors": []
   },
@@ -33783,6 +34196,16 @@
    "vendors": []
   },
   {
+   "domain": "education.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Tāhūrangi"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "educational-audiologists.org.uk",
    "entries": 1,
    "max_libraries": 1,
@@ -34039,6 +34462,16 @@
    "library_mentions": 1,
    "titles": [
     "Electric book. Free collection"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "elegislation.gov.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Hong Kong e-Legislation (HKeL)"
    ],
    "vendors": []
   },
@@ -34349,6 +34782,16 @@
    "library_mentions": 1,
    "titles": [
     "Environment Portal (Australian Government)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "environment.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Ministry for the Environment Publications | Manatū Mō Te Taiao Ngā Pānuitanga"
    ],
    "vendors": []
   },
@@ -34933,6 +35376,16 @@
    "library_mentions": 1,
    "titles": [
     "FedBizOpps"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "fcsc.gov.ae",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "UAE Federal Competitiveness and Statistics Authority"
    ],
    "vendors": []
   },
@@ -35623,6 +36076,26 @@
    "vendors": []
   },
   {
+   "domain": "gazette.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "New Zealand Gazette"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "gba.gob.ar",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Bafilma: Buenos Aires Audiovisual Archive"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "gbif.se",
    "entries": 1,
    "max_libraries": 1,
@@ -35639,6 +36112,16 @@
    "library_mentions": 1,
    "titles": [
     "Online-catalogue of the Library of Institute for Theology and Peace"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "gcb.com.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Ghana Commercial Bank Limited"
    ],
    "vendors": []
   },
@@ -35953,6 +36436,16 @@
    "vendors": []
   },
   {
+   "domain": "gld.gov.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Hong Kong Government Gazette"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "globalcapital.com",
    "entries": 1,
    "max_libraries": 1,
@@ -36063,26 +36556,14 @@
    "vendors": []
   },
   {
-   "domain": "go.id",
+   "domain": "gob.pe",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
-    "General Resolutions of Batavia Castle 1613-1810"
+    "Perú. Compendio Estadístico 2025 Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
-  },
-  {
-   "domain": "gob.mx",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "North American Transportation Statistics"
-   ],
-   "vendors": [
-    "Free Resources"
-   ]
   },
   {
    "domain": "gogeo.ac.uk",
@@ -36185,12 +36666,32 @@
    "vendors": []
   },
   {
+   "domain": "gov.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "South African Government website (www.gov.za)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "government.nl",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
     "Treaty Dossier"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "New Zealand Government"
    ],
    "vendors": []
   },
@@ -36311,6 +36812,16 @@
    "library_mentions": 1,
    "titles": [
     "Special papers (Geological Society of America)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "gse.com.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Ghana Stock Exchange"
    ],
    "vendors": []
   },
@@ -36455,6 +36966,16 @@
    "vendors": []
   },
   {
+   "domain": "haifa.ac.il",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Mass Jewish Migration Database (University of Haifa)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "hal.science",
    "entries": 1,
    "max_libraries": 1,
@@ -36555,6 +37076,16 @@
    "vendors": [
     "Free Resources"
    ]
+  },
+  {
+   "domain": "hdc.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Health & Disability Commissioner"
+   ],
+   "vendors": []
   },
   {
    "domain": "healio.com",
@@ -36877,6 +37408,16 @@
    "vendors": []
   },
   {
+   "domain": "history.go.kr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Annals of the Choson Dynasty, The"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "history.org",
    "entries": 1,
    "max_libraries": 1,
@@ -36903,6 +37444,16 @@
    "library_mentions": 1,
    "titles": [
     "European Reference Index for the Humanities and Social Sciences (ERIH PLUS)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "hklawsoc.org.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Law List"
    ],
    "vendors": []
   },
@@ -37007,6 +37558,16 @@
    "vendors": []
   },
   {
+   "domain": "hpdt.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Health Practitioners Disciplinary Tribunal Decisions"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "hs-augsburg.de",
    "entries": 1,
    "max_libraries": 1,
@@ -37107,6 +37668,16 @@
    "vendors": [
     "Free Resources"
    ]
+  },
+  {
+   "domain": "huni.net.au",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "HuNI"
+   ],
+   "vendors": []
   },
   {
    "domain": "hwshu.com",
@@ -37551,6 +38122,16 @@
    "vendors": []
   },
   {
+   "domain": "ign.gob.ar",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "ANIDA - Atlas Nacional Interactivo de Argentina"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "igz.nl",
    "entries": 1,
    "max_libraries": 1,
@@ -37823,6 +38404,16 @@
    ]
   },
   {
+   "domain": "inei.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Instituto Nacional de Estadística e Informática - INEI Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "infobank.cn",
    "entries": 1,
    "max_libraries": 1,
@@ -37969,6 +38560,16 @@
    "library_mentions": 1,
    "titles": [
     "InPhO: The Indiana Philosophy Ontology Project"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "inpit.go.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "J-piat-pat Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -38213,6 +38814,16 @@
    "vendors": []
   },
   {
+   "domain": "iponz.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Intellectual Property Office of New Zealand"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "iprhelpdesk.eu",
    "entries": 1,
    "max_libraries": 1,
@@ -38333,6 +38944,16 @@
    "vendors": []
   },
   {
+   "domain": "irr.org.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "SAIRR (OpenAthens)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "isaric.org",
    "entries": 1,
    "max_libraries": 1,
@@ -38369,6 +38990,16 @@
    "library_mentions": 1,
    "titles": [
     "TDV Turkish Encyclopedia of Islam"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "islamansiklopedisi.org.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "TDV İslam Ansiklopedisi"
    ],
    "vendors": []
   },
@@ -38805,6 +39436,16 @@
    "vendors": []
   },
   {
+   "domain": "jpo.go.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Japanese Patent Office"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "jrheum.org",
    "entries": 1,
    "max_libraries": 1,
@@ -38951,6 +39592,16 @@
    "library_mentions": 1,
    "titles": [
     "Kā Huru"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "kap.org.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "KAP (Kamuyu Aydınlatma Platformu)"
    ],
    "vendors": []
   },
@@ -39365,6 +40016,16 @@
    "vendors": []
   },
   {
+   "domain": "laganz.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "LAGANZ : Lesbian and Gay Archives of New Zealand."
+   ],
+   "vendors": []
+  },
+  {
    "domain": "lagrummet.se",
    "entries": 1,
    "max_libraries": 1,
@@ -39505,12 +40166,42 @@
    "vendors": []
   },
   {
+   "domain": "lawcom.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Law Commission (New Zealand)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "lawcompanion.net",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
     "Electronic Law Companion"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "lawfoundation.net.au",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Law and Justice Foundation of NSW"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "lawlibrary.org.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "LawLibrary South Africa"
    ],
    "vendors": []
   },
@@ -40629,6 +41320,16 @@
    "vendors": []
   },
   {
+   "domain": "mcu.gob.es",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Catalogo del Cine Espanol"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "mdl.nl",
    "entries": 1,
    "max_libraries": 1,
@@ -40809,6 +41510,16 @@
    "vendors": []
   },
   {
+   "domain": "memoriasdaditadura.org.br",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Memórias da ditadura"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "menota.org",
    "entries": 1,
    "max_libraries": 1,
@@ -40835,6 +41546,16 @@
    "library_mentions": 1,
    "titles": [
     "Mercator"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "merchantbank.com.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Merchart Bank Ghana"
    ],
    "vendors": []
   },
@@ -40931,6 +41652,16 @@
    "vendors": []
   },
   {
+   "domain": "mevzuat.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Cumhurbaşkanlığı Mevzuat Bilgi Sistemi"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "mfa.fi",
    "entries": 1,
    "max_libraries": 1,
@@ -41003,6 +41734,16 @@
    "vendors": []
   },
   {
+   "domain": "midagri.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Repositorio Institucional MIDAGRI Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "migrationsverket.se",
    "entries": 1,
    "max_libraries": 1,
@@ -41019,6 +41760,16 @@
    "library_mentions": 1,
    "titles": [
     "Global Futures Intelligence System (GFIS)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "minciencias.gov.co",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "CVLAC Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -41113,6 +41864,16 @@
    "vendors": []
   },
   {
+   "domain": "mofa.go.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Diplomatic Blue Book"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "moh-ghana.org",
    "entries": 1,
    "max_libraries": 1,
@@ -41191,6 +41952,26 @@
    "library_mentions": 1,
    "titles": [
     "Max Planck encyclopedia of public international law (MPEPIL)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "mplus.org.hk",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "M+ Stories"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "mpob.gov.my",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Palmoilis (Palm Oil Information Online Service)"
    ],
    "vendors": []
   },
@@ -42057,6 +42838,16 @@
    "vendors": []
   },
   {
+   "domain": "nich.go.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "e-Museum Japan"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nikkeibizruptors.com",
    "entries": 1,
    "max_libraries": 1,
@@ -42107,6 +42898,16 @@
    "vendors": []
   },
   {
+   "domain": "niscair.res.in",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "National Institute of Science Communication and Information Resources (NISCAIR)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nitrc.org",
    "entries": 1,
    "max_libraries": 1,
@@ -42153,6 +42954,16 @@
    "library_mentions": 1,
    "titles": [
     "NJVID"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "nl.go.kr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "National Library of Korea Digital Archive"
    ],
    "vendors": []
   },
@@ -42327,6 +43138,16 @@
    "vendors": []
   },
   {
+   "domain": "npm.gov.tw",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "中華民國外交部保存之前清及民國時期條約協定檢索系統 = Chi'ng dynasty and ROC treaties and agreements preserved by the Ministry of Foreign Affairs of the Republic of China (Taiwan)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nrf.ac.za",
    "entries": 1,
    "max_libraries": 1,
@@ -42393,6 +43214,26 @@
    "library_mentions": 1,
    "titles": [
     "BioTech life science dictionary"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "ntok.go.kr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Digital Archive of Performing Arts (공연예술 아카이브)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "ntticc.or.jp",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "IIC Intercommuniction Center"
    ],
    "vendors": []
   },
@@ -42527,6 +43368,16 @@
    "vendors": []
   },
   {
+   "domain": "nzfchildren.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "New Zealand Formulary for Children (NZFC)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nzformulary.org",
    "entries": 1,
    "max_libraries": 1,
@@ -42537,12 +43388,32 @@
    "vendors": []
   },
   {
+   "domain": "nzhistory.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Treaty of Waitangi"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "nzonscreen.com",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
     "NZ On Screen"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "nzulm.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "New Zealand Universal List of Medicines (NZULM)"
    ],
    "vendors": []
   },
@@ -43069,16 +43940,6 @@
    "vendors": []
   },
   {
-   "domain": "or.jp",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "IIC Intercommuniction Center"
-   ],
-   "vendors": []
-  },
-  {
    "domain": "oralhistory.org",
    "entries": 1,
    "max_libraries": 1,
@@ -43155,16 +44016,6 @@
    "library_mentions": 1,
    "titles": [
     "CSIR - Ghana"
-   ],
-   "vendors": []
-  },
-  {
-   "domain": "org.ir",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "Dāʼirat al-maʿārif-i buzurg-i Islāmī"
    ],
    "vendors": []
   },
@@ -43507,6 +44358,16 @@
    "library_mentions": 1,
    "titles": [
     "PapyGreek - A platform for the linguistic study of Greek papyri"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "parliament.gov.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "South African Acts Online"
    ],
    "vendors": []
   },
@@ -43941,6 +44802,16 @@
    "vendors": []
   },
   {
+   "domain": "pj.gob.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Jurisprudencia Nacional Sistematizada Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "pkulaw.cn",
    "entries": 1,
    "max_libraries": 1,
@@ -44022,6 +44893,26 @@
     "Playbill",
     "Inc."
    ]
+  },
+  {
+   "domain": "playmarket.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Playmarket"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "pnmdigital.gov.my",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "eResources@Perpustakaan Negara Malaysia (PNM)"
+   ],
+   "vendors": []
   },
   {
    "domain": "pnnl.gov",
@@ -44326,6 +45217,16 @@
    "vendors": []
   },
   {
+   "domain": "privacy.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Privacy Commissioner"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "privacylaws.com",
    "entries": 1,
    "max_libraries": 1,
@@ -44576,6 +45477,16 @@
    "vendors": []
   },
   {
+   "domain": "pucp.edu.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Archivo Fotográfico TAFOS/PUCP"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "pymca.com",
    "entries": 1,
    "max_libraries": 1,
@@ -44772,6 +45683,16 @@
    "library_mentions": 1,
    "titles": [
     "BSBI Literature Database"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "rbnz.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Reserve Bank of New Zealand statistics"
    ],
    "vendors": []
   },
@@ -44998,16 +45919,6 @@
    "vendors": [
     "Free Resources"
    ]
-  },
-  {
-   "domain": "res.in",
-   "entries": 1,
-   "max_libraries": 1,
-   "library_mentions": 1,
-   "titles": [
-    "National Institute of Science Communication and Information Resources (NISCAIR)"
-   ],
-   "vendors": []
   },
   {
    "domain": "researchconnections.org",
@@ -45610,6 +46521,16 @@
    "vendors": []
   },
   {
+   "domain": "sanayi.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Dijital Verimlilik Kütüphanesi"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "sandstein.de",
    "entries": 1,
    "max_libraries": 1,
@@ -45862,6 +46783,16 @@
    "vendors": []
   },
   {
+   "domain": "scinfo.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Our Environment"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "scirus.com",
    "entries": 1,
    "max_libraries": 1,
@@ -45950,6 +46881,18 @@
     "Greek Epigraphy at the RuG"
    ],
    "vendors": []
+  },
+  {
+   "domain": "sct.gob.mx",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "North American Transportation Statistics"
+   ],
+   "vendors": [
+    "Free Resources"
+   ]
   },
   {
    "domain": "sdsu.edu",
@@ -46068,6 +47011,16 @@
    "library_mentions": 1,
    "titles": [
     "Svenska Filminstitutet"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "sg-ssb.com.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "SG-SSB Bank"
    ],
    "vendors": []
   },
@@ -46244,6 +47197,16 @@
    "vendors": []
   },
   {
+   "domain": "singstat.gov.sg",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "SingStat Table Builder"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "sinocomic.com",
    "entries": 1,
    "max_libraries": 1,
@@ -46280,6 +47243,16 @@
    "library_mentions": 1,
    "titles": [
     "SIRS Knowledge Source"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "sirsidynix.net.au",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Mura: AIATSIS"
    ],
    "vendors": []
   },
@@ -46608,6 +47581,16 @@
    "vendors": []
   },
   {
+   "domain": "spielbergfilmarchive.org.il",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Steven Spielberg Jewish Film Archive Virtual Cinema"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "spinform.ru",
    "entries": 1,
    "max_libraries": 1,
@@ -46624,6 +47607,16 @@
    "library_mentions": 1,
    "titles": [
     "Spinoza Bibliographie"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "sportstribunal.org.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Sports Tribunal of New Zealand"
    ],
    "vendors": []
   },
@@ -46768,6 +47761,26 @@
    "vendors": []
   },
   {
+   "domain": "standardchartered.com.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Standard Chartered Bank Ghana"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "standards.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Standards New Zealand"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "starkcenter.org",
    "entries": 1,
    "max_libraries": 1,
@@ -46824,6 +47837,26 @@
    "library_mentions": 1,
    "titles": [
     "StatProb: The Encyclopedia Sponsored by Statistics and Probability Societies"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "statsghana.gov.gh",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Ghana Statistical Service"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "statssa.gov.za",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Statistics South Africa"
    ],
    "vendors": []
   },
@@ -48164,6 +49197,16 @@
    "vendors": []
   },
   {
+   "domain": "toplukatalog.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Ulusal Toplu Katalog (TO-KAT)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "topotijdreis.nl",
    "entries": 1,
    "max_libraries": 1,
@@ -48324,12 +49367,32 @@
    "vendors": []
   },
   {
+   "domain": "tuba.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "TÜBA Türkçe Bilim Terimleri Sözlüğü"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "tudorhistory.org",
    "entries": 1,
    "max_libraries": 1,
    "library_mentions": 1,
    "titles": [
     "Tudor History"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "tuik.gov.tr",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "TÜİK (Türkiye İstatistik Kurumu)"
    ],
    "vendors": []
   },
@@ -48826,6 +49889,16 @@
    "vendors": []
   },
   {
+   "domain": "uni.edu.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Repositorio Institucional - UNI Este enlace se abre en una nueva ventana"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "unibe.ch",
    "entries": 1,
    "max_libraries": 1,
@@ -49112,6 +50185,16 @@
    "library_mentions": 1,
    "titles": [
     "Urbis Library Network"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "urp.edu.pe",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Repositorio Institucional - URP Este enlace se abre en una nueva ventana"
    ],
    "vendors": []
   },
@@ -49684,6 +50767,16 @@
    "library_mentions": 1,
    "titles": [
     "Internet Guide to Religion (Wabash Center)"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "waitangitribunal.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Waitangi Tribunal Reports"
    ],
    "vendors": []
   },
@@ -50350,6 +51443,16 @@
    "vendors": []
   },
   {
+   "domain": "yiddish-periodicals.co.il",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Index to Yiddish Periodicals (IYP)"
+   ],
+   "vendors": []
+  },
+  {
    "domain": "yiddishworld.org",
    "entries": 1,
    "max_libraries": 1,
@@ -50386,6 +51489,16 @@
    "library_mentions": 1,
    "titles": [
     "York St John University Library Catalogue"
+   ],
+   "vendors": []
+  },
+  {
+   "domain": "youthcourt.govt.nz",
+   "entries": 1,
+   "max_libraries": 1,
+   "library_mentions": 1,
+   "titles": [
+    "Youth Court of New Zealand"
    ],
    "vendors": []
   },

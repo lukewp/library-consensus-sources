@@ -145,7 +145,8 @@ def registrable_host(h):
 
 def main():
     args = sys.argv[1:]
-    domains = json.loads((ROOT / "data" / "domains.json").read_text())["domains"]
+    src = args[args.index("--domains-file") + 1] if "--domains-file" in args else str(ROOT / "data" / "domains.json")
+    domains = json.loads(Path(src).read_text())["domains"]
     if "--min-libraries" in args:
         m = int(args[args.index("--min-libraries") + 1])
         domains = [d for d in domains if d["max_libraries"] >= m]

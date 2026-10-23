@@ -1,0 +1,7656 @@
+{
+ "rule": {
+  "wikipedia_languages_min": 15,
+  "of_languages": 20,
+  "guide_share_min": 0.1,
+  "guide_regions_min": 3,
+  "libraries_with_guides": 96,
+  "wikipedia_articles": 3989
+ },
+ "domains": [
+  {
+   "domain": "google.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 854,
+    "citations": 7754
+   },
+   "guides": {
+    "n_libraries": 19,
+    "share": 0.1979,
+    "n_regions": 6,
+    "kinds": {
+     "news": 13,
+     "data": 8,
+     "free_web": 1
+    }
+   }
+  },
+  {
+   "domain": "youtube.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 1068,
+    "citations": 5421
+   },
+   "guides": {
+    "n_libraries": 18,
+    "share": 0.1875,
+    "n_regions": 6,
+    "kinds": {
+     "free_web": 1,
+     "government": 5,
+     "news": 8,
+     "data": 7
+    }
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "loc.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 131,
+    "citations": 333
+   },
+   "guides": {
+    "n_libraries": 12,
+    "share": 0.125,
+    "n_regions": 4,
+    "kinds": {
+     "government": 3,
+     "news": 9,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "census.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 40,
+    "citations": 588
+   },
+   "guides": {
+    "n_libraries": 12,
+    "share": 0.125,
+    "n_regions": 2,
+    "kinds": {
+     "data": 10,
+     "government": 3,
+     "news": 1
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "un.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 258,
+    "citations": 1050
+   },
+   "guides": {
+    "n_libraries": 11,
+    "share": 0.1146,
+    "n_regions": 5,
+    "kinds": {
+     "data": 10,
+     "news": 1
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "facebook.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 216,
+    "citations": 693
+   },
+   "guides": {
+    "n_libraries": 11,
+    "share": 0.1146,
+    "n_regions": 6,
+    "kinds": {
+     "news": 6,
+     "government": 2,
+     "data": 5
+    }
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "who.int",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 103,
+    "citations": 263
+   },
+   "guides": {
+    "n_libraries": 10,
+    "share": 0.1042,
+    "n_regions": 4,
+    "kinds": {
+     "data": 8,
+     "news": 1,
+     "free_web": 1,
+     "government": 1
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "nytimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 920,
+    "citations": 8259
+   },
+   "guides": {
+    "n_libraries": 9,
+    "share": 0.0938,
+    "n_regions": 4,
+    "kinds": {
+     "news": 10
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "worldbank.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 169,
+    "citations": 784
+   },
+   "guides": {
+    "n_libraries": 9,
+    "share": 0.0938,
+    "n_regions": 5,
+    "kinds": {
+     "data": 9
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "twitter.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 301,
+    "citations": 1090
+   },
+   "guides": {
+    "n_libraries": 8,
+    "share": 0.0833,
+    "n_regions": 5,
+    "kinds": {
+     "news": 4,
+     "data": 2,
+     "government": 2
+    }
+   }
+  },
+  {
+   "domain": "worldcat.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 1024,
+    "citations": 5124
+   },
+   "guides": {
+    "n_libraries": 7,
+    "share": 0.0729,
+    "n_regions": 4,
+    "kinds": {
+     "news": 7,
+     "data": 2
+    }
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "instagram.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 241,
+    "citations": 726
+   },
+   "guides": {
+    "n_libraries": 7,
+    "share": 0.0729,
+    "n_regions": 5,
+    "kinds": {
+     "news": 3,
+     "government": 1,
+     "data": 5
+    }
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "nih.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 273,
+    "citations": 2088
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 2,
+    "kinds": {
+     "government": 2,
+     "data": 6
+    }
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "ft.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 198,
+    "citations": 510
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 4,
+    "kinds": {
+     "news": 6
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "archive.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 659,
+    "citations": 4461
+   },
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 3,
+    "kinds": {
+     "government": 3,
+     "news": 2
+    }
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "cia.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 241,
+    "citations": 1363
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 3,
+    "kinds": {
+     "government": 2,
+     "data": 3
+    }
+   }
+  },
+  {
+   "domain": "unesco.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 152,
+    "citations": 529
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 4,
+    "kinds": {
+     "data": 3,
+     "news": 2
+    }
+   }
+  },
+  {
+   "domain": "harvard.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 135,
+    "citations": 433
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 2,
+    "kinds": {
+     "data": 4
+    }
+   }
+  },
+  {
+   "domain": "washingtonpost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 444,
+    "citations": 2901
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 2,
+    "kinds": {
+     "news": 3
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "wsj.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 307,
+    "citations": 1234
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 1,
+    "kinds": {
+     "news": 3
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "npr.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 220,
+    "citations": 873
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 1,
+    "kinds": {
+     "news": 3
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "bbc.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 855,
+    "citations": 6108
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 1,
+     "government": 1
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "reuters.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 640,
+    "citations": 3586
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   },
+   "seed": "news_wire"
+  },
+  {
+   "domain": "imf.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 240,
+    "citations": 653
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "data": 2
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "jstor.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 218,
+    "citations": 560
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   }
+  },
+  {
+   "domain": "economist.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 213,
+    "citations": 549
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "state.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 154,
+    "citations": 473
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2
+    }
+   }
+  },
+  {
+   "domain": "bbc.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 1105,
+    "citations": 7817
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "theguardian.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 924,
+    "citations": 6010
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "cnn.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 664,
+    "citations": 4722
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "yahoo.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 509,
+    "citations": 1532
+   }
+  },
+  {
+   "domain": "time.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 481,
+    "citations": 1695
+   }
+  },
+  {
+   "domain": "independent.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 461,
+    "citations": 1900
+   }
+  },
+  {
+   "domain": "telegraph.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 444,
+    "citations": 1835
+   }
+  },
+  {
+   "domain": "forbes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 442,
+    "citations": 2020
+   }
+  },
+  {
+   "domain": "variety.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 385,
+    "citations": 3253
+   }
+  },
+  {
+   "domain": "britannica.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 359,
+    "citations": 1081
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "usatoday.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 347,
+    "citations": 1341
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "latimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 336,
+    "citations": 1095
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "x.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 318,
+    "citations": 1620
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "bloomberg.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 286,
+    "citations": 1080
+   },
+   "seed": "news_wire"
+  },
+  {
+   "domain": "cbsnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 245,
+    "citations": 889
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "businessinsider.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 237,
+    "citations": 1036
+   }
+  },
+  {
+   "domain": "nbcnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 234,
+    "citations": 1159
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "imdb.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 230,
+    "citations": 645
+   }
+  },
+  {
+   "domain": "aljazeera.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 224,
+    "citations": 981
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "rollingstone.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 208,
+    "citations": 1149
+   }
+  },
+  {
+   "domain": "cnbc.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 178,
+    "citations": 880
+   }
+  },
+  {
+   "domain": "theatlantic.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 165,
+    "citations": 471
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "wordpress.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 163,
+    "citations": 313
+   }
+  },
+  {
+   "domain": "pbs.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 156,
+    "citations": 441
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "newyorker.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 153,
+    "citations": 358
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "jpost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 126,
+    "citations": 544
+   }
+  },
+  {
+   "domain": "politico.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 123,
+    "citations": 908
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "vox.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 106,
+    "citations": 316
+   }
+  },
+  {
+   "domain": "thedailybeast.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 105,
+    "citations": 521
+   }
+  },
+  {
+   "domain": "smh.com.au",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 105,
+    "citations": 221
+   }
+  },
+  {
+   "domain": "timesonline.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 105,
+    "citations": 266
+   }
+  },
+  {
+   "domain": "rsf.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 80,
+    "citations": 166
+   }
+  },
+  {
+   "domain": "foreignpolicy.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 75,
+    "citations": 159
+   }
+  },
+  {
+   "domain": "miamiherald.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 20,
+    "n_articles": 64,
+    "citations": 424
+   }
+  },
+  {
+   "domain": "whitehouse.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 61,
+    "citations": 180
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 1,
+    "kinds": {
+     "government": 3,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "apple.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 104,
+    "citations": 388
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "government": 1,
+     "news": 1
+    }
+   }
+  },
+  {
+   "domain": "statista.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 89,
+    "citations": 211
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "data": 2
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "pewresearch.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 54,
+    "citations": 174
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "news": 1,
+     "data": 1
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "sagepub.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 44,
+    "citations": 82
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 1,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "apnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 335,
+    "citations": 1648
+   },
+   "seed": "news_wire"
+  },
+  {
+   "domain": "dw.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 330,
+    "citations": 1428
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "deadline.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 301,
+    "citations": 3273
+   }
+  },
+  {
+   "domain": "go.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 295,
+    "citations": 1101
+   }
+  },
+  {
+   "domain": "hollywoodreporter.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 293,
+    "citations": 2365
+   }
+  },
+  {
+   "domain": "fifa.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 291,
+    "citations": 5970
+   }
+  },
+  {
+   "domain": "spiegel.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 259,
+    "citations": 1291
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "france24.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 245,
+    "citations": 663
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "people.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 242,
+    "citations": 946
+   }
+  },
+  {
+   "domain": "indiatimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 239,
+    "citations": 1141
+   }
+  },
+  {
+   "domain": "uefa.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 236,
+    "citations": 2648
+   }
+  },
+  {
+   "domain": "elpais.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 235,
+    "citations": 1237
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "goal.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 232,
+    "citations": 1688
+   }
+  },
+  {
+   "domain": "msn.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 220,
+    "citations": 565
+   }
+  },
+  {
+   "domain": "espn.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 202,
+    "citations": 1676
+   }
+  },
+  {
+   "domain": "guardian.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 190,
+    "citations": 457
+   }
+  },
+  {
+   "domain": "undp.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 189,
+    "citations": 469
+   }
+  },
+  {
+   "domain": "billboard.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 170,
+    "citations": 2457
+   }
+  },
+  {
+   "domain": "cbc.ca",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 168,
+    "citations": 397
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "marca.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 167,
+    "citations": 1431
+   }
+  },
+  {
+   "domain": "blogspot.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 167,
+    "citations": 452
+   }
+  },
+  {
+   "domain": "vanityfair.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 165,
+    "citations": 517
+   }
+  },
+  {
+   "domain": "foxnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 162,
+    "citations": 450
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "newsweek.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 150,
+    "citations": 430
+   }
+  },
+  {
+   "domain": "huffingtonpost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 130,
+    "citations": 339
+   }
+  },
+  {
+   "domain": "nypost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 126,
+    "citations": 310
+   }
+  },
+  {
+   "domain": "timesofisrael.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 122,
+    "citations": 625
+   }
+  },
+  {
+   "domain": "hindustantimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 122,
+    "citations": 411
+   }
+  },
+  {
+   "domain": "skysports.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 120,
+    "citations": 737
+   }
+  },
+  {
+   "domain": "thehill.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 111,
+    "citations": 552
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "thetimes.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 109,
+    "citations": 230
+   }
+  },
+  {
+   "domain": "hrw.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 105,
+    "citations": 297
+   }
+  },
+  {
+   "domain": "scmp.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 102,
+    "citations": 277
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "si.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 101,
+    "citations": 409
+   }
+  },
+  {
+   "domain": "academia.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 100,
+    "citations": 228
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "mashable.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 96,
+    "citations": 365
+   }
+  },
+  {
+   "domain": "nydailynews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 93,
+    "citations": 226
+   }
+  },
+  {
+   "domain": "haaretz.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 89,
+    "citations": 518
+   }
+  },
+  {
+   "domain": "techcrunch.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 89,
+    "citations": 955
+   }
+  },
+  {
+   "domain": "chicagotribune.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 87,
+    "citations": 249
+   }
+  },
+  {
+   "domain": "researchgate.net",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 81,
+    "citations": 144
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "nymag.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 80,
+    "citations": 352
+   }
+  },
+  {
+   "domain": "bostonglobe.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 63,
+    "citations": 135
+   }
+  },
+  {
+   "domain": "salon.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 59,
+    "citations": 104
+   }
+  },
+  {
+   "domain": "sipri.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 55,
+    "citations": 106
+   }
+  },
+  {
+   "domain": "house.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 19,
+    "n_articles": 38,
+    "citations": 110
+   }
+  },
+  {
+   "domain": "oecd.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 78,
+    "citations": 250
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 3,
+    "kinds": {
+     "data": 5
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "archives.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 69,
+    "citations": 168
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 1,
+    "kinds": {
+     "government": 3
+    }
+   }
+  },
+  {
+   "domain": "euronews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 232,
+    "citations": 592
+   }
+  },
+  {
+   "domain": "dailymail.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 156,
+    "citations": 342
+   }
+  },
+  {
+   "domain": "as.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 154,
+    "citations": 870
+   }
+  },
+  {
+   "domain": "indianexpress.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 118,
+    "citations": 392
+   }
+  },
+  {
+   "domain": "slate.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 115,
+    "citations": 235
+   }
+  },
+  {
+   "domain": "ign.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 108,
+    "citations": 363
+   }
+  },
+  {
+   "domain": "theverge.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 103,
+    "citations": 1229
+   }
+  },
+  {
+   "domain": "fortune.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 97,
+    "citations": 312
+   }
+  },
+  {
+   "domain": "soccerway.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 95,
+    "citations": 637
+   }
+  },
+  {
+   "domain": "espn.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 93,
+    "citations": 359
+   }
+  },
+  {
+   "domain": "sky.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 85,
+    "citations": 228
+   }
+  },
+  {
+   "domain": "bleacherreport.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 81,
+    "citations": 324
+   }
+  },
+  {
+   "domain": "freedomhouse.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 80,
+    "citations": 191
+   }
+  },
+  {
+   "domain": "cnet.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 79,
+    "citations": 386
+   }
+  },
+  {
+   "domain": "politico.eu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 78,
+    "citations": 151
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "news.com.au",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 70,
+    "citations": 123
+   }
+  },
+  {
+   "domain": "espnfc.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 70,
+    "citations": 392
+   }
+  },
+  {
+   "domain": "nature.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 70,
+    "citations": 149
+   }
+  },
+  {
+   "domain": "realmadrid.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 68,
+    "citations": 1079
+   }
+  },
+  {
+   "domain": "rferl.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 68,
+    "citations": 161
+   }
+  },
+  {
+   "domain": "weforum.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 67,
+    "citations": 132
+   }
+  },
+  {
+   "domain": "nationalgeographic.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 65,
+    "citations": 131
+   }
+  },
+  {
+   "domain": "justice.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 57,
+    "citations": 165
+   }
+  },
+  {
+   "domain": "cambridge.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 56,
+    "citations": 119
+   }
+  },
+  {
+   "domain": "springer.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 55,
+    "citations": 88
+   }
+  },
+  {
+   "domain": "fcbarcelona.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 54,
+    "citations": 775
+   }
+  },
+  {
+   "domain": "psg.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 50,
+    "citations": 238
+   }
+  },
+  {
+   "domain": "theage.com.au",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 45,
+    "citations": 82
+   }
+  },
+  {
+   "domain": "khamenei.ir",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 18,
+    "n_articles": 34,
+    "citations": 202
+   }
+  },
+  {
+   "domain": "ec.europa.eu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 104,
+    "citations": 309
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 3,
+    "kinds": {
+     "data": 5,
+     "government": 1
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "fao.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 44,
+    "citations": 114
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 3,
+    "kinds": {
+     "data": 3
+    }
+   }
+  },
+  {
+   "domain": "lemonde.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 236,
+    "citations": 2154
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "thewrap.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 136,
+    "citations": 383
+   }
+  },
+  {
+   "domain": "ndtv.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 121,
+    "citations": 392
+   }
+  },
+  {
+   "domain": "wired.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 119,
+    "citations": 427
+   }
+  },
+  {
+   "domain": "thetimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 116,
+    "citations": 279
+   }
+  },
+  {
+   "domain": "voanews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 110,
+    "citations": 372
+   }
+  },
+  {
+   "domain": "mirror.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 107,
+    "citations": 216
+   }
+  },
+  {
+   "domain": "vice.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 104,
+    "citations": 247
+   }
+  },
+  {
+   "domain": "theconversation.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 92,
+    "citations": 172
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "iffhs.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 78,
+    "citations": 401
+   }
+  },
+  {
+   "domain": "standard.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 77,
+    "citations": 197
+   }
+  },
+  {
+   "domain": "netflix.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 71,
+    "citations": 183
+   }
+  },
+  {
+   "domain": "amnesty.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 68,
+    "citations": 165
+   }
+  },
+  {
+   "domain": "fourfourtwo.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 67,
+    "citations": 247
+   }
+  },
+  {
+   "domain": "sport.es",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 62,
+    "citations": 300
+   }
+  },
+  {
+   "domain": "alexa.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 61,
+    "citations": 180
+   }
+  },
+  {
+   "domain": "foxsports.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 60,
+    "citations": 152
+   }
+  },
+  {
+   "domain": "sportingnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 58,
+    "citations": 138
+   }
+  },
+  {
+   "domain": "worldometers.info",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 58,
+    "citations": 98
+   }
+  },
+  {
+   "domain": "stanford.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 58,
+    "citations": 132
+   }
+  },
+  {
+   "domain": "theathletic.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 57,
+    "citations": 158
+   }
+  },
+  {
+   "domain": "businessweek.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 57,
+    "citations": 110
+   }
+  },
+  {
+   "domain": "ynetnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 51,
+    "citations": 195
+   }
+  },
+  {
+   "domain": "express.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 51,
+    "citations": 91
+   }
+  },
+  {
+   "domain": "chinadaily.com.cn",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 48,
+    "citations": 139
+   }
+  },
+  {
+   "domain": "fas.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 47,
+    "citations": 151
+   }
+  },
+  {
+   "domain": "oup.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 44,
+    "citations": 77
+   }
+  },
+  {
+   "domain": "iht.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 42,
+    "citations": 89
+   }
+  },
+  {
+   "domain": "fastcompany.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 41,
+    "citations": 96
+   }
+  },
+  {
+   "domain": "psu.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 41,
+    "citations": 60
+   }
+  },
+  {
+   "domain": "upenn.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 39,
+    "citations": 69
+   }
+  },
+  {
+   "domain": "politifact.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 35,
+    "citations": 111
+   },
+   "seed": "fact_check"
+  },
+  {
+   "domain": "olympic.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 32,
+    "citations": 63
+   }
+  },
+  {
+   "domain": "palmbeachpost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 31,
+    "citations": 170
+   }
+  },
+  {
+   "domain": "mlssoccer.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 30,
+    "citations": 135
+   }
+  },
+  {
+   "domain": "nps.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 17,
+    "n_articles": 29,
+    "citations": 91
+   }
+  },
+  {
+   "domain": "usgs.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 31,
+    "citations": 181
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "data": 2
+    }
+   }
+  },
+  {
+   "domain": "globo.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 235,
+    "citations": 8982
+   }
+  },
+  {
+   "domain": "rottentomatoes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 174,
+    "citations": 973
+   }
+  },
+  {
+   "domain": "repubblica.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 162,
+    "citations": 1278
+   }
+  },
+  {
+   "domain": "faz.net",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 133,
+    "citations": 477
+   }
+  },
+  {
+   "domain": "gazzetta.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 105,
+    "citations": 1296
+   }
+  },
+  {
+   "domain": "vulture.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 100,
+    "citations": 290
+   }
+  },
+  {
+   "domain": "nme.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 91,
+    "citations": 402
+   }
+  },
+  {
+   "domain": "axios.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 79,
+    "citations": 267
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "huffpost.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 79,
+    "citations": 231
+   }
+  },
+  {
+   "domain": "90min.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 76,
+    "citations": 154
+   }
+  },
+  {
+   "domain": "onefootball.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 76,
+    "citations": 154
+   }
+  },
+  {
+   "domain": "tandfonline.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 76,
+    "citations": 141
+   }
+  },
+  {
+   "domain": "guinnessworldrecords.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 74,
+    "citations": 171
+   }
+  },
+  {
+   "domain": "esquire.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 71,
+    "citations": 162
+   }
+  },
+  {
+   "domain": "olympics.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 66,
+    "citations": 348
+   }
+  },
+  {
+   "domain": "sfgate.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 66,
+    "citations": 163
+   }
+  },
+  {
+   "domain": "upi.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 63,
+    "citations": 119
+   }
+  },
+  {
+   "domain": "complex.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 60,
+    "citations": 154
+   }
+  },
+  {
+   "domain": "biography.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 59,
+    "citations": 97
+   }
+  },
+  {
+   "domain": "gizmodo.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 57,
+    "citations": 136
+   }
+  },
+  {
+   "domain": "about.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 56,
+    "citations": 128
+   }
+  },
+  {
+   "domain": "usnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 54,
+    "citations": 117
+   }
+  },
+  {
+   "domain": "pewforum.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 52,
+    "citations": 128
+   }
+  },
+  {
+   "domain": "premierleague.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 51,
+    "citations": 425
+   }
+  },
+  {
+   "domain": "thesun.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 49,
+    "citations": 79
+   }
+  },
+  {
+   "domain": "nobelprize.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 49,
+    "citations": 108
+   }
+  },
+  {
+   "domain": "unicef.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 48,
+    "citations": 118
+   }
+  },
+  {
+   "domain": "cbssports.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 46,
+    "citations": 194
+   }
+  },
+  {
+   "domain": "washingtontimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 46,
+    "citations": 85
+   }
+  },
+  {
+   "domain": "wiley.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 44,
+    "citations": 83
+   }
+  },
+  {
+   "domain": "countrystudies.us",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 44,
+    "citations": 146
+   }
+  },
+  {
+   "domain": "ibtimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 43,
+    "citations": 74
+   }
+  },
+  {
+   "domain": "manchestereveningnews.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 42,
+    "citations": 140
+   }
+  },
+  {
+   "domain": "ohchr.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 42,
+    "citations": 138
+   }
+  },
+  {
+   "domain": "nbcnewyork.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 41,
+    "citations": 92
+   }
+  },
+  {
+   "domain": "worldsoccer.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 41,
+    "citations": 112
+   }
+  },
+  {
+   "domain": "carnegieendowment.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 40,
+    "citations": 83
+   }
+  },
+  {
+   "domain": "medium.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 39,
+    "citations": 69
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "observer.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 39,
+    "citations": 77
+   }
+  },
+  {
+   "domain": "washingtonexaminer.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 38,
+    "citations": 90
+   }
+  },
+  {
+   "domain": "givemesport.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 38,
+    "citations": 86
+   }
+  },
+  {
+   "domain": "bfi.org.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 38,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "smithsonianmag.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 37,
+    "citations": 63
+   }
+  },
+  {
+   "domain": "google.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 35,
+    "citations": 96
+   }
+  },
+  {
+   "domain": "gallup.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 32,
+    "citations": 106
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "dailydot.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 32,
+    "citations": 57
+   }
+  },
+  {
+   "domain": "iranicaonline.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 31,
+    "citations": 229
+   }
+  },
+  {
+   "domain": "manutd.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 28,
+    "citations": 161
+   }
+  },
+  {
+   "domain": "foxbusiness.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 16,
+    "n_articles": 27,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "cdc.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 45,
+    "citations": 179
+   },
+   "guides": {
+    "n_libraries": 7,
+    "share": 0.0729,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2,
+     "data": 6
+    }
+   }
+  },
+  {
+   "domain": "ourworldindata.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 28,
+    "citations": 66
+   },
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 3,
+    "kinds": {
+     "data": 5
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "arxiv.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 43,
+    "citations": 123
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 3,
+    "kinds": {
+     "data": 2,
+     "free_web": 1
+    }
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "nasa.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 49,
+    "citations": 247
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 1,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "ew.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 160,
+    "citations": 833
+   }
+  },
+  {
+   "domain": "corriere.it",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 142,
+    "citations": 894
+   }
+  },
+  {
+   "domain": "infobae.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 142,
+    "citations": 769
+   }
+  },
+  {
+   "domain": "elmundo.es",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 119,
+    "citations": 455
+   }
+  },
+  {
+   "domain": "aa.com.tr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 118,
+    "citations": 419
+   }
+  },
+  {
+   "domain": "thehindu.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 109,
+    "citations": 477
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "lequipe.fr",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 95,
+    "citations": 1743
+   }
+  },
+  {
+   "domain": "rsssf.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 87,
+    "citations": 612
+   }
+  },
+  {
+   "domain": "aljazeera.net",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 84,
+    "citations": 568
+   }
+  },
+  {
+   "domain": "mundodeportivo.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 72,
+    "citations": 492
+   }
+  },
+  {
+   "domain": "mtv.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 69,
+    "citations": 363
+   }
+  },
+  {
+   "domain": "arstechnica.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 68,
+    "citations": 329
+   }
+  },
+  {
+   "domain": "eurosport.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 66,
+    "citations": 179
+   }
+  },
+  {
+   "domain": "beinsports.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 64,
+    "citations": 195
+   }
+  },
+  {
+   "domain": "today.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 64,
+    "citations": 159
+   }
+  },
+  {
+   "domain": "pitchfork.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 60,
+    "citations": 219
+   }
+  },
+  {
+   "domain": "yale.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 59,
+    "citations": 119
+   }
+  },
+  {
+   "domain": "theglobeandmail.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 56,
+    "citations": 103
+   }
+  },
+  {
+   "domain": "csmonitor.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 55,
+    "citations": 127
+   }
+  },
+  {
+   "domain": "abcnews.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 54,
+    "citations": 119
+   }
+  },
+  {
+   "domain": "motherjones.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 51,
+    "citations": 101
+   }
+  },
+  {
+   "domain": "worldfootball.net",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 49,
+    "citations": 135
+   }
+  },
+  {
+   "domain": "grammy.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 49,
+    "citations": 159
+   }
+  },
+  {
+   "domain": "fifa.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 48,
+    "citations": 330
+   }
+  },
+  {
+   "domain": "thenextweb.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 47,
+    "citations": 137
+   }
+  },
+  {
+   "domain": "sciencedirect.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 47,
+    "citations": 77
+   }
+  },
+  {
+   "domain": "transparency.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 47,
+    "citations": 93
+   }
+  },
+  {
+   "domain": "scribd.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 46,
+    "citations": 99
+   }
+  },
+  {
+   "domain": "independent.ie",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 45,
+    "citations": 95
+   }
+  },
+  {
+   "domain": "metro.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 45,
+    "citations": 87
+   }
+  },
+  {
+   "domain": "irishtimes.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 44,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "bustle.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 43,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "newstatesman.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 41,
+    "citations": 88
+   }
+  },
+  {
+   "domain": "similarweb.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 41,
+    "citations": 75
+   }
+  },
+  {
+   "domain": "globalsecurity.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 41,
+    "citations": 90
+   }
+  },
+  {
+   "domain": "history.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 41,
+    "citations": 112
+   }
+  },
+  {
+   "domain": "theregister.co.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 39,
+    "citations": 97
+   }
+  },
+  {
+   "domain": "buzzfeed.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 38,
+    "citations": 57
+   }
+  },
+  {
+   "domain": "dw.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 37,
+    "citations": 71
+   }
+  },
+  {
+   "domain": "citypopulation.de",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 37,
+    "citations": 54
+   }
+  },
+  {
+   "domain": "thecut.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 36,
+    "citations": 116
+   }
+  },
+  {
+   "domain": "usembassy.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 35,
+    "citations": 68
+   }
+  },
+  {
+   "domain": "forward.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 34,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "worldatlas.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 33,
+    "citations": 75
+   }
+  },
+  {
+   "domain": "townandcountrymag.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 32,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "columbia.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 32,
+    "citations": 107
+   }
+  },
+  {
+   "domain": "merriam-webster.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 31,
+    "citations": 56
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "worldpopulationreview.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 30,
+    "citations": 54
+   }
+  },
+  {
+   "domain": "findarticles.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 30,
+    "citations": 49
+   }
+  },
+  {
+   "domain": "nrk.no",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 29,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "iea.org",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 27,
+    "citations": 60
+   }
+  },
+  {
+   "domain": "ca.gov",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 27,
+    "citations": 66
+   }
+  },
+  {
+   "domain": "ethnologue.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 26,
+    "citations": 66
+   }
+  },
+  {
+   "domain": "iranchamber.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 25,
+    "citations": 90
+   }
+  },
+  {
+   "domain": "si.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 25,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "mancity.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 25,
+    "citations": 164
+   }
+  },
+  {
+   "domain": "thesmokinggun.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 24,
+    "citations": 80
+   }
+  },
+  {
+   "domain": "gwu.edu",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 24,
+    "citations": 62
+   }
+  },
+  {
+   "domain": "lboro.ac.uk",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 24,
+    "citations": 41
+   }
+  },
+  {
+   "domain": "blog.youtube",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 17,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "fpf.pt",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 16,
+    "citations": 41
+   }
+  },
+  {
+   "domain": "moldefk.no",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 15,
+    "n_articles": 15,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "proquest.com",
+   "open_web_tier": "open-web",
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 23,
+    "citations": 57
+   },
+   "guides": {
+    "n_libraries": 10,
+    "share": 0.1042,
+    "n_regions": 5,
+    "kinds": {
+     "news": 9,
+     "data": 1,
+     "government": 1
+    }
+   }
+  },
+  {
+   "domain": "semanticscholar.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 152,
+    "citations": 438
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "europarl.europa.eu",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 49,
+    "citations": 81
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "gutenberg.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 22,
+    "citations": 31
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "bls.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 18,
+    "citations": 57
+   },
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 1,
+    "kinds": {
+     "data": 5
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "snopes.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 37,
+    "citations": 63
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "news": 2
+    }
+   },
+   "seed": "fact_check"
+  },
+  {
+   "domain": "parliament.uk",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 38,
+    "citations": 189
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "linkedin.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 18,
+    "citations": 28
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 3,
+    "kinds": {
+     "data": 6,
+     "news": 2
+    }
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "congress.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 29,
+    "citations": 53
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 2,
+    "kinds": {
+     "government": 4
+    }
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "ssrn.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 38,
+    "citations": 62
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "sec.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 26,
+    "citations": 71
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "propublica.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 45
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "reddit.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 17,
+    "citations": 32
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "tiktok.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 22,
+    "citations": 50
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "euractiv.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 19,
+    "citations": 27
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "factcheck.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 44
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 2,
+    "kinds": {
+     "news": 3
+    }
+   },
+   "seed": "fact_check"
+  },
+  {
+   "domain": "ons.gov.uk",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 90
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "data": 2
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "nos.nl",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 122,
+    "citations": 568
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "afp.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 30
+   },
+   "seed": "news_wire"
+  },
+  {
+   "domain": "cbs.nl",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 96
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "github.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 43
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "substack.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 25
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "fec.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 12,
+    "citations": 21
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "stlouisfed.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 9,
+    "n_articles": 14,
+    "citations": 35
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "legislation.gov.uk",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 8,
+    "n_articles": 10,
+    "citations": 31
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "federalregister.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 8,
+    "n_articles": 10,
+    "citations": 14
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "eur-lex.europa.eu",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 25,
+    "citations": 53
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "courtlistener.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 7,
+    "n_articles": 14,
+    "citations": 29
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "govinfo.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 13,
+    "citations": 34
+   },
+   "guides": {
+    "n_libraries": 7,
+    "share": 0.0729,
+    "n_regions": 1,
+    "kinds": {
+     "government": 7
+    }
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "volkskrant.nl",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 68,
+    "citations": 245
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "nrc.nl",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 66,
+    "citations": 209
+   },
+   "seed": "news"
+  },
+  {
+   "domain": "overheid.nl",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 17,
+    "citations": 23
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "justia.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 11,
+    "citations": 17
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "quora.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 7,
+    "citations": 11
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "supremecourt.gov",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 5,
+    "citations": 7
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2
+    }
+   },
+   "seed": "government_legal"
+  },
+  {
+   "domain": "openlibrary.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 20,
+    "citations": 29
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "euobserver.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 6,
+    "citations": 10
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "stackexchange.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 5,
+    "citations": 8
+   },
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "rollcall.com",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 7,
+    "citations": 13
+   },
+   "seed": "policy_news"
+  },
+  {
+   "domain": "plos.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 7,
+    "citations": 10
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "core.ac.uk",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 4,
+    "n_articles": 4,
+    "citations": 8
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "doaj.org",
+   "open_web_tier": "open-web-curated",
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 2,
+    "citations": 3
+   },
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "data.gov",
+   "open_web_tier": "open-web-curated",
+   "guides": {
+    "n_libraries": 7,
+    "share": 0.0729,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2,
+     "data": 5
+    }
+   },
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "wikipedia.org",
+   "open_web_tier": "open-web-curated",
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 2,
+    "kinds": {
+     "data": 1,
+     "free_web": 1,
+     "news": 2
+    }
+   },
+   "seed": "reference"
+  },
+  {
+   "domain": "wikidata.org",
+   "open_web_tier": "open-web-curated",
+   "seed": "reference"
+  },
+  {
+   "domain": "nhk.or.jp",
+   "open_web_tier": "open-web-curated",
+   "seed": "news"
+  },
+  {
+   "domain": "timesofindia.indiatimes.com",
+   "open_web_tier": "open-web-curated",
+   "seed": "news"
+  },
+  {
+   "domain": "abc.net.au",
+   "open_web_tier": "open-web-curated",
+   "seed": "news"
+  },
+  {
+   "domain": "punchbowl.news",
+   "open_web_tier": "open-web-curated",
+   "seed": "policy_news"
+  },
+  {
+   "domain": "devex.com",
+   "open_web_tier": "open-web-curated",
+   "seed": "policy_news"
+  },
+  {
+   "domain": "fullfact.org",
+   "open_web_tier": "open-web-curated",
+   "seed": "fact_check"
+  },
+  {
+   "domain": "kaggle.com",
+   "open_web_tier": "open-web-curated",
+   "seed": "data_statistics"
+  },
+  {
+   "domain": "regulations.gov",
+   "open_web_tier": "open-web-curated",
+   "seed": "government_legal"
+  },
+  {
+   "domain": "gov.uk",
+   "open_web_tier": "open-web-curated",
+   "seed": "government_legal"
+  },
+  {
+   "domain": "tweedekamer.nl",
+   "open_web_tier": "open-web-curated",
+   "seed": "government_legal"
+  },
+  {
+   "domain": "oyez.org",
+   "open_web_tier": "open-web-curated",
+   "seed": "government_legal"
+  },
+  {
+   "domain": "openalex.org",
+   "open_web_tier": "open-web-curated",
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "base-search.net",
+   "open_web_tier": "open-web-curated",
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "unpaywall.org",
+   "open_web_tier": "open-web-curated",
+   "seed": "open_scholarship"
+  },
+  {
+   "domain": "bsky.app",
+   "open_web_tier": "open-web-curated",
+   "seed": "platforms_social"
+  },
+  {
+   "domain": "gc.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 55,
+    "citations": 208
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 1,
+    "kinds": {
+     "data": 3,
+     "government": 3
+    }
+   }
+  },
+  {
+   "domain": "lefigaro.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 183,
+    "citations": 1351
+   }
+  },
+  {
+   "domain": "metacritic.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 145,
+    "citations": 672
+   }
+  },
+  {
+   "domain": "boxofficemojo.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 141,
+    "citations": 1386
+   }
+  },
+  {
+   "domain": "sueddeutsche.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 116,
+    "citations": 373
+   }
+  },
+  {
+   "domain": "elle.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 85,
+    "citations": 201
+   }
+  },
+  {
+   "domain": "clarin.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 80,
+    "citations": 410
+   }
+  },
+  {
+   "domain": "news18.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 78,
+    "citations": 261
+   }
+  },
+  {
+   "domain": "rogerebert.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 65,
+    "citations": 179
+   }
+  },
+  {
+   "domain": "iranintl.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 64,
+    "citations": 587
+   }
+  },
+  {
+   "domain": "the-independent.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 61,
+    "citations": 153
+   }
+  },
+  {
+   "domain": "wipo.int",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 60,
+    "citations": 252
+   }
+  },
+  {
+   "domain": "discogs.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 57,
+    "citations": 203
+   }
+  },
+  {
+   "domain": "straitstimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 53,
+    "citations": 221
+   }
+  },
+  {
+   "domain": "cosmopolitan.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 52,
+    "citations": 94
+   }
+  },
+  {
+   "domain": "qz.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 52,
+    "citations": 110
+   }
+  },
+  {
+   "domain": "cbr.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 49,
+    "citations": 124
+   }
+  },
+  {
+   "domain": "brookings.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 49,
+    "citations": 94
+   }
+  },
+  {
+   "domain": "tvline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 48,
+    "citations": 141
+   }
+  },
+  {
+   "domain": "talksport.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 47,
+    "citations": 118
+   }
+  },
+  {
+   "domain": "boston.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 46,
+    "citations": 100
+   }
+  },
+  {
+   "domain": "gulfnews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 44,
+    "citations": 98
+   }
+  },
+  {
+   "domain": "insider.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 44,
+    "citations": 87
+   }
+  },
+  {
+   "domain": "amazon.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 43,
+    "citations": 91
+   }
+  },
+  {
+   "domain": "business-standard.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 43,
+    "citations": 91
+   }
+  },
+  {
+   "domain": "timesnownews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 37,
+    "citations": 81
+   }
+  },
+  {
+   "domain": "national-football-teams.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 36,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "jhu.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 36,
+    "citations": 58
+   }
+  },
+  {
+   "domain": "aol.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 36,
+    "citations": 55
+   }
+  },
+  {
+   "domain": "coe.int",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 35,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "uchicago.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 33,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "discovery.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 32,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "treasury.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 31,
+    "citations": 67
+   }
+  },
+  {
+   "domain": "marketwatch.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 31,
+    "citations": 73
+   }
+  },
+  {
+   "domain": "nato.int",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 31,
+    "citations": 73
+   }
+  },
+  {
+   "domain": "cfr.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 30,
+    "citations": 73
+   }
+  },
+  {
+   "domain": "sportskeeda.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 29,
+    "citations": 83
+   }
+  },
+  {
+   "domain": "newscientist.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 29,
+    "citations": 67
+   }
+  },
+  {
+   "domain": "arquivo.pt",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 29,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "thecrimson.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 28,
+    "citations": 74
+   }
+  },
+  {
+   "domain": "unhcr.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 27,
+    "citations": 53
+   }
+  },
+  {
+   "domain": "ed.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 26,
+    "citations": 74
+   }
+  },
+  {
+   "domain": "foreignaffairs.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 26,
+    "citations": 49
+   }
+  },
+  {
+   "domain": "vg.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 25,
+    "citations": 105
+   }
+  },
+  {
+   "domain": "iol.co.za",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 25,
+    "citations": 45
+   }
+  },
+  {
+   "domain": "princeton.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 24,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "englandfootballonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 24,
+    "citations": 43
+   }
+  },
+  {
+   "domain": "berkeley.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 24,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "tripod.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 24,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "doingbusiness.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 23,
+    "citations": 36
+   }
+  },
+  {
+   "domain": "dagbladet.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 22,
+    "citations": 50
+   }
+  },
+  {
+   "domain": "army.mil",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 22,
+    "citations": 109
+   }
+  },
+  {
+   "domain": "googleblog.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 20,
+    "citations": 118
+   }
+  },
+  {
+   "domain": "msnbc.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 20,
+    "citations": 45
+   }
+  },
+  {
+   "domain": "redbullsalzburg.at",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 14,
+    "n_articles": 14,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "umich.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 25,
+    "citations": 41
+   },
+   "guides": {
+    "n_libraries": 3,
+    "share": 0.0312,
+    "n_regions": 1,
+    "kinds": {
+     "government": 1,
+     "data": 2
+    }
+   }
+  },
+  {
+   "domain": "newspapers.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 52,
+    "citations": 251
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   }
+  },
+  {
+   "domain": "japantimes.co.jp",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 40,
+    "citations": 160
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "news": 2
+    }
+   }
+  },
+  {
+   "domain": "ucsb.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 23,
+    "citations": 48
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2
+    }
+   }
+  },
+  {
+   "domain": "nationalarchives.gov.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 22,
+    "citations": 71
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "data": 1,
+     "news": 1
+    }
+   }
+  },
+  {
+   "domain": "welt.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 125,
+    "citations": 441
+   }
+  },
+  {
+   "domain": "indiewire.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 100,
+    "citations": 343
+   }
+  },
+  {
+   "domain": "collider.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 95,
+    "citations": 348
+   }
+  },
+  {
+   "domain": "lavanguardia.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 83,
+    "citations": 270
+   }
+  },
+  {
+   "domain": "xinhuanet.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 83,
+    "citations": 541
+   }
+  },
+  {
+   "domain": "people.com.cn",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 82,
+    "citations": 770
+   }
+  },
+  {
+   "domain": "eonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 73,
+    "citations": 183
+   }
+  },
+  {
+   "domain": "firstpost.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 53,
+    "citations": 125
+   }
+  },
+  {
+   "domain": "francefootball.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 47,
+    "citations": 161
+   }
+  },
+  {
+   "domain": "heritage.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 47,
+    "citations": 85
+   }
+  },
+  {
+   "domain": "usmagazine.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 46,
+    "citations": 83
+   }
+  },
+  {
+   "domain": "kicker.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 45,
+    "citations": 268
+   }
+  },
+  {
+   "domain": "iffhs.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 44,
+    "citations": 151
+   }
+  },
+  {
+   "domain": "venturebeat.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 44,
+    "citations": 222
+   }
+  },
+  {
+   "domain": "laliga.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 42,
+    "citations": 175
+   }
+  },
+  {
+   "domain": "sbs.com.au",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 42,
+    "citations": 82
+   }
+  },
+  {
+   "domain": "rte.ie",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 42,
+    "citations": 84
+   }
+  },
+  {
+   "domain": "tribuna.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 40,
+    "citations": 78
+   }
+  },
+  {
+   "domain": "sapo.pt",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 40,
+    "citations": 136
+   }
+  },
+  {
+   "domain": "tmz.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 39,
+    "citations": 80
+   }
+  },
+  {
+   "domain": "buzzfeednews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 38,
+    "citations": 90
+   }
+  },
+  {
+   "domain": "eiu.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 38,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "parade.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 37,
+    "citations": 70
+   }
+  },
+  {
+   "domain": "techradar.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 36,
+    "citations": 71
+   }
+  },
+  {
+   "domain": "prnewswire.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 36,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "zdnet.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 36,
+    "citations": 128
+   }
+  },
+  {
+   "domain": "radiotimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 36,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "suntimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 35,
+    "citations": 111
+   }
+  },
+  {
+   "domain": "highbeam.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 35,
+    "citations": 74
+   }
+  },
+  {
+   "domain": "bundesliga.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 34,
+    "citations": 245
+   }
+  },
+  {
+   "domain": "jewishvirtuallibrary.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 33,
+    "citations": 96
+   }
+  },
+  {
+   "domain": "thediplomat.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 33,
+    "citations": 76
+   }
+  },
+  {
+   "domain": "atimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 30,
+    "citations": 60
+   }
+  },
+  {
+   "domain": "espn.in",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 28,
+    "citations": 79
+   }
+  },
+  {
+   "domain": "juventus.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 28,
+    "citations": 137
+   }
+  },
+  {
+   "domain": "dfb.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 28,
+    "citations": 130
+   }
+  },
+  {
+   "domain": "mediaite.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 27,
+    "citations": 48
+   }
+  },
+  {
+   "domain": "atlanticcouncil.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 27,
+    "citations": 59
+   }
+  },
+  {
+   "domain": "globalnews.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 26,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "csis.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 26,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "sportbible.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 25,
+    "citations": 53
+   }
+  },
+  {
+   "domain": "theweek.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 25,
+    "citations": 36
+   }
+  },
+  {
+   "domain": "nationalreview.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 25,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "sportsnet.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 24,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "utexas.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 24,
+    "citations": 42
+   }
+  },
+  {
+   "domain": "gob.ve",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 23,
+    "citations": 122
+   }
+  },
+  {
+   "domain": "inc.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 23,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "inquirer.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 22,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "defense.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 22,
+    "citations": 48
+   }
+  },
+  {
+   "domain": "iaea.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 22,
+    "citations": 58
+   }
+  },
+  {
+   "domain": "hoover.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "payvand.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 94
+   }
+  },
+  {
+   "domain": "infoplease.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 41
+   }
+  },
+  {
+   "domain": "chelseafc.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 109
+   }
+  },
+  {
+   "domain": "uefa.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "ap.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "rockhall.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 21,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "wwe.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 20,
+    "citations": 81
+   }
+  },
+  {
+   "domain": "nationalpost.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 20,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "bvb.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 18,
+    "citations": 60
+   }
+  },
+  {
+   "domain": "weebly.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 18,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "heavy.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 17,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "pewglobal.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 17,
+    "citations": 28
+   }
+  },
+  {
+   "domain": "ieee.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 17,
+    "citations": 32
+   }
+  },
+  {
+   "domain": "usda.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 15,
+    "citations": 39
+   }
+  },
+  {
+   "domain": "ine.cv",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 13,
+    "citations": 56
+   }
+  },
+  {
+   "domain": "openai.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 13,
+    "n_articles": 13,
+    "citations": 184
+   }
+  },
+  {
+   "domain": "cornell.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 52
+   },
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 1,
+    "kinds": {
+     "government": 4,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "canada.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 18,
+    "citations": 40
+   },
+   "guides": {
+    "n_libraries": 4,
+    "share": 0.0417,
+    "n_regions": 1,
+    "kinds": {
+     "data": 2,
+     "government": 1,
+     "news": 1
+    }
+   }
+  },
+  {
+   "domain": "senate.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 84
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 1,
+    "kinds": {
+     "government": 2
+    }
+   }
+  },
+  {
+   "domain": "noaa.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 53
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "government": 1,
+     "data": 1
+    }
+   }
+  },
+  {
+   "domain": "rfi.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 145,
+    "citations": 475
+   }
+  },
+  {
+   "domain": "sky.it",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 142,
+    "citations": 527
+   }
+  },
+  {
+   "domain": "zeit.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 114,
+    "citations": 461
+   }
+  },
+  {
+   "domain": "gouv.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 113,
+    "citations": 644
+   }
+  },
+  {
+   "domain": "chosun.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 105,
+    "citations": 475
+   }
+  },
+  {
+   "domain": "tagesschau.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 94,
+    "citations": 469
+   }
+  },
+  {
+   "domain": "rtl.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 92,
+    "citations": 208
+   }
+  },
+  {
+   "domain": "alarabiya.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 88,
+    "citations": 624
+   }
+  },
+  {
+   "domain": "abc.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 86,
+    "citations": 373
+   }
+  },
+  {
+   "domain": "empireonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 86,
+    "citations": 210
+   }
+  },
+  {
+   "domain": "slashfilm.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 65,
+    "citations": 201
+   }
+  },
+  {
+   "domain": "google.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 63,
+    "citations": 248
+   }
+  },
+  {
+   "domain": "rtve.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 63,
+    "citations": 167
+   }
+  },
+  {
+   "domain": "quirinale.it",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 56,
+    "citations": 138
+   }
+  },
+  {
+   "domain": "allmusic.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 55,
+    "citations": 228
+   }
+  },
+  {
+   "domain": "bild.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 51,
+    "citations": 84
+   }
+  },
+  {
+   "domain": "thenationalnews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 49,
+    "citations": 89
+   }
+  },
+  {
+   "domain": "middleeasteye.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 48,
+    "citations": 109
+   }
+  },
+  {
+   "domain": "engadget.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 48,
+    "citations": 158
+   }
+  },
+  {
+   "domain": "polygon.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 43,
+    "citations": 152
+   }
+  },
+  {
+   "domain": "mercurynews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 43,
+    "citations": 120
+   }
+  },
+  {
+   "domain": "thestar.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 41,
+    "citations": 80
+   }
+  },
+  {
+   "domain": "boe.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 38,
+    "citations": 105
+   }
+  },
+  {
+   "domain": "teenvogue.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 38,
+    "citations": 109
+   }
+  },
+  {
+   "domain": "rediff.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 36,
+    "citations": 125
+   }
+  },
+  {
+   "domain": "rsssf.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 36,
+    "citations": 191
+   }
+  },
+  {
+   "domain": "avclub.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 33,
+    "citations": 77
+   }
+  },
+  {
+   "domain": "mit.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 33,
+    "citations": 62
+   }
+  },
+  {
+   "domain": "officialcharts.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 33,
+    "citations": 192
+   }
+  },
+  {
+   "domain": "jta.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 33,
+    "citations": 63
+   }
+  },
+  {
+   "domain": "seattletimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 32,
+    "citations": 54
+   }
+  },
+  {
+   "domain": "scientificamerican.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 31,
+    "citations": 55
+   }
+  },
+  {
+   "domain": "ctvnews.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 30,
+    "citations": 49
+   }
+  },
+  {
+   "domain": "etymonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 28,
+    "citations": 64
+   }
+  },
+  {
+   "domain": "vaticannews.va",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 28,
+    "citations": 259
+   }
+  },
+  {
+   "domain": "barrons.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 28,
+    "citations": 60
+   }
+  },
+  {
+   "domain": "admin.ch",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 28,
+    "citations": 249
+   }
+  },
+  {
+   "domain": "wionews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 27,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "adweek.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 26,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "espn.com.au",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "laliga.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 68
+   }
+  },
+  {
+   "domain": "foxsportsasia.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 58
+   }
+  },
+  {
+   "domain": "theregister.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 25,
+    "citations": 46
+   }
+  },
+  {
+   "domain": "fbi.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 24,
+    "citations": 55
+   }
+  },
+  {
+   "domain": "ushmm.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 24,
+    "citations": 81
+   }
+  },
+  {
+   "domain": "leader.ir",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 23,
+    "citations": 58
+   }
+  },
+  {
+   "domain": "psychologytoday.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 23,
+    "citations": 35
+   }
+  },
+  {
+   "domain": "tehrantimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 23,
+    "citations": 78
+   }
+  },
+  {
+   "domain": "heraldscotland.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 23,
+    "citations": 50
+   }
+  },
+  {
+   "domain": "scotsman.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 23,
+    "citations": 39
+   }
+  },
+  {
+   "domain": "bdfutbol.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 22,
+    "citations": 301
+   }
+  },
+  {
+   "domain": "nbcsports.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 22,
+    "citations": 106
+   }
+  },
+  {
+   "domain": "unodc.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 22,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "encyclopedia.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 22,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "c-span.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 22,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "belfasttelegraph.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 21,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "inquirer.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 21,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "abc7.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "icrc.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "tass.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "ligue1.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 148
+   }
+  },
+  {
+   "domain": "irinnews.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 20,
+    "citations": 35
+   }
+  },
+  {
+   "domain": "cuny.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 18,
+    "citations": 57
+   }
+  },
+  {
+   "domain": "gawker.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 18,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "fco.gov.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 18,
+    "citations": 45
+   }
+  },
+  {
+   "domain": "sbnation.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 17,
+    "citations": 30
+   }
+  },
+  {
+   "domain": "nybooks.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 17,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "unfp.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 17,
+    "citations": 93
+   }
+  },
+  {
+   "domain": "eurovision.tv",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 17,
+    "citations": 42
+   }
+  },
+  {
+   "domain": "oica.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 16,
+    "citations": 28
+   }
+  },
+  {
+   "domain": "thefreedictionary.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 16,
+    "citations": 30
+   }
+  },
+  {
+   "domain": "realclearpolitics.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 16,
+    "citations": 44
+   }
+  },
+  {
+   "domain": "domaintools.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 15,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "pitt.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 15,
+    "citations": 28
+   }
+  },
+  {
+   "domain": "ekathimerini.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 15,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "oecd-ilibrary.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 14,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "bts.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 14,
+    "citations": 45
+   }
+  },
+  {
+   "domain": "asmonaco.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 14,
+    "citations": 45
+   }
+  },
+  {
+   "domain": "tumblr.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 14,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "palmbeachdailynews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 14,
+    "citations": 48
+   }
+  },
+  {
+   "domain": "straightdope.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 13,
+    "citations": 19
+   }
+  },
+  {
+   "domain": "harrisinteractive.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 13,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "fundacionleomessi.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 12,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "fotball.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 12,
+    "n_articles": 12,
+    "citations": 72
+   }
+  },
+  {
+   "domain": "wto.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 20,
+    "citations": 28
+   },
+   "guides": {
+    "n_libraries": 2,
+    "share": 0.0208,
+    "n_regions": 2,
+    "kinds": {
+     "data": 1,
+     "government": 1
+    }
+   }
+  },
+  {
+   "domain": "leparisien.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 147,
+    "citations": 878
+   }
+  },
+  {
+   "domain": "ria.ru",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 116,
+    "citations": 898
+   }
+  },
+  {
+   "domain": "lexpress.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 102,
+    "citations": 390
+   }
+  },
+  {
+   "domain": "screenrant.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 91,
+    "citations": 338
+   }
+  },
+  {
+   "domain": "wikiwix.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 91,
+    "citations": 559
+   }
+  },
+  {
+   "domain": "the-numbers.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 79,
+    "citations": 284
+   }
+  },
+  {
+   "domain": "orf.at",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 64,
+    "citations": 196
+   }
+  },
+  {
+   "domain": "radiofarda.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 59,
+    "citations": 414
+   }
+  },
+  {
+   "domain": "irna.ir",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 55,
+    "citations": 241
+   }
+  },
+  {
+   "domain": "swissinfo.ch",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 55,
+    "citations": 130
+   }
+  },
+  {
+   "domain": "gq.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 52,
+    "citations": 124
+   }
+  },
+  {
+   "domain": "vogue.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 49,
+    "citations": 154
+   }
+  },
+  {
+   "domain": "bnf.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 45,
+    "citations": 151
+   }
+  },
+  {
+   "domain": "spotify.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 41,
+    "citations": 93
+   }
+  },
+  {
+   "domain": "livemint.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 40,
+    "citations": 115
+   }
+  },
+  {
+   "domain": "pcmag.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 38,
+    "citations": 106
+   }
+  },
+  {
+   "domain": "eluniverso.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 37,
+    "citations": 68
+   }
+  },
+  {
+   "domain": "themoscowtimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 36,
+    "citations": 161
+   }
+  },
+  {
+   "domain": "hindu.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 33,
+    "citations": 102
+   }
+  },
+  {
+   "domain": "gamesradar.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 33,
+    "citations": 124
+   }
+  },
+  {
+   "domain": "hellomagazine.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 33,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "eia.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 32,
+    "citations": 72
+   }
+  },
+  {
+   "domain": "newrepublic.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 32,
+    "citations": 75
+   }
+  },
+  {
+   "domain": "lib.ru",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 30,
+    "citations": 109
+   }
+  },
+  {
+   "domain": "fifpro.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 28,
+    "citations": 97
+   }
+  },
+  {
+   "domain": "riaa.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 28,
+    "citations": 89
+   }
+  },
+  {
+   "domain": "transfermarkt.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 27,
+    "citations": 43
+   }
+  },
+  {
+   "domain": "issuu.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 27,
+    "citations": 44
+   }
+  },
+  {
+   "domain": "pagesix.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 27,
+    "citations": 35
+   }
+  },
+  {
+   "domain": "sciencemag.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 26,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "vatican.va",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 26,
+    "citations": 214
+   }
+  },
+  {
+   "domain": "huffingtonpost.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 25,
+    "citations": 44
+   }
+  },
+  {
+   "domain": "wired.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 24,
+    "citations": 62
+   }
+  },
+  {
+   "domain": "hawaii.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 24,
+    "citations": 41
+   }
+  },
+  {
+   "domain": "refinery29.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 23,
+    "citations": 44
+   }
+  },
+  {
+   "domain": "christianitytoday.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 23,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "eu-football.info",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 22,
+    "citations": 36
+   }
+  },
+  {
+   "domain": "dawn.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 21,
+    "citations": 51
+   }
+  },
+  {
+   "domain": "nzherald.co.nz",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 21,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "fcbarcelona.cat",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 21,
+    "citations": 250
+   }
+  },
+  {
+   "domain": "thestar.com.my",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 21,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "channel4.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 21,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "nylon.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 20,
+    "citations": 35
+   }
+  },
+  {
+   "domain": "unibe.ch",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 19,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "nettavisen.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 19,
+    "citations": 56
+   }
+  },
+  {
+   "domain": "documentcloud.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 19,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "indexmundi.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 19,
+    "citations": 42
+   }
+  },
+  {
+   "domain": "microsoft.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 18,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "adage.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 18,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "wilsoncenter.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 18,
+    "citations": 39
+   }
+  },
+  {
+   "domain": "ea.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 17,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "af.mil",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 17,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "opensecrets.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 17,
+    "citations": 30
+   }
+  },
+  {
+   "domain": "findlaw.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 17,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "nationalinterest.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "planetfootball.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 32
+   }
+  },
+  {
+   "domain": "fivethirtyeight.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 52
+   }
+  },
+  {
+   "domain": "timesofmalta.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 36
+   }
+  },
+  {
+   "domain": "cbslocal.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 27
+   }
+  },
+  {
+   "domain": "indiana.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 16,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "bp.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 15,
+    "citations": 30
+   }
+  },
+  {
+   "domain": "fb.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 15,
+    "citations": 94
+   }
+  },
+  {
+   "domain": "tribalfootball.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 15,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "dailyrecord.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 15,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "topuniversities.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 15,
+    "citations": 26
+   }
+  },
+  {
+   "domain": "bea.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 14,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "ethz.ch",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 14,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "american.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 14,
+    "citations": 27
+   }
+  },
+  {
+   "domain": "flightglobal.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 14,
+    "citations": 38
+   }
+  },
+  {
+   "domain": "fcbarcelonanoticias.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 13,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "gao.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 13,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "filmsite.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 13,
+    "citations": 27
+   }
+  },
+  {
+   "domain": "rnz.co.nz",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 13,
+    "citations": 20
+   }
+  },
+  {
+   "domain": "ballot-access.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 12,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "umaine.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 11,
+    "citations": 20
+   }
+  },
+  {
+   "domain": "ibiblio.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 11,
+    "n_articles": 11,
+    "citations": 133
+   }
+  },
+  {
+   "domain": "uol.com.br",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 183,
+    "citations": 5242
+   }
+  },
+  {
+   "domain": "ansa.it",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 125,
+    "citations": 360
+   }
+  },
+  {
+   "domain": "rbc.ru",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 108,
+    "citations": 986
+   }
+  },
+  {
+   "domain": "focus.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 75,
+    "citations": 191
+   }
+  },
+  {
+   "domain": "indiatoday.in",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 73,
+    "citations": 282
+   }
+  },
+  {
+   "domain": "rt.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 71,
+    "citations": 422
+   }
+  },
+  {
+   "domain": "ilsole24ore.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 62,
+    "citations": 137
+   }
+  },
+  {
+   "domain": "20minutos.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 54,
+    "citations": 136
+   }
+  },
+  {
+   "domain": "elespanol.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 51,
+    "citations": 104
+   }
+  },
+  {
+   "domain": "allocine.fr",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 49,
+    "citations": 177
+   }
+  },
+  {
+   "domain": "digitalspy.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 46,
+    "citations": 112
+   }
+  },
+  {
+   "domain": "sputniknews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 43,
+    "citations": 122
+   }
+  },
+  {
+   "domain": "tvguide.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 43,
+    "citations": 108
+   }
+  },
+  {
+   "domain": "al-monitor.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 41,
+    "citations": 122
+   }
+  },
+  {
+   "domain": "yle.fi",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 39,
+    "citations": 148
+   }
+  },
+  {
+   "domain": "harpersbazaar.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 38,
+    "citations": 102
+   }
+  },
+  {
+   "domain": "screendaily.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 36,
+    "citations": 78
+   }
+  },
+  {
+   "domain": "oscars.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 36,
+    "citations": 128
+   }
+  },
+  {
+   "domain": "globalfirepower.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 35,
+    "citations": 55
+   }
+  },
+  {
+   "domain": "etonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 35,
+    "citations": 81
+   }
+  },
+  {
+   "domain": "conmebol.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 35,
+    "citations": 136
+   }
+  },
+  {
+   "domain": "onzemondial.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 33,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "sfchronicle.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 33,
+    "citations": 65
+   }
+  },
+  {
+   "domain": "thejakartapost.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 32,
+    "citations": 179
+   }
+  },
+  {
+   "domain": "washingtoninstitute.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 30,
+    "citations": 74
+   }
+  },
+  {
+   "domain": "thenation.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 30,
+    "citations": 63
+   }
+  },
+  {
+   "domain": "iol.pt",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 29,
+    "citations": 86
+   }
+  },
+  {
+   "domain": "sport1.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 29,
+    "citations": 79
+   }
+  },
+  {
+   "domain": "channelnewsasia.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 27,
+    "citations": 115
+   }
+  },
+  {
+   "domain": "sportspromedia.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 27,
+    "citations": 104
+   }
+  },
+  {
+   "domain": "mensjournal.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 27,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "rfef.es",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 26,
+    "citations": 91
+   }
+  },
+  {
+   "domain": "globesoccer.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 26,
+    "citations": 59
+   }
+  },
+  {
+   "domain": "consilium.europa.eu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 26,
+    "citations": 48
+   }
+  },
+  {
+   "domain": "puck.news",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 26,
+    "citations": 46
+   }
+  },
+  {
+   "domain": "gq-magazine.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 25,
+    "citations": 50
+   }
+  },
+  {
+   "domain": "gv.at",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 25,
+    "citations": 56
+   }
+  },
+  {
+   "domain": "theplaylist.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 25,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "gamespot.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 25,
+    "citations": 98
+   }
+  },
+  {
+   "domain": "deseret.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 24,
+    "citations": 52
+   }
+  },
+  {
+   "domain": "dazn.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 24,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "technologyreview.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 22,
+    "citations": 61
+   }
+  },
+  {
+   "domain": "vh1.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 22,
+    "citations": 57
+   }
+  },
+  {
+   "domain": "findagrave.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 21,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "webmd.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 21,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "slantmagazine.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 21,
+    "citations": 56
+   }
+  },
+  {
+   "domain": "cafonline.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 143
+   }
+  },
+  {
+   "domain": "sandiegouniontribune.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 30
+   }
+  },
+  {
+   "domain": "genius.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 43
+   }
+  },
+  {
+   "domain": "google.ca",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 42
+   }
+  },
+  {
+   "domain": "businesswire.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 46
+   }
+  },
+  {
+   "domain": "destatis.de",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 20,
+    "citations": 136
+   }
+  },
+  {
+   "domain": "cmjornal.pt",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 19,
+    "citations": 36
+   }
+  },
+  {
+   "domain": "ruv.is",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 19,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "thescore.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 33
+   }
+  },
+  {
+   "domain": "squawka.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 64
+   }
+  },
+  {
+   "domain": "eluniversal.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 87
+   }
+  },
+  {
+   "domain": "com.ve",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 114
+   }
+  },
+  {
+   "domain": "reviewjournal.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "dtic.mil",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 35
+   }
+  },
+  {
+   "domain": "googleusercontent.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 18,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "israelnationalnews.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 17,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "degruyter.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 17,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "rand.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 37
+   }
+  },
+  {
+   "domain": "service.gov.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "cloudfront.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 80
+   }
+  },
+  {
+   "domain": "cleveland.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 47
+   }
+  },
+  {
+   "domain": "icc-cpi.int",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 16,
+    "citations": 28
+   }
+  },
+  {
+   "domain": "ccma.cat",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "comscore.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 33
+   }
+  },
+  {
+   "domain": "usdoj.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "doe.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "oxfordjournals.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 32
+   }
+  },
+  {
+   "domain": "visualcapitalist.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "squarespace.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "fordham.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 15,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "artnet.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "football-italia.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 55
+   }
+  },
+  {
+   "domain": "eurosport.co.uk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 40
+   }
+  },
+  {
+   "domain": "icij.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "ggdc.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "rutgers.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 26
+   }
+  },
+  {
+   "domain": "aftenposten.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 33
+   }
+  },
+  {
+   "domain": "internetworldstats.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "bet.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "ustr.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "iso.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "geni.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 14,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "grantland.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "peopledaily.com.cn",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 27
+   }
+  },
+  {
+   "domain": "nyu.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 43
+   }
+  },
+  {
+   "domain": "osd.mil",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 29
+   }
+  },
+  {
+   "domain": "laureus.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 34
+   }
+  },
+  {
+   "domain": "copaamerica.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "flickr.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 13,
+    "citations": 17
+   }
+  },
+  {
+   "domain": "tv2.dk",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 12,
+    "citations": 20
+   }
+  },
+  {
+   "domain": "football-espana.net",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 12,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "unfpa.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 12,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "mic.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 12,
+    "citations": 18
+   }
+  },
+  {
+   "domain": "nbcolympics.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 19
+   }
+  },
+  {
+   "domain": "sciencenews.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "iata.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "hawaii.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 31
+   }
+  },
+  {
+   "domain": "mastercard.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "eusm.eu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "shanghairanking.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "visionofhumanity.org",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "greekcitytimes.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 19
+   }
+  },
+  {
+   "domain": "lawandcrime.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 24
+   }
+  },
+  {
+   "domain": "dol.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "tubefilter.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 28
+   }
+  },
+  {
+   "domain": "icelandreview.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 16
+   }
+  },
+  {
+   "domain": "intermiamicf.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 23
+   }
+  },
+  {
+   "domain": "panapress.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 22
+   }
+  },
+  {
+   "domain": "howstuffworks.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 11,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "unlv.edu",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 10,
+    "citations": 16
+   }
+  },
+  {
+   "domain": "federalreserve.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 10,
+    "citations": 25
+   }
+  },
+  {
+   "domain": "jbl.no",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 10,
+    "n_articles": 10,
+    "citations": 21
+   }
+  },
+  {
+   "domain": "gpo.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 9,
+    "n_articles": 12,
+    "citations": 20
+   },
+   "guides": {
+    "n_libraries": 12,
+    "share": 0.125,
+    "n_regions": 2,
+    "kinds": {
+     "government": 14
+    }
+   }
+  },
+  {
+   "domain": "pressreader.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 8,
+    "n_articles": 24,
+    "citations": 29
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 5,
+    "kinds": {
+     "news": 6
+    }
+   }
+  },
+  {
+   "domain": "ebsco.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 6,
+    "n_articles": 9,
+    "citations": 11
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 5,
+    "kinds": {
+     "news": 4,
+     "data": 1,
+     "government": 1
+    }
+   }
+  },
+  {
+   "domain": "gale.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 17,
+    "citations": 25
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 3,
+    "kinds": {
+     "news": 7
+    }
+   }
+  },
+  {
+   "domain": "usa.gov",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 5,
+    "n_articles": 5,
+    "citations": 10
+   },
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 1,
+    "kinds": {
+     "government": 5
+    }
+   }
+  },
+  {
+   "domain": "ebscohost.com",
+   "open_web_tier": null,
+   "wikipedia": {
+    "n_languages": 2,
+    "n_articles": 2,
+    "citations": 4
+   },
+   "guides": {
+    "n_libraries": 6,
+    "share": 0.0625,
+    "n_regions": 5,
+    "kinds": {
+     "news": 5,
+     "data": 2
+    }
+   }
+  },
+  {
+   "domain": "fdlp.gov",
+   "open_web_tier": null,
+   "guides": {
+    "n_libraries": 8,
+    "share": 0.0833,
+    "n_regions": 1,
+    "kinds": {
+     "government": 9
+    }
+   }
+  },
+  {
+   "domain": "crl.edu",
+   "open_web_tier": null,
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 2,
+    "kinds": {
+     "news": 5
+    }
+   }
+  },
+  {
+   "domain": "ukdataservice.ac.uk",
+   "open_web_tier": null,
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 2,
+    "kinds": {
+     "data": 5
+    }
+   }
+  },
+  {
+   "domain": "lexis.com",
+   "open_web_tier": null,
+   "guides": {
+    "n_libraries": 5,
+    "share": 0.0521,
+    "n_regions": 2,
+    "kinds": {
+     "news": 5
+    }
+   }
+  }
+ ]
+}

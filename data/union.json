@@ -88795,11 +88795,13 @@
    ],
    "n_countries": 8,
    "domains": {
-    "freemedicaljournals.com": 6
+    "freemedicaljournals.com": 6,
+    "digitallibrary.edu.pk": 1
    },
    "hosts": {
     "www.freemedicaljournals.com": 5,
-    "freemedicaljournals.com": 1
+    "freemedicaljournals.com": 1,
+    "www.digitallibrary.edu.pk": 1
    },
    "vendor_hints": {},
    "free_flagged_by": 1,
@@ -99136,7 +99138,7 @@
    ],
    "n_countries": 7,
    "domains": {
-    "org.br": 6
+    "bioline.org.br": 6
    },
    "hosts": {
     "www.bioline.org.br": 6
@@ -110149,7 +110151,7 @@
    ],
    "n_countries": 7,
    "domains": {
-    "go.jp": 5
+    "jst.go.jp": 5
    },
    "hosts": {
     "www.jstage.jst.go.jp": 5
@@ -117477,8 +117479,8 @@
    ],
    "n_countries": 4,
    "domains": {
-    "org.il": 2,
-    "ac.il": 1
+    "nli.org.il": 2,
+    "huji.ac.il": 1
    },
    "hosts": {
     "web.nli.org.il": 2,
@@ -129721,7 +129723,8 @@
    ],
    "n_countries": 5,
    "domains": {
-    "org.il": 5
+    "nli.org.il": 4,
+    "jpress.org.il": 1
    },
    "hosts": {
     "www.nli.org.il": 2,
@@ -131841,8 +131844,8 @@
    ],
    "n_countries": 4,
    "domains": {
-    "org.il": 2,
-    "ac.il": 1
+    "nli.org.il": 2,
+    "huji.ac.il": 1
    },
    "hosts": {
     "jnul.huji.ac.il": 1,
@@ -147411,7 +147414,7 @@
    ],
    "n_countries": 4,
    "domains": {
-    "govt.nz": 4
+    "natlib.govt.nz": 4
    },
    "hosts": {
     "paperspast.natlib.govt.nz": 4
@@ -157783,7 +157786,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 5
+    "amh.net.au": 5
    },
    "hosts": {
     "amhonline.amh.net.au": 3,
@@ -170741,7 +170744,7 @@
    ],
    "n_countries": 3,
    "domains": {
-    "org.il": 3
+    "nli.org.il": 3
    },
    "hosts": {
     "web.nli.org.il": 1,
@@ -209938,7 +209941,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "gov.sg": 3
+    "nlb.gov.sg": 3
    },
    "hosts": {
     "eresources.nlb.gov.sg": 3
@@ -237375,7 +237378,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "com.ar": 2
+    "ahira.com.ar": 2
    },
    "hosts": {
     "ahira.com.ar": 2
@@ -243432,7 +243435,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "govt.nz": 3
+    "teara.govt.nz": 3
    },
    "hosts": {
     "teara.govt.nz": 2,
@@ -257425,7 +257428,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "co.il": 2
+    "responsa.co.il": 2
    },
    "hosts": {
     "www.responsa.co.il": 2
@@ -259547,7 +259550,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "net.au": 1,
+    "magpies.net.au": 1,
     "sourcenationalgallery.ie": 1
    },
    "hosts": {
@@ -268059,7 +268062,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1,
+    "etv.org.nz": 1,
     "etv.nz": 1
    },
    "hosts": {
@@ -268444,7 +268447,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 2
+    "natlib.govt.nz": 2
    },
    "hosts": {
     "findnzarticles.natlib.govt.nz": 1,
@@ -270552,7 +270555,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 2
+    "stats.govt.nz": 2
    },
    "hosts": {
     "www.stats.govt.nz": 1,
@@ -270764,7 +270767,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 2
+    "aucklandlibraries.govt.nz": 2
    },
    "hosts": {
     "kura.aucklandlibraries.govt.nz": 2
@@ -273511,7 +273514,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 2
+    "nzcer.org.nz": 2
    },
    "hosts": {
     "www.nzcer.org.nz": 2
@@ -292600,7 +292603,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "edu.ar": 1
+    "clacso.edu.ar": 1
    },
    "hosts": {
     "biblioteca.clacso.edu.ar": 1
@@ -296610,7 +296613,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "org.il": 2
+    "imj.org.il": 2
    },
    "hosts": {
     "dss.collections.imj.org.il": 2
@@ -313355,7 +313358,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "ac.il": 1
+    "cet.ac.il": 1
    },
    "hosts": {
     "kotar.cet.ac.il": 1
@@ -315727,7 +315730,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "org.il": 1
+    "hebrew-academy.org.il": 1
    },
    "hosts": {
     "maagarim.hebrew-academy.org.il": 1
@@ -321886,7 +321889,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "co.il": 1
+    "responsa.co.il": 1
    },
    "hosts": {
     "www.responsa.co.il": 1
@@ -333896,7 +333899,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "go.jp": 1
+    "aist.go.jp": 1
    },
    "hosts": {
     "sdbs.db.aist.go.jp": 1
@@ -338870,7 +338873,7 @@
    ],
    "n_countries": 2,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "warp.da.ndl.go.jp": 1
@@ -348452,7 +348455,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 2
+    "bnp.gob.pe": 2
    },
    "hosts": {
     "bpdigital.bnp.gob.pe": 2
@@ -386432,7 +386435,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.sg": 2
+    "ura.gov.sg": 2
    },
    "hosts": {
     "eservice.ura.gov.sg": 2
@@ -390005,7 +390008,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.sg": 1
+    "agc.gov.sg": 1
    },
    "hosts": {
     "sso.agc.gov.sg": 1
@@ -392143,7 +392146,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -392807,7 +392810,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 2
+    "trdizin.gov.tr": 2
    },
    "hosts": {
     "trdizin.gov.tr": 2
@@ -396822,7 +396825,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 2
+    "yok.gov.tr": 2
    },
    "hosts": {
     "tez.yok.gov.tr": 2
@@ -400732,7 +400735,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -400868,7 +400871,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -401564,7 +401567,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "stats.govt.nz": 1
    },
    "hosts": {
     "www.stats.govt.nz": 1
@@ -404401,7 +404404,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tw": 1
+    "drnh.gov.tw": 1
    },
    "hosts": {
     "www.drnh.gov.tw": 1
@@ -417818,7 +417821,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -425955,7 +425958,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "concytec.gob.pe": 1
    },
    "hosts": {
     "alicia.concytec.gob.pe": 1
@@ -437152,7 +437155,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "academic-oup-com.ez.unisabana.edu.co": 1
@@ -443353,7 +443356,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "amh.net.au": 1
    },
    "hosts": {
     "agedcare.amh.net.au": 1
@@ -445779,7 +445782,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.ar": 1
+    "ign.gob.ar": 1
    },
    "hosts": {
     "anida.ign.gob.ar": 1
@@ -446309,7 +446312,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "history.go.kr": 1
    },
    "hosts": {
     "sillok.history.go.kr": 1
@@ -450170,7 +450173,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "stats.govt.nz": 1
    },
    "hosts": {
     "explore.data.stats.govt.nz": 1
@@ -452045,7 +452048,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "ulakbim.gov.tr": 1
    },
    "hosts": {
     "aperta.ulakbim.gov.tr": 1
@@ -454512,7 +454515,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "aquichan.unisabana.edu.co": 1
@@ -458212,7 +458215,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "archives.govt.nz": 1
    },
    "hosts": {
     "collections.archives.govt.nz": 1
@@ -463536,7 +463539,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "congreso.gob.pe": 1
    },
    "hosts": {
     "www.leyes.congreso.gob.pe": 1
@@ -463676,7 +463679,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.pe": 1
+    "pucp.edu.pe": 1
    },
    "hosts": {
     "facultad.pucp.edu.pe": 1
@@ -463784,7 +463787,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.ar": 1
+    "archivorta.com.ar": 1
    },
    "hosts": {
     "www.archivorta.com.ar": 1
@@ -473410,7 +473413,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.hk": 1
+    "aaa.org.hk": 1
    },
    "hosts": {
     "aaa.org.hk": 1
@@ -480151,7 +480154,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "atns.net.au": 1
    },
    "hosts": {
     "atns.net.au": 1
@@ -480187,7 +480190,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "paperspast.natlib.govt.nz": 1
@@ -484421,7 +484424,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "amh.net.au": 1
    },
    "hosts": {
     "agedcare.amh.net.au": 1
@@ -484494,7 +484497,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "amh.net.au": 1
    },
    "hosts": {
     "childrens.amh.net.au": 1
@@ -487711,7 +487714,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "bpac.org.nz": 1
    },
    "hosts": {
     "bpac.org.nz": 1
@@ -487933,7 +487936,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.ar": 1
+    "gba.gob.ar": 1
    },
    "hosts": {
     "bafilma.gba.gob.ar": 1
@@ -489032,7 +489035,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.gh": 1
+    "bog.gov.gh": 1
    },
    "hosts": {
     "www.bog.gov.gh": 1
@@ -489797,7 +489800,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.es": 1
+    "educacion.gob.es": 1
    },
    "hosts": {
     "www.educacion.gob.es": 1
@@ -493110,7 +493113,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "bgu.ac.il": 1
    },
    "hosts": {
     "bengurionarchive.bgu.ac.il": 1
@@ -497394,7 +497397,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "nli.org.il": 1
    },
    "hosts": {
     "merhav.nli.org.il": 1
@@ -499761,7 +499764,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.mx": 1
+    "bibliotechnia.com.mx": 1
    },
    "hosts": {
     "www.bibliotechnia.com.mx": 1
@@ -500563,7 +500566,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.ar": 1
+    "cultura.gob.ar": 1
    },
    "hosts": {
     "senip.cultura.gob.ar": 1
@@ -502794,7 +502797,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.br": 1
+    "bioline.org.br": 1
    },
    "hosts": {
     "www.bioline.org.br": 1
@@ -505184,7 +505187,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "dia.govt.nz": 1
    },
    "hosts": {
     "www.bdmhistoricalrecords.dia.govt.nz": 1
@@ -510159,7 +510162,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "archives.govt.nz": 1
    },
    "hosts": {
     "collections.archives.govt.nz": 1
@@ -545147,7 +545150,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.es": 1
+    "mcu.gob.es": 1
    },
    "hosts": {
     "sede.mcu.gob.es": 1
@@ -552591,7 +552594,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -555357,7 +555360,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tw": 1
+    "npm.gov.tw": 1
    },
    "hosts": {
     "mofaarchives.npm.gov.tw": 1
@@ -570733,7 +570736,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.ar": 1
+    "clacso.edu.ar": 1
    },
    "hosts": {
     "biblioteca.clacso.edu.ar": 1
@@ -571452,7 +571455,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "abc.net.au": 1
    },
    "hosts": {
     "www.abc.net.au": 1
@@ -580104,7 +580107,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "doj.gov.hk": 1
    },
    "hosts": {
     "www.glossary.doj.gov.hk": 1
@@ -580456,7 +580459,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "comcom.govt.nz": 1
    },
    "hosts": {
     "www.comcom.govt.nz": 1
@@ -582324,7 +582327,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "archives.govt.nz": 1
    },
    "hosts": {
     "www.archives.govt.nz": 1
@@ -590283,7 +590286,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.za": 1
+    "concourt.org.za": 1
    },
    "hosts": {
     "www.concourt.org.za": 1
@@ -605385,7 +605388,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "mevzuat.gov.tr": 1
    },
    "hosts": {
     "www.mevzuat.gov.tr": 1
@@ -607725,7 +607728,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.co": 1
+    "minciencias.gov.co": 1
    },
    "hosts": {
     "minciencias.gov.co": 1
@@ -608288,7 +608291,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.ir": 1
+    "cgie.org.ir": 1
    },
    "hosts": {
     "www.cgie.org.ir": 1
@@ -609149,7 +609152,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "teikokugikai-i.ndl.go.jp": 1
@@ -609185,7 +609188,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "kokkai.ndl.go.jp": 1
@@ -612404,7 +612407,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "data.gov.hk": 1
    },
    "hosts": {
     "data.gov.hk": 1
@@ -619438,7 +619441,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.za": 1
+    "dws.gov.za": 1
    },
    "hosts": {
     "www.dws.gov.za": 1
@@ -620059,7 +620062,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.tr": 1
+    "dergipark.org.tr": 1
    },
    "hosts": {
     "dergipark.org.tr": 1
@@ -620095,7 +620098,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.tr": 1
+    "dergipark.org.tr": 1
    },
    "hosts": {
     "dergipark.org.tr": 1
@@ -622496,7 +622499,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "devletarsivleri.gov.tr": 1
    },
    "hosts": {
     "www.devletarsivleri.gov.tr": 1
@@ -627868,7 +627871,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "ntok.go.kr": 1
    },
    "hosts": {
     "archive.ntok.go.kr": 1
@@ -628539,7 +628542,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "imj.org.il": 1
    },
    "hosts": {
     "dss.collections.imj.org.il": 1
@@ -631069,7 +631072,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "sanayi.gov.tr": 1
    },
    "hosts": {
     "verimlilikkutuphanesi.sanayi.gov.tr": 1
@@ -631105,7 +631108,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "dikaion.unisabana.edu.co": 1
@@ -631421,7 +631424,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "mofa.go.jp": 1
    },
    "hosts": {
     "www.mofa.go.jp": 1
@@ -631634,7 +631637,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.co": 1
+    "derechodeautor.gov.co": 1
    },
    "hosts": {
     "www.derechodeautor.gov.co": 1
@@ -631996,7 +631999,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "archives.govt.nz": 1
    },
    "hosts": {
     "www.archives.govt.nz": 1
@@ -632207,7 +632210,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "justice.govt.nz": 1
    },
    "hosts": {
     "www.justice.govt.nz": 1
@@ -640794,7 +640797,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "dsd.gov.hk": 1
    },
    "hosts": {
     "www.dsd.gov.hk": 1
@@ -641109,7 +641112,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.ae": 1
+    "dsc.gov.ae": 1
    },
    "hosts": {
     "www.dsc.gov.ae": 1
@@ -641745,7 +641748,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "dunedin.govt.nz": 1
    },
    "hosts": {
     "www.dunedin.govt.nz": 1
@@ -643566,7 +643569,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "nich.go.jp": 1
    },
    "hosts": {
     "emuseum.nich.go.jp": 1
@@ -660221,7 +660224,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "educacionyeducadores.unisabana.edu.co": 1
@@ -687072,7 +687075,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.my": 1
+    "pnmdigital.gov.my": 1
    },
    "hosts": {
     "www.pnmdigital.gov.my": 1
@@ -689237,7 +689240,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.ph": 1
+    "central.com.ph": 1
    },
    "hosts": {
     "www.central.com.ph": 1
@@ -704623,7 +704626,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "justice.govt.nz": 1
    },
    "hosts": {
     "www.justice.govt.nz": 1
@@ -733387,7 +733390,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.id": 1
+    "anri.go.id": 1
    },
    "hosts": {
     "www.sejarah-nusantara.anri.go.id": 1
@@ -738518,7 +738521,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "gcb.com.gh": 1
    },
    "hosts": {
     "www.gcb.com.gh": 1
@@ -738662,7 +738665,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.gh": 1
+    "statsghana.gov.gh": 1
    },
    "hosts": {
     "www.statsghana.gov.gh": 1
@@ -738698,7 +738701,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "gse.com.gh": 1
    },
    "hosts": {
     "www.gse.com.gh": 1
@@ -741778,7 +741781,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "co.il": 1
+    "responsa.co.il": 1
    },
    "hosts": {
     "www.responsa.co.il": 1
@@ -755484,7 +755487,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "ulakbim.gov.tr": 1
    },
    "hosts": {
     "arsiv.ulakbim.gov.tr": 1
@@ -758054,7 +758057,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "hdc.org.nz": 1
    },
    "hosts": {
     "www.hdc.org.nz": 1
@@ -759004,7 +759007,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "hpdt.org.nz": 1
    },
    "hosts": {
     "www.hpdt.org.nz": 1
@@ -763863,7 +763866,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "aucklandlibraries.govt.nz": 1
    },
    "hosts": {
     "kura.aucklandlibraries.govt.nz": 1
@@ -766906,7 +766909,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "hkpl.gov.hk": 1
    },
    "hosts": {
     "mmis.hkpl.gov.hk": 1
@@ -776508,7 +776511,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "elegislation.gov.hk": 1
    },
    "hosts": {
     "www.elegislation.gov.hk": 1
@@ -776616,7 +776619,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "gld.gov.hk": 1
    },
    "hosts": {
     "egazette.gld.gov.hk": 1
@@ -779407,7 +779410,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "huji.ac.il": 1
    },
    "hosts": {
     "hufind.huji.ac.il": 1
@@ -781637,7 +781640,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "huni.net.au": 1
    },
    "hosts": {
     "huni.net.au": 1
@@ -791549,7 +791552,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "or.jp": 1
+    "ntticc.or.jp": 1
    },
    "hosts": {
     "www.ntticc.or.jp": 1
@@ -796925,7 +796928,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -797829,7 +797832,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "dajokan.ndl.go.jp": 1
@@ -798476,7 +798479,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "hourei.ndl.go.jp": 1
@@ -798692,7 +798695,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "co.il": 1
+    "yiddish-periodicals.co.il": 1
    },
    "hosts": {
     "yiddish-periodicals.co.il": 1
@@ -805703,7 +805706,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -807328,7 +807331,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "inei.gob.pe": 1
    },
    "hosts": {
     "www.inei.gob.pe": 1
@@ -808477,7 +808480,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "iponz.govt.nz": 1
    },
    "hosts": {
     "www.iponz.govt.nz": 1
@@ -808513,7 +808516,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "intellectum.unisabana.edu.co": 1
@@ -828338,7 +828341,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "inpit.go.jp": 1
    },
    "hosts": {
     "www.j-platpat.inpit.go.jp": 1
@@ -828408,7 +828411,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "jst.go.jp": 1
    },
    "hosts": {
     "www.jstage.jst.go.jp": 1
@@ -830540,7 +830543,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "jpo.go.jp": 1
    },
    "hosts": {
     "www.jpo.go.jp": 1
@@ -832258,7 +832261,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "huji.ac.il": 1
    },
    "hosts": {
     "jewishhistory.huji.ac.il": 1
@@ -835778,7 +835781,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "academic-oup-com.ez.unisabana.edu.co": 1
@@ -847832,7 +847835,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "jst.go.jp": 1
    },
    "hosts": {
     "www.jstage.jst.go.jp": 1
@@ -850011,7 +850014,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "courtsofnz.govt.nz": 1
    },
    "hosts": {
     "www.courtsofnz.govt.nz": 1
@@ -850047,7 +850050,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "justice.govt.nz": 1
    },
    "hosts": {
     "www.justice.govt.nz": 1
@@ -850803,7 +850806,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "pj.gob.pe": 1
    },
    "hosts": {
     "jurisprudencia.pj.gob.pe": 1
@@ -853252,7 +853255,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.tr": 1
+    "kap.org.tr": 1
    },
    "hosts": {
     "www.kap.org.tr": 1
@@ -854571,7 +854574,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "kci.go.kr": 1
    },
    "hosts": {
     "www.kci.go.kr": 1
@@ -860015,7 +860018,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "kci.go.kr": 1
    },
    "hosts": {
     "www.kci.go.kr": 1
@@ -860051,7 +860054,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "kci.go.kr": 1
    },
    "hosts": {
     "www.kci.go.kr": 1
@@ -860127,7 +860130,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "or.kr": 1
+    "koreascience.or.kr": 1
    },
    "hosts": {
     "www.koreascience.or.kr": 1
@@ -860716,7 +860719,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "or.kr": 1
+    "koreascience.or.kr": 1
    },
    "hosts": {
     "www.koreascience.or.kr": 1
@@ -864521,7 +864524,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "laganz.org.nz": 1
    },
    "hosts": {
     "www.laganz.org.nz": 1
@@ -868810,7 +868813,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "lawfoundation.net.au": 1
    },
    "hosts": {
     "lawfoundation.net.au": 1
@@ -869170,7 +869173,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "lawcom.govt.nz": 1
    },
    "hosts": {
     "www.lawcom.govt.nz": 1
@@ -869448,7 +869451,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.hk": 1
+    "hklawsoc.org.hk": 1
    },
    "hosts": {
     "www.hklawsoc.org.hk": 1
@@ -869973,7 +869976,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.za": 1
+    "lawlibrary.org.za": 1
    },
    "hosts": {
     "lawlibrary.org.za": 1
@@ -873434,7 +873437,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "legislation.govt.nz": 1
    },
    "hosts": {
     "www.legislation.govt.nz": 1
@@ -874285,7 +874288,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "deadseascrolls.org.il": 1
    },
    "hosts": {
     "www.deadseascrolls.org.il": 1
@@ -892931,7 +892934,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.hk": 1
+    "mplus.org.hk": 1
    },
    "hosts": {
     "stories.mplus.org.hk": 1
@@ -892967,7 +892970,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "hebrew-academy.org.il": 1
    },
    "hosts": {
     "maagarim.hebrew-academy.org.il": 1
@@ -893003,7 +893006,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "hebrew-academy.org.il": 1
    },
    "hosts": {
     "maagarim.hebrew-academy.org.il": 1
@@ -893040,7 +893043,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "hebrew-academy.org.il": 1
    },
    "hosts": {
     "maagarim.hebrew-academy.org.il": 1
@@ -898238,7 +898241,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "maorilandcourt.govt.nz": 1
    },
    "hosts": {
     "www.maorilandcourt.govt.nz": 1
@@ -898384,7 +898387,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "maorilandcourt.govt.nz": 1
    },
    "hosts": {
     "customer.service.maorilandcourt.govt.nz": 1
@@ -901028,7 +901031,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "haifa.ac.il": 1
    },
    "hosts": {
     "mjmd.haifa.ac.il": 1
@@ -905123,7 +905126,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "dunedinlibraries.govt.nz": 1
    },
    "hosts": {
     "www.dunedinlibraries.govt.nz": 1
@@ -911154,7 +911157,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.br": 1
+    "memoriasdaditadura.org.br": 1
    },
    "hosts": {
     "memoriasdaditadura.org.br": 1
@@ -911956,7 +911959,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "merchantbank.com.gh": 1
    },
    "hosts": {
     "www.merchantbank.com.gh": 1
@@ -920004,7 +920007,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "environment.govt.nz": 1
    },
    "hosts": {
     "environment.govt.nz": 1
@@ -920041,7 +920044,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.gh": 1
+    "ghana.gov.gh": 1
    },
    "hosts": {
     "www.ghana.gov.gh": 1
@@ -920078,7 +920081,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.gh": 1
+    "ghana.gov.gh": 1
    },
    "hosts": {
     "www.ghana.gov.gh": 1
@@ -920153,7 +920156,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.gh": 1
+    "ghana.gov.gh": 1
    },
    "hosts": {
     "www.ghana.gov.gh": 1
@@ -928591,7 +928594,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "net.au": 1
+    "sirsidynix.net.au": 1
    },
    "hosts": {
     "iats.ent.sirsidynix.net.au": 1
@@ -929204,7 +929207,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "tepapa.govt.nz": 1
    },
    "hosts": {
     "collections.tepapa.govt.nz": 1
@@ -933526,7 +933529,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "affrc.go.jp": 1
    },
    "hosts": {
     "www.naro.affrc.go.jp": 1
@@ -935853,7 +935856,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "dlibrary.go.kr": 1
    },
    "hosts": {
     "www.dlibrary.go.kr": 1
@@ -936907,7 +936910,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "res.in": 1
+    "niscair.res.in": 1
    },
    "hosts": {
     "nopr.niscair.res.in": 1
@@ -937476,7 +937479,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.kr": 1
+    "nl.go.kr": 1
    },
    "hosts": {
     "www.nl.go.kr": 1
@@ -937759,7 +937762,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -937795,7 +937798,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -944288,7 +944291,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "go.jp": 1
+    "ndl.go.jp": 1
    },
    "hosts": {
     "ndlsearch.ndl.go.jp": 1
@@ -951810,7 +951813,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "justice.govt.nz": 1
    },
    "hosts": {
     "www.justice.govt.nz": 1
@@ -951884,7 +951887,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "webarchive.natlib.govt.nz": 1
@@ -951992,7 +951995,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "nzfchildren.org.nz": 1
    },
    "hosts": {
     "www.nzfchildren.org.nz": 1
@@ -952064,7 +952067,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "gazette.govt.nz": 1
    },
    "hosts": {
     "gazette.govt.nz": 1
@@ -952100,7 +952103,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "webarchive.natlib.govt.nz": 1
@@ -952314,7 +952317,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "legislation.govt.nz": 1
    },
    "hosts": {
     "www.legislation.govt.nz": 1
@@ -952678,7 +952681,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "nzulm.org.nz": 1
    },
    "hosts": {
     "info.nzulm.org.nz": 1
@@ -954074,7 +954077,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.sg": 1
+    "nlb.gov.sg": 1
    },
    "hosts": {
     "eresources.nlb.gov.sg": 1
@@ -961241,7 +961244,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.mx": 1
+    "sct.gob.mx": 1
    },
    "hosts": {
     "nats.sct.gob.mx": 1
@@ -972943,7 +972946,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.hk": 1
+    "hkpl.gov.hk": 1
    },
    "hosts": {
     "mmis.hkpl.gov.hk": 1
@@ -974920,7 +974923,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "huji.ac.il": 1
    },
    "hosts": {
     "jnul.huji.ac.il": 1
@@ -982018,7 +982021,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "huji.ac.il": 1
    },
    "hosts": {
     "orion.mscc.huji.ac.il": 1
@@ -984005,7 +984008,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "scinfo.org.nz": 1
    },
    "hosts": {
     "ourenvironment.scinfo.org.nz": 1
@@ -984278,7 +984281,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "ez.unisabana.edu.co": 1
@@ -984314,7 +984317,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "ez.unisabana.edu.co": 1
@@ -997952,7 +997955,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "palabraclave.unisabana.edu.co": 1
@@ -998740,7 +998743,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.my": 1
+    "mpob.gov.my": 1
    },
    "hosts": {
     "palmoilis.mpob.gov.my": 1
@@ -999954,7 +999957,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "paperspast.natlib.govt.nz": 1
@@ -1013821,7 +1013824,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "datosabiertos.gob.pe": 1
    },
    "hosts": {
     "www.datosabiertos.gob.pe": 1
@@ -1014158,7 +1014161,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "playmarket.org.nz": 1
    },
    "hosts": {
     "www.playmarket.org.nz": 1
@@ -1019223,7 +1019226,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.es": 1
+    "culturaydeporte.gob.es": 1
    },
    "hosts": {
     "pares.culturaydeporte.gob.es": 1
@@ -1021727,7 +1021730,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "bgu.ac.il": 1
    },
    "hosts": {
     "w3.bgu.ac.il": 1
@@ -1023121,7 +1023124,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "ez.unisabana.edu.co": 1
@@ -1024458,7 +1024461,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "privacy.org.nz": 1
    },
    "hosts": {
     "www.privacy.org.nz": 1
@@ -1043678,7 +1043681,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -1048684,7 +1048687,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "nli.org.il": 1
    },
    "hosts": {
     "www.nli.org.il": 1
@@ -1048720,7 +1048723,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "nli.org.il": 1
    },
    "hosts": {
     "web.nli.org.il": 1
@@ -1057291,7 +1057294,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.ar": 1
+    "clacso.edu.ar": 1
    },
    "hosts": {
     "biblioteca.clacso.edu.ar": 1
@@ -1057469,7 +1057472,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.pe": 1
+    "midagri.gob.pe": 1
    },
    "hosts": {
     "repositorio.midagri.gob.pe": 1
@@ -1057504,8 +1057507,12 @@
     "latin_america_caribbean"
    ],
    "n_countries": 1,
-   "domains": {},
-   "hosts": {},
+   "domains": {
+    "uni.edu.pe": 1
+   },
+   "hosts": {
+    "cybertesis.uni.edu.pe": 1
+   },
    "vendor_hints": {},
    "free_flagged_by": 0,
    "restricted_flagged_by": 0,
@@ -1057536,8 +1057543,12 @@
     "latin_america_caribbean"
    ],
    "n_countries": 1,
-   "domains": {},
-   "hosts": {},
+   "domains": {
+    "urp.edu.pe": 1
+   },
+   "hosts": {
+    "repositorio.urp.edu.pe": 1
+   },
    "vendor_hints": {},
    "free_flagged_by": 0,
    "restricted_flagged_by": 0,
@@ -1057602,8 +1057613,12 @@
     "latin_america_caribbean"
    ],
    "n_countries": 1,
-   "domains": {},
-   "hosts": {},
+   "domains": {
+    "unmsm.edu.pe": 1
+   },
+   "hosts": {
+    "cybertesis.unmsm.edu.pe": 1
+   },
    "vendor_hints": {},
    "free_flagged_by": 0,
    "restricted_flagged_by": 0,
@@ -1059121,7 +1059136,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "rbnz.govt.nz": 1
    },
    "hosts": {
     "www.rbnz.govt.nz": 1
@@ -1059258,7 +1059273,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "resmigazete.gov.tr": 1
    },
    "hosts": {
     "www.resmigazete.gov.tr": 1
@@ -1059474,7 +1059489,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "co.il": 1
+    "responsa.co.il": 1
    },
    "hosts": {
     "www.responsa.co.il": 1
@@ -1066498,7 +1066513,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "ez.unisabana.edu.co": 1
@@ -1071218,7 +1071233,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "royalsociety.org.nz": 1
    },
    "hosts": {
     "www.royalsociety.org.nz": 1
@@ -1071286,7 +1071301,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "royalsociety.org.nz": 1
    },
    "hosts": {
     "www.royalsociety.org.nz": 1
@@ -1081543,7 +1081558,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.za": 1
+    "irr.org.za": 1
    },
    "hosts": {
     "irr.org.za": 1
@@ -1096906,7 +1096921,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "sg-ssb.com.gh": 1
    },
    "hosts": {
     "www.sg-ssb.com.gh": 1
@@ -1101351,7 +1101366,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.sg": 1
+    "singstat.gov.sg": 1
    },
    "hosts": {
     "tablebuilder.singstat.gov.sg": 1
@@ -1101975,7 +1101990,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.pe": 1
+    "unmsm.edu.pe": 1
    },
    "hosts": {
     "sisbib.unmsm.edu.pe": 1
@@ -1110597,7 +1110612,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.za": 1
+    "parliament.gov.za": 1
    },
    "hosts": {
     "www.parliament.gov.za": 1
@@ -1116193,7 +1116208,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "sportstribunal.org.nz": 1
    },
    "hosts": {
     "sportstribunal.org.nz": 1
@@ -1123385,7 +1123400,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "standardchartered.com.gh": 1
    },
    "hosts": {
     "www.standardchartered.com.gh": 1
@@ -1123639,7 +1123654,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "standards.govt.nz": 1
    },
    "hosts": {
     "www.standards.govt.nz": 1
@@ -1127078,7 +1127093,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "stats.govt.nz": 1
    },
    "hosts": {
     "www.stats.govt.nz": 1
@@ -1127245,7 +1127260,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.za": 1
+    "statssa.gov.za": 1
    },
    "hosts": {
     "www.statssa.gov.za": 1
@@ -1127460,7 +1127475,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "stats.govt.nz": 1
    },
    "hosts": {
     "www.stats.govt.nz": 1
@@ -1127957,7 +1127972,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.il": 1
+    "spielbergfilmarchive.org.il": 1
    },
    "hosts": {
     "www.spielbergfilmarchive.org.il": 1
@@ -1128960,7 +1128975,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "edu.co": 1
+    "unisabana.edu.co": 1
    },
    "hosts": {
     "www.unisabana.edu.co": 1
@@ -1132288,7 +1132303,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "courtsofnz.govt.nz": 1
    },
    "hosts": {
     "www.courtsofnz.govt.nz": 1
@@ -1135938,7 +1135953,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "resmigazete.gov.tr": 1
    },
    "hosts": {
     "www.resmigazete.gov.tr": 1
@@ -1136446,7 +1136461,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "education.govt.nz": 1
    },
    "hosts": {
     "tahurangi.education.govt.nz": 1
@@ -1137428,7 +1137443,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "co.il": 1
+    "responsa.co.il": 1
    },
    "hosts": {
     "www.responsa.co.il": 1
@@ -1140837,7 +1140852,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.tr": 1
+    "islamansiklopedisi.org.tr": 1
    },
    "hosts": {
     "islamansiklopedisi.org.tr": 1
@@ -1140947,7 +1140962,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "teaohou.natlib.govt.nz": 1
@@ -1140983,7 +1140998,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "paperspast.natlib.govt.nz": 1
@@ -1141019,7 +1141034,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "teara.govt.nz": 1
    },
    "hosts": {
     "teara.govt.nz": 1
@@ -1141055,7 +1141070,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "teara.govt.nz": 1
    },
    "hosts": {
     "www.teara.govt.nz": 1
@@ -1141091,7 +1141106,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "classificationoffice.govt.nz": 1
    },
    "hosts": {
     "www.classificationoffice.govt.nz": 1
@@ -1141127,7 +1141142,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "tepapa.govt.nz": 1
    },
    "hosts": {
     "collections.tepapa.govt.nz": 1
@@ -1141163,7 +1141178,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "org.nz": 1
+    "royalsociety.org.nz": 1
    },
    "hosts": {
     "www.royalsociety.org.nz": 1
@@ -1143735,7 +1143750,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.es": 1
+    "educacion.gob.es": 1
    },
    "hosts": {
     "www.educacion.gob.es": 1
@@ -1143771,7 +1143786,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gob.es": 1
+    "educacion.gob.es": 1
    },
    "hosts": {
     "www.educacion.gob.es": 1
@@ -1148738,7 +1148753,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "tiaki.natlib.govt.nz": 1
@@ -1154925,7 +1154940,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "rsnz.natlib.govt.nz": 1
@@ -1154961,7 +1154976,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "natlib.govt.nz": 1
    },
    "hosts": {
     "natlib.govt.nz": 1
@@ -1156703,7 +1156718,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "nzhistory.govt.nz": 1
    },
    "hosts": {
     "nzhistory.govt.nz": 1
@@ -1158835,7 +1158850,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "tuba.gov.tr": 1
    },
    "hosts": {
     "terim.tuba.gov.tr": 1
@@ -1158949,7 +1158964,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "tuik.gov.tr": 1
    },
    "hosts": {
     "www.tuik.gov.tr": 1
@@ -1163182,7 +1163197,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.ae": 1
+    "fcsc.gov.ae": 1
    },
    "hosts": {
     "fcsc.gov.ae": 1
@@ -1167386,7 +1167401,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "gov.tr": 1
+    "toplukatalog.gov.tr": 1
    },
    "hosts": {
     "www.toplukatalog.gov.tr": 1
@@ -1186768,7 +1186783,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "ac.il": 1
+    "huji.ac.il": 1
    },
    "hosts": {
     "sicsa.huji.ac.il": 1
@@ -1192471,7 +1192486,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "waitangitribunal.govt.nz": 1
    },
    "hosts": {
     "www.waitangitribunal.govt.nz": 1
@@ -1199400,7 +1199415,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1199436,7 +1199451,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1199472,7 +1199487,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1208896,7 +1208911,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "com.gh": 1
+    "google.com.gh": 1
    },
    "hosts": {
     "books.google.com.gh": 1
@@ -1222507,7 +1222522,7 @@
    ],
    "n_countries": 1,
    "domains": {
-    "govt.nz": 1
+    "youthcourt.govt.nz": 1
    },
    "hosts": {
     "youthcourt.govt.nz": 1

@@ -99,6 +99,32 @@ A ban on AI *training* leaves open what human-pace allows: reading the pages a p
 
 These are readings of public text by stated rules. They are not legal advice, and a user's own agreement with a site governs.
 
+## 6. The open-web tier — `scripts/wikipedia_citations.py`, `scripts/subject_guides.py`, `scripts/build_openweb.py`
+
+A–Z database lists measure what libraries license or curate *as databases*. Wikipedia, wire services, newspapers, public broadcasters, fact-checkers, statistics portals and social platforms are widely used in research but rarely listed that way. The open-web tier measures them with two further signals of their own, and publishes them separately from the library tiers.
+
+**Wikipedia citations.**
+- **Languages:** twenty widely read editions: en, es, de, fr, ja, ru, it, pt, zh, pl, nl, ar, fa, tr, ko, id, uk, sv, vi, hi.
+- **Articles:** for each language, the top 200 main-namespace articles by summed monthly views over twelve months, from the Wikimedia Pageviews API.
+- **Pages read:** each article's own page at `/wiki/<title>`. Wikipedia's robots.txt welcomes low-speed bots on article pages and disallows `/w/` and `/api/`, which are not used. Requests run at one per second per worker, with four workers.
+- **What counts:** only links inside the article's reference lists. Archived links (Wayback Machine, archive.today) are credited to the original site. Identifier resolvers (DOI, Handle, VIAF, ORCID, Wikidata and the like) are not counted as sources.
+- **Bias:** most-read lists lean to current events, entertainment and sport. That leaning is the point here: it shows what general readers' sources cite. It is still a bias, and it is disclosed.
+
+**Library subject guides.**
+- **Which guides:** for each collected library, the LibGuides `sitemap.xml` (allowed by robots.txt), keeping up to eight guides whose address names a news, free-web, data or government guide. Only each guide's first page is read.
+- **What counts:** the external links in the guide body, less the library's own and proxy domains. The same politeness rules apply as for the A–Z lists.
+
+**Seed list.** `data/openweb_seed.json` holds about 120 general sources a researcher would expect to be assessed. The seed guarantees a site is assessed; it does not decide its rating.
+
+**Tier rule:**
+
+| Tier | Rule |
+|---|---|
+| open-web | cited in the most-read articles of ≥ 15 of the 20 languages, or linked from the guides of ≥ 10% of the libraries that have such guides, in ≥ 3 regions |
+| open-web-curated | on the seed list, below both thresholds |
+
+Open-web platforms go through the same robots.txt, terms and owner checks, and get the same automation ratings, as every other platform. A domain can hold both a library tier and an open-web tier. JSTOR, for example, is core and also widely cited.
+
 ## Re-running
 
 ```bash
@@ -109,6 +135,10 @@ python3 scripts/make_domains.py
 python3 scripts/fetch_terms.py                             # resumable
 python3 scripts/classify_terms.py
 # owner classification: data/owner/out-*.jsonl (see data/owner/README.md)
+python3 scripts/wikipedia_citations.py top && python3 scripts/wikipedia_citations.py cite && python3 scripts/wikipedia_citations.py summarize
+python3 scripts/subject_guides.py collect && python3 scripts/subject_guides.py summarize
+python3 scripts/build_openweb.py && python3 scripts/fetch_terms.py --domains-file data/openweb_domains.json
+python3 scripts/classify_terms.py
 python3 scripts/rate.py && python3 scripts/report.py && python3 scripts/to_skill_catalog.py
 ```
 
@@ -121,4 +151,5 @@ Raw collections (`data/raw/`, `data/terms/raw/`) hold the libraries' own text an
 - **Terms readings** are pattern matches over sentences. They can miss clauses phrased unusually, or terms kept in PDFs and licence agreements that aren't linked from the home page. Licensed platforms' real terms are usually in the institution's licence, which isn't public.
 - **Owner type and access model** are a model's classification from names, with confidence recorded. Low-confidence rows deserve checking.
 - **Ratings are per domain.** A domain that hosts several services gets one rating, and its access model is taken from its best-known title. A university domain that hosts both free and membership resources is the typical case.
+- **Wikipedia citation signal.** It can't measure Wikipedia, Wikidata or the other Wikimedia projects themselves, because links between them are excluded as self-reference. They enter through the seed list. The signal also counts every reference equally, so heavily footnoted articles weigh more. The registrable-domain rule credits a whole site, so `go.com` stands for ABC News.
 - **Bot checks.** Many large commercial platforms answer an honest automated request with a bot check, so their terms stay `unknown` and they rate human-pace by default. Reading those terms needs a person, or a fetcher those sites admit.
