@@ -29,8 +29,10 @@ def category(p):
     d = set(p.get("disciplines", []))
     if c == "legal" or d == {"law"}:
         return "legal"
-    if c == "news":
+    if c in ("news", "sports", "entertainment") or (c == "media_streaming" and p.get("open_web_tier")):
         return "news"
+    if c == "social_platform":
+        return "social"
     if c in ("search_engine",) and p.get("owner_type") == "commercial" and p.get("open_web_tier"):
         return "academic"
     if c == "government_official":

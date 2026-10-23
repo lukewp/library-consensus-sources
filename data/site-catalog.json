@@ -2409,36 +2409,6 @@
       "probe": "https://learntechlib.org/"
     },
     {
-      "id": "linkedin-com",
-      "name": "LinkedIn (Microsoft)",
-      "domain": "linkedin.com",
-      "category": "academic",
-      "region": "global",
-      "access": "subscription",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "LinkedIn Learning; LinkedIn Learning (formerly Lynda.com); LinkedIn Learning (incorporates Lynda.com); Lynda Online Training Library is now LinkedIn Learning",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "common",
-        "max_libraries": 18,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web-curated",
-        "wikipedia_languages": 12,
-        "guide_libraries": 6
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_all_bots",
-        "urls": []
-      },
-      "source": "library-consensus",
-      "probe": "https://linkedin.com/"
-    },
-    {
       "id": "litencyc-com",
       "name": "Literary Encyclopedia Ltd",
       "domain": "litencyc.com",
@@ -6099,6 +6069,36 @@
       "probe": "https://ft.com/"
     },
     {
+      "id": "linkedin-com",
+      "name": "LinkedIn (Microsoft)",
+      "domain": "linkedin.com",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "LinkedIn Learning; LinkedIn Learning (formerly Lynda.com); LinkedIn Learning (incorporates Lynda.com); Lynda Online Training Library is now LinkedIn Learning",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "common",
+        "max_libraries": 18,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web-curated",
+        "wikipedia_languages": 12,
+        "guide_libraries": 6
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_all_bots",
+        "urls": []
+      },
+      "source": "library-consensus",
+      "probe": "https://linkedin.com/"
+    },
+    {
       "id": "newsbank-com",
       "name": "NewsBank (Readex)",
       "domain": "newsbank.com",
@@ -6179,35 +6179,6 @@
       },
       "source": "library-consensus",
       "probe": "https://pressreader.com/"
-    },
-    {
-      "id": "90min-com",
-      "name": "Football Whispers / 90min Ltd (Sportflash)",
-      "domain": "90min.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
     },
     {
       "id": "about-com",
@@ -6390,129 +6361,6 @@
       "source": "open-web"
     },
     {
-      "id": "as-com",
-      "name": "Prisa Media (Diario AS)",
-      "domain": "as.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "beinsports-com",
-      "name": "beIN Media Group",
-      "domain": "beinsports.com",
-      "category": "academic",
-      "region": "global",
-      "access": "subscription",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.beinsports.com/fr-fr/info/articles/mentions-l%C3%A9gales-2023-05-30"
-        ]
-      },
-      "source": "open-web",
-      "probe": "https://beinsports.com/"
-    },
-    {
-      "id": "bfi-org-uk",
-      "name": "British Film Institute",
-      "domain": "bfi.org.uk",
-      "category": "academic",
-      "region": "uk",
-      "access": "subscription",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "BFI Player; BFI Collections; BFI Filmography; BFI Player (British Film Institute); Free films on BFI Player",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "recognized",
-        "max_libraries": 8,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.bfi.org.uk/terms-use"
-        ]
-      },
-      "source": "open-web",
-      "probe": "https://bfi.org.uk/"
-    },
-    {
-      "id": "billboard-com",
-      "name": "Penske Media Corporation",
-      "domain": "billboard.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://billboard.com/"
-    },
-    {
       "id": "biography-com",
       "name": "A&E Networks (Disney/Hearst)",
       "domain": "biography.com",
@@ -6538,37 +6386,6 @@
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
         "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "bleacherreport-com",
-      "name": "Warner Bros. Discovery (Bleacher Report)",
-      "domain": "bleacherreport.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": [
-          "https://bleacherreport.com/pages/terms"
-        ]
       },
       "source": "open-web"
     },
@@ -6661,66 +6478,6 @@
       "probe": "https://britannica.com/"
     },
     {
-      "id": "bustle-com",
-      "name": "Bustle Digital Group",
-      "domain": "bustle.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "buzzfeed-com",
-      "name": "BuzzFeed Inc.",
-      "domain": "buzzfeed.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "silent",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": [
-          "https://www.buzzfeed.com/about/useragreement"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
       "id": "carnegieendowment-org",
       "name": "Carnegie Endowment for International Peace",
       "domain": "carnegieendowment.org",
@@ -6745,35 +6502,6 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "cbssports-com",
-      "name": "Paramount Skydance (CBS Sports)",
-      "domain": "cbssports.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -6808,35 +6536,6 @@
       "source": "open-web"
     },
     {
-      "id": "complex-com",
-      "name": "Complex Networks (NTWRK)",
-      "domain": "complex.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "countrystudies-us",
       "name": "countrystudies.us",
       "domain": "countrystudies.us",
@@ -6861,215 +6560,6 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "deadline-com",
-      "name": "Penske Media Corporation",
-      "domain": "deadline.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://deadline.com/"
-    },
-    {
-      "id": "espn-co-uk",
-      "name": "ESPN Inc. (Disney/Hearst)",
-      "domain": "espn.co.uk",
-      "category": "academic",
-      "region": "uk",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://espn.co.uk/"
-    },
-    {
-      "id": "espn-com",
-      "name": "ESPN Inc. (Disney/Hearst)",
-      "domain": "espn.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://espn.com/"
-    },
-    {
-      "id": "espnfc-com",
-      "name": "ESPN Inc. (Disney/Hearst)",
-      "domain": "espnfc.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://espnfc.com/"
-    },
-    {
-      "id": "esquire-com",
-      "name": "Hearst Magazines",
-      "domain": "esquire.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://esquire.com/"
-    },
-    {
-      "id": "eurosport-com",
-      "name": "Warner Bros. Discovery (Eurosport)",
-      "domain": "eurosport.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://eurosport.com/"
-    },
-    {
-      "id": "ew-com",
-      "name": "Dotdash Meredith (People Inc.)",
-      "domain": "ew.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
         "urls": []
       },
       "source": "open-web"
@@ -7106,95 +6596,6 @@
       "source": "open-web"
     },
     {
-      "id": "fcbarcelona-com",
-      "name": "FC Barcelona (member-owned sports association)",
-      "domain": "fcbarcelona.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "fifa-com",
-      "name": "FIFA (Fédération Internationale de Football Association)",
-      "domain": "fifa.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://inside.fifa.com/terms-of-service"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "fifa-org",
-      "name": "FIFA (Fédération Internationale de Football Association)",
-      "domain": "fifa.org",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "unknown",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "findarticles-com",
       "name": "FINDARTICLES (CBS NEWS) (STA)",
       "domain": "findarticles.com",
@@ -7222,154 +6623,6 @@
         "urls": [
           "https://www.findarticles.com/terms/"
         ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "fourfourtwo-com",
-      "name": "Future plc",
-      "domain": "fourfourtwo.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "foxsports-com",
-      "name": "Fox Corporation (Fox Sports)",
-      "domain": "foxsports.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "permitted",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.foxsports.com/terms-of-use"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "fpf-pt",
-      "name": "Federação Portuguesa de Futebol",
-      "domain": "fpf.pt",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "gazzetta-it",
-      "name": "RCS MediaGroup (La Gazzetta dello Sport)",
-      "domain": "gazzetta.it",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "reserved",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://gazzetta.it/"
-    },
-    {
-      "id": "givemesport-com",
-      "name": "GiveMeSport Ltd (Sports Illustrated Media)",
-      "domain": "givemesport.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
       },
       "source": "open-web"
     },
@@ -7405,64 +6658,6 @@
       "source": "open-web"
     },
     {
-      "id": "go-com",
-      "name": "The Walt Disney Company",
-      "domain": "go.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "goal-com",
-      "name": "Perform Group / DAZN Group",
-      "domain": "goal.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "google-co-uk",
       "name": "Jet",
       "domain": "google.co.uk",
@@ -7488,37 +6683,6 @@
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
         "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "grammy-com",
-      "name": "Recording Academy",
-      "domain": "grammy.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "permitted",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.grammy.com/legal/"
-        ]
       },
       "source": "open-web"
     },
@@ -7643,36 +6807,6 @@
       "source": "open-web"
     },
     {
-      "id": "hollywoodreporter-com",
-      "name": "Penske Media Corporation",
-      "domain": "hollywoodreporter.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://hollywoodreporter.com/"
-    },
-    {
       "id": "hrw-org",
       "name": "Human Rights Watch",
       "domain": "hrw.org",
@@ -7697,64 +6831,6 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "iffhs-com",
-      "name": "IFFHS (International Federation of Football History & Statistics)",
-      "domain": "iffhs.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "ign-com",
-      "name": "Ziff Davis",
-      "domain": "ign.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
         "urls": []
       },
       "source": "open-web"
@@ -7881,125 +6957,6 @@
       "source": "open-web"
     },
     {
-      "id": "lequipe-fr",
-      "name": "Groupe Amaury (L'Équipe)",
-      "domain": "lequipe.fr",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://lequipe.fr/"
-    },
-    {
-      "id": "mancity-com",
-      "name": "Manchester City FC (City Football Group)",
-      "domain": "mancity.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "manutd-com",
-      "name": "Manchester United plc",
-      "domain": "manutd.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "allowed",
-      "automation_letter": "allowed",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.manutd.com/en/help/website-terms-of-use"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "marca-com",
-      "name": "Unidad Editorial (RCS MediaGroup)",
-      "domain": "marca.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "merriam-webster-com",
       "name": "Merriam-Webster (Encyclopaedia Britannica, Inc.)",
       "domain": "merriam-webster.com",
@@ -8030,66 +6987,6 @@
       "probe": "https://merriam-webster.com/"
     },
     {
-      "id": "mlssoccer-com",
-      "name": "Major League Soccer",
-      "domain": "mlssoccer.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.mlssoccer.com/legal/terms-of-service"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "moldefk-no",
-      "name": "Molde Fotballklubb",
-      "domain": "moldefk.no",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "msn-com",
       "name": "Microsoft",
       "domain": "msn.com",
@@ -8114,64 +7011,6 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "mtv-com",
-      "name": "Paramount Skydance (MTV)",
-      "domain": "mtv.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "mundodeportivo-com",
-      "name": "Grupo Godó",
-      "domain": "mundodeportivo.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -8237,65 +7076,6 @@
       "source": "open-web"
     },
     {
-      "id": "netflix-com",
-      "name": "Netflix Inc.",
-      "domain": "netflix.com",
-      "category": "academic",
-      "region": "global",
-      "access": "subscription",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_all_bots",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://netflix.com/"
-    },
-    {
-      "id": "nme-com",
-      "name": "BandLab Technologies (NME)",
-      "domain": "nme.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "nobelprize-org",
       "name": "Nobel Prize Outreach / Nobel Foundation",
       "domain": "nobelprize.org",
@@ -8327,64 +7107,6 @@
       "source": "open-web"
     },
     {
-      "id": "nrk-no",
-      "name": "NRK",
-      "domain": "nrk.no",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "NRK",
-      "owner_type": "government",
-      "library_consensus": {
-        "tier": "local",
-        "max_libraries": 1,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "olympic-org",
-      "name": "International Olympic Committee",
-      "domain": "olympic.org",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "unknown",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
       "id": "olympics-com",
       "name": "Olympic World Library",
       "domain": "olympics.com",
@@ -8410,156 +7132,6 @@
         "ai_tdm": "unknown",
         "robots_ai": "unknown",
         "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "onefootball-com",
-      "name": "OneFootball GmbH",
-      "domain": "onefootball.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "people-com",
-      "name": "Dotdash Meredith (People Inc.)",
-      "domain": "people.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "pitchfork-com",
-      "name": "Condé Nast",
-      "domain": "pitchfork.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://pitchfork.com/"
-    },
-    {
-      "id": "premierleague-com",
-      "name": "The Football Association Premier League Ltd",
-      "domain": "premierleague.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "allowed",
-      "automation_letter": "allowed",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.premierleague.com/en/terms-and-conditions"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "psg-fr",
-      "name": "Paris Saint-Germain (Qatar Sports Investments)",
-      "domain": "psg.fr",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "training_prohibited",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.psg.fr/en/legal-notice"
-        ]
       },
       "source": "open-web"
     },
@@ -8595,37 +7167,6 @@
       "source": "open-web"
     },
     {
-      "id": "realmadrid-com",
-      "name": "Real Madrid C.F. (member-owned sports association)",
-      "domain": "realmadrid.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "allowed",
-      "automation_letter": "allowed",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.realmadrid.com/es-ES/legal/aviso-legal"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
       "id": "researchgate-net",
       "name": "ResearchGate",
       "domain": "researchgate.net",
@@ -8654,96 +7195,6 @@
       },
       "source": "open-web",
       "probe": "https://researchgate.net/"
-    },
-    {
-      "id": "rollingstone-com",
-      "name": "Penske Media Corporation",
-      "domain": "rollingstone.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 20,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://rollingstone.com/"
-    },
-    {
-      "id": "rottentomatoes-com",
-      "name": "Fandango (NBCUniversal / Versant)",
-      "domain": "rottentomatoes.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "allowed",
-      "automation_letter": "allowed",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.rottentomatoes.com/policies/terms-and-policies"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "rsssf-com",
-      "name": "Rec.Sport.Soccer Statistics Foundation",
-      "domain": "rsssf.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
     },
     {
       "id": "scribd-com",
@@ -8776,36 +7227,6 @@
       },
       "source": "open-web",
       "probe": "https://scribd.com/"
-    },
-    {
-      "id": "si-com",
-      "name": "Minute Media (Sports Illustrated)",
-      "domain": "si.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://si.com/"
     },
     {
       "id": "si-edu",
@@ -8865,363 +7286,6 @@
       },
       "source": "open-web",
       "probe": "https://similarweb.com/"
-    },
-    {
-      "id": "skysports-com",
-      "name": "Sky Group (Comcast)",
-      "domain": "skysports.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_crawlers",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "soccerway-com",
-      "name": "Perform Group (DAZN)",
-      "domain": "soccerway.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 18,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "silent",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": [
-          "https://www.soccerway.com/terms-of-use/"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "sport-es",
-      "name": "Grupo Zeta / Prensa Ibérica",
-      "domain": "sport.es",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "sportingnews-com",
-      "name": "Sporting News Media",
-      "domain": "sportingnews.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "theathletic-com",
-      "name": "The New York Times Company (The Athletic)",
-      "domain": "theathletic.com",
-      "category": "academic",
-      "region": "global",
-      "access": "subscription",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 17,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://theathletic.com/"
-    },
-    {
-      "id": "thecut-com",
-      "name": "Vox Media",
-      "domain": "thecut.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "today-com",
-      "name": "NBCUniversal (Comcast)",
-      "domain": "today.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "silent",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": [
-          "https://www.today.com/start-today/app/supplemental-terms"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "townandcountrymag-com",
-      "name": "Hearst Magazines",
-      "domain": "townandcountrymag.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "no_ai_rules",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "twitter-com",
-      "name": "X Corp.",
-      "domain": "twitter.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 20,
-        "guide_libraries": 8
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_all_bots",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://twitter.com/"
-    },
-    {
-      "id": "uefa-com",
-      "name": "Union of European Football Associations (UEFA)",
-      "domain": "uefa.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "manual-only",
-      "useful_for": "open-web source",
-      "owner_type": "nonprofit",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "prohibited",
-        "ai_tdm": "training_prohibited",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.uefa.com/termsconditions/"
-        ]
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "vanityfair-com",
-      "name": "Condé Nast",
-      "domain": "vanityfair.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 19,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web",
-      "probe": "https://vanityfair.com/"
-    },
-    {
-      "id": "vulture-com",
-      "name": "Vox Media",
-      "domain": "vulture.com",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
     },
     {
       "id": "weforum-org",
@@ -9313,67 +7377,6 @@
         ]
       },
       "source": "open-web"
-    },
-    {
-      "id": "worldfootball-net",
-      "name": "HEIM:SPIEL Medien GmbH",
-      "domain": "worldfootball.net",
-      "category": "academic",
-      "region": "global",
-      "access": "free",
-      "automation": "manual-only",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 15,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "unknown",
-        "ai_tdm": "unknown",
-        "robots_ai": "blocks_ai_user_agents",
-        "urls": []
-      },
-      "source": "open-web"
-    },
-    {
-      "id": "worldsoccer-com",
-      "name": "World Soccer (Future plc)",
-      "domain": "worldsoccer.com",
-      "category": "academic",
-      "region": "global",
-      "access": "account",
-      "automation": "human-pace",
-      "automation_letter": "human-pace",
-      "useful_for": "open-web source",
-      "owner_type": "commercial",
-      "library_consensus": {
-        "tier": "none",
-        "max_libraries": 0,
-        "of": 119
-      },
-      "open_web": {
-        "tier": "open-web",
-        "wikipedia_languages": 16,
-        "guide_libraries": 0
-      },
-      "terms": {
-        "automated_access": "silent",
-        "ai_tdm": "silent",
-        "robots_ai": "no_ai_rules",
-        "urls": [
-          "https://www.worldsoccer.com/terms-and-conditions"
-        ]
-      },
-      "source": "open-web",
-      "probe": "https://worldsoccer.com/"
     },
     {
       "id": "yahoo-com",
@@ -10244,6 +8247,35 @@
       "source": "open-web"
     },
     {
+      "id": "90min-com",
+      "name": "Football Whispers / 90min Ltd (Sportflash)",
+      "domain": "90min.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "aa-com-tr",
       "name": "Anadolu Agency (Turkish state news agency)",
       "domain": "aa.com.tr",
@@ -10422,6 +8454,35 @@
       "probe": "https://arstechnica.com/"
     },
     {
+      "id": "as-com",
+      "name": "Prisa Media (Diario AS)",
+      "domain": "as.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "bbc-co-uk",
       "name": "British Broadcasting Corporation",
       "domain": "bbc.co.uk",
@@ -10480,6 +8541,131 @@
         "robots_ai": "blocks_ai_user_agents",
         "urls": [
           "https://www.bbc.com/pages/terms-of-use"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "beinsports-com",
+      "name": "beIN Media Group",
+      "domain": "beinsports.com",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.beinsports.com/fr-fr/info/articles/mentions-l%C3%A9gales-2023-05-30"
+        ]
+      },
+      "source": "open-web",
+      "probe": "https://beinsports.com/"
+    },
+    {
+      "id": "bfi-org-uk",
+      "name": "British Film Institute",
+      "domain": "bfi.org.uk",
+      "category": "news",
+      "region": "uk",
+      "access": "subscription",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "BFI Player; BFI Collections; BFI Filmography; BFI Player (British Film Institute); Free films on BFI Player",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "recognized",
+        "max_libraries": 8,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.bfi.org.uk/terms-use"
+        ]
+      },
+      "source": "open-web",
+      "probe": "https://bfi.org.uk/"
+    },
+    {
+      "id": "billboard-com",
+      "name": "Penske Media Corporation",
+      "domain": "billboard.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://billboard.com/"
+    },
+    {
+      "id": "bleacherreport-com",
+      "name": "Warner Bros. Discovery (Bleacher Report)",
+      "domain": "bleacherreport.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": [
+          "https://bleacherreport.com/pages/terms"
         ]
       },
       "source": "open-web"
@@ -10605,6 +8791,66 @@
       "probe": "https://businessweek.com/"
     },
     {
+      "id": "bustle-com",
+      "name": "Bustle Digital Group",
+      "domain": "bustle.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "buzzfeed-com",
+      "name": "BuzzFeed Inc.",
+      "domain": "buzzfeed.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": [
+          "https://www.buzzfeed.com/about/useragreement"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
       "id": "cbc-ca",
       "name": "Canadian Broadcasting Corporation / Radio-Canada (public-service broadcaster)",
       "domain": "cbc.ca",
@@ -10652,6 +8898,35 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 20,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "cbssports-com",
+      "name": "Paramount Skydance (CBS Sports)",
+      "domain": "cbssports.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
         "guide_libraries": 0
       },
       "terms": {
@@ -10811,6 +9086,35 @@
       "probe": "https://cnn.com/"
     },
     {
+      "id": "complex-com",
+      "name": "Complex Networks (NTWRK)",
+      "domain": "complex.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "corriere-it",
       "name": "RCS MediaGroup (Corriere della Sera)",
       "domain": "corriere.it",
@@ -10927,6 +9231,36 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "deadline-com",
+      "name": "Penske Media Corporation",
+      "domain": "deadline.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://deadline.com/"
     },
     {
       "id": "dw-com",
@@ -11047,6 +9381,126 @@
       "probe": "https://elpais.com/"
     },
     {
+      "id": "espn-co-uk",
+      "name": "ESPN Inc. (Disney/Hearst)",
+      "domain": "espn.co.uk",
+      "category": "news",
+      "region": "uk",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://espn.co.uk/"
+    },
+    {
+      "id": "espn-com",
+      "name": "ESPN Inc. (Disney/Hearst)",
+      "domain": "espn.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://espn.com/"
+    },
+    {
+      "id": "espnfc-com",
+      "name": "ESPN Inc. (Disney/Hearst)",
+      "domain": "espnfc.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://espnfc.com/"
+    },
+    {
+      "id": "esquire-com",
+      "name": "Hearst Magazines",
+      "domain": "esquire.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://esquire.com/"
+    },
+    {
       "id": "euronews-com",
       "name": "Euronews S.A. (Alpac Capital)",
       "domain": "euronews.com",
@@ -11074,6 +9528,65 @@
         "urls": [
           "https://www.euronews.com/terms-and-conditions"
         ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "eurosport-com",
+      "name": "Warner Bros. Discovery (Eurosport)",
+      "domain": "eurosport.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://eurosport.com/"
+    },
+    {
+      "id": "ew-com",
+      "name": "Dotdash Meredith (People Inc.)",
+      "domain": "ew.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
       },
       "source": "open-web"
     },
@@ -11167,6 +9680,95 @@
       },
       "source": "open-web",
       "probe": "https://faz.net/"
+    },
+    {
+      "id": "fcbarcelona-com",
+      "name": "FC Barcelona (member-owned sports association)",
+      "domain": "fcbarcelona.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "fifa-com",
+      "name": "FIFA (Fédération Internationale de Football Association)",
+      "domain": "fifa.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://inside.fifa.com/terms-of-service"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "fifa-org",
+      "name": "FIFA (Fédération Internationale de Football Association)",
+      "domain": "fifa.org",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "unknown",
+        "urls": []
+      },
+      "source": "open-web"
     },
     {
       "id": "forbes-com",
@@ -11290,6 +9892,35 @@
       "source": "open-web"
     },
     {
+      "id": "fourfourtwo-com",
+      "name": "Future plc",
+      "domain": "fourfourtwo.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "foxbusiness-com",
       "name": "Fox Corporation",
       "domain": "foxbusiness.com",
@@ -11352,6 +9983,66 @@
       "source": "open-web"
     },
     {
+      "id": "foxsports-com",
+      "name": "Fox Corporation (Fox Sports)",
+      "domain": "foxsports.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "permitted",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.foxsports.com/terms-of-use"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "fpf-pt",
+      "name": "Federação Portuguesa de Futebol",
+      "domain": "fpf.pt",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "france24-com",
       "name": "France Médias Monde (French public-service broadcaster)",
       "domain": "france24.com",
@@ -11376,6 +10067,65 @@
         "automated_access": "unknown",
         "ai_tdm": "reserved",
         "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "gazzetta-it",
+      "name": "RCS MediaGroup (La Gazzetta dello Sport)",
+      "domain": "gazzetta.it",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "reserved",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://gazzetta.it/"
+    },
+    {
+      "id": "givemesport-com",
+      "name": "GiveMeSport Ltd (Sports Illustrated Media)",
+      "domain": "givemesport.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -11440,6 +10190,95 @@
       },
       "source": "open-web",
       "probe": "https://globo.com/"
+    },
+    {
+      "id": "go-com",
+      "name": "The Walt Disney Company",
+      "domain": "go.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "goal-com",
+      "name": "Perform Group / DAZN Group",
+      "domain": "goal.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "grammy-com",
+      "name": "Recording Academy",
+      "domain": "grammy.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "permitted",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.grammy.com/legal/"
+        ]
+      },
+      "source": "open-web"
     },
     {
       "id": "guardian-co-uk",
@@ -11532,6 +10371,36 @@
       "probe": "https://hindustantimes.com/"
     },
     {
+      "id": "hollywoodreporter-com",
+      "name": "Penske Media Corporation",
+      "domain": "hollywoodreporter.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://hollywoodreporter.com/"
+    },
+    {
       "id": "huffingtonpost-com",
       "name": "BuzzFeed Inc. (HuffPost)",
       "domain": "huffingtonpost.com",
@@ -11619,6 +10488,64 @@
         "urls": [
           "https://www.ibtimes.com/terms"
         ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "iffhs-com",
+      "name": "IFFHS (International Federation of Football History & Statistics)",
+      "domain": "iffhs.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "ign-com",
+      "name": "Ziff Davis",
+      "domain": "ign.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
       },
       "source": "open-web"
     },
@@ -11928,6 +10855,36 @@
       "probe": "https://lemonde.fr/"
     },
     {
+      "id": "lequipe-fr",
+      "name": "Groupe Amaury (L'Équipe)",
+      "domain": "lequipe.fr",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://lequipe.fr/"
+    },
+    {
       "id": "manchestereveningnews-co-uk",
       "name": "Reach plc",
       "domain": "manchestereveningnews.co.uk",
@@ -11955,6 +10912,95 @@
         "urls": [
           "https://www.manchestereveningnews.co.uk/terms-conditions/"
         ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "mancity-com",
+      "name": "Manchester City FC (City Football Group)",
+      "domain": "mancity.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "manutd-com",
+      "name": "Manchester United plc",
+      "domain": "manutd.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "allowed",
+      "automation_letter": "allowed",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.manutd.com/en/help/website-terms-of-use"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "marca-com",
+      "name": "Unidad Editorial (RCS MediaGroup)",
+      "domain": "marca.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
       },
       "source": "open-web"
     },
@@ -12080,6 +11126,66 @@
       "source": "open-web"
     },
     {
+      "id": "mlssoccer-com",
+      "name": "Major League Soccer",
+      "domain": "mlssoccer.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.mlssoccer.com/legal/terms-of-service"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "moldefk-no",
+      "name": "Molde Fotballklubb",
+      "domain": "moldefk.no",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "motherjones-com",
       "name": "Foundation for National Progress (Mother Jones)",
       "domain": "motherjones.com",
@@ -12104,6 +11210,64 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "mtv-com",
+      "name": "Paramount Skydance (MTV)",
+      "domain": "mtv.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "mundodeportivo-com",
+      "name": "Grupo Godó",
+      "domain": "mundodeportivo.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -12194,6 +11358,36 @@
         "urls": []
       },
       "source": "open-web"
+    },
+    {
+      "id": "netflix-com",
+      "name": "Netflix Inc.",
+      "domain": "netflix.com",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_all_bots",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://netflix.com/"
     },
     {
       "id": "news-com-au",
@@ -12318,6 +11512,35 @@
       "probe": "https://newyorker.com/"
     },
     {
+      "id": "nme-com",
+      "name": "BandLab Technologies (NME)",
+      "domain": "nme.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "npr-org",
       "name": "National Public Radio",
       "domain": "npr.org",
@@ -12337,6 +11560,35 @@
         "tier": "open-web",
         "wikipedia_languages": 20,
         "guide_libraries": 3
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "nrk-no",
+      "name": "NRK",
+      "domain": "nrk.no",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "NRK",
+      "owner_type": "government",
+      "library_consensus": {
+        "tier": "local",
+        "max_libraries": 1,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
       },
       "terms": {
         "automated_access": "unknown",
@@ -12466,6 +11718,64 @@
       "source": "open-web"
     },
     {
+      "id": "olympic-org",
+      "name": "International Olympic Committee",
+      "domain": "olympic.org",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "unknown",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "onefootball-com",
+      "name": "OneFootball GmbH",
+      "domain": "onefootball.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "palmbeachpost-com",
       "name": "Gannett (USA TODAY Network)",
       "domain": "palmbeachpost.com",
@@ -12527,6 +11837,65 @@
       "source": "open-web"
     },
     {
+      "id": "people-com",
+      "name": "Dotdash Meredith (People Inc.)",
+      "domain": "people.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "pitchfork-com",
+      "name": "Condé Nast",
+      "domain": "pitchfork.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://pitchfork.com/"
+    },
+    {
       "id": "politifact-com",
       "name": "Poynter Institute",
       "domain": "politifact.com",
@@ -12553,6 +11922,99 @@
         "robots_ai": "no_ai_rules",
         "urls": [
           "https://politifact.com/copyright/"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "premierleague-com",
+      "name": "The Football Association Premier League Ltd",
+      "domain": "premierleague.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "allowed",
+      "automation_letter": "allowed",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.premierleague.com/en/terms-and-conditions"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "psg-fr",
+      "name": "Paris Saint-Germain (Qatar Sports Investments)",
+      "domain": "psg.fr",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "training_prohibited",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.psg.fr/en/legal-notice"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "realmadrid-com",
+      "name": "Real Madrid C.F. (member-owned sports association)",
+      "domain": "realmadrid.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "allowed",
+      "automation_letter": "allowed",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.realmadrid.com/es-ES/legal/aviso-legal"
         ]
       },
       "source": "open-web"
@@ -12649,6 +12111,96 @@
       "source": "open-web"
     },
     {
+      "id": "rollingstone-com",
+      "name": "Penske Media Corporation",
+      "domain": "rollingstone.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 20,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://rollingstone.com/"
+    },
+    {
+      "id": "rottentomatoes-com",
+      "name": "Fandango (NBCUniversal / Versant)",
+      "domain": "rottentomatoes.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "allowed",
+      "automation_letter": "allowed",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.rottentomatoes.com/policies/terms-and-policies"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "rsssf-com",
+      "name": "Rec.Sport.Soccer Statistics Foundation",
+      "domain": "rsssf.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
       "id": "salon-com",
       "name": "Salon Media Group",
       "domain": "salon.com",
@@ -12740,6 +12292,36 @@
       "source": "open-web"
     },
     {
+      "id": "si-com",
+      "name": "Minute Media (Sports Illustrated)",
+      "domain": "si.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://si.com/"
+    },
+    {
       "id": "sky-com",
       "name": "Sky Group (Comcast)",
       "domain": "sky.com",
@@ -12764,6 +12346,35 @@
         "automated_access": "unknown",
         "ai_tdm": "unknown",
         "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "skysports-com",
+      "name": "Sky Group (Comcast)",
+      "domain": "skysports.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_crawlers",
         "urls": []
       },
       "source": "open-web"
@@ -12861,6 +12472,37 @@
       "probe": "https://smithsonianmag.com/"
     },
     {
+      "id": "soccerway-com",
+      "name": "Perform Group (DAZN)",
+      "domain": "soccerway.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 18,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": [
+          "https://www.soccerway.com/terms-of-use/"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
       "id": "spiegel-de",
       "name": "Der SPIEGEL GmbH & Co. KG",
       "domain": "spiegel.de",
@@ -12889,6 +12531,64 @@
       },
       "source": "open-web",
       "probe": "https://spiegel.de/"
+    },
+    {
+      "id": "sport-es",
+      "name": "Grupo Zeta / Prensa Ibérica",
+      "domain": "sport.es",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "sportingnews-com",
+      "name": "Sporting News Media",
+      "domain": "sportingnews.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
     },
     {
       "id": "standard-co-uk",
@@ -13011,6 +12711,36 @@
       "probe": "https://theage.com.au/"
     },
     {
+      "id": "theathletic-com",
+      "name": "The New York Times Company (The Athletic)",
+      "domain": "theathletic.com",
+      "category": "news",
+      "region": "global",
+      "access": "subscription",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://theathletic.com/"
+    },
+    {
       "id": "theatlantic-com",
       "name": "The Atlantic",
       "domain": "theatlantic.com",
@@ -13059,6 +12789,35 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 17,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "thecut-com",
+      "name": "Vox Media",
+      "domain": "thecut.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
         "guide_libraries": 0
       },
       "terms": {
@@ -13522,6 +13281,97 @@
       "probe": "https://timesonline.co.uk/"
     },
     {
+      "id": "today-com",
+      "name": "NBCUniversal (Comcast)",
+      "domain": "today.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "silent",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": [
+          "https://www.today.com/start-today/app/supplemental-terms"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "townandcountrymag-com",
+      "name": "Hearst Magazines",
+      "domain": "townandcountrymag.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "no_ai_rules",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "uefa-com",
+      "name": "Union of European Football Associations (UEFA)",
+      "domain": "uefa.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "nonprofit",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "prohibited",
+        "ai_tdm": "training_prohibited",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.uefa.com/termsconditions/"
+        ]
+      },
+      "source": "open-web"
+    },
+    {
       "id": "upi-com",
       "name": "United Press International",
       "domain": "upi.com",
@@ -13611,6 +13461,36 @@
       },
       "source": "open-web",
       "probe": "https://usnews.com/"
+    },
+    {
+      "id": "vanityfair-com",
+      "name": "Condé Nast",
+      "domain": "vanityfair.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 19,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://vanityfair.com/"
     },
     {
       "id": "variety-com",
@@ -13723,6 +13603,35 @@
       "open_web": {
         "tier": "open-web",
         "wikipedia_languages": 20,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "vulture-com",
+      "name": "Vox Media",
+      "domain": "vulture.com",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
         "guide_libraries": 0
       },
       "terms": {
@@ -13853,6 +13762,67 @@
       },
       "source": "open-web",
       "probe": "https://wired.com/"
+    },
+    {
+      "id": "worldfootball-net",
+      "name": "HEIM:SPIEL Medien GmbH",
+      "domain": "worldfootball.net",
+      "category": "news",
+      "region": "global",
+      "access": "free",
+      "automation": "manual-only",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 15,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_ai_user_agents",
+        "urls": []
+      },
+      "source": "open-web"
+    },
+    {
+      "id": "worldsoccer-com",
+      "name": "World Soccer (Future plc)",
+      "domain": "worldsoccer.com",
+      "category": "news",
+      "region": "global",
+      "access": "account",
+      "automation": "human-pace",
+      "automation_letter": "human-pace",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 16,
+        "guide_libraries": 0
+      },
+      "terms": {
+        "automated_access": "silent",
+        "ai_tdm": "silent",
+        "robots_ai": "no_ai_rules",
+        "urls": [
+          "https://www.worldsoccer.com/terms-and-conditions"
+        ]
+      },
+      "source": "open-web",
+      "probe": "https://worldsoccer.com/"
     },
     {
       "id": "wsj-com",
@@ -14123,6 +14093,36 @@
       },
       "source": "open-web",
       "probe": "https://medium.com/"
+    },
+    {
+      "id": "twitter-com",
+      "name": "X Corp.",
+      "domain": "twitter.com",
+      "category": "social",
+      "region": "global",
+      "access": "account",
+      "automation": "manual-only",
+      "automation_letter": "manual-only",
+      "useful_for": "open-web source",
+      "owner_type": "commercial",
+      "library_consensus": {
+        "tier": "none",
+        "max_libraries": 0,
+        "of": 119
+      },
+      "open_web": {
+        "tier": "open-web",
+        "wikipedia_languages": 20,
+        "guide_libraries": 8
+      },
+      "terms": {
+        "automated_access": "unknown",
+        "ai_tdm": "unknown",
+        "robots_ai": "blocks_all_bots",
+        "urls": []
+      },
+      "source": "open-web",
+      "probe": "https://twitter.com/"
     },
     {
       "id": "x-com",
